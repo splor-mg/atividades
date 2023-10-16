@@ -4,128 +4,39 @@
 #
 #    pip-compile
 #
-annotated-types==0.6.0
-    # via pydantic
-attrs==23.1.0
-    # via
-    #   frictionless
-    #   jsonschema
 certifi==2023.7.22
     # via requests
 cffi==1.16.0
     # via
     #   cryptography
     #   pynacl
-chardet==5.2.0
-    # via frictionless
 charset-normalizer==3.3.0
     # via requests
-click==8.1.7
-    # via typer
-colorama==0.4.6
-    # via typer
 cryptography==41.0.4
     # via pyjwt
 deprecated==1.2.14
     # via pygithub
-et-xmlfile==1.1.0
-    # via openpyxl
-frictionless[excel]==5.16.0
-    # via -r requirements.in
-humanize==4.8.0
-    # via frictionless
 idna==3.4
     # via requests
-isodate==0.6.1
-    # via frictionless
-jinja2==3.1.2
-    # via frictionless
-jsonschema==4.17.3
-    # via
-    #   frictionless
-    #   tableschema-to-template
-markdown-it-py==3.0.0
-    # via rich
-marko==2.0.0
-    # via frictionless
-markupsafe==2.1.3
-    # via jinja2
-mdurl==0.1.2
-    # via markdown-it-py
-openpyxl==3.1.2
-    # via frictionless
-petl==1.7.14
-    # via frictionless
 pycparser==2.21
     # via cffi
-pydantic==2.4.2
-    # via frictionless
-pydantic-core==2.10.1
-    # via pydantic
 pygithub==2.1.1
     # via -r requirements.in
-pygments==2.16.1
-    # via rich
 pyjwt[crypto]==2.8.0
     # via pygithub
 pynacl==1.5.0
     # via pygithub
-pyrsistent==0.19.3
-    # via jsonschema
 python-dateutil==2.8.2
-    # via
-    #   frictionless
-    #   pygithub
-python-slugify==8.0.1
-    # via frictionless
-pyyaml==6.0.1
-    # via
-    #   frictionless
-    #   tableschema-to-template
+    # via pygithub
 requests==2.31.0
-    # via
-    #   frictionless
-    #   pygithub
-rfc3986==2.0.0
-    # via frictionless
-rich==13.6.0
-    # via typer
-shellingham==1.5.3
-    # via typer
-simpleeval==0.9.13
-    # via frictionless
+    # via pygithub
 six==1.16.0
-    # via
-    #   isodate
-    #   python-dateutil
-stringcase==1.2.0
-    # via frictionless
-tableschema-to-template==0.0.13
-    # via frictionless
-tabulate==0.9.0
-    # via frictionless
-text-unidecode==1.3
-    # via python-slugify
-typer[all]==0.9.0
-    # via frictionless
+    # via python-dateutil
 typing-extensions==4.8.0
-    # via
-    #   frictionless
-    #   pydantic
-    #   pydantic-core
-    #   pygithub
-    #   typer
+    # via pygithub
 urllib3==2.0.6
     # via
     #   pygithub
     #   requests
-validators==0.22.0
-    # via frictionless
 wrapt==1.15.0
     # via deprecated
-xlrd==2.0.1
-    # via frictionless
-xlsxwriter==3.1.8
-    # via tableschema-to-template
-xlwt==1.3.0
-    # via frictionless
