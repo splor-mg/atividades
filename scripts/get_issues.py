@@ -5,8 +5,8 @@ from github import Auth, Github
 
 logger = logging.getLogger(__name__)
 
-def read_issues(repo):
-    issues = repo.get_issues()
+def read_issues(repo, state):
+    issues = repo.get_issues(state = state)
     total_count = issues.totalCount
     result = []
     for issue in issues:
@@ -36,7 +36,7 @@ org = g.get_organization('splor-mg')
 repos = org.get_repos()
 result = []
 for repo in repos:
-    data = read_issues(repo)
+    data = read_issues(repo, state='all')
     result.extend(data)
 
 with open('atividades.json', 'w') as fs:
