@@ -2,6 +2,23 @@
     "issues": [
         {
             "repo": "splor-mg/atividades",
+            "issue": 81,
+            "title": "Criar data package com monitoramento do sigplan",
+            "pull_request": false,
+            "created_at": "18/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231018T191651",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 80,
             "title": "Compilar estatísticas para monitoramento dos issues",
             "pull_request": false,
@@ -972,14 +989,12 @@
             "created_at": "10/04/2023",
             "created_at_year": 2023,
             "created_at_month": 4,
-            "updated_at": "20231003T190635",
+            "updated_at": "20231018T180006",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "hslinhares",
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1275,6 +1290,21 @@
             "created_at_year": 2023,
             "created_at_month": 9,
             "updated_at": "20230927T235410",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 18,
+            "title": "Inserir documentação sobre data packages que extraem arquivos do gmail",
+            "pull_request": false,
+            "created_at": "18/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231018T185253",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2981,7 +3011,7 @@
             "created_at": "22/06/2023",
             "created_at_year": 2023,
             "created_at_month": 6,
-            "updated_at": "20230904T221622",
+            "updated_at": "20231018T191408",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
