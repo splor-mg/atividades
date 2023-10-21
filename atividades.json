@@ -389,7 +389,7 @@
             "created_at": "27/06/2023",
             "created_at_year": 2023,
             "created_at_month": 6,
-            "updated_at": "20230906T181812",
+            "updated_at": "20231020T194331",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -1572,13 +1572,30 @@
         },
         {
             "repo": "splor-mg/dpm",
+            "issue": 48,
+            "title": "Instalação da dependência incorreta do typer",
+            "pull_request": false,
+            "created_at": "20/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231020T204852",
+            "closed_at": "20/10/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpm",
             "issue": 47,
             "title": "Implementa dpm load",
             "pull_request": true,
             "created_at": "17/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231017T235753",
+            "updated_at": "20231020T204847",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2800,6 +2817,21 @@
             "closed_at": "23/03/2023",
             "closed_at_year": 2023,
             "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/notas",
+            "issue": 27,
+            "title": "Reproduzir mapas dos relatórios institucionais de monitoramento",
+            "pull_request": false,
+            "created_at": "20/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231020T191824",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": null
         },
@@ -4194,6 +4226,21 @@
         },
         {
             "repo": "splor-mg/spreadmart",
+            "issue": 6,
+            "title": "Design inicial datamart",
+            "pull_request": true,
+            "created_at": "20/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231020T210432",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/spreadmart",
             "issue": 4,
             "title": "POC das alternativas para hospedagem de data packages onlines",
             "pull_request": false,
@@ -4230,12 +4277,14 @@
             "created_at": "18/04/2023",
             "created_at_year": 2023,
             "created_at_month": 4,
-            "updated_at": "20230816T143842",
+            "updated_at": "20231020T211219",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "fjuniorr",
+            "labels": [
+                "status:review"
+            ]
         },
         {
             "repo": "splor-mg/spreadmart",
