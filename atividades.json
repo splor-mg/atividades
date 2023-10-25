@@ -1034,10 +1034,10 @@
             "created_at": "10/04/2023",
             "created_at_year": 2023,
             "created_at_month": 4,
-            "updated_at": "20230529T195330",
-            "closed_at": "29/05/2023",
+            "updated_at": "20231024T222203",
+            "closed_at": "24/10/2023",
             "closed_at_year": 2023,
-            "closed_at_month": 5,
+            "closed_at_month": 10,
             "assignee": "hslinhares",
             "labels": null
         },
@@ -1569,6 +1569,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 50,
+            "title": "Desabilitar typer pretty_exceptions_show_locals",
+            "pull_request": false,
+            "created_at": "24/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231024T223110",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/dpm",
@@ -2862,7 +2879,7 @@
             "created_at": "20/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231020T191824",
+            "updated_at": "20231024T114945",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -3167,7 +3184,7 @@
             "created_at": "18/04/2023",
             "created_at_year": 2023,
             "created_at_month": 4,
-            "updated_at": "20231023T194750",
+            "updated_at": "20231024T222137",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4257,6 +4274,23 @@
             "closed_at_month": 9,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/spreadmart",
+            "issue": 9,
+            "title": "ERROR: compilation failed for package 'rlang' - c:/rtools40/mingw32/bin/gcc: No such file or directory",
+            "pull_request": false,
+            "created_at": "24/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231024T143906",
+            "closed_at": "24/10/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 10,
+            "assignee": "hslinhares",
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/spreadmart",
