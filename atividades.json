@@ -3,12 +3,12 @@
         {
             "repo": "splor-mg/atividades",
             "issue": 81,
-            "title": "Criar data package com monitoramento do sigplan",
+            "title": "Criar data package com bases do monitoramento sigplan",
             "pull_request": false,
             "created_at": "18/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231018T191651",
+            "updated_at": "20231025T195302",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -1298,6 +1298,21 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 19,
+            "title": "Check requirements",
+            "pull_request": true,
+            "created_at": "25/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231025T185831",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 18,
             "title": "Inserir documentação sobre data packages que extraem arquivos do gmail",
             "pull_request": false,
@@ -1349,13 +1364,13 @@
             "created_at": "25/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20231016T125416",
+            "updated_at": "20231025T194353",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "labanca",
             "labels": [
-                "status:next"
+                "status:review"
             ]
         },
         {
@@ -1572,6 +1587,21 @@
         },
         {
             "repo": "splor-mg/dpm",
+            "issue": 51,
+            "title": "Usar \"array of tables\" em data.toml",
+            "pull_request": false,
+            "created_at": "25/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231025T204829",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
             "issue": 50,
             "title": "Desabilitar typer pretty_exceptions_show_locals",
             "pull_request": false,
@@ -1595,11 +1625,11 @@
             "created_at": "23/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231023T173945",
+            "updated_at": "20231025T205234",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
+            "assignee": null,
             "labels": [
                 "enhancement"
             ]
@@ -1962,12 +1992,12 @@
         {
             "repo": "splor-mg/dpm",
             "issue": 24,
-            "title": "Incluir criação e atualização de lockfile para dpm install",
+            "title": "Incluir criação e atualização de lockfile data.lock para dpm install",
             "pull_request": false,
             "created_at": "11/08/2023",
             "created_at_year": 2023,
             "created_at_month": 8,
-            "updated_at": "20231017T105709",
+            "updated_at": "20231025T205641",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2909,7 +2939,7 @@
             "created_at": "12/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20230925T171533",
+            "updated_at": "20231025T173814",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4315,10 +4345,10 @@
             "created_at": "23/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231023T143556",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20231025T194011",
+            "closed_at": "25/10/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 10,
             "assignee": "fjuniorr",
             "labels": null
         },
@@ -4330,7 +4360,7 @@
             "created_at": "20/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231023T144019",
+            "updated_at": "20231025T174939",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4375,14 +4405,12 @@
             "created_at": "18/04/2023",
             "created_at_year": 2023,
             "created_at_month": 4,
-            "updated_at": "20231020T211219",
+            "updated_at": "20231025T194601",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "fjuniorr",
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/spreadmart",
