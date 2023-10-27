@@ -2,6 +2,21 @@
     "issues": [
         {
             "repo": "splor-mg/atividades",
+            "issue": 82,
+            "title": "atualização de tabelas auxiliares do relatorio operacional",
+            "pull_request": false,
+            "created_at": "26/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231026T144326",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 81,
             "title": "Criar data package com bases do monitoramento sigplan",
             "pull_request": false,
@@ -1304,7 +1319,7 @@
             "created_at": "25/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231025T185831",
+            "updated_at": "20231026T173920",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -1364,14 +1379,12 @@
             "created_at": "25/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20231025T194353",
+            "updated_at": "20231026T143719",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "labanca",
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
