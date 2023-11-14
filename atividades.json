@@ -2,6 +2,21 @@
     "issues": [
         {
             "repo": "splor-mg/atividades",
+            "issue": 85,
+            "title": "Conferência do monitoramento do 4° bimestre SIGPLAN",
+            "pull_request": false,
+            "created_at": "13/11/2023",
+            "created_at_year": 2023,
+            "created_at_month": 11,
+            "updated_at": "20231113T174228",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 84,
             "title": "Acrescentar propriedade bigint nos data packages já criados",
             "pull_request": false,
