@@ -23,7 +23,7 @@
             "created_at": "10/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20231110T162253",
+            "updated_at": "20231122T125844",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -70,7 +70,7 @@
             "created_at": "18/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231025T195302",
+            "updated_at": "20231122T172438",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2646,12 +2646,14 @@
             "created_at": "25/05/2023",
             "created_at_year": 2023,
             "created_at_month": 5,
-            "updated_at": "20230525T144933",
+            "updated_at": "20231122T131040",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -2986,6 +2988,21 @@
             "closed_at": "23/03/2023",
             "closed_at_year": 2023,
             "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/notas",
+            "issue": 29,
+            "title": "Armazenamento do código das classificações como inteiro ou string",
+            "pull_request": false,
+            "created_at": "22/11/2023",
+            "created_at_year": 2023,
+            "created_at_month": 11,
+            "updated_at": "20231122T153848",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": null
         },
