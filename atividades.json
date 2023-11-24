@@ -23,12 +23,13 @@
             "created_at": "10/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20231122T125844",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20231123T170321",
+            "closed_at": "23/11/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
+                "wontfix",
                 "status:next"
             ]
         },
@@ -70,7 +71,7 @@
             "created_at": "18/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231122T172438",
+            "updated_at": "20231123T213950",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -1658,6 +1659,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 54,
+            "title": "Criar todos campos `integer` como `bigint` no dpm load",
+            "pull_request": false,
+            "created_at": "23/11/2023",
+            "created_at_year": 2023,
+            "created_at_month": 11,
+            "updated_at": "20231123T170233",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
             "labels": null
         },
         {
@@ -4319,6 +4335,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/sigplan-monitoramento-dados",
+            "issue": 1,
+            "title": "Bases do monitoramento possuem coluna extra no final do arquivo txt",
+            "pull_request": false,
+            "created_at": "23/11/2023",
+            "created_at_year": 2023,
+            "created_at_month": 11,
+            "updated_at": "20231123T172136",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:waiting"
+            ]
         },
         {
             "repo": "splor-mg/sisor-dados",
