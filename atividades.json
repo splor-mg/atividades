@@ -41,7 +41,7 @@
             "created_at": "10/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20231110T133950",
+            "updated_at": "20231127T120617",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -1301,6 +1301,23 @@
         },
         {
             "repo": "splor-mg/checks-loa-ppag",
+            "issue": 5,
+            "title": "Verificar se cada programa possui apenas uma área temática. É obrigatório a existência de uma área por programa",
+            "pull_request": false,
+            "created_at": "27/11/2023",
+            "created_at_year": 2023,
+            "created_at_month": 11,
+            "updated_at": "20231127T124349",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "check"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-loa-ppag",
             "issue": 4,
             "title": "Conceber arquitetura em que os checks possam ser executados tanto sob demanda quanto durante a geração dos volumes",
             "pull_request": false,
@@ -1669,10 +1686,10 @@
             "created_at": "23/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20231123T170233",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20231127T112431",
+            "closed_at": "27/11/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 11,
             "assignee": "fjuniorr",
             "labels": null
         },
