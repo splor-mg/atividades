@@ -133,11 +133,11 @@
             "created_at": "04/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20230904T143709",
+            "updated_at": "20231129T214856",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "hslinhares",
             "labels": null
         },
         {
@@ -1395,6 +1395,40 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 22,
+            "title": "Inserir documentação sobre repositórios upstream",
+            "pull_request": false,
+            "created_at": "29/11/2023",
+            "created_at_year": 2023,
+            "created_at_month": 11,
+            "updated_at": "20231129T213832",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 21,
+            "title": "Inserir documentação sobre configuração inicial do github actions",
+            "pull_request": false,
+            "created_at": "29/11/2023",
+            "created_at_year": 2023,
+            "created_at_month": 11,
+            "updated_at": "20231129T213802",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 20,
             "title": "Adicionar pasta `__pycache__` ao `.gitignore`",
             "pull_request": false,
@@ -1431,12 +1465,14 @@
             "created_at": "18/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231018T185253",
+            "updated_at": "20231129T213727",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -4493,6 +4529,55 @@
             "closed_at_month": 9,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/spreadmart",
+            "issue": 15,
+            "title": "Simular inclusão de CRITERIO_OBZ_DCMEFO e remapeamento de unidades orçamentárias",
+            "pull_request": false,
+            "created_at": "29/11/2023",
+            "created_at_year": 2023,
+            "created_at_month": 11,
+            "updated_at": "20231129T210042",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/spreadmart",
+            "issue": 14,
+            "title": "Otimizar processo de inserção de novas bases de dados na link table",
+            "pull_request": false,
+            "created_at": "29/11/2023",
+            "created_at_year": 2023,
+            "created_at_month": 11,
+            "updated_at": "20231129T193013",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/spreadmart",
+            "issue": 13,
+            "title": "Gerar hashes das bases da linktable no datapackage.json",
+            "pull_request": false,
+            "created_at": "29/11/2023",
+            "created_at_year": 2023,
+            "created_at_month": 11,
+            "updated_at": "20231129T183348",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/spreadmart",
