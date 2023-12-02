@@ -2,6 +2,21 @@
     "issues": [
         {
             "repo": "splor-mg/atividades",
+            "issue": 86,
+            "title": "Normalizar prefixo para colunas que representam valores monetários",
+            "pull_request": false,
+            "created_at": "01/12/2023",
+            "created_at_year": 2023,
+            "created_at_month": 12,
+            "updated_at": "20231201T173419",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 85,
             "title": "Conferência do monitoramento do 4° bimestre SIGPLAN",
             "pull_request": false,
@@ -1301,6 +1316,23 @@
         },
         {
             "repo": "splor-mg/checks-loa-ppag",
+            "issue": 7,
+            "title": "Verificar se as bases do PPAG (Sigplan) estão compatíveis com as bases do Orçamento (Sisor)",
+            "pull_request": false,
+            "created_at": "01/12/2023",
+            "created_at_year": 2023,
+            "created_at_month": 12,
+            "updated_at": "20231201T120334",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "check"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-loa-ppag",
             "issue": 6,
             "title": "Definição do nível de verbosidade dos relatórios",
             "pull_request": false,
@@ -1704,16 +1736,16 @@
         {
             "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 2,
-            "title": "Utilizar nomes de colunas compatíveis com o pacote `execucao`",
+            "title": "Utilizar nomes de colunas compatíveis com pacote `execucao` porém em caixa baixa",
             "pull_request": false,
             "created_at": "20/07/2023",
             "created_at_year": 2023,
             "created_at_month": 7,
-            "updated_at": "20231017T214918",
+            "updated_at": "20231201T160930",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "fjuniorr",
             "labels": null
         },
         {
