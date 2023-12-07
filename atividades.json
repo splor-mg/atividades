@@ -1765,6 +1765,21 @@
         },
         {
             "repo": "splor-mg/dpm",
+            "issue": 56,
+            "title": "Adicionar dependências do `dpm load` como dependências opcionais",
+            "pull_request": false,
+            "created_at": "06/12/2023",
+            "created_at_year": 2023,
+            "created_at_month": 12,
+            "updated_at": "20231206T134111",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
             "issue": 55,
             "title": "Adicionar comando para geração de dicionário de dados do data package",
             "pull_request": false,
