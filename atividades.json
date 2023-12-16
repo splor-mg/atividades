@@ -2,6 +2,23 @@
     "issues": [
         {
             "repo": "splor-mg/atividades",
+            "issue": 89,
+            "title": "Testar execução do `dpm install` no servidor qlikview",
+            "pull_request": false,
+            "created_at": "15/12/2023",
+            "created_at_year": 2023,
+            "created_at_month": 12,
+            "updated_at": "20231215T190100",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": [
+                "status:later"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 88,
             "title": "snipet do código",
             "pull_request": false,
@@ -1346,6 +1363,23 @@
         },
         {
             "repo": "splor-mg/checks-loa-ppag",
+            "issue": 10,
+            "title": "Verificar em TODAS as colunas de TODAS as bases se os campos que começam com “-“ (hífen) trouxeram todos os dados do sistema.",
+            "pull_request": false,
+            "created_at": "15/12/2023",
+            "created_at_year": 2023,
+            "created_at_month": 12,
+            "updated_at": "20231215T124813",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "check"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-loa-ppag",
             "issue": 9,
             "title": "Verificar se cada programa possui pelo menos algum ODS",
             "pull_request": false,
@@ -1497,13 +1531,13 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231214T132618",
+            "updated_at": "20231215T160609",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "status:next"
+                "status:later"
             ]
         },
         {
@@ -1514,13 +1548,13 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231214T132631",
+            "updated_at": "20231215T160624",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "status:next"
+                "status:later"
             ]
         },
         {
@@ -1578,7 +1612,7 @@
             "created_at": "29/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20231205T130650",
+            "updated_at": "20231215T155324",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -1687,13 +1721,13 @@
             "created_at": "25/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20230925T174103",
+            "updated_at": "20231215T184812",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "status:next"
+                "status:later"
             ]
         },
         {
@@ -1914,7 +1948,7 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231214T215338",
+            "updated_at": "20231215T122057",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -1956,12 +1990,12 @@
         {
             "repo": "splor-mg/dpm",
             "issue": 55,
-            "title": "Adicionar comando para geração de dicionário de dados do data package",
+            "title": "Implementar `dpm docs` para geração de dicionário de dados do data package",
             "pull_request": false,
             "created_at": "04/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231211T140905",
+            "updated_at": "20231215T120420",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2036,13 +2070,13 @@
             "created_at": "24/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231024T223110",
+            "updated_at": "20231215T160808",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "status:next"
+                "status:later"
             ]
         },
         {
@@ -2969,14 +3003,12 @@
             "created_at": "25/05/2023",
             "created_at_year": 2023,
             "created_at_month": 5,
-            "updated_at": "20231122T131040",
+            "updated_at": "20231215T160529",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -2992,6 +3024,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 22,
+            "title": "Incluir alterações da Portaria STN/MF Nº 1.561/2023",
+            "pull_request": false,
+            "created_at": "15/12/2023",
+            "created_at_year": 2023,
+            "created_at_month": 12,
+            "updated_at": "20231215T144739",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
