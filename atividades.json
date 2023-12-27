@@ -1362,7 +1362,24 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/checks-loa-ppag",
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 14,
+            "title": "Ordenar colunas para facilitar identificação do problema",
+            "pull_request": false,
+            "created_at": "26/12/2023",
+            "created_at_year": 2023,
+            "created_at_month": 12,
+            "updated_at": "20231226T185704",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 13,
             "title": "Verificar se os setores de governo estão corretos",
             "pull_request": false,
@@ -1379,7 +1396,7 @@
             ]
         },
         {
-            "repo": "splor-mg/checks-loa-ppag",
+            "repo": "splor-mg/checks-planejamento",
             "issue": 12,
             "title": "Os programas excluídos devem ser os mesmos nas bases programas, ações e localizadores     assim como a quantidade destes",
             "pull_request": false,
@@ -1396,7 +1413,7 @@
             ]
         },
         {
-            "repo": "splor-mg/checks-loa-ppag",
+            "repo": "splor-mg/checks-planejamento",
             "issue": 11,
             "title": "Verificar se existem programas com ODS 18 - Não Possui Objetivo de Desenvolvimento     Sustentável, conjugado com outro (s) ODS (s)",
             "pull_request": false,
@@ -1413,14 +1430,14 @@
             ]
         },
         {
-            "repo": "splor-mg/checks-loa-ppag",
+            "repo": "splor-mg/checks-planejamento",
             "issue": 10,
             "title": "Verificar em TODAS as colunas de TODAS as bases se os campos que começam com “-“ (hífen) trouxeram todos os dados do sistema.",
             "pull_request": false,
             "created_at": "15/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231215T124813",
+            "updated_at": "20231226T184816",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -1430,7 +1447,7 @@
             ]
         },
         {
-            "repo": "splor-mg/checks-loa-ppag",
+            "repo": "splor-mg/checks-planejamento",
             "issue": 9,
             "title": "Verificar se cada programa possui pelo menos algum ODS",
             "pull_request": false,
@@ -1447,7 +1464,7 @@
             ]
         },
         {
-            "repo": "splor-mg/checks-loa-ppag",
+            "repo": "splor-mg/checks-planejamento",
             "issue": 8,
             "title": "`check_intra_detalhamento` está falhando porque não houve detalhamento na base `base_intra_orcamentaria_detalhamento`",
             "pull_request": false,
@@ -1464,7 +1481,7 @@
             ]
         },
         {
-            "repo": "splor-mg/checks-loa-ppag",
+            "repo": "splor-mg/checks-planejamento",
             "issue": 7,
             "title": "Verificar se as bases do PPAG (Sigplan) estão compatíveis com as bases do Orçamento (Sisor)",
             "pull_request": false,
@@ -1481,7 +1498,7 @@
             ]
         },
         {
-            "repo": "splor-mg/checks-loa-ppag",
+            "repo": "splor-mg/checks-planejamento",
             "issue": 6,
             "title": "Definição do nível de verbosidade dos relatórios",
             "pull_request": false,
@@ -1498,7 +1515,7 @@
             ]
         },
         {
-            "repo": "splor-mg/checks-loa-ppag",
+            "repo": "splor-mg/checks-planejamento",
             "issue": 5,
             "title": "Verificar se cada programa possui apenas uma área temática. É obrigatório a existência de uma área por programa",
             "pull_request": false,
@@ -1515,7 +1532,7 @@
             ]
         },
         {
-            "repo": "splor-mg/checks-loa-ppag",
+            "repo": "splor-mg/checks-planejamento",
             "issue": 4,
             "title": "Conceber arquitetura em que os checks possam ser executados tanto sob demanda quanto durante a geração dos volumes",
             "pull_request": false,
@@ -1530,7 +1547,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/checks-loa-ppag",
+            "repo": "splor-mg/checks-planejamento",
             "issue": 3,
             "title": "Número da OBRA SIAD duplicada na BASE_DETALHAMENTO_OBRAS ",
             "pull_request": false,
@@ -1545,7 +1562,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/checks-loa-ppag",
+            "repo": "splor-mg/checks-planejamento",
             "issue": 2,
             "title": "Ausência de detalhamento do quantitativo de inativos no V2_Tabela3_FUNFIP_DETALHAMENTO_DE_PESSOAL_INATIVO_CIVIL",
             "pull_request": false,
@@ -1560,7 +1577,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/checks-loa-ppag",
+            "repo": "splor-mg/checks-planejamento",
             "issue": 1,
             "title": "Ação excluída mas possui obra associada em BASE_DETALHAMENTO_OBRAS",
             "pull_request": false,
@@ -3461,6 +3478,21 @@
         },
         {
             "repo": "splor-mg/notas",
+            "issue": 30,
+            "title": "Lógica ternária",
+            "pull_request": false,
+            "created_at": "26/12/2023",
+            "created_at_year": 2023,
+            "created_at_month": 12,
+            "updated_at": "20231226T181812",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/notas",
             "issue": 29,
             "title": "Armazenamento do código das classificações como inteiro ou string",
             "pull_request": false,
@@ -3529,14 +3561,13 @@
             "created_at": "12/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20231025T173814",
+            "updated_at": "20231226T183523",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "documentation",
-                "enhancement"
+                "status:later"
             ]
         },
         {
@@ -4830,10 +4861,10 @@
             "created_at": "04/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231213T124804",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20231226T175650",
+            "closed_at": "26/12/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 12,
             "assignee": null,
             "labels": null
         },
@@ -4860,10 +4891,10 @@
             "created_at": "28/08/2023",
             "created_at_year": 2023,
             "created_at_month": 8,
-            "updated_at": "20231010T141139",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20231226T175647",
+            "closed_at": "26/12/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 12,
             "assignee": "hslinhares",
             "labels": [
                 "status:review"
