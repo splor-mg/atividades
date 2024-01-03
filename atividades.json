@@ -1320,6 +1320,125 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 35,
+            "title": "Verificar com a PRODEMGE quais fontes de recurso são consideradas tesouro no detalhamento de obras do orçamento investimento",
+            "pull_request": false,
+            "created_at": "02/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240102T215714",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "check"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 34,
+            "title": "Obras na base base_qdd_investimento é identificado via `natureza_cod == 4613`",
+            "pull_request": false,
+            "created_at": "02/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240102T214514",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": [
+                "check"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 33,
+            "title": "Permitir que relatórios sejam emitidos com bases nos momentos dos programas",
+            "pull_request": false,
+            "created_at": "02/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240102T205718",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 32,
+            "title": "Verificar porque existem indicadores com índice, mas sem metas previstas",
+            "pull_request": false,
+            "created_at": "02/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240102T205445",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "check"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 31,
+            "title": "Verificar porque existem indicadores sem índice, mas com metas previstas",
+            "pull_request": false,
+            "created_at": "02/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240102T205433",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "check"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 30,
+            "title": "Verificar se quando o indicador permanece na revisão, ele continua sem índice     de referência e/ou sem previsão das metas",
+            "pull_request": false,
+            "created_at": "02/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240102T202830",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "check"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 29,
+            "title": "Indice de referência e previsões não podem ser NA se já foram apurados",
+            "pull_request": false,
+            "created_at": "02/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240102T201849",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "check"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 28,
             "title": "Revisar resultado do `check$info` em casos de sucesso",
             "pull_request": false,
@@ -1338,12 +1457,12 @@
         {
             "repo": "splor-mg/checks-planejamento",
             "issue": 27,
-            "title": "Adicionar numero minimo de caracteres para `check_indicadores_justificativa_indice_referencia_apuracao`",
+            "title": "Adicionar numero minimo de caracteres (50) para `check_indicadores_justificativa_indice_referencia_apuracao`",
             "pull_request": false,
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T143614",
+            "updated_at": "20240102T195653",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -1390,10 +1509,10 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T125947",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240102T225703",
+            "closed_at": "02/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "check"
@@ -1407,10 +1526,10 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T125504",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240102T204404",
+            "closed_at": "02/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "check"
@@ -1424,10 +1543,10 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T124917",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240102T200350",
+            "closed_at": "02/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "check"
@@ -1441,10 +1560,10 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T122711",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240102T225856",
+            "closed_at": "02/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "check"
@@ -1662,7 +1781,7 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231214T145840",
+            "updated_at": "20240102T212215",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4245,6 +4364,21 @@
         },
         {
             "repo": "splor-mg/ppag-planejamento-dados",
+            "issue": 48,
+            "title": "Acrescentar exclusão lógica do indicador na chave primária da base localizadores",
+            "pull_request": false,
+            "created_at": "02/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240102T210639",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/ppag-planejamento-dados",
             "issue": 47,
             "title": "Utiliza frictionless transform custom steps na pipeline",
             "pull_request": true,
@@ -5041,6 +5175,21 @@
             "labels": [
                 "status:waiting"
             ]
+        },
+        {
+            "repo": "splor-mg/sisor-dados",
+            "issue": 9,
+            "title": "`base_qdd_investimento.categoria_cod` não possui códigos",
+            "pull_request": false,
+            "created_at": "02/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240102T230055",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
         },
         {
             "repo": "splor-mg/sisor-dados",
