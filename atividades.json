@@ -1320,6 +1320,40 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 37,
+            "title": "Criar ficha resumo para capa do relatório de validação",
+            "pull_request": false,
+            "created_at": "03/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240103T232851",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 36,
+            "title": "Colunas qualitativas que não podem ser vazias",
+            "pull_request": false,
+            "created_at": "03/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240103T210657",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "check"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 35,
             "title": "Verificar com a PRODEMGE quais fontes de recurso são consideradas tesouro no detalhamento de obras do orçamento investimento",
             "pull_request": false,
@@ -1343,10 +1377,10 @@
             "created_at": "02/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240102T214514",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240103T205219",
+            "closed_at": "03/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": "fjuniorr",
             "labels": [
                 "check"
@@ -1377,10 +1411,10 @@
             "created_at": "02/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240102T205445",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240103T215044",
+            "closed_at": "03/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "check"
@@ -1394,10 +1428,10 @@
             "created_at": "02/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240102T205433",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240103T215043",
+            "closed_at": "03/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "check"
@@ -1428,10 +1462,10 @@
             "created_at": "02/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240102T201849",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240103T211454",
+            "closed_at": "03/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "check"
@@ -1462,10 +1496,10 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240102T195653",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240103T205158",
+            "closed_at": "03/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": null
         },
@@ -1477,10 +1511,10 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T142222",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240103T194834",
+            "closed_at": "03/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": null
         },
@@ -1662,10 +1696,10 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T143006",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240103T192819",
+            "closed_at": "03/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": "fjuniorr",
             "labels": [
                 "enhancement"
@@ -1696,7 +1730,7 @@
             "created_at": "20/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T141202",
+            "updated_at": "20240103T231111",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -1713,10 +1747,10 @@
             "created_at": "18/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T140452",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240103T194646",
+            "closed_at": "03/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "check"
@@ -1764,10 +1798,10 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T134619",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240103T193131",
+            "closed_at": "03/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "check"
@@ -1798,10 +1832,10 @@
             "created_at": "01/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231211T125012",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240103T232844",
+            "closed_at": "03/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "check"
@@ -1864,12 +1898,14 @@
             "created_at": "28/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20230928T000727",
+            "updated_at": "20240103T232943",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
+            "labels": [
+                "check"
+            ]
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -1879,12 +1915,14 @@
             "created_at": "28/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20230928T000411",
+            "updated_at": "20240103T232952",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
+            "labels": [
+                "check"
+            ]
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -1894,7 +1932,24 @@
             "created_at": "27/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20230927T235410",
+            "updated_at": "20240103T232908",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "check"
+            ]
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 28,
+            "title": "Flags adicionais em `python main.py resources` para extração de propriedades dos recursos",
+            "pull_request": false,
+            "created_at": "03/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240103T222623",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2316,6 +2371,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 62,
+            "title": "Alterar default do `as_identifier` para lower case",
+            "pull_request": false,
+            "created_at": "03/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240103T224753",
+            "closed_at": "03/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
+            "assignee": "fjuniorr",
             "labels": null
         },
         {
