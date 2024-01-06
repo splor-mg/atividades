@@ -2578,6 +2578,38 @@
         },
         {
             "repo": "splor-mg/dpm",
+            "issue": 65,
+            "title": "Implementar `dpm concat`",
+            "pull_request": false,
+            "created_at": "05/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240105T223854",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 64,
+            "title": "Adicionar opção para download de pacotes específicos `dpm install --package <package-name>`",
+            "pull_request": false,
+            "created_at": "05/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240105T102658",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpm",
             "issue": 63,
             "title": "Impact analysis utilizando informações do `data.toml`",
             "pull_request": false,
@@ -2939,7 +2971,7 @@
             "created_at": "13/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20231222T143232",
+            "updated_at": "20240105T135414",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
