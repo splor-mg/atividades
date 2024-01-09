@@ -1448,7 +1448,7 @@
             "created_at": "04/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240104T201233",
+            "updated_at": "20240108T191946",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -1463,14 +1463,12 @@
             "created_at": "04/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240104T190028",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "updated_at": "20240108T135929",
+            "closed_at": "08/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
+            "assignee": "fjuniorr",
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -1799,10 +1797,10 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T115509",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240108T185033",
+            "closed_at": "08/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "enhancement"
@@ -2052,10 +2050,10 @@
             "created_at": "28/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20240103T232943",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240108T180500",
+            "closed_at": "08/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "check"
@@ -2069,10 +2067,10 @@
             "created_at": "28/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20240103T232952",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240108T180350",
+            "closed_at": "08/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "check"
@@ -2086,10 +2084,10 @@
             "created_at": "27/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20240103T232908",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240108T180327",
+            "closed_at": "08/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "check"
