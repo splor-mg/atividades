@@ -94,6 +94,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 94,
+            "title": "Agendar consulta armazém siafi para SEINFRA",
+            "pull_request": false,
+            "created_at": "16/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240116T163136",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 93,
             "title": "Relatório trimestral de teletrabalho out-dez/2023",
             "pull_request": false,
@@ -334,7 +349,7 @@
             "created_at": "04/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20231129T214856",
+            "updated_at": "20240116T181244",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5726,6 +5741,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/sigplan-dados-historico",
+            "issue": 2,
+            "title": "Valores inteiros com zero na casa decimal geram erro de validação",
+            "pull_request": false,
+            "created_at": "16/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240116T182455",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:later"
+            ]
         },
         {
             "repo": "splor-mg/sigplan-dados-historico",
