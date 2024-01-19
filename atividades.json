@@ -1517,6 +1517,23 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 44,
+            "title": "Erro quando todas as linhas possuem `is_deleted_programa` com valor `FALSE`",
+            "pull_request": false,
+            "created_at": "18/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240118T191207",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 43,
             "title": "Configurar cobertura de código com codecov",
             "pull_request": false,
@@ -3990,14 +4007,12 @@
             "created_at": "12/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240112T170943",
+            "updated_at": "20240118T121925",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "assignee": "fjuniorr",
+            "labels": null
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
