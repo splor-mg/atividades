@@ -1517,6 +1517,21 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 46,
+            "title": "Adicionar botão \"edit on github\" no site estático do pacote",
+            "pull_request": false,
+            "created_at": "20/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240120T134811",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 45,
             "title": "Detalhamento de localizadores pode conter valores vazios",
             "pull_request": false,
@@ -2261,6 +2276,36 @@
             "labels": [
                 "check"
             ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento-report",
+            "issue": 3,
+            "title": "Adicionar link para cada seção na tabela resumo",
+            "pull_request": false,
+            "created_at": "20/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240120T134904",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento-report",
+            "issue": 2,
+            "title": "Adicionar hypothes.is para permitir anotações sobre os resultados das validações",
+            "pull_request": false,
+            "created_at": "20/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240120T134704",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento-report",
