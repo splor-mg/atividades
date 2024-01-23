@@ -349,12 +349,14 @@
             "created_at": "04/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20240116T181244",
+            "updated_at": "20240122T200758",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "hslinhares",
-            "labels": null
+            "labels": [
+                "status:review"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -1509,6 +1511,21 @@
             "created_at_year": 2023,
             "created_at_month": 2,
             "updated_at": "20231228T141251",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 47,
+            "title": "Adicionar check para valores válidos para objetivos estrategicos",
+            "pull_request": false,
+            "created_at": "22/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240122T162005",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5019,6 +5036,24 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/ppag-planejamento-dados",
+            "issue": 49,
+            "title": "Chave primária composta aceita valores NULL",
+            "pull_request": false,
+            "created_at": "22/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240122T162732",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": [
+                "bug",
+                "status:waiting"
+            ]
         },
         {
             "repo": "splor-mg/ppag-planejamento-dados",
