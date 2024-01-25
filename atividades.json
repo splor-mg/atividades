@@ -2969,12 +2969,14 @@
             "created_at": "18/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231218T145514",
+            "updated_at": "20240124T200712",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/dpm",
@@ -2984,11 +2986,11 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231214T215357",
+            "updated_at": "20240124T173621",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "fjuniorr",
             "labels": null
         },
         {
@@ -4084,11 +4086,11 @@
             "created_at": "12/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240118T121925",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "fjuniorr",
+            "updated_at": "20240124T205902",
+            "closed_at": "24/01/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 1,
+            "assignee": "hslinhares",
             "labels": null
         },
         {
@@ -6093,11 +6095,11 @@
             "created_at": "29/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20231129T193013",
+            "updated_at": "20240124T212029",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "fjuniorr",
             "labels": [
                 "status:next"
             ]
