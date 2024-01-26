@@ -94,6 +94,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 95,
+            "title": "Chamado PRODEMGE INP2777085",
+            "pull_request": false,
+            "created_at": "25/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240125T113858",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 94,
             "title": "Agendar consulta armazém siafi para SEINFRA",
             "pull_request": false,
@@ -2293,6 +2308,36 @@
             "labels": [
                 "check"
             ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento-report",
+            "issue": 5,
+            "title": "Adicionar número de linhas com erros no resumo inicial",
+            "pull_request": false,
+            "created_at": "25/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240125T203617",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento-report",
+            "issue": 4,
+            "title": "Adicionar URL versionadas do relatório de validação",
+            "pull_request": false,
+            "created_at": "25/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240125T203506",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento-report",
@@ -6095,14 +6140,12 @@
             "created_at": "29/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20240124T212029",
+            "updated_at": "20240125T205055",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "fjuniorr",
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/spreadmart",
