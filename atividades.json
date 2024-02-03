@@ -2,17 +2,32 @@
     "issues": [
         {
             "repo": "splor-mg/armazem-siafi-totais-dados",
-            "issue": 8,
-            "title": "criar check list de valores dos arquivos extraídos pelo make extract",
+            "issue": 10,
+            "title": "ajustar make delete-email",
             "pull_request": false,
-            "created_at": "31/01/2024",
+            "created_at": "02/02/2024",
             "created_at_year": 2024,
-            "created_at_month": 1,
-            "updated_at": "20240131T180130",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "fjuniorr",
+            "created_at_month": 2,
+            "updated_at": "20240202T174205",
+            "closed_at": "02/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/armazem-siafi-totais-dados",
+            "issue": 9,
+            "title": "Make transform",
+            "pull_request": true,
+            "created_at": "02/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240202T173209",
+            "closed_at": "02/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
+            "assignee": null,
             "labels": null
         },
         {
@@ -105,6 +120,21 @@
             "closed_at_year": 2023,
             "closed_at_month": 10,
             "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 97,
+            "title": "Gestão de versão de pacotes no `R`",
+            "pull_request": false,
+            "created_at": "02/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240202T190311",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
             "labels": null
         },
         {
@@ -1489,6 +1519,21 @@
         },
         {
             "repo": "splor-mg/backlog",
+            "issue": 13,
+            "title": "Dashboards com static site generators",
+            "pull_request": false,
+            "created_at": "02/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240202T130605",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/backlog",
             "issue": 12,
             "title": " Relatório Operacional Desktop",
             "pull_request": false,
@@ -2516,6 +2561,38 @@
             "closed_at": "04/01/2024",
             "closed_at_year": 2024,
             "closed_at_month": 1,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 32,
+            "title": "Falha durante execução do workflow deve criar issue como mecanismo de notificação",
+            "pull_request": false,
+            "created_at": "02/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240202T152243",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:later"
+            ]
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 31,
+            "title": "Criar estratégia para armazenamento de metadados gerados durante as etapas de extração e transformação",
+            "pull_request": false,
+            "created_at": "02/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240202T145251",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "fjuniorr",
             "labels": null
         },
@@ -4260,6 +4337,51 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 27,
+            "title": "PORTARIA STN/MF Nº 1.593, DE 15 DE DEZEMBRO DE 2023",
+            "pull_request": false,
+            "created_at": "02/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240202T172600",
+            "closed_at": "02/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 26,
+            "title": "PORTARIA STN/MF Nº 1.561, DE 8 DE DEZEMBRO DE 2023",
+            "pull_request": true,
+            "created_at": "02/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240202T132404",
+            "closed_at": "02/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 25,
+            "title": "Cria painel para consulta ao de_para das fontes de recurso",
+            "pull_request": true,
+            "created_at": "02/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240202T130721",
+            "closed_at": "02/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 24,
             "title": "Gerar painel para consulta ao de_para das fontes de recurso",
             "pull_request": false,
@@ -4298,14 +4420,12 @@
             "created_at": "15/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231215T144739",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "updated_at": "20240202T132402",
+            "closed_at": "02/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
+            "assignee": "fjuniorr",
+            "labels": null
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -4394,14 +4514,12 @@
             "created_at": "28/03/2023",
             "created_at_year": 2023,
             "created_at_month": 3,
-            "updated_at": "20230928T142247",
+            "updated_at": "20240202T172658",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "assignee": "fjuniorr",
+            "labels": null
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -4627,6 +4745,23 @@
             "closed_at_month": 3,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/notas",
+            "issue": 33,
+            "title": "Integração do Github com o Microsoft Teams",
+            "pull_request": false,
+            "created_at": "02/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240202T151849",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/notas",
