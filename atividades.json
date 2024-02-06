@@ -124,6 +124,23 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 98,
+            "title": "Prova de conceito (POC) para avaliação da qlik cloud",
+            "pull_request": false,
+            "created_at": "05/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240205T192549",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:waiting"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 97,
             "title": "Gestão de versão de pacotes no `R`",
             "pull_request": false,
@@ -2589,11 +2606,11 @@
             "created_at": "02/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240202T145251",
+            "updated_at": "20240205T125220",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
+            "assignee": "labanca",
             "labels": null
         },
         {
@@ -3064,6 +3081,23 @@
         },
         {
             "repo": "splor-mg/dpm",
+            "issue": 72,
+            "title": "Gerar `datapackage.json` com resultado do `dpm concat`",
+            "pull_request": false,
+            "created_at": "05/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240205T130342",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:later"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpm",
             "issue": 71,
             "title": "Adiciona mkdocs com documentação básica",
             "pull_request": true,
@@ -3100,7 +3134,7 @@
             "created_at": "09/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240112T182727",
+            "updated_at": "20240205T095245",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
