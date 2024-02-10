@@ -1598,18 +1598,35 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 48,
+            "title": "Incorporar explicações para erros de validação na documentação dos testes de consistência",
+            "pull_request": false,
+            "created_at": "09/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240209T142000",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 47,
             "title": "Adicionar check para valores válidos para objetivos estrategicos",
             "pull_request": false,
             "created_at": "22/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240122T162005",
+            "updated_at": "20240209T145245",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
+            "labels": [
+                "check"
+            ]
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -1649,11 +1666,11 @@
             "created_at": "18/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240118T191207",
+            "updated_at": "20240209T182534",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
+            "assignee": null,
             "labels": [
                 "bug"
             ]
@@ -1728,10 +1745,10 @@
             "created_at": "04/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240108T191946",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240209T144212",
+            "closed_at": "09/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": "fjuniorr",
             "labels": null
         },
@@ -1775,11 +1792,11 @@
             "created_at": "03/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240103T210657",
+            "updated_at": "20240209T144133",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "carolfmoreira",
             "labels": [
                 "check"
             ]
@@ -1792,11 +1809,11 @@
             "created_at": "02/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240102T215714",
+            "updated_at": "20240209T144018",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "carolfmoreira",
             "labels": [
                 "check"
             ]
@@ -2060,10 +2077,10 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240104T221332",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240209T182142",
+            "closed_at": "09/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "enhancement"
@@ -2094,10 +2111,10 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T115417",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240209T182024",
+            "closed_at": "09/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "enhancement"
@@ -2111,10 +2128,10 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T211946",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240209T181921",
+            "closed_at": "09/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "enhancement"
@@ -2145,10 +2162,10 @@
             "created_at": "26/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231226T185704",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240209T181742",
+            "closed_at": "09/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "enhancement"
@@ -2162,10 +2179,10 @@
             "created_at": "20/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240103T231111",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240209T144335",
+            "closed_at": "09/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "check"
@@ -2213,10 +2230,10 @@
             "created_at": "15/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T133143",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240209T143740",
+            "closed_at": "09/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "check"
@@ -2247,11 +2264,11 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240102T212215",
+            "updated_at": "20240209T144411",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "carolfmoreira",
             "labels": [
                 "check"
             ]
@@ -5338,11 +5355,11 @@
             "created_at": "22/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240122T162732",
+            "updated_at": "20240209T182531",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
+            "assignee": null,
             "labels": [
                 "bug",
                 "status:waiting"
