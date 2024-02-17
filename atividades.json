@@ -141,6 +141,36 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 103,
+            "title": "Conciliação entre dados do Armazém SIAFI e Portal da Transparência para consulta da vale",
+            "pull_request": false,
+            "created_at": "16/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240216T150205",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 102,
+            "title": "Enriquecer conjuntos de dados com informações necessárias para monitoramento projetos Vale ",
+            "pull_request": false,
+            "created_at": "16/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240216T145738",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 101,
             "title": "instalar ferramenta que converte arquivos `.json` para `.csv` no servidor final de `.184`",
             "pull_request": false,
@@ -2464,6 +2494,23 @@
             "closed_at_month": 1,
             "assignee": "fjuniorr",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 33,
+            "title": "jinja2.exceptions.TemplateAssertionError: No filter named 'date'.",
+            "pull_request": false,
+            "created_at": "16/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240216T181800",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -6293,6 +6340,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/reprex",
+            "issue": 1,
+            "title": "Exportação de CSV no Business Objects no MAC utiliza ponto (`.`)  e não vírgula (`,`) como separador de decimal",
+            "pull_request": false,
+            "created_at": "16/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240216T153607",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
             "labels": null
         },
         {
