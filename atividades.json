@@ -3672,7 +3672,7 @@
             "created_at": "20/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20231006T162436",
+            "updated_at": "20240221T194231",
             "closed_at": "06/10/2023",
             "closed_at_year": 2023,
             "closed_at_month": 10,
@@ -4469,6 +4469,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 2,
+            "title": "Criar issue template para onboarding de novos funcionários",
+            "pull_request": false,
+            "created_at": "21/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240221T174920",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
             "labels": null
         },
         {
