@@ -4477,11 +4477,11 @@
             "created_at": "22/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240222T210619",
+            "updated_at": "20240223T193135",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "carloshob",
             "labels": null
         },
         {
