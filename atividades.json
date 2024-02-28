@@ -8,10 +8,10 @@
             "created_at": "26/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240226T172330",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240227T195305",
+            "closed_at": "27/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": "hslinhares",
             "labels": [
                 "bug"
@@ -70,10 +70,10 @@
             "created_at": "20/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240220T134341",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240227T130945",
+            "closed_at": "27/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": "fjuniorr",
             "labels": null
         },
@@ -235,6 +235,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 110,
+            "title": "Criar conjunto de dados com bases auxiliares descritivas",
+            "pull_request": false,
+            "created_at": "27/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240227T210301",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 109,
             "title": "Criar conjunto de dados de restos a pagar da folha de pagamento",
             "pull_request": false,
@@ -256,12 +271,14 @@
             "created_at": "20/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240226T203755",
+            "updated_at": "20240227T172556",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
+            "labels": [
+                "status:later"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -286,14 +303,12 @@
             "created_at": "19/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240219T175628",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240227T132549",
+            "closed_at": "27/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": null,
-            "labels": [
-                "status:waiting"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -303,14 +318,12 @@
             "created_at": "19/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240219T175639",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240227T131952",
+            "closed_at": "27/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": null,
-            "labels": [
-                "status:waiting"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -320,14 +333,12 @@
             "created_at": "19/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240219T175645",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240227T131930",
+            "closed_at": "27/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": null,
-            "labels": [
-                "status:waiting"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -337,10 +348,10 @@
             "created_at": "16/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240219T223814",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240227T131508",
+            "closed_at": "27/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": "fjuniorr",
             "labels": null
         },
@@ -352,10 +363,10 @@
             "created_at": "16/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240226T140352",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240227T130753",
+            "closed_at": "27/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": "fjuniorr",
             "labels": null
         },
@@ -382,12 +393,14 @@
             "created_at": "06/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240206T180022",
+            "updated_at": "20240227T165108",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
+            "labels": [
+                "meta"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -397,12 +410,14 @@
             "created_at": "06/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240226T213047",
+            "updated_at": "20240227T165116",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
-            "labels": null
+            "labels": [
+                "meta"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -442,10 +457,10 @@
             "created_at": "26/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240126T210522",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240227T173934",
+            "closed_at": "27/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": "hslinhares",
             "labels": null
         },
@@ -1597,7 +1612,7 @@
             "created_at": "10/04/2023",
             "created_at_year": 2023,
             "created_at_month": 4,
-            "updated_at": "20240207T203708",
+            "updated_at": "20240227T204122",
             "closed_at": "07/02/2024",
             "closed_at_year": 2024,
             "closed_at_month": 2,
@@ -3213,6 +3228,23 @@
         },
         {
             "repo": "splor-mg/dpm",
+            "issue": 74,
+            "title": "Salvar hash do commit no datapackage.json durante dpm install",
+            "pull_request": false,
+            "created_at": "27/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240227T175547",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpm",
             "issue": 73,
             "title": "`dpm concat` deve gerar mensagem de erro mais clara quando recurso concatenado não existe em todos os datapackages",
             "pull_request": false,
@@ -3266,11 +3298,11 @@
             "created_at": "10/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240115T214451",
+            "updated_at": "20240227T170242",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
+            "assignee": null,
             "labels": null
         },
         {
@@ -3281,7 +3313,7 @@
             "created_at": "09/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240205T095245",
+            "updated_at": "20240227T180012",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -3298,12 +3330,14 @@
             "created_at": "09/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240109T150515",
+            "updated_at": "20240227T170255",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
-            "labels": null
+            "assignee": null,
+            "labels": [
+                "status:later"
+            ]
         },
         {
             "repo": "splor-mg/dpm",
@@ -3424,12 +3458,14 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240124T173621",
+            "updated_at": "20240227T164728",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "fjuniorr",
-            "labels": null
+            "labels": [
+                "meta"
+            ]
         },
         {
             "repo": "splor-mg/dpm",
@@ -3950,14 +3986,12 @@
             "created_at": "11/08/2023",
             "created_at_year": 2023,
             "created_at_month": 8,
-            "updated_at": "20231025T205641",
+            "updated_at": "20240227T130531",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -4503,13 +4537,28 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 6,
+            "title": "Coletar leituras relevantes para inclusão no onboarding",
+            "pull_request": false,
+            "created_at": "27/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240227T175224",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 5,
             "title": "Onboarding carlos",
             "pull_request": false,
             "created_at": "22/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240224T190644",
+            "updated_at": "20240227T204616",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4817,12 +4866,14 @@
             "created_at": "28/03/2023",
             "created_at_year": 2023,
             "created_at_month": 3,
-            "updated_at": "20240206T144102",
+            "updated_at": "20240227T165215",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "fjuniorr",
-            "labels": null
+            "labels": [
+                "meta"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -5057,14 +5108,12 @@
             "created_at": "02/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240206T131241",
+            "updated_at": "20240227T175707",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/notas",
@@ -6980,12 +7029,12 @@
         {
             "repo": "splor-mg/spreadmart",
             "issue": 14,
-            "title": "Otimizar processo de inserção de novas bases de dados na link table",
+            "title": "Criar link table de forma declarativa usando `relationships.toml`",
             "pull_request": false,
             "created_at": "29/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20240219T142337",
+            "updated_at": "20240227T164946",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -7126,7 +7175,7 @@
             "created_at": "20/04/2023",
             "created_at_year": 2023,
             "created_at_month": 4,
-            "updated_at": "20230816T143846",
+            "updated_at": "20240227T174612",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
