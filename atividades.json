@@ -2,6 +2,38 @@
     "issues": [
         {
             "repo": "splor-mg/armazem-siafi-totais-dados",
+            "issue": 19,
+            "title": "inserir log contendo data dos anexos extraídos durante o `make extract`",
+            "pull_request": false,
+            "created_at": "28/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240228T195302",
+            "closed_at": "28/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/armazem-siafi-totais-dados",
+            "issue": 18,
+            "title": "pastas `data` e `data-raw` não atualizam após `make publish`",
+            "pull_request": false,
+            "created_at": "28/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240228T204508",
+            "closed_at": "28/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": [
+                "wontfix"
+            ]
+        },
+        {
+            "repo": "splor-mg/armazem-siafi-totais-dados",
             "issue": 17,
             "title": "Falha na execução do workflow em 2024-02-26T17:04:18Z",
             "pull_request": false,
@@ -232,6 +264,23 @@
             "closed_at_month": 10,
             "assignee": "hslinhares",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 111,
+            "title": "Submissão proposta artigo CONSAD 2024",
+            "pull_request": false,
+            "created_at": "28/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240228T212921",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:later"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -659,12 +708,14 @@
             "created_at": "26/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20240115T193321",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240228T210436",
+            "closed_at": "28/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
             "assignee": "hslinhares",
-            "labels": null
+            "labels": [
+                "wontfix"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -6761,6 +6812,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/sigplan-dados-historico",
+            "issue": 4,
+            "title": "Gerar todos os recursos dos datapackages originais",
+            "pull_request": false,
+            "created_at": "28/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240228T213517",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
             "labels": null
         },
         {
