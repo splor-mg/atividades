@@ -448,7 +448,7 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "meta"
+                "meta-fev2024"
             ]
         },
         {
@@ -459,13 +459,13 @@
             "created_at": "06/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240227T165116",
+            "updated_at": "20240229T123806",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
             "labels": [
-                "meta"
+                "meta-fev2024"
             ]
         },
         {
@@ -3509,13 +3509,13 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240227T164728",
+            "updated_at": "20240229T123826",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "fjuniorr",
             "labels": [
-                "meta"
+                "meta-fev2024"
             ]
         },
         {
@@ -4917,13 +4917,13 @@
             "created_at": "28/03/2023",
             "created_at_year": 2023,
             "created_at_month": 3,
-            "updated_at": "20240227T165215",
+            "updated_at": "20240229T123719",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "fjuniorr",
             "labels": [
-                "meta"
+                "meta-fev2024"
             ]
         },
         {
