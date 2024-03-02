@@ -2,6 +2,72 @@
     "issues": [
         {
             "repo": "splor-mg/armazem-siafi-totais-dados",
+            "issue": 23,
+            "title": "Falha na execução do workflow em 2024-03-01T20:39:20Z",
+            "pull_request": false,
+            "created_at": "01/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240301T203921",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/armazem-siafi-totais-dados",
+            "issue": 22,
+            "title": "Falha na execução do workflow em 2024-03-01T19:07:30Z",
+            "pull_request": false,
+            "created_at": "01/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240301T190730",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/armazem-siafi-totais-dados",
+            "issue": 21,
+            "title": "não atualização da pasta `data` após o `update`",
+            "pull_request": false,
+            "created_at": "01/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240301T185913",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/armazem-siafi-totais-dados",
+            "issue": 20,
+            "title": "Falha na execução do workflow em 2024-03-01T09:32:05Z",
+            "pull_request": false,
+            "created_at": "01/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240301T143904",
+            "closed_at": "01/03/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 3,
+            "assignee": "fjuniorr",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/armazem-siafi-totais-dados",
             "issue": 19,
             "title": "inserir log contendo data dos anexos extraídos durante o `make extract`",
             "pull_request": false,
@@ -2751,6 +2817,21 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 35,
+            "title": "Utilizar bashrc para configurar alias python=python3 no dockerfile",
+            "pull_request": false,
+            "created_at": "01/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240301T194120",
+            "closed_at": "01/03/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 3,
+            "assignee": "labanca",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 34,
             "title": "Adicionar github actions workflow para execução somente do `make check`",
             "pull_request": false,
@@ -2836,13 +2917,13 @@
             "created_at": "04/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240104T125032",
+            "updated_at": "20240301T143952",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "status:next"
+                "status:later"
             ]
         },
         {
@@ -3271,6 +3352,21 @@
             "created_at_year": 2023,
             "created_at_month": 7,
             "updated_at": "20230914T124750",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 75,
+            "title": "`dpm concat` com glob pattern para especificação dos data packages não funciona no windows ",
+            "pull_request": false,
+            "created_at": "01/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240301T153439",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4594,7 +4690,7 @@
             "created_at": "27/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240227T175224",
+            "updated_at": "20240301T143401",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4609,7 +4705,7 @@
             "created_at": "22/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240227T204616",
+            "updated_at": "20240301T192954",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
