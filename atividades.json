@@ -960,14 +960,12 @@
             "created_at": "10/08/2023",
             "created_at_year": 2023,
             "created_at_month": 8,
-            "updated_at": "20240115T202536",
+            "updated_at": "20240304T194306",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "assignee": "hslinhares",
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
