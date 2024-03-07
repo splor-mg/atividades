@@ -333,6 +333,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 112,
+            "title": "verificar valor da receita arrecadada no armazém siafi x relatorio operacional",
+            "pull_request": false,
+            "created_at": "06/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240306T143827",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 111,
             "title": "Submissão proposta artigo CONSAD 2024",
             "pull_request": false,
