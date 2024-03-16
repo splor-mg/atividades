@@ -2,6 +2,23 @@
     "issues": [
         {
             "repo": "splor-mg/armazem-siafi-totais-dados",
+            "issue": 24,
+            "title": "Falha na execução do workflow em 2024-03-15T09:33:58Z",
+            "pull_request": false,
+            "created_at": "15/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240315T093359",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/armazem-siafi-totais-dados",
             "issue": 23,
             "title": "Falha na execução do workflow em 2024-03-01T20:39:20Z",
             "pull_request": false,
