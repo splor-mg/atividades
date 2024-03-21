@@ -2,16 +2,33 @@
     "issues": [
         {
             "repo": "splor-mg/armazem-siafi-totais-dados",
+            "issue": 25,
+            "title": "Acrescentar recurso com totais de cota aprovada líquida",
+            "pull_request": false,
+            "created_at": "20/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240320T184053",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/armazem-siafi-totais-dados",
             "issue": 24,
             "title": "Falha na execução do workflow em 2024-03-15T09:33:58Z",
             "pull_request": false,
             "created_at": "15/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240315T093359",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240320T174444",
+            "closed_at": "20/03/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -25,10 +42,10 @@
             "created_at": "01/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240301T203921",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240320T174443",
+            "closed_at": "20/03/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -42,10 +59,10 @@
             "created_at": "01/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240301T190730",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240320T174443",
+            "closed_at": "20/03/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -347,6 +364,38 @@
             "closed_at_month": 10,
             "assignee": "hslinhares",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 114,
+            "title": "Pesquisa sobre ferramenta para extração do conteúdo das apresentações pptx",
+            "pull_request": false,
+            "created_at": "20/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240320T213624",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 113,
+            "title": "Criar conjunto de dados com memória de cálculo dos agrupamentos de elementos item da DCMEFO",
+            "pull_request": false,
+            "created_at": "20/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240320T211041",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:waiting"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -2845,6 +2894,38 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 37,
+            "title": "Armazenamento de metadados gerados durante pipeline de dados",
+            "pull_request": true,
+            "created_at": "20/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240320T223758",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 36,
+            "title": "Criar variavel PYTHON no make para tornar makefile multiplataforma",
+            "pull_request": false,
+            "created_at": "20/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240320T202216",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 35,
             "title": "Utilizar bashrc para configurar alias python=python3 no dockerfile",
             "pull_request": false,
@@ -2913,7 +2994,7 @@
             "created_at": "02/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240205T125220",
+            "updated_at": "20240320T203359",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -7436,6 +7517,53 @@
         },
         {
             "repo": "splor-mg/tabelas-auxiliares",
+            "issue": 13,
+            "title": "Incorporação de novas bases de descritivos e alteração do padrão de arquivos",
+            "pull_request": true,
+            "created_at": "20/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240320T182416",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/tabelas-auxiliares",
+            "issue": 12,
+            "title": "Adicionar arquivo de dados com descrições das classificações anteriores a 2002 para restos a pagar",
+            "pull_request": false,
+            "created_at": "20/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240320T152130",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/tabelas-auxiliares",
+            "issue": 11,
+            "title": "Falha na execução do workflow em 2024-03-20T09:36:27Z",
+            "pull_request": false,
+            "created_at": "20/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240320T151012",
+            "closed_at": "20/03/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/tabelas-auxiliares",
             "issue": 10,
             "title": "Utilizar nomes mais curtos para recursos",
             "pull_request": false,
@@ -7459,13 +7587,14 @@
             "created_at": "19/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240319T174507",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "hslinhares",
+            "updated_at": "20240320T184943",
+            "closed_at": "20/03/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 3,
+            "assignee": null,
             "labels": [
-                "bug"
+                "bug",
+                "wontfix"
             ]
         },
         {
