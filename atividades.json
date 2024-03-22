@@ -373,12 +373,14 @@
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240320T213624",
+            "updated_at": "20240321T123257",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "fjuniorr",
-            "labels": null
+            "labels": [
+                "splor"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -437,12 +439,14 @@
             "created_at": "27/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240305T201841",
+            "updated_at": "20240321T125227",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
-            "labels": null
+            "labels": [
+                "meta-mar2024"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -589,13 +593,14 @@
             "created_at": "06/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240227T165108",
+            "updated_at": "20240321T125411",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "meta-fev2024"
+                "meta-fev2024",
+                "meta-mar2024"
             ]
         },
         {
@@ -623,12 +628,14 @@
             "created_at": "05/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240222T203613",
+            "updated_at": "20240321T125441",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "hslinhares",
-            "labels": null
+            "labels": [
+                "meta-mar2024"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -872,14 +879,12 @@
             "created_at": "18/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231124T101906",
+            "updated_at": "20240321T182319",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "assignee": "labanca",
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1039,12 +1044,14 @@
             "created_at": "10/08/2023",
             "created_at_year": 2023,
             "created_at_month": 8,
-            "updated_at": "20240313T145624",
+            "updated_at": "20240321T125323",
             "closed_at": "13/03/2024",
             "closed_at_year": 2024,
             "closed_at_month": 3,
             "assignee": "hslinhares",
-            "labels": null
+            "labels": [
+                "meta-mar2024"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -2900,7 +2907,7 @@
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240320T223758",
+            "updated_at": "20240321T170357",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -7044,11 +7051,11 @@
             "created_at": "28/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240228T213517",
+            "updated_at": "20240321T135155",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
+            "assignee": "labanca",
             "labels": null
         },
         {
@@ -7099,7 +7106,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/sigplan-monitoramento-dados",
+            "repo": "splor-mg/sigplan-monitoramento-dados-archive",
             "issue": 2,
             "title": "Significado da coluna \"Ação Transposta Durante Exercício\" na base `acoes_monitoramento`",
             "pull_request": false,
@@ -7114,7 +7121,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/sigplan-monitoramento-dados",
+            "repo": "splor-mg/sigplan-monitoramento-dados-archive",
             "issue": 1,
             "title": "Bases do monitoramento possuem coluna extra no final do arquivo txt",
             "pull_request": false,
@@ -7523,7 +7530,7 @@
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240320T182416",
+            "updated_at": "20240321T223832",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -7622,7 +7629,7 @@
             "created_at": "19/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240319T213010",
+            "updated_at": "20240321T085711",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
