@@ -2,6 +2,40 @@
     "issues": [
         {
             "repo": "splor-mg/armazem-siafi-totais-dados",
+            "issue": 27,
+            "title": "Falha na execução do workflow em 2024-03-27T16:24:44Z",
+            "pull_request": false,
+            "created_at": "27/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240327T212311",
+            "closed_at": "27/03/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/armazem-siafi-totais-dados",
+            "issue": 26,
+            "title": "Falha na execução do workflow em 2024-03-27T09:32:04Z",
+            "pull_request": false,
+            "created_at": "27/03/2024",
+            "created_at_year": 2024,
+            "created_at_month": 3,
+            "updated_at": "20240327T150012",
+            "closed_at": "27/03/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/armazem-siafi-totais-dados",
             "issue": 25,
             "title": "Acrescentar recurso com totais de cota aprovada líquida",
             "pull_request": false,
@@ -628,7 +662,7 @@
             "created_at": "05/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240326T193812",
+            "updated_at": "20240327T211749",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4804,7 +4838,7 @@
             "created_at": "27/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240301T143401",
+            "updated_at": "20240327T212239",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -7528,7 +7562,7 @@
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240322T204858",
+            "updated_at": "20240327T032059",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
