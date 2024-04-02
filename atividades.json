@@ -401,13 +401,30 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 115,
+            "title": "Criar conjunto de dados com memória de cálculo agrupamentos DCMEFO",
+            "pull_request": false,
+            "created_at": "01/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240401T170216",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": [
+                "splor"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 114,
             "title": "Pesquisa sobre ferramenta para extração do conteúdo das apresentações pptx",
             "pull_request": false,
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240321T123257",
+            "updated_at": "20240401T181301",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
