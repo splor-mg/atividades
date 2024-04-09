@@ -1715,6 +1715,38 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 1,
+            "title": "pacote `dpm` não encontrado",
+            "pull_request": false,
+            "created_at": "08/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240408T191944",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 49,
+            "title": "Utilizar glue para gerar logs de warning no lugar de data frame",
+            "pull_request": false,
+            "created_at": "08/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240408T212056",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:later"
+            ]
+        },
+        {
             "repo": "splor-mg/checks-planejamento",
             "issue": 48,
             "title": "Incorporar explicações para erros de validação na documentação dos testes de consistência",
@@ -2971,12 +3003,14 @@
             "created_at": "25/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20231110T121726",
+            "updated_at": "20240408T202618",
             "closed_at": "10/11/2023",
             "closed_at_year": 2023,
             "closed_at_month": 11,
-            "assignee": "labanca",
-            "labels": null
+            "assignee": null,
+            "labels": [
+                "status:later"
+            ]
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -3228,7 +3262,7 @@
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240404T215822",
+            "updated_at": "20240408T203938",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -3426,6 +3460,98 @@
             "closed_at_year": 2024,
             "closed_at_month": 3,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-historico",
+            "issue": 6,
+            "title": "Adicionar recursos localizadores_monitoramento_todos.",
+            "pull_request": true,
+            "created_at": "04/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240408T124115",
+            "closed_at": "08/04/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 4,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-historico",
+            "issue": 5,
+            "title": "Utilização de compactação devido ao tamanho do arquivo localizadores_monitoramento_todos.csv",
+            "pull_request": false,
+            "created_at": "03/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240403T222026",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-historico",
+            "issue": 4,
+            "title": "Gerar todos os recursos dos datapackages originais",
+            "pull_request": false,
+            "created_at": "28/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240408T124116",
+            "closed_at": "08/04/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 4,
+            "assignee": "labanca",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-historico",
+            "issue": 3,
+            "title": "Atualizar bases monitoramento para 5 bimestre",
+            "pull_request": false,
+            "created_at": "07/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20240207T183743",
+            "closed_at": "07/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-historico",
+            "issue": 2,
+            "title": "Valores inteiros com zero na casa decimal geram erro de validação",
+            "pull_request": false,
+            "created_at": "16/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240116T182455",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:later"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-historico",
+            "issue": 1,
+            "title": "Estruturar dados para facilitar construção de painel SUGES",
+            "pull_request": false,
+            "created_at": "12/01/2024",
+            "created_at_year": 2024,
+            "created_at_month": 1,
+            "updated_at": "20240201T203626",
+            "closed_at": "01/02/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 2,
+            "assignee": "fjuniorr",
             "labels": null
         },
         {
@@ -4415,14 +4541,12 @@
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240320T184053",
+            "updated_at": "20240408T200246",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "assignee": "carloshob",
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
@@ -7616,98 +7740,6 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/sigplan-dados-historico",
-            "issue": 6,
-            "title": "Adicionar recursos localizadores_monitoramento_todos.",
-            "pull_request": true,
-            "created_at": "04/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240404T184813",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/sigplan-dados-historico",
-            "issue": 5,
-            "title": "Utilização de compactação devido ao tamanho do arquivo localizadores_monitoramento_todos.csv",
-            "pull_request": false,
-            "created_at": "03/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240403T222026",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/sigplan-dados-historico",
-            "issue": 4,
-            "title": "Gerar todos os recursos dos datapackages originais",
-            "pull_request": false,
-            "created_at": "28/02/2024",
-            "created_at_year": 2024,
-            "created_at_month": 2,
-            "updated_at": "20240321T135155",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "labanca",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/sigplan-dados-historico",
-            "issue": 3,
-            "title": "Atualizar bases monitoramento para 5 bimestre",
-            "pull_request": false,
-            "created_at": "07/02/2024",
-            "created_at_year": 2024,
-            "created_at_month": 2,
-            "updated_at": "20240207T183743",
-            "closed_at": "07/02/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 2,
-            "assignee": "fjuniorr",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/sigplan-dados-historico",
-            "issue": 2,
-            "title": "Valores inteiros com zero na casa decimal geram erro de validação",
-            "pull_request": false,
-            "created_at": "16/01/2024",
-            "created_at_year": 2024,
-            "created_at_month": 1,
-            "updated_at": "20240116T182455",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:later"
-            ]
-        },
-        {
-            "repo": "splor-mg/sigplan-dados-historico",
-            "issue": 1,
-            "title": "Estruturar dados para facilitar construção de painel SUGES",
-            "pull_request": false,
-            "created_at": "12/01/2024",
-            "created_at_year": 2024,
-            "created_at_month": 1,
-            "updated_at": "20240201T203626",
-            "closed_at": "01/02/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 2,
-            "assignee": "fjuniorr",
             "labels": null
         },
         {
