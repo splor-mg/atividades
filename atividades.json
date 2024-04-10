@@ -1716,16 +1716,31 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 2,
+            "title": "erro extração `make extract` no `sharepoint` `onedrive` ",
+            "pull_request": false,
+            "created_at": "09/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240409T195533",
+            "closed_at": "09/04/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 4,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 1,
             "title": "pacote `dpm` não encontrado",
             "pull_request": false,
             "created_at": "08/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240408T191944",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240409T195541",
+            "closed_at": "09/04/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 4,
             "assignee": "hslinhares",
             "labels": null
         },
@@ -2617,6 +2632,23 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 40,
+            "title": "Substituir `make publish` por `make push`",
+            "pull_request": false,
+            "created_at": "09/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240409T204615",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:later"
+            ]
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 39,
             "title": "Adicionar seção com regras de estilo para utilização de hífen (-) ou underscore (_) em nomes",
             "pull_request": false,
@@ -3262,7 +3294,7 @@
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240408T203938",
+            "updated_at": "20240409T210635",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6312,6 +6344,57 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 35,
+            "title": "Falha na execução do workflow em 2024-04-09T21:50:49Z",
+            "pull_request": false,
+            "created_at": "09/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240409T215135",
+            "closed_at": "09/04/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 4,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 34,
+            "title": "Falha na execução do workflow em 2024-04-09T21:47:04Z",
+            "pull_request": false,
+            "created_at": "09/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240409T215135",
+            "closed_at": "09/04/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 4,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 33,
+            "title": "Falha na execução do workflow em {{ date | date() }}",
+            "pull_request": false,
+            "created_at": "09/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240409T214424",
+            "closed_at": "09/04/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 4,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 32,
             "title": "Definição sobre chave primária nas matrizes",
             "pull_request": false,
@@ -6799,6 +6882,21 @@
             "closed_at": "23/03/2023",
             "closed_at_year": 2023,
             "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/notas",
+            "issue": 34,
+            "title": "python tip: use f-strings, though not always",
+            "pull_request": false,
+            "created_at": "09/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240409T205132",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": null
         },
