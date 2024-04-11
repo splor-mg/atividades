@@ -3294,7 +3294,7 @@
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240409T210635",
+            "updated_at": "20240410T195020",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6344,6 +6344,23 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 36,
+            "title": "Falha na execução do workflow em 2024-04-10T21:12:19Z",
+            "pull_request": false,
+            "created_at": "10/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240410T211220",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 35,
             "title": "Falha na execução do workflow em 2024-04-09T21:50:49Z",
             "pull_request": false,
@@ -6887,6 +6904,21 @@
         },
         {
             "repo": "splor-mg/notas",
+            "issue": 35,
+            "title": "Funcionamento do `git checkout <commit>`",
+            "pull_request": false,
+            "created_at": "10/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240410T203522",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/notas",
             "issue": 34,
             "title": "python tip: use f-strings, though not always",
             "pull_request": false,
@@ -6953,7 +6985,7 @@
             "created_at": "11/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231228T141610",
+            "updated_at": "20240410T191901",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
