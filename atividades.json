@@ -106,12 +106,13 @@
             "created_at": "28/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240228T212921",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240412T142141",
+            "closed_at": "12/04/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 4,
             "assignee": null,
             "labels": [
+                "wontfix",
                 "status:later"
             ]
         },
@@ -2894,11 +2895,11 @@
             "created_at": "07/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231207T180744",
+            "updated_at": "20240412T145216",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "labanca",
             "labels": null
         },
         {
@@ -2909,11 +2910,11 @@
             "created_at": "07/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240402T174058",
-            "closed_at": "02/04/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 4,
-            "assignee": null,
+            "updated_at": "20240412T145203",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
             "labels": null
         },
         {
@@ -3069,12 +3070,14 @@
             "created_at": "15/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20230915T130314",
+            "updated_at": "20240412T145548",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -3259,12 +3262,12 @@
         {
             "repo": "splor-mg/dados-aux-classificadores",
             "issue": 19,
-            "title": "Chave ANO|UO|ACAO com múltiplas funções em 2023 na ação \"4302 - FORMACAO E CAPACITACAO TECNICO PROFISSIONAL PARA CIVIS\"",
+            "title": "Alinhar com DCMEFO impacto de chave ANO|UO|ACAO com múltiplas funções em 2023 na ação \"4302 - FORMACAO E CAPACITACAO TECNICO PROFISSIONAL PARA CIVIS\"",
             "pull_request": false,
             "created_at": "11/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240411T202856",
+            "updated_at": "20240412T190140",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4529,6 +4532,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 32,
+            "title": "Falha na execução do workflow em 2024-04-12T09:48:56Z",
+            "pull_request": false,
+            "created_at": "12/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240412T132216",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 31,
             "title": "Falha na execução do workflow em 2024-04-05T16:23:01Z",
             "pull_request": false,
@@ -4552,10 +4572,10 @@
             "created_at": "05/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240405T162020",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240412T112104",
+            "closed_at": "12/04/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 4,
             "assignee": null,
             "labels": [
                 "bug"
@@ -4637,11 +4657,11 @@
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240408T200246",
+            "updated_at": "20240412T145435",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "carloshob",
+            "assignee": "hslinhares",
             "labels": null
         },
         {
@@ -5079,11 +5099,11 @@
             "created_at": "10/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240227T170242",
+            "updated_at": "20240412T202640",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "labanca",
             "labels": null
         },
         {
@@ -5111,14 +5131,12 @@
             "created_at": "09/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240227T170255",
+            "updated_at": "20240412T145623",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "assignee": "labanca",
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
