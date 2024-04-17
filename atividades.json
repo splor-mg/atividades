@@ -2895,7 +2895,7 @@
             "created_at": "07/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240412T145216",
+            "updated_at": "20240416T193540",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4538,10 +4538,10 @@
             "created_at": "12/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240412T132216",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240416T164520",
+            "closed_at": "16/04/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 4,
             "assignee": "hslinhares",
             "labels": [
                 "bug"
