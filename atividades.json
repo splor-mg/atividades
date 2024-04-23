@@ -8,14 +8,12 @@
             "created_at": "05/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240405T205031",
+            "updated_at": "20240422T210809",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "assignee": "carloshob",
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -313,7 +311,7 @@
             "created_at": "05/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240327T211749",
+            "updated_at": "20240422T150757",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -564,12 +562,14 @@
             "created_at": "18/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20240419T235210",
+            "updated_at": "20240422T174951",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "labanca",
-            "labels": null
+            "assignee": "fjuniorr",
+            "labels": [
+                "status:review"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -2895,7 +2895,7 @@
             "created_at": "07/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240419T235229",
+            "updated_at": "20240422T155858",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2910,7 +2910,7 @@
             "created_at": "07/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240412T145203",
+            "updated_at": "20240422T155932",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -3065,12 +3065,12 @@
         {
             "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 13,
-            "title": "Documentar que pacotes que fazem extração de dados do sharepoint não podem user github actions e docker",
+            "title": "Documentar funcionamento de pacotes que fazem extração de dados do sharepoint (não podem user github actions e docker)",
             "pull_request": false,
             "created_at": "15/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20240412T145548",
+            "updated_at": "20240422T174650",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -3258,6 +3258,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 20,
+            "title": "Falha na execução do workflow em 2024-04-22T19:34:38Z",
+            "pull_request": false,
+            "created_at": "22/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240422T193439",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -4532,6 +4549,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 33,
+            "title": "Falha na execução do workflow em 2024-04-22T09:48:46Z",
+            "pull_request": false,
+            "created_at": "22/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240422T124340",
+            "closed_at": "22/04/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 4,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 32,
             "title": "Falha na execução do workflow em 2024-04-12T09:48:56Z",
             "pull_request": false,
@@ -4657,11 +4691,11 @@
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240412T145435",
+            "updated_at": "20240422T191559",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "hslinhares",
+            "assignee": "carloshob",
             "labels": null
         },
         {
@@ -5099,7 +5133,7 @@
             "created_at": "10/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240419T212345",
+            "updated_at": "20240422T185943",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
