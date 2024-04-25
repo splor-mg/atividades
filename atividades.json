@@ -2,6 +2,21 @@
     "issues": [
         {
             "repo": "splor-mg/atividades",
+            "issue": 118,
+            "title": "Gerar volume QDD fiscal da fonte 95",
+            "pull_request": false,
+            "created_at": "24/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240424T185302",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 117,
             "title": "Formatar proposta para gerenciamento do classificador econômico da despesa no git",
             "pull_request": false,
@@ -55,7 +70,7 @@
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240401T181301",
+            "updated_at": "20240424T184857",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -72,14 +87,12 @@
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240320T211041",
+            "updated_at": "20240424T212246",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:waiting"
-            ]
+            "assignee": "hslinhares",
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1723,7 +1736,7 @@
             "created_at": "23/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240424T002730",
+            "updated_at": "20240424T204059",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2647,6 +2660,21 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/checks-py",
+            "issue": 1,
+            "title": "Erro ao tentar instalar pacote:  Can not execute `setup.py` since setuptools is not available in the build environment.",
+            "pull_request": false,
+            "created_at": "24/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240424T220459",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
             "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 40,
             "title": "Substituir `make publish` por `make push`",
@@ -3268,6 +3296,21 @@
             "created_at_year": 2023,
             "created_at_month": 7,
             "updated_at": "20230914T124750",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 22,
+            "title": "corrige erro extract de arquivo zip",
+            "pull_request": true,
+            "created_at": "24/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240424T205152",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
