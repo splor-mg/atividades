@@ -17,17 +17,32 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 119,
+            "title": "Extração do conteúdo das apresentações pptx COFIN",
+            "pull_request": false,
+            "created_at": "29/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240429T224515",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 118,
             "title": "Gerar volume QDD fiscal da fonte 95",
             "pull_request": false,
             "created_at": "24/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240425T221233",
+            "updated_at": "20240429T210219",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "labanca",
+            "assignee": null,
             "labels": null
         },
         {
@@ -85,10 +100,10 @@
             "created_at": "20/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240424T184857",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240429T225335",
+            "closed_at": "29/04/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 4,
             "assignee": "fjuniorr",
             "labels": [
                 "splor"
@@ -150,7 +165,7 @@
             "created_at": "27/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240321T125227",
+            "updated_at": "20240429T172707",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2682,7 +2697,7 @@
             "created_at": "25/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240425T222938",
+            "updated_at": "20240429T210051",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5266,12 +5281,14 @@
             "created_at": "10/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240425T185816",
+            "updated_at": "20240429T210422",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "labanca",
-            "labels": null
+            "labels": [
+                "status:review"
+            ]
         },
         {
             "repo": "splor-mg/dpm",
@@ -5298,12 +5315,14 @@
             "created_at": "09/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240419T001933",
+            "updated_at": "20240429T210459",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "labanca",
-            "labels": null
+            "labels": [
+                "status:review"
+            ]
         },
         {
             "repo": "splor-mg/dpm",
