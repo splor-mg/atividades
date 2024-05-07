@@ -77,6 +77,23 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 121,
+            "title": "Armazenamento de commit de um pacote instalado do github via pip-compile",
+            "pull_request": false,
+            "created_at": "06/05/2024",
+            "created_at_year": 2024,
+            "created_at_month": 5,
+            "updated_at": "20240506T220250",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:later"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 120,
             "title": "Criar pacote dpm-r com função read_datapackage",
             "pull_request": false,
@@ -160,10 +177,10 @@
             "created_at": "01/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240503T133712",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240506T151426",
+            "closed_at": "06/05/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 5,
             "assignee": "hslinhares",
             "labels": [
                 "splor"
@@ -1843,11 +1860,11 @@
             "created_at": "23/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240503T194442",
+            "updated_at": "20240506T201041",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "hslinhares",
             "labels": null
         },
         {
@@ -2774,11 +2791,11 @@
             "created_at": "25/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240429T210051",
+            "updated_at": "20240506T191826",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "labanca",
             "labels": null
         },
         {
@@ -2808,6 +2825,21 @@
             "closed_at": "25/04/2024",
             "closed_at_year": 2024,
             "closed_at_month": 4,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 41,
+            "title": "Criar issues para notificações de checks com falha sem paralisar atualização",
+            "pull_request": false,
+            "created_at": "06/05/2024",
+            "created_at_year": 2024,
+            "created_at_month": 5,
+            "updated_at": "20240506T151231",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": null
         },
@@ -3090,12 +3122,14 @@
             "created_at": "07/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240422T155932",
+            "updated_at": "20240506T192047",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "labanca",
-            "labels": null
+            "labels": [
+                "status:review"
+            ]
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -8406,19 +8440,17 @@
         {
             "repo": "splor-mg/spreadmart",
             "issue": 17,
-            "title": "verificar `output` `dados-acordo-judicial-reparacao-vale` ",
+            "title": "Reproduzir planilha do projeto `acordo-judicial-reparacao-vale` utilizando modelagem link table no spreadmart",
             "pull_request": false,
             "created_at": "02/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240502T181743",
+            "updated_at": "20240506T151014",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "bug"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/spreadmart",
