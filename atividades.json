@@ -94,23 +94,6 @@
         },
         {
             "repo": "splor-mg/atividades",
-            "issue": 120,
-            "title": "Criar pacote dpm-r com função read_datapackage",
-            "pull_request": false,
-            "created_at": "30/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240430T184242",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
-        },
-        {
-            "repo": "splor-mg/atividades",
             "issue": 119,
             "title": "Extração do conteúdo das apresentações pptx COFIN",
             "pull_request": false,
@@ -2791,7 +2774,7 @@
             "created_at": "25/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240506T191826",
+            "updated_at": "20240507T220133",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4970,7 +4953,7 @@
             "created_at": "30/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240430T205744",
+            "updated_at": "20240507T174442",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6621,6 +6604,40 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm-r",
+            "issue": 2,
+            "title": "Adicionar suporte para leitura de repositórios privados em `read_datapackage`",
+            "pull_request": false,
+            "created_at": "07/05/2024",
+            "created_at_year": 2024,
+            "created_at_month": 5,
+            "updated_at": "20240507T150907",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:later"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpm-r",
+            "issue": 1,
+            "title": "Criar pacote dpm-r com função read_datapackage",
+            "pull_request": false,
+            "created_at": "30/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240507T135636",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/duckdb-carga-despesa",
