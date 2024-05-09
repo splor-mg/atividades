@@ -493,11 +493,11 @@
             "created_at": "16/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240404T134932",
+            "updated_at": "20240508T212920",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "hslinhares",
+            "assignee": null,
             "labels": null
         },
         {
@@ -2774,7 +2774,7 @@
             "created_at": "25/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240507T220133",
+            "updated_at": "20240508T023711",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -3469,6 +3469,23 @@
             "closed_at_year": 2024,
             "closed_at_month": 4,
             "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 24,
+            "title": "Falha na execução do workflow em 2024-05-08T09:35:53Z",
+            "pull_request": false,
+            "created_at": "08/05/2024",
+            "created_at_year": 2024,
+            "created_at_month": 5,
+            "updated_at": "20240508T171800",
+            "closed_at": "08/05/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 5,
+            "assignee": "hslinhares",
             "labels": [
                 "bug"
             ]
@@ -5457,6 +5474,21 @@
             "closed_at_year": 2023,
             "closed_at_month": 10,
             "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 77,
+            "title": "DPM concat sem armazenamento dos data packages a serem concatenados em memória",
+            "pull_request": true,
+            "created_at": "08/05/2024",
+            "created_at_year": 2024,
+            "created_at_month": 5,
+            "updated_at": "20240508T215401",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
             "labels": null
         },
         {
@@ -7481,6 +7513,21 @@
             "closed_at": "23/03/2023",
             "closed_at_year": 2023,
             "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/notas",
+            "issue": 36,
+            "title": "python profiling",
+            "pull_request": false,
+            "created_at": "08/05/2024",
+            "created_at_year": 2024,
+            "created_at_month": 5,
+            "updated_at": "20240508T184518",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": null
         },
