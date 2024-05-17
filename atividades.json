@@ -3105,14 +3105,12 @@
             "created_at": "07/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240506T192047",
+            "updated_at": "20240516T172846",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "labanca",
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -4970,7 +4968,7 @@
             "created_at": "14/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240514T210916",
+            "updated_at": "20240516T190054",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6665,6 +6663,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm-r",
+            "issue": 3,
+            "title": "Cria estrutura básica do pacote `dpm-r`.",
+            "pull_request": true,
+            "created_at": "16/05/2024",
+            "created_at_year": 2024,
+            "created_at_month": 5,
+            "updated_at": "20240516T195104",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
             "labels": null
         },
         {
