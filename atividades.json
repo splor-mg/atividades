@@ -4968,7 +4968,7 @@
             "created_at": "14/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240516T190054",
+            "updated_at": "20240517T143344",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5621,7 +5621,7 @@
             "created_at": "10/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240514T182059",
+            "updated_at": "20240517T165908",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5655,14 +5655,12 @@
             "created_at": "09/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240429T210459",
+            "updated_at": "20240517T165937",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "labanca",
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -6673,7 +6671,7 @@
             "created_at": "16/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240516T195104",
+            "updated_at": "20240517T141919",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
