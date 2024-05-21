@@ -1920,11 +1920,11 @@
             "created_at": "22/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240209T145245",
+            "updated_at": "20240520T201238",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "carloshob",
             "labels": [
                 "check"
             ]
@@ -1967,11 +1967,11 @@
             "created_at": "18/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240209T182534",
+            "updated_at": "20240520T192606",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "carloshob",
             "labels": [
                 "bug"
             ]
@@ -2768,13 +2768,28 @@
         },
         {
             "repo": "splor-mg/checks-py",
+            "issue": 4,
+            "title": "Complementar test_parse_requirements.py com caso de pacote instalado via git e com versão",
+            "pull_request": false,
+            "created_at": "20/05/2024",
+            "created_at_year": 2024,
+            "created_at_month": 5,
+            "updated_at": "20240520T133012",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-py",
             "issue": 3,
             "title": "Reformulação do checks-py ",
             "pull_request": true,
             "created_at": "25/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240514T181246",
+            "updated_at": "20240520T162216",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2819,11 +2834,11 @@
             "created_at": "06/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240506T151231",
+            "updated_at": "20240520T195857",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "hslinhares",
             "labels": null
         },
         {
@@ -4091,14 +4106,13 @@
             "created_at": "22/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240209T182531",
+            "updated_at": "20240520T192628",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "carloshob",
             "labels": [
-                "bug",
-                "status:waiting"
+                "bug"
             ]
         },
         {
@@ -4983,11 +4997,11 @@
             "created_at": "09/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240513T191126",
+            "updated_at": "20240520T170939",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "hslinhares",
+            "assignee": null,
             "labels": null
         },
         {
@@ -6671,7 +6685,7 @@
             "created_at": "16/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240517T141919",
+            "updated_at": "20240520T142331",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8548,11 +8562,11 @@
             "created_at": "02/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240506T151014",
+            "updated_at": "20240520T194157",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "hslinhares",
             "labels": null
         },
         {
