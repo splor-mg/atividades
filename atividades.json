@@ -1897,6 +1897,21 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 50,
+            "title": "Inicia implementacao de check de objetivos estrategicos",
+            "pull_request": true,
+            "created_at": "24/05/2024",
+            "created_at_year": 2024,
+            "created_at_month": 5,
+            "updated_at": "20240524T202653",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 49,
             "title": "Utilizar glue para gerar logs de warning no lugar de data frame",
             "pull_request": false,
