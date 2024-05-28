@@ -3603,11 +3603,11 @@
             "created_at": "11/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240412T190140",
+            "updated_at": "20240527T200549",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "hslinhares",
             "labels": [
                 "status:next"
             ]
