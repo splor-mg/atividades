@@ -1903,7 +1903,7 @@
             "created_at": "24/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240524T202653",
+            "updated_at": "20240529T233908",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2854,6 +2854,21 @@
             "closed_at_year": 2024,
             "closed_at_month": 4,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 42,
+            "title": "Cookbook - autenticação sharepoint com github actions",
+            "pull_request": true,
+            "created_at": "29/05/2024",
+            "created_at_year": 2024,
+            "created_at_month": 5,
+            "updated_at": "20240529T202758",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
             "labels": null
         },
         {
@@ -5733,14 +5748,12 @@
             "created_at": "10/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240517T165908",
+            "updated_at": "20240529T191120",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "fjuniorr",
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
