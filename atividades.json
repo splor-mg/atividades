@@ -77,6 +77,23 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 122,
+            "title": "Pesquisa sobre ferramentas para busca no conteúdo das apresentações COFIN",
+            "pull_request": false,
+            "created_at": "04/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240604T175833",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 121,
             "title": "Armazenamento de commit de um pacote instalado do github via pip-compile",
             "pull_request": false,
@@ -100,10 +117,10 @@
             "created_at": "29/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240503T161048",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240604T184124",
+            "closed_at": "04/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
             "assignee": "labanca",
             "labels": null
         },
@@ -1913,18 +1930,18 @@
         {
             "repo": "splor-mg/checks-planejamento",
             "issue": 49,
-            "title": "Utilizar glue para gerar logs de warning no lugar de data frame",
+            "title": "Experimentar relatórios utilizando mensagens de log no lugar de data frames",
             "pull_request": false,
             "created_at": "08/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240408T212056",
+            "updated_at": "20240604T174856",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "status:later"
+                "status:next"
             ]
         },
         {
@@ -2864,7 +2881,7 @@
             "created_at": "29/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240603T121232",
+            "updated_at": "20240604T135518",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5027,10 +5044,10 @@
             "created_at": "31/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240531T094908",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240604T132942",
+            "closed_at": "04/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
             "assignee": null,
             "labels": [
                 "bug"
