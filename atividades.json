@@ -2014,7 +2014,7 @@
             "created_at": "18/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240520T192606",
+            "updated_at": "20240605T212506",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2821,11 +2821,11 @@
             "created_at": "20/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240520T133012",
+            "updated_at": "20240605T205011",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "labanca",
             "labels": null
         },
         {
