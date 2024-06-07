@@ -77,6 +77,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 123,
+            "title": "Criar instruções para download das apresentações COFIN e instalação/utilização do Obsidian",
+            "pull_request": false,
+            "created_at": "06/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240606T212515",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 122,
             "title": "Pesquisa sobre ferramentas para busca no conteúdo das apresentações COFIN",
             "pull_request": false,
