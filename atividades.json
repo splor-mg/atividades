@@ -77,6 +77,51 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 127,
+            "title": "Criar Painel OBZ apresentação",
+            "pull_request": false,
+            "created_at": "10/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240610T202701",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 126,
+            "title": "Criar painel de análise OBZ em qlikview",
+            "pull_request": false,
+            "created_at": "10/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240610T212912",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 125,
+            "title": "Criar conjunto de dados `dados-obz-2025`",
+            "pull_request": false,
+            "created_at": "10/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240610T202424",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 124,
             "title": "Criar função com argumento `stop on failure` que recebe os resultados da validação da frictionless ",
             "pull_request": false,
@@ -113,13 +158,13 @@
             "created_at": "04/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240604T175833",
+            "updated_at": "20240610T174948",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "status:next"
+                "status:later"
             ]
         },
         {
@@ -1545,7 +1590,7 @@
             "created_at": "25/04/2023",
             "created_at_year": 2023,
             "created_at_month": 4,
-            "updated_at": "20231228T175012",
+            "updated_at": "20240610T170651",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2905,6 +2950,21 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 44,
+            "title": "Utilizar `uv` para executar `pip compile` no lugar de `pip-tools`",
+            "pull_request": false,
+            "created_at": "10/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240610T211954",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 43,
             "title": "apt-get update should be in the same line you run apt-get install using && in Dockerfile",
             "pull_request": false,
@@ -2926,7 +2986,7 @@
             "created_at": "29/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240604T135518",
+            "updated_at": "20240610T172344",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5985,14 +6045,12 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240229T123826",
+            "updated_at": "20240610T212844",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "fjuniorr",
-            "labels": [
-                "meta-fev2024"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -8797,7 +8855,7 @@
             "created_at": "29/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20240227T164946",
+            "updated_at": "20240610T212704",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
