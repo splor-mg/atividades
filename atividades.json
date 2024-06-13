@@ -98,7 +98,7 @@
             "created_at": "10/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240610T212912",
+            "updated_at": "20240612T220153",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -113,10 +113,10 @@
             "created_at": "10/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240610T202424",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240612T230519",
+            "closed_at": "12/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
             "assignee": "carloshob",
             "labels": null
         },
@@ -2965,6 +2965,51 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 49,
+            "title": "Remover timestamp da mensagem \"Falha na execução do workflow\"",
+            "pull_request": false,
+            "created_at": "12/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240612T220329",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 48,
+            "title": "Implementar `ensure_dir_exists` para chamada antes de exportação dos dados",
+            "pull_request": false,
+            "created_at": "12/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240612T215231",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 47,
+            "title": "Adiciona make notify e códigos relacionados",
+            "pull_request": true,
+            "created_at": "12/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240612T223322",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 46,
             "title": "utiliza uv para execucao do pip-compile",
             "pull_request": true,
@@ -2986,7 +3031,7 @@
             "created_at": "11/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240611T194150",
+            "updated_at": "20240612T162730",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -3016,11 +3061,11 @@
             "created_at": "07/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240607T161102",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "hslinhares",
+            "updated_at": "20240612T223444",
+            "closed_at": "12/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
+            "assignee": "fjuniorr",
             "labels": null
         },
         {
@@ -5932,7 +5977,7 @@
             "created_at": "10/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240529T191120",
+            "updated_at": "20240612T224432",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6227,14 +6272,12 @@
             "created_at": "24/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231215T160808",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "updated_at": "20240612T214150",
+            "closed_at": "12/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
+            "assignee": "fjuniorr",
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -7211,6 +7254,174 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/gh-notufy",
+            "issue": 10,
+            "title": "Warnings na execução do workflow",
+            "pull_request": false,
+            "created_at": "13/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240613T014014",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/gh-notufy",
+            "issue": 9,
+            "title": "Falha na execução do workflow em 2024-06-12T23:24:23Z",
+            "pull_request": false,
+            "created_at": "12/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240612T232423",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/gh-notufy",
+            "issue": 8,
+            "title": "Falha na execução do workflow em 2024-06-12T23:10:35Z",
+            "pull_request": false,
+            "created_at": "12/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240612T231035",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/gh-notufy",
+            "issue": 7,
+            "title": "Falha na execução do workflow em 2024-06-12T23:06:35Z",
+            "pull_request": false,
+            "created_at": "12/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240612T230635",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/gh-notufy",
+            "issue": 6,
+            "title": "Falha na execução do workflow em 2024-06-12T22:57:57Z",
+            "pull_request": false,
+            "created_at": "12/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240612T230609",
+            "closed_at": "12/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/gh-notufy",
+            "issue": 5,
+            "title": "Falha na execução do workflow em 2024-06-12T22:38:50Z",
+            "pull_request": false,
+            "created_at": "12/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240612T230609",
+            "closed_at": "12/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/gh-notufy",
+            "issue": 4,
+            "title": "Falha na execução do workflow em 2024-06-12T22:30:15Z",
+            "pull_request": false,
+            "created_at": "12/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240612T230608",
+            "closed_at": "12/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/gh-notufy",
+            "issue": 3,
+            "title": "Falha na execução do workflow em 2024-06-12T22:25:23Z",
+            "pull_request": false,
+            "created_at": "12/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240612T230608",
+            "closed_at": "12/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/gh-notufy",
+            "issue": 2,
+            "title": "Falha na execução do workflow em 2024-06-12T21:47:35Z",
+            "pull_request": false,
+            "created_at": "12/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240612T220338",
+            "closed_at": "12/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/gh-notufy",
+            "issue": 1,
+            "title": "Falha na execução do workflow em 2024-06-12T21:40:42Z",
+            "pull_request": false,
+            "created_at": "12/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240612T220337",
+            "closed_at": "12/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
