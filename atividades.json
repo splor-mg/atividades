@@ -1944,6 +1944,142 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 13,
+            "title": "Falha na execução do workflow em 2024-06-21T18:57:12Z",
+            "pull_request": false,
+            "created_at": "21/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240621T185713",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 12,
+            "title": "Falha na execução do workflow em 2024-06-21T18:51:30Z",
+            "pull_request": false,
+            "created_at": "21/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240621T185131",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 11,
+            "title": "Falha na execução do workflow em 2024-06-21T18:42:41Z",
+            "pull_request": false,
+            "created_at": "21/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240621T184242",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 10,
+            "title": "Falha na execução do workflow em 2024-06-21T18:28:50Z",
+            "pull_request": false,
+            "created_at": "21/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240621T182851",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 9,
+            "title": "Falha na execução do workflow em 2024-06-21T18:24:02Z",
+            "pull_request": false,
+            "created_at": "21/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240621T182402",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 8,
+            "title": "Falha na execução do workflow em 2024-06-21T13:49:48Z",
+            "pull_request": false,
+            "created_at": "21/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240621T134949",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 7,
+            "title": "Falha na execução do workflow em 2024-06-21T13:42:55Z",
+            "pull_request": false,
+            "created_at": "21/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240621T134255",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 6,
+            "title": "Falha na execução do workflow em 2024-06-21T12:12:50Z",
+            "pull_request": false,
+            "created_at": "21/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240621T121251",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 5,
             "title": "Adicionar coluna `chave_agrupamento` para cruzamentos link table",
             "pull_request": false,
@@ -1965,10 +2101,10 @@
             "created_at": "13/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240620T154424",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240621T191035",
+            "closed_at": "21/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
             "assignee": "hslinhares",
             "labels": null
         },
@@ -7468,6 +7604,57 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 39,
+            "title": "Falha na execução do workflow em 2024-06-21T17:22:01Z",
+            "pull_request": false,
+            "created_at": "21/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240621T172201",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 38,
+            "title": "Falha na execução do workflow em 2024-06-21T17:15:55Z",
+            "pull_request": false,
+            "created_at": "21/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240621T171556",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 37,
+            "title": "Falha na execução do workflow em 2024-06-21T17:07:54Z",
+            "pull_request": false,
+            "created_at": "21/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240621T170755",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
