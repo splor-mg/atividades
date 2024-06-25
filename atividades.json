@@ -237,11 +237,11 @@
             "created_at": "05/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240422T210809",
+            "updated_at": "20240624T192125",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "carloshob",
+            "assignee": null,
             "labels": null
         },
         {
@@ -538,10 +538,10 @@
             "created_at": "05/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240503T131905",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240624T190805",
+            "closed_at": "24/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
             "assignee": "hslinhares",
             "labels": [
                 "meta-mar2024"
@@ -1605,10 +1605,10 @@
             "created_at": "25/04/2023",
             "created_at_year": 2023,
             "created_at_month": 4,
-            "updated_at": "20240610T170651",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240624T190014",
+            "closed_at": "24/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
             "assignee": "hslinhares",
             "labels": null
         },
@@ -2345,11 +2345,11 @@
             "created_at": "18/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240605T212506",
+            "updated_at": "20240624T191944",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "carloshob",
+            "assignee": null,
             "labels": [
                 "bug"
             ]
@@ -3287,10 +3287,10 @@
             "created_at": "06/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240520T195857",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240624T190333",
+            "closed_at": "24/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
             "assignee": "hslinhares",
             "labels": null
         },
@@ -4058,14 +4058,12 @@
             "created_at": "11/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240527T200549",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240624T190258",
+            "closed_at": "24/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
             "assignee": "hslinhares",
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -4591,13 +4589,14 @@
             "created_at": "22/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240520T192628",
+            "updated_at": "20240624T192107",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "carloshob",
+            "assignee": null,
             "labels": [
-                "bug"
+                "bug",
+                "status:next"
             ]
         },
         {
@@ -5461,16 +5460,33 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 43,
+            "title": "Falha na execução do workflow em 2024-06-24T09:48:39Z",
+            "pull_request": false,
+            "created_at": "24/06/2024",
+            "created_at_year": 2024,
+            "created_at_month": 6,
+            "updated_at": "20240624T133134",
+            "closed_at": "24/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 42,
             "title": "Falha na execução do workflow em 2024-06-17T09:49:06Z",
             "pull_request": false,
             "created_at": "17/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240617T094906",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240624T133145",
+            "closed_at": "24/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
             "assignee": null,
             "labels": [
                 "bug"
@@ -6222,7 +6238,7 @@
             "created_at": "10/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240620T171136",
+            "updated_at": "20240624T164628",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -7261,12 +7277,12 @@
         {
             "repo": "splor-mg/dpm-r",
             "issue": 4,
-            "title": "Adiciona funções de criação da modelagem linktable",
+            "title": "Adiciona funções de criação da modelagem linktable no dpm-r",
             "pull_request": true,
             "created_at": "13/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240620T150127",
+            "updated_at": "20240624T185155",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -9239,10 +9255,10 @@
             "created_at": "02/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240520T194157",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240624T190634",
+            "closed_at": "24/06/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 6,
             "assignee": "hslinhares",
             "labels": null
         },
