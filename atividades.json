@@ -77,6 +77,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 131,
+            "title": "Criar painel fechamento SISOR LOA 2025",
+            "pull_request": false,
+            "created_at": "01/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240701T195335",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 128,
             "title": "Criar repositório dados reestimativa previous",
             "pull_request": false,
@@ -3142,6 +3157,21 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 51,
+            "title": "Arquivo `.logignore` deve ser opcional",
+            "pull_request": false,
+            "created_at": "01/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240701T215304",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
             "labels": null
         },
         {
