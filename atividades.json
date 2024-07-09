@@ -98,7 +98,7 @@
             "created_at": "02/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240703T181219",
+            "updated_at": "20240708T180157",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5582,6 +5582,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 44,
+            "title": "Falha na execução do workflow em 2024-07-08T09:48:46Z",
+            "pull_request": false,
+            "created_at": "08/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240708T163456",
+            "closed_at": "08/07/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 7,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 43,
             "title": "Falha na execução do workflow em 2024-06-24T09:48:39Z",
             "pull_request": false,
@@ -9614,6 +9631,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/temp-dispatch-dados-obz-2025",
+            "issue": 1,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "08/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240708T191157",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/volumes-docker",
