@@ -143,10 +143,10 @@
             "created_at": "10/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240703T184709",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240710T183301",
+            "closed_at": "10/07/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 7,
             "assignee": "labanca",
             "labels": null
         },
@@ -5427,6 +5427,74 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/dados-sigplan-planejamento-2025",
+            "issue": 4,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "10/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240710T134644",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2025",
+            "issue": 3,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "10/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240710T133622",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2025",
+            "issue": 2,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "10/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240710T132119",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2025",
+            "issue": 1,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "10/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240710T082938",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
             "repo": "splor-mg/dados-sisor",
             "issue": 9,
             "title": "`base_qdd_investimento.categoria_cod` não possui códigos",
@@ -8369,6 +8437,21 @@
             "closed_at_year": 2023,
             "closed_at_month": 3,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/notas",
+            "issue": 39,
+            "title": "Github Actions: Rodar scripts condicionados a modificação em arquivos ou pastas",
+            "pull_request": false,
+            "created_at": "10/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240710T211935",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
             "labels": null
         },
         {
