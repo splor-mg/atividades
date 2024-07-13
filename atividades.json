@@ -77,6 +77,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 134,
+            "title": "Armazém-GRP - receita - auxiliar DCAF na homologação",
+            "pull_request": false,
+            "created_at": "12/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240712T214522",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 133,
             "title": "Criar data package com tabelas do SIGPLAN alimentadas pelo Armazém SIAFI",
             "pull_request": false,
