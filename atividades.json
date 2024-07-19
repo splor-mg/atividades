@@ -8460,6 +8460,21 @@
         },
         {
             "repo": "splor-mg/notas",
+            "issue": 40,
+            "title": "Configurar path da biblioteca do R (arquivo .Renviron) pra que seja encontrada pelo Make. ",
+            "pull_request": false,
+            "created_at": "18/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240718T164803",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/notas",
             "issue": 39,
             "title": "Github Actions: Rodar scripts condicionados a modificação em arquivos ou pastas",
             "pull_request": false,
