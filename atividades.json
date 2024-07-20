@@ -9395,6 +9395,21 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/relatoriosOBZ",
+            "issue": 1,
+            "title": "Atualizar critérios para 2024",
+            "pull_request": false,
+            "created_at": "19/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240719T150817",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
             "repo": "splor-mg/reprex",
             "issue": 1,
             "title": "Exportação de CSV no Business Objects no MAC utiliza ponto (`.`)  e não vírgula (`,`) como separador de decimal",
