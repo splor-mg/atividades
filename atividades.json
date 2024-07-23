@@ -2309,6 +2309,21 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 51,
+            "title": "Mudança de parâmetros e funcionamento da função check_results: output para jsonlines",
+            "pull_request": false,
+            "created_at": "22/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240723T012255",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 50,
             "title": "Inicia implementacao de check de objetivos estrategicos",
             "pull_request": true,
