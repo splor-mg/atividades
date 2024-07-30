@@ -79,13 +79,30 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 136,
+            "title": "Pesquisar logs do agendador de tarefas do windows para determinar causa das falhas de atualização",
+            "pull_request": false,
+            "created_at": "29/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240729T174506",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 135,
-            "title": "Proposta de campos dinamicamente para logs de testes (json lines)",
+            "title": "Proposta de campos criados dinamicamente para logs de testes (json lines)",
             "pull_request": false,
             "created_at": "23/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240726T195713",
+            "updated_at": "20240729T204823",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2320,6 +2337,21 @@
             "closed_at_year": 2024,
             "closed_at_month": 6,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 52,
+            "title": "Oficinas para escrita dos templates das mensagens de erro do checks.planejamento",
+            "pull_request": false,
+            "created_at": "29/07/2024",
+            "created_at_year": 2024,
+            "created_at_month": 7,
+            "updated_at": "20240729T222756",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
             "labels": null
         },
         {
@@ -9432,11 +9464,11 @@
             "created_at": "19/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240719T150817",
+            "updated_at": "20240729T205400",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
+            "assignee": "carloshob",
             "labels": null
         },
         {
