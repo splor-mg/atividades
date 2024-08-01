@@ -5496,11 +5496,11 @@
             "created_at": "19/01/2023",
             "created_at_year": 2023,
             "created_at_month": 1,
-            "updated_at": "20230123T180404",
-            "closed_at": "23/01/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 1,
-            "assignee": null,
+            "updated_at": "20240731T110212",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
             "labels": null
         },
         {
