@@ -2038,6 +2038,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 14,
+            "title": "Falha na execução do workflow em 2024-08-02T08:17:01Z",
+            "pull_request": false,
+            "created_at": "02/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240802T081701",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 13,
             "title": "Falha na execução do workflow em 2024-06-21T18:57:12Z",
             "pull_request": false,
@@ -8517,6 +8534,21 @@
             "closed_at": "23/03/2023",
             "closed_at_year": 2023,
             "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/notas",
+            "issue": 41,
+            "title": "Leitura de arquivos `metadados`,  `.json` no qlivkiew",
+            "pull_request": false,
+            "created_at": "02/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240802T151645",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": null
         },
