@@ -162,10 +162,10 @@
             "created_at": "01/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240711T192857",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240805T161619",
+            "closed_at": "05/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": "hslinhares",
             "labels": null
         },
@@ -2035,6 +2035,23 @@
             "closed_at_month": 3,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 15,
+            "title": "Falha na execução do workflow em 2024-08-05T08:18:14Z",
+            "pull_request": false,
+            "created_at": "05/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240805T081815",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
