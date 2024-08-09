@@ -2061,10 +2061,10 @@
             "created_at": "06/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240806T081653",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240808T144056",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2078,10 +2078,10 @@
             "created_at": "05/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240805T081815",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240808T144056",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2095,10 +2095,10 @@
             "created_at": "02/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240802T081701",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240808T144056",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2112,10 +2112,10 @@
             "created_at": "21/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240621T185713",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240808T144055",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2129,10 +2129,10 @@
             "created_at": "21/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240621T185131",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240808T144055",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2146,10 +2146,10 @@
             "created_at": "21/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240621T184242",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240808T144054",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2163,10 +2163,10 @@
             "created_at": "21/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240621T182851",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240808T144054",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2180,10 +2180,10 @@
             "created_at": "21/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240621T182402",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240808T144054",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2197,10 +2197,10 @@
             "created_at": "21/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240621T134949",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240808T144053",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2214,10 +2214,10 @@
             "created_at": "21/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240621T134255",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240808T144052",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2231,10 +2231,10 @@
             "created_at": "21/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240621T121251",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240808T144052",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": [
                 "bug"
@@ -5641,6 +5641,21 @@
         },
         {
             "repo": "splor-mg/dados-sisor",
+            "issue": 10,
+            "title": "SISOR está bloqueando requisições de IPs internacionais",
+            "pull_request": false,
+            "created_at": "08/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240808T223533",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sisor",
             "issue": 9,
             "title": "`base_qdd_investimento.categoria_cod` não possui códigos",
             "pull_request": false,
@@ -5792,6 +5807,108 @@
             "closed_at_month": 9,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
+            "issue": 6,
+            "title": "Falha na execução do workflow em 2024-08-08T22:01:22Z",
+            "pull_request": false,
+            "created_at": "08/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240808T223439",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
+            "issue": 5,
+            "title": "Falha na execução do workflow em 2024-08-08T21:38:23Z",
+            "pull_request": false,
+            "created_at": "08/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240808T223439",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
+            "issue": 4,
+            "title": "Falha na execução do workflow em 2024-08-08T20:00:40Z",
+            "pull_request": false,
+            "created_at": "08/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240808T223438",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
+            "issue": 3,
+            "title": "Falha na execução do workflow em 2024-08-08T19:02:23Z",
+            "pull_request": false,
+            "created_at": "08/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240808T223438",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
+            "issue": 2,
+            "title": "Falha na execução do workflow em 2024-08-08T18:50:43Z",
+            "pull_request": false,
+            "created_at": "08/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240808T190056",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
+            "issue": 1,
+            "title": "Falha na execução do workflow em 2024-08-08T18:41:14Z",
+            "pull_request": false,
+            "created_at": "08/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240808T185035",
+            "closed_at": "08/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
