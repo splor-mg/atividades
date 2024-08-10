@@ -1000,12 +1000,12 @@
         {
             "repo": "splor-mg/atividades",
             "issue": 72,
-            "title": "Pesquisar ferramenta de macro para automatizar refresh e pusblish do power bi",
+            "title": "Pesquisar ferramenta de macro para automatizar refresh e publish do power bi",
             "pull_request": false,
             "created_at": "21/08/2023",
             "created_at_year": 2023,
             "created_at_month": 8,
-            "updated_at": "20231110T165800",
+            "updated_at": "20240809T143505",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -3338,6 +3338,23 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 54,
+            "title": "Utilizar datetime.utcnow() no lugar de datetime.now() para capturar timestamps de atualização das bases",
+            "pull_request": false,
+            "created_at": "09/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240809T200303",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 53,
             "title": "Corrigir `make notify` para não postar no `issue` log INFO relacionada ao `token`",
             "pull_request": false,
@@ -5570,6 +5587,23 @@
             "closed_at_month": null,
             "assignee": "fjuniorr",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2025",
+            "issue": 5,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "09/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240809T083354",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2025",
