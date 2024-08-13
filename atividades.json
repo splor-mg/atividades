@@ -102,10 +102,10 @@
             "created_at": "23/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240730T154059",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240812T211205",
+            "closed_at": "12/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": "labanca",
             "labels": null
         },
@@ -117,26 +117,26 @@
             "created_at": "12/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240730T133728",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240812T174350",
+            "closed_at": "12/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": "carloshob",
             "labels": null
         },
         {
             "repo": "splor-mg/atividades",
             "issue": 133,
-            "title": "Criar data package com tabelas do SIGPLAN alimentadas pelo Armazém SIAFI",
+            "title": "Criar de_para entre tabelas do SIGPLAN (alimentadas pelo Armazém SIAFI) e Armazém GRP",
             "pull_request": false,
             "created_at": "05/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240705T200237",
+            "updated_at": "20240812T181905",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
+            "assignee": "hslinhares",
             "labels": null
         },
         {
@@ -162,12 +162,14 @@
             "created_at": "01/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240805T161619",
-            "closed_at": "05/08/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 8,
+            "updated_at": "20240812T182511",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "hslinhares",
-            "labels": null
+            "labels": [
+                "status:waiting"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -2409,17 +2411,32 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 53,
+            "title": "check_results: Adiciona output dos logs no formato JSON Lines",
+            "pull_request": true,
+            "created_at": "12/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240812T213120",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 52,
             "title": "Oficinas para escrita dos templates das mensagens de erro do checks.planejamento",
             "pull_request": false,
             "created_at": "29/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240729T222756",
+            "updated_at": "20240812T190731",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "labanca",
+            "assignee": "carloshob",
             "labels": null
         },
         {
@@ -2430,7 +2447,7 @@
             "created_at": "22/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240726T190329",
+            "updated_at": "20240812T180943",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2460,10 +2477,10 @@
             "created_at": "08/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240715T185418",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240812T173916",
+            "closed_at": "12/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": "labanca",
             "labels": null
         },
@@ -5590,6 +5607,23 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2025",
+            "issue": 6,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "12/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240812T083437",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2025",
             "issue": 5,
             "title": "Erro na execução do workflow",
             "pull_request": false,
@@ -6677,14 +6711,12 @@
             "created_at": "27/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240227T175547",
+            "updated_at": "20240812T190641",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "assignee": "labanca",
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -8061,10 +8093,10 @@
             "created_at": "22/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240318T140101",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240812T174700",
+            "closed_at": "12/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": "carloshob",
             "labels": null
         },
@@ -9111,11 +9143,11 @@
             "created_at": "17/07/2023",
             "created_at_year": 2023,
             "created_at_month": 7,
-            "updated_at": "20231017T112820",
+            "updated_at": "20240812T181450",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
+            "assignee": null,
             "labels": [
                 "status:review"
             ]
@@ -9745,11 +9777,11 @@
             "created_at": "30/05/2023",
             "created_at_year": 2023,
             "created_at_month": 5,
-            "updated_at": "20230905T230734",
+            "updated_at": "20240812T175502",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "hslinhares",
+            "assignee": null,
             "labels": [
                 "status:waiting"
             ]
@@ -9899,14 +9931,12 @@
             "created_at": "29/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20231129T183348",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240812T185547",
+            "closed_at": "12/08/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 8,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/spreadmart",
@@ -9931,14 +9961,12 @@
             "created_at": "10/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20231110T131403",
+            "updated_at": "20240812T185343",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/spreadmart",
