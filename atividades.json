@@ -5622,6 +5622,23 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2025",
+            "issue": 9,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "15/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240815T083259",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2025",
             "issue": 8,
             "title": "Erro na execução do workflow",
             "pull_request": false,
