@@ -2432,7 +2432,7 @@
             "created_at": "12/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240813T184928",
+            "updated_at": "20240822T201952",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6757,6 +6757,23 @@
             "closed_at_month": 10,
             "assignee": "hslinhares",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/de-para-sigplan-grp",
+            "issue": 4,
+            "title": "Despesa Liquidada sem fonte de recurso associada",
+            "pull_request": false,
+            "created_at": "22/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240822T185946",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/de-para-sigplan-grp",
