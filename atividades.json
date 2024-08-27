@@ -147,12 +147,14 @@
             "created_at": "05/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240812T181905",
+            "updated_at": "20240826T124139",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "hslinhares",
-            "labels": null
+            "labels": [
+                "status:review"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -2426,13 +2428,28 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 54,
+            "title": "Check de valores únicos sem `NA` em chaves compostas",
+            "pull_request": true,
+            "created_at": "26/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240826T214416",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 53,
             "title": "check_results: Adiciona output dos logs no formato JSON Lines",
             "pull_request": true,
             "created_at": "12/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240823T211724",
+            "updated_at": "20240826T205659",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4905,14 +4922,13 @@
             "created_at": "22/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240624T192107",
+            "updated_at": "20240826T125854",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "hslinhares",
             "labels": [
-                "bug",
-                "status:next"
+                "bug"
             ]
         },
         {
@@ -6073,6 +6089,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 45,
+            "title": "Falha na execução do workflow em 2024-08-26T09:48:55Z",
+            "pull_request": false,
+            "created_at": "26/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240826T094855",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
