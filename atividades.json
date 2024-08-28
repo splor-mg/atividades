@@ -2057,6 +2057,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 18,
+            "title": "Falha na execução do workflow em 2024-08-27T08:18:31Z",
+            "pull_request": false,
+            "created_at": "27/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240827T081832",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 17,
             "title": "Falha na execução do workflow em 2024-08-06T18:23:52Z",
             "pull_request": false,
@@ -2434,7 +2451,7 @@
             "created_at": "26/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240826T214416",
+            "updated_at": "20240827T154447",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4237,6 +4254,23 @@
             "closed_at": "30/04/2024",
             "closed_at_year": 2024,
             "closed_at_month": 4,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 28,
+            "title": "Falha na execução do workflow em 2024-08-27T09:36:07Z",
+            "pull_request": false,
+            "created_at": "27/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240827T093607",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -8400,6 +8434,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 40,
+            "title": "Conjunto não atualiza desde 12/07",
+            "pull_request": false,
+            "created_at": "27/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240827T201435",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
             "labels": null
         },
         {
