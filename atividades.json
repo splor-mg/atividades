@@ -335,12 +335,14 @@
             "created_at": "24/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240429T210219",
+            "updated_at": "20240830T142132",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -2057,6 +2059,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 21,
+            "title": "Falha na execução do workflow em 2024-08-30T08:18:31Z",
+            "pull_request": false,
+            "created_at": "30/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240830T081832",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 20,
             "title": "Falha na execução do workflow em 2024-08-29T08:18:27Z",
             "pull_request": false,
@@ -2515,7 +2534,7 @@
             "created_at": "12/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240829T170612",
+            "updated_at": "20240830T223456",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -3459,11 +3478,11 @@
             "created_at": "29/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240829T185047",
+            "updated_at": "20240830T155743",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "labanca",
             "labels": null
         },
         {
