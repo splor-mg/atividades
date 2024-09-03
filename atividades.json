@@ -2,6 +2,23 @@
     "issues": [
         {
             "repo": "splor-mg/acordo-judicial-reparacao-vale",
+            "issue": 6,
+            "title": "Atualizar base e adequar nomenclatura",
+            "pull_request": false,
+            "created_at": "02/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240902T125802",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/acordo-judicial-reparacao-vale",
             "issue": 5,
             "title": "Gerar diff entre dados para envio ao comitê",
             "pull_request": false,
@@ -2059,16 +2076,33 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 22,
+            "title": "Falha na execução do workflow em 2024-09-02T08:19:10Z",
+            "pull_request": false,
+            "created_at": "02/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240902T120541",
+            "closed_at": "02/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
+            "assignee": "hslinhares",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 21,
             "title": "Falha na execução do workflow em 2024-08-30T08:18:31Z",
             "pull_request": false,
             "created_at": "30/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240830T081832",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240902T101234",
+            "closed_at": "02/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2082,10 +2116,10 @@
             "created_at": "29/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240829T081828",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240902T101234",
+            "closed_at": "02/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2099,10 +2133,10 @@
             "created_at": "28/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240828T081749",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240902T101233",
+            "closed_at": "02/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2116,10 +2150,10 @@
             "created_at": "27/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240827T081832",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240902T101233",
+            "closed_at": "02/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2133,10 +2167,10 @@
             "created_at": "06/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240806T182352",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240902T101233",
+            "closed_at": "02/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": [
                 "bug"
@@ -2519,7 +2553,7 @@
             "created_at": "26/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240829T152358",
+            "updated_at": "20240902T110911",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2534,7 +2568,7 @@
             "created_at": "12/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240831T094614",
+            "updated_at": "20240903T001741",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -3478,10 +3512,10 @@
             "created_at": "29/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240830T155743",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240902T190525",
+            "closed_at": "02/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
             "assignee": "labanca",
             "labels": null
         },
@@ -3493,10 +3527,10 @@
             "created_at": "09/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240809T200303",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240902T190523",
+            "closed_at": "02/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": [
                 "status:next"
