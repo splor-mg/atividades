@@ -102,14 +102,12 @@
             "created_at": "03/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240903T214852",
+            "updated_at": "20240904T145101",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "assignee": "labanca",
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -369,14 +367,12 @@
             "created_at": "24/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240830T142132",
+            "updated_at": "20240904T145021",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "assignee": "labanca",
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -2585,7 +2581,7 @@
             "created_at": "12/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240903T211407",
+            "updated_at": "20240904T212738",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6957,6 +6953,21 @@
             "closed_at_year": 2023,
             "closed_at_month": 10,
             "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/de-para-sigplan-grp",
+            "issue": 12,
+            "title": "Geracao dicionario de dados",
+            "pull_request": true,
+            "created_at": "04/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240904T094609",
+            "closed_at": "04/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
+            "assignee": null,
             "labels": null
         },
         {
