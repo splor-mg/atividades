@@ -23,14 +23,12 @@
             "created_at": "02/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240903T103841",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "updated_at": "20240906T120209",
+            "closed_at": "06/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
+            "assignee": "fjuniorr",
+            "labels": null
         },
         {
             "repo": "splor-mg/acordo-judicial-reparacao-vale",
@@ -2596,7 +2594,7 @@
             "created_at": "26/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240905T144003",
+            "updated_at": "20240906T131141",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2611,7 +2609,7 @@
             "created_at": "12/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240906T003657",
+            "updated_at": "20240907T010032",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
