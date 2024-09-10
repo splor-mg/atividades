@@ -192,10 +192,10 @@
             "created_at": "05/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240826T124139",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240909T174747",
+            "closed_at": "09/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
             "assignee": "hslinhares",
             "labels": [
                 "status:review"
@@ -224,10 +224,10 @@
             "created_at": "01/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240813T150544",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240909T201553",
+            "closed_at": "09/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
             "assignee": "hslinhares",
             "labels": [
                 "status:waiting"
@@ -2609,7 +2609,7 @@
             "created_at": "12/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240907T010032",
+            "updated_at": "20240910T014856",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5114,13 +5114,14 @@
             "created_at": "22/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240826T125854",
+            "updated_at": "20240909T174859",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "hslinhares",
             "labels": [
-                "bug"
+                "bug",
+                "status:review"
             ]
         },
         {
