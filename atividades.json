@@ -115,7 +115,7 @@
             "created_at": "03/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240904T145101",
+            "updated_at": "20240910T131601",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2609,7 +2609,7 @@
             "created_at": "12/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240910T014856",
+            "updated_at": "20240910T131225",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2624,12 +2624,14 @@
             "created_at": "29/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240812T190731",
+            "updated_at": "20240910T144751",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
-            "labels": null
+            "labels": [
+                "status:review"
+            ]
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -2654,12 +2656,14 @@
             "created_at": "24/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240603T140908",
+            "updated_at": "20240910T211445",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
-            "labels": null
+            "labels": [
+                "status:review"
+            ]
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -2699,13 +2703,14 @@
             "created_at": "22/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240520T201238",
+            "updated_at": "20240910T211458",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
             "labels": [
-                "check"
+                "check",
+                "status:review"
             ]
         },
         {
@@ -7411,7 +7416,7 @@
             "created_at": "04/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240603T195613",
+            "updated_at": "20240910T212034",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8698,6 +8703,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 41,
+            "title": "Atualizar fontes de recurso STN com novas portarias",
+            "pull_request": false,
+            "created_at": "10/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240910T230353",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
             "labels": null
         },
         {
@@ -10658,6 +10678,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/volumes-docker",
+            "issue": 29,
+            "title": "Atualizar relatorios para v0.7.58 ",
+            "pull_request": false,
+            "created_at": "10/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240910T190234",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
             "labels": null
         },
         {
