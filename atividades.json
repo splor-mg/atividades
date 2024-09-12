@@ -2656,7 +2656,7 @@
             "created_at": "24/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240910T211445",
+            "updated_at": "20240911T183818",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6192,6 +6192,21 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
+            "issue": 7,
+            "title": "Adicionar chave primária na base_detalhamento_obras",
+            "pull_request": false,
+            "created_at": "11/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240911T202112",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
             "issue": 6,
             "title": "Falha na execução do workflow em 2024-08-08T22:01:22Z",
             "pull_request": false,
@@ -8703,6 +8718,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 42,
+            "title": "Atualiza fontes de recursos STN com novas portarias",
+            "pull_request": true,
+            "created_at": "11/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240911T180654",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
             "labels": null
         },
         {
