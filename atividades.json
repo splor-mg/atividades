@@ -109,6 +109,51 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 141,
+            "title": "Criar datapackage dados execução SIAD",
+            "pull_request": false,
+            "created_at": "12/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240912T134234",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 140,
+            "title": "Criar datapackage dados auxiliares contratos SIAD",
+            "pull_request": false,
+            "created_at": "12/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240912T130935",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 139,
+            "title": "Criar datapackage dados auxiliares credores SIAD",
+            "pull_request": false,
+            "created_at": "12/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240912T131044",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 138,
             "title": "Criar data package com QDD fiscal com detalhamento da fonte 95",
             "pull_request": false,
@@ -192,14 +237,12 @@
             "created_at": "05/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240909T174747",
+            "updated_at": "20240912T125938",
             "closed_at": "09/09/2024",
             "closed_at_year": 2024,
             "closed_at_month": 9,
             "assignee": "hslinhares",
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -380,7 +423,7 @@
             "created_at": "24/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240904T145021",
+            "updated_at": "20240912T125830",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2558,6 +2601,21 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 57,
+            "title": "Verificar teste lógico do check detalhamento obras - número SIAD duplicado",
+            "pull_request": false,
+            "created_at": "12/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240912T202053",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 56,
             "title": "Problema com função summarize quando utilizada com o argumento `.by`",
             "pull_request": false,
@@ -2624,14 +2682,12 @@
             "created_at": "29/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240910T144751",
+            "updated_at": "20240912T125747",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -2641,7 +2697,7 @@
             "created_at": "22/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240814T124129",
+            "updated_at": "20240912T125827",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2656,7 +2712,7 @@
             "created_at": "24/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240911T183818",
+            "updated_at": "20240912T205954",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2703,14 +2759,13 @@
             "created_at": "22/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240910T211458",
+            "updated_at": "20240912T125726",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
             "labels": [
-                "check",
-                "status:review"
+                "check"
             ]
         },
         {
@@ -5119,14 +5174,13 @@
             "created_at": "22/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240909T174859",
+            "updated_at": "20240912T125813",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "hslinhares",
             "labels": [
-                "bug",
-                "status:review"
+                "bug"
             ]
         },
         {
@@ -7190,6 +7244,21 @@
         },
         {
             "repo": "splor-mg/dpm",
+            "issue": 80,
+            "title": "Adiciona opção para download de pacotes específicos dpm install ",
+            "pull_request": true,
+            "created_at": "12/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240912T194127",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
             "issue": 79,
             "title": "dpm install adiciona hash do commit ao datapackage.json dos dados baixados",
             "pull_request": true,
@@ -7367,14 +7436,12 @@
             "created_at": "09/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240823T123204",
+            "updated_at": "20240912T125949",
             "closed_at": "23/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
             "assignee": "labanca",
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -7414,14 +7481,12 @@
             "created_at": "05/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240105T102658",
+            "updated_at": "20240912T194316",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "assignee": "labanca",
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -8728,7 +8793,7 @@
             "created_at": "11/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240911T180654",
+            "updated_at": "20240912T190716",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
