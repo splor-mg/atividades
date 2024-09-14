@@ -2667,7 +2667,7 @@
             "created_at": "12/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240910T131225",
+            "updated_at": "20240913T141101",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4479,6 +4479,21 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 29,
+            "title": "Adicionar lógica do elemento item não existente para `aux uo`.",
+            "pull_request": false,
+            "created_at": "13/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240913T172437",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 28,
             "title": "Falha na execução do workflow em 2024-08-27T09:36:07Z",
             "pull_request": false,
@@ -5881,12 +5896,14 @@
             "created_at": "19/01/2023",
             "created_at_year": 2023,
             "created_at_month": 1,
-            "updated_at": "20240731T110212",
+            "updated_at": "20240913T130841",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
-            "labels": null
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2025",
@@ -7250,7 +7267,7 @@
             "created_at": "12/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240912T194127",
+            "updated_at": "20240913T145235",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -7560,12 +7577,14 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240610T212844",
+            "updated_at": "20240913T130648",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
-            "labels": null
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/dpm",
@@ -9768,12 +9787,14 @@
             "created_at": "10/08/2023",
             "created_at_year": 2023,
             "created_at_month": 8,
-            "updated_at": "20240620T160642",
+            "updated_at": "20240913T130728",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
-            "labels": null
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/notas",
@@ -10586,12 +10607,14 @@
             "created_at": "29/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20240610T212704",
+            "updated_at": "20240913T130617",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
-            "labels": null
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/spreadmart",
