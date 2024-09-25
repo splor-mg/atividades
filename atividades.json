@@ -160,10 +160,10 @@
             "created_at": "03/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240910T131601",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240924T175510",
+            "closed_at": "24/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
             "assignee": "labanca",
             "labels": null
         },
@@ -2601,6 +2601,23 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 59,
+            "title": "Separar testes de `check_composite_primary_key.R` em arquivos separados",
+            "pull_request": false,
+            "created_at": "24/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240924T182634",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 58,
             "title": "Mensagem também deve estar disponível no resultado de `output=True`",
             "pull_request": false,
@@ -3555,7 +3572,7 @@
             "created_at": "20/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240923T190111",
+            "updated_at": "20240924T220917",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -3570,11 +3587,11 @@
             "created_at": "20/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240920T140030",
+            "updated_at": "20240924T175315",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "carloshob",
             "labels": null
         },
         {
@@ -4983,6 +5000,21 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/dados-qdd-fonte-95",
+            "issue": 1,
+            "title": "Adicionar restrição enum no table schema para as colunas preenchidas pelo Comitê",
+            "pull_request": false,
+            "created_at": "19/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240919T202721",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
             "repo": "splor-mg/dados-sigplan-historico",
             "issue": 7,
             "title": "Atualizar dados monitoramento 2023 para 6 bimestre",
@@ -5211,6 +5243,36 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento",
+            "issue": 52,
+            "title": "criar função validate frictionless com argumento `stop_on_failure`.",
+            "pull_request": false,
+            "created_at": "24/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240924T155453",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento",
+            "issue": 51,
+            "title": "Cria função `validate.py` com argumento `stop_on_failure`",
+            "pull_request": true,
+            "created_at": "24/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240924T155619",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
             "labels": null
         },
         {
@@ -7226,13 +7288,13 @@
             "created_at": "16/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240916T185821",
+            "updated_at": "20240924T174016",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "status:next"
+                "status:later"
             ]
         },
         {
@@ -7243,14 +7305,12 @@
             "created_at": "16/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240916T184016",
+            "updated_at": "20240924T175710",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "assignee": "fjuniorr",
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-volumes-loa",
@@ -9019,10 +9079,10 @@
             "created_at": "11/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240912T190716",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240924T174833",
+            "closed_at": "24/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
             "assignee": "carloshob",
             "labels": null
         },
@@ -9034,10 +9094,10 @@
             "created_at": "10/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240910T230353",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20240924T174827",
+            "closed_at": "24/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
             "assignee": "carloshob",
             "labels": null
         },
