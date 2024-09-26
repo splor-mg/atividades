@@ -130,7 +130,7 @@
             "created_at": "12/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240912T130935",
+            "updated_at": "20240925T155328",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2601,6 +2601,102 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 65,
+            "title": "Teste para identificar unidades com nomes e siglas inconsistentes",
+            "pull_request": false,
+            "created_at": "25/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240925T221243",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:later"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 64,
+            "title": "check_indicadores_consistency_indice_de_referencia_missing - indicador em apuração em anos sem meta",
+            "pull_request": false,
+            "created_at": "25/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240925T205003",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 63,
+            "title": "Remover linhas deletadas dos testes `check_composite_primary_key`",
+            "pull_request": false,
+            "created_at": "25/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240925T182439",
+            "closed_at": "25/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 62,
+            "title": "Pesquisar se múltiplos filtros `is_deleted_*` devem/precisam ser utilizados para determinar linhas ativas em determinada base",
+            "pull_request": false,
+            "created_at": "25/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240925T182145",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:later"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 61,
+            "title": "Avaliar criação de check para indicar unidades com detalhamento em BASE_CATEGORIA_PESSOAL mas sem valores de pessoal em BASE_QDD_FISCAL",
+            "pull_request": false,
+            "created_at": "25/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240925T172934",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 60,
+            "title": "check_indicadores_consistency_indice_de_referencia_exists - indicador em apuração em anos sem meta",
+            "pull_request": false,
+            "created_at": "25/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240925T204948",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 59,
             "title": "Separar testes de `check_composite_primary_key.R` em arquivos separados",
             "pull_request": false,
@@ -3438,7 +3534,7 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240209T144411",
+            "updated_at": "20240925T175620",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -3572,7 +3668,7 @@
             "created_at": "20/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240924T220917",
+            "updated_at": "20240925T195949",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -7525,6 +7621,23 @@
             "closed_at_month": 8,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 81,
+            "title": "Nomes de pacotes inválidos durante o `DMP install --package <nome_pacote>`",
+            "pull_request": false,
+            "created_at": "25/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240925T172431",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
+            "labels": [
+                "status:next"
+            ]
         },
         {
             "repo": "splor-mg/dpm",
