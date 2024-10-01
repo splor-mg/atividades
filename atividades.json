@@ -109,6 +109,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 142,
+            "title": "Elencar rotinas AID",
+            "pull_request": false,
+            "created_at": "30/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240930T171754",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 141,
             "title": "Criar datapackage dados execução SIAD",
             "pull_request": false,
@@ -3668,7 +3683,7 @@
             "created_at": "20/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240926T124535",
+            "updated_at": "20240930T151545",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -3763,6 +3778,36 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 57,
+            "title": "altera usuário dockerhub de fjunior para splormg",
+            "pull_request": true,
+            "created_at": "30/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240930T160225",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 56,
+            "title": "Substituir usuário dockerhub de fjunior para splormg",
+            "pull_request": false,
+            "created_at": "30/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240930T153958",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
             "labels": null
         },
         {
@@ -4619,23 +4664,6 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-acordo-judicial-reparacao-vale",
-            "issue": 1,
-            "title": "Falha na execução do workflow em 2024-04-30T08:28:28Z",
-            "pull_request": false,
-            "created_at": "30/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240430T113401",
-            "closed_at": "30/04/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 4,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -6593,6 +6621,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 51,
+            "title": "Falha na execução do workflow em 2024-09-30T09:48:56Z",
+            "pull_request": false,
+            "created_at": "30/09/2024",
+            "created_at_year": 2024,
+            "created_at_month": 9,
+            "updated_at": "20240930T094857",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
