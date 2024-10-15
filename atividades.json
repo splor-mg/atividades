@@ -115,11 +115,11 @@
             "created_at": "03/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241003T222922",
+            "updated_at": "20241014T204211",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
+            "assignee": null,
             "labels": null
         },
         {
@@ -3812,7 +3812,7 @@
             "created_at": "30/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240930T160225",
+            "updated_at": "20241014T184358",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5416,7 +5416,7 @@
             "created_at": "24/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240924T155619",
+            "updated_at": "20241014T204349",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6652,6 +6652,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 53,
+            "title": "Falha na execução do workflow em 2024-10-14T09:48:50Z",
+            "pull_request": false,
+            "created_at": "14/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241014T164738",
+            "closed_at": "14/10/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 52,
             "title": "Falha na execução do workflow em 2024-10-07T09:48:47Z",
             "pull_request": false,
@@ -7705,6 +7722,21 @@
             "closed_at": "13/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 84,
+            "title": "Implementa DPM report para json lines de entrada e export em formato xlsx.",
+            "pull_request": true,
+            "created_at": "14/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241014T145301",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": null
         },
@@ -9336,11 +9368,11 @@
             "created_at": "27/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20240827T201435",
+            "updated_at": "20241014T204225",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "fjuniorr",
+            "assignee": null,
             "labels": null
         },
         {
