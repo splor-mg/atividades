@@ -109,6 +109,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 146,
+            "title": "Verificar necessidade do dado `Elemento origem DEA` retirado do armazém siafi histórico",
+            "pull_request": false,
+            "created_at": "16/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241016T195119",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 145,
             "title": "Relatório trimestral de teletrabalho jul-set/2024",
             "pull_request": false,
@@ -8120,11 +8135,11 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20241015T140329",
+            "updated_at": "20241016T162345",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "labanca",
+            "assignee": null,
             "labels": [
                 "status:next"
             ]
@@ -11349,10 +11364,10 @@
             "created_at": "16/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20241007T201429",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20241016T191116",
+            "closed_at": "16/10/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 10,
             "assignee": "labanca",
             "labels": [
                 "bug"
