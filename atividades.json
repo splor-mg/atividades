@@ -109,6 +109,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 147,
+            "title": "Estudar a viabilidade de executar códigos R em Python",
+            "pull_request": false,
+            "created_at": "21/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241021T200847",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 146,
             "title": "Verificar necessidade do dado `Elemento origem DEA` retirado do armazém siafi histórico",
             "pull_request": false,
@@ -6667,6 +6682,38 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 56,
+            "title": "Atualizar cronjob para 07 da manhã",
+            "pull_request": false,
+            "created_at": "21/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241021T185243",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 55,
+            "title": "Falha na execução do workflow em 2024-10-21T09:49:06Z",
+            "pull_request": false,
+            "created_at": "21/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241021T180838",
+            "closed_at": "21/10/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 54,
             "title": "Falha na execução do workflow em 2024-10-15T09:48:34Z",
             "pull_request": false,
@@ -7754,6 +7801,21 @@
             "closed_at": "13/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 85,
+            "title": "Publicar `dpm` no pypi.",
+            "pull_request": false,
+            "created_at": "21/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241021T204949",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": null
         },
