@@ -1,6 +1,41 @@
 {
     "issues": [
         {
+            "repo": "splor-mg/.github",
+            "issue": 3,
+            "title": "Passar Issue template Ata de Reunião para padrão `yaml`",
+            "pull_request": false,
+            "created_at": "25/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241025T152127",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
+            "issue": 2,
+            "title": "Issue template da organização não funciona em repositórios que também tenham Issues templates",
+            "pull_request": false,
+            "created_at": "25/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241025T193101",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation",
+                "question"
+            ]
+        },
+        {
             "repo": "splor-mg/acordo-judicial-reparacao-vale",
             "issue": 7,
             "title": "Incluir documentação do conteúdo do arquivo .env",
@@ -115,7 +150,7 @@
             "created_at": "24/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241024T205511",
+            "updated_at": "20241025T191925",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -145,7 +180,7 @@
             "created_at": "22/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241025T012431",
+            "updated_at": "20241025T135228",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -175,7 +210,7 @@
             "created_at": "16/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241017T164033",
+            "updated_at": "20241025T185223",
             "closed_at": "17/10/2024",
             "closed_at_year": 2024,
             "closed_at_month": 10,
@@ -7883,6 +7918,21 @@
         },
         {
             "repo": "splor-mg/dpm",
+            "issue": 86,
+            "title": "feat(help): --help as default option",
+            "pull_request": true,
+            "created_at": "25/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241025T152450",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
             "issue": 85,
             "title": "Publicar `dpm` no pypi.",
             "pull_request": false,
@@ -7906,7 +7956,7 @@
             "created_at": "14/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241024T193738",
+            "updated_at": "20241025T192505",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -9174,10 +9224,10 @@
             "created_at": "11/05/2023",
             "created_at_year": 2023,
             "created_at_month": 5,
-            "updated_at": "20241023T175505",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20241025T142015",
+            "closed_at": "25/10/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 10,
             "assignee": "labanca",
             "labels": [
                 "bug"
