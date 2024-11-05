@@ -8,11 +8,11 @@
             "created_at": "25/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241025T152127",
+            "updated_at": "20241104T174646",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "gabrielbdornas",
+            "assignee": "carloshob",
             "labels": [
                 "enhancement"
             ]
@@ -25,7 +25,7 @@
             "created_at": "25/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241030T132605",
+            "updated_at": "20241104T173305",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -210,7 +210,7 @@
             "created_at": "22/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241031T141952",
+            "updated_at": "20241104T131616",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8395,7 +8395,7 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20241023T184415",
+            "updated_at": "20241104T205812",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -9301,10 +9301,10 @@
             "created_at": "22/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241101T194759",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20241104T204902",
+            "closed_at": "04/11/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 11,
             "assignee": "hslinhares",
             "labels": null
         },
@@ -9573,26 +9573,11 @@
             "created_at": "24/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241024T185719",
+            "updated_at": "20241104T182049",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/handbook",
-            "issue": 6,
-            "title": "Coletar leituras relevantes para inclusão no onboarding",
-            "pull_request": false,
-            "created_at": "27/02/2024",
-            "created_at_year": 2024,
-            "created_at_month": 2,
-            "updated_at": "20241008T151024",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
             "labels": null
         },
         {
@@ -9653,21 +9638,6 @@
             "closed_at_year": 2024,
             "closed_at_month": 2,
             "assignee": "fjuniorr",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/handbook",
-            "issue": 1,
-            "title": "Consolidar tempo total estimado para finalização dos tutoriais",
-            "pull_request": false,
-            "created_at": "25/04/2023",
-            "created_at_year": 2023,
-            "created_at_month": 4,
-            "updated_at": "20230425T195800",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
             "labels": null
         },
         {
@@ -10950,6 +10920,73 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/onboarding",
+            "issue": 2,
+            "title": "Pensar estrutura para seleção de novos integrantes da equipe",
+            "pull_request": false,
+            "created_at": "04/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20241104T180625",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/onboarding",
+            "issue": 1,
+            "title": "Fundir Issue template onboarding com orientações the carpentry",
+            "pull_request": false,
+            "created_at": "04/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20241104T174440",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "documentation",
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/onboarding",
+            "issue": 3,
+            "title": "Coletar leituras relevantes para inclusão no onboarding",
+            "pull_request": false,
+            "created_at": "27/02/2024",
+            "created_at_year": 2024,
+            "created_at_month": 2,
+            "updated_at": "20241104T204055",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/onboarding",
+            "issue": 4,
+            "title": "Consolidar tempo total estimado para finalização dos tutoriais",
+            "pull_request": false,
+            "created_at": "25/04/2023",
+            "created_at_year": 2023,
+            "created_at_month": 4,
+            "updated_at": "20241104T181939",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
             "repo": "splor-mg/portal-planejamento-orcamento-arch",
             "issue": 2,
             "title": "Avaliar necessidade de atualizar integrações do SISOR com sistemas que utilizam dotação orçamentária",
@@ -11475,7 +11512,7 @@
             "created_at": "29/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20241002T200422",
+            "updated_at": "20241104T200108",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
