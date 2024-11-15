@@ -4029,12 +4029,15 @@
             "created_at": "29/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241105T214536",
+            "updated_at": "20241114T201644",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "hslinhares",
+            "labels": [
+                "documentation",
+                "enhancement"
+            ]
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
