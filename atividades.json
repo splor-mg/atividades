@@ -6887,6 +6887,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 58,
+            "title": "Falha na execução do workflow em 2024-11-18T10:11:14Z",
+            "pull_request": false,
+            "created_at": "18/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20241118T134142",
+            "closed_at": "18/11/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 11,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 57,
             "title": "Falha na execução do workflow em 2024-10-22T09:48:55Z",
             "pull_request": false,
@@ -7027,10 +7044,10 @@
             "created_at": "23/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20241031T145524",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20241118T133825",
+            "closed_at": "18/11/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 11,
             "assignee": "hslinhares",
             "labels": null
         },
@@ -7042,10 +7059,10 @@
             "created_at": "23/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240923T142335",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20241118T133340",
+            "closed_at": "18/11/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 11,
             "assignee": "hslinhares",
             "labels": null
         },
