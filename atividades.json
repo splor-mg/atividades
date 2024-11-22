@@ -9381,6 +9381,21 @@
         },
         {
             "repo": "splor-mg/dpm-r",
+            "issue": 6,
+            "title": "Adiciona função `exporta_csv`",
+            "pull_request": true,
+            "created_at": "21/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20241121T193511",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm-r",
             "issue": 5,
             "title": "Alterar `linktable.R` para forma declarativa",
             "pull_request": true,
