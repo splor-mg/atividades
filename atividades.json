@@ -165,7 +165,7 @@
             "created_at": "05/11/2024",
             "created_at_year": 2024,
             "created_at_month": 11,
-            "updated_at": "20241111T132339",
+            "updated_at": "20241125T150151",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -9499,6 +9499,39 @@
             "closed_at_year": 2023,
             "closed_at_month": 4,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/ementario",
+            "issue": 13,
+            "title": "Leitura livro Programming the Semantic Web",
+            "pull_request": false,
+            "created_at": "25/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20241125T213305",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "documentation",
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/ementario",
+            "issue": 12,
+            "title": "Responder perguntas reunião individual 25/11/2024",
+            "pull_request": false,
+            "created_at": "25/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20241125T212535",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
             "labels": null
         },
         {
