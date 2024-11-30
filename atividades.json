@@ -150,7 +150,7 @@
             "created_at": "28/11/2024",
             "created_at_year": 2024,
             "created_at_month": 11,
-            "updated_at": "20241128T201529",
+            "updated_at": "20241129T124657",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -195,7 +195,7 @@
             "created_at": "07/11/2024",
             "created_at_year": 2024,
             "created_at_month": 11,
-            "updated_at": "20241108T212347",
+            "updated_at": "20241129T172402",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -240,7 +240,7 @@
             "created_at": "29/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241108T214914",
+            "updated_at": "20241129T172725",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -9897,6 +9897,23 @@
             "closed_at_month": 2,
             "assignee": "fjuniorr",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 43,
+            "title": "Falha na execução do workflow em 2024-11-29T10:37:49Z",
+            "pull_request": false,
+            "created_at": "29/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20241129T103750",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
