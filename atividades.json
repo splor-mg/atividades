@@ -2420,6 +2420,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 25,
+            "title": "Falha na execução do workflow em 2024-12-04T08:21:39Z",
+            "pull_request": false,
+            "created_at": "04/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241204T082139",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 24,
             "title": "Falha na execução do workflow em 2024-12-03T08:20:48Z",
             "pull_request": false,
@@ -5005,6 +5022,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 32,
+            "title": "Falha na execução do workflow em 2024-12-04T09:40:45Z",
+            "pull_request": false,
+            "created_at": "04/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241204T094046",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 31,
             "title": "Falha na execução do workflow em 2024-12-03T09:40:25Z",
             "pull_request": false,
@@ -6891,11 +6925,11 @@
             "created_at": "03/12/2024",
             "created_at_year": 2024,
             "created_at_month": 12,
-            "updated_at": "20241203T223849",
+            "updated_at": "20241204T151053",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "gabrielbdornas",
             "labels": [
                 "bug"
             ]
@@ -9999,6 +10033,23 @@
             "closed_at_month": 2,
             "assignee": "fjuniorr",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 46,
+            "title": "Falha na execução do workflow em 2024-12-04T10:38:55Z",
+            "pull_request": false,
+            "created_at": "04/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241204T103856",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
