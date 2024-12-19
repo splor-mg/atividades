@@ -240,7 +240,7 @@
             "created_at": "01/11/2024",
             "created_at_year": 2024,
             "created_at_month": 11,
-            "updated_at": "20241217T195907",
+            "updated_at": "20241218T133350",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2432,6 +2432,23 @@
             "closed_at_month": 3,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 35,
+            "title": "Falha na execução do workflow em 2024-12-18T08:20:35Z",
+            "pull_request": false,
+            "created_at": "18/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241218T082036",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
@@ -5187,6 +5204,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 40,
+            "title": "Falha na execução do workflow em 2024-12-18T09:39:10Z",
+            "pull_request": false,
+            "created_at": "18/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241218T093911",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -8638,7 +8672,7 @@
             "created_at": "21/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241023T192451",
+            "updated_at": "20241218T170353",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -10250,6 +10284,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 16,
+            "title": "Post reunião como configurar projeto python",
+            "pull_request": false,
+            "created_at": "18/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241219T004000",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
             "labels": null
         },
         {
