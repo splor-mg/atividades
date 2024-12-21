@@ -2,6 +2,23 @@
     "issues": [
         {
             "repo": "splor-mg/.github",
+            "issue": 4,
+            "title": "Melhorar Issue template",
+            "pull_request": false,
+            "created_at": "20/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241220T190111",
+            "closed_at": "20/12/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 12,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
             "issue": 3,
             "title": "Passar Issue template Ata de Reunião para padrão `yaml`",
             "pull_request": false,
@@ -159,6 +176,38 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 161,
+            "title": "Realizar planejamento anual equipe AID",
+            "pull_request": false,
+            "created_at": "20/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241220T190501",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 160,
+            "title": "Montar datapackage servidores SPLOR",
+            "pull_request": false,
+            "created_at": "20/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241220T183458",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 158,
             "title": "Docker Desktop - Unexpected WSL error",
             "pull_request": false,
@@ -270,7 +319,7 @@
             "created_at": "29/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241216T184744",
+            "updated_at": "20241220T111715",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2276,7 +2325,7 @@
             "created_at": "04/04/2023",
             "created_at_year": 2023,
             "created_at_month": 4,
-            "updated_at": "20230425T201941",
+            "updated_at": "20241220T201407",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2432,6 +2481,23 @@
             "closed_at_month": 3,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 37,
+            "title": "Falha na execução do workflow em 2024-12-20T08:19:33Z",
+            "pull_request": false,
+            "created_at": "20/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241220T081934",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
@@ -5221,6 +5287,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 42,
+            "title": "Falha na execução do workflow em 2024-12-20T09:37:08Z",
+            "pull_request": false,
+            "created_at": "20/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241220T093709",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -10322,16 +10405,31 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 20,
+            "title": "Publicar encontro webnar sobre Qlikview",
+            "pull_request": false,
+            "created_at": "20/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241220T210547",
+            "closed_at": "20/12/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 12,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 17,
             "title": "Insere post do Webnar #2 - Qlikview",
             "pull_request": true,
             "created_at": "19/12/2024",
             "created_at_year": 2024,
             "created_at_month": 12,
-            "updated_at": "20241219T194102",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20241220T191542",
+            "closed_at": "20/12/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 12,
             "assignee": null,
             "labels": null
         },
@@ -12765,7 +12863,7 @@
             "created_at": "23/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20241216T132150",
+            "updated_at": "20241220T141520",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
