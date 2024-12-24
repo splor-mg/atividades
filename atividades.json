@@ -2484,6 +2484,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 38,
+            "title": "Falha na execução do workflow em 2024-12-23T08:20:02Z",
+            "pull_request": false,
+            "created_at": "23/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241223T082002",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 37,
             "title": "Falha na execução do workflow em 2024-12-20T08:19:33Z",
             "pull_request": false,
