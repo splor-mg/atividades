@@ -2484,6 +2484,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 44,
+            "title": "Falha na execução do workflow em 2024-12-31T08:19:03Z",
+            "pull_request": false,
+            "created_at": "31/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241231T081904",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 43,
             "title": "Falha na execução do workflow em 2024-12-30T08:19:42Z",
             "pull_request": false,
@@ -5392,6 +5409,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 48,
+            "title": "Falha na execução do workflow em 2024-12-31T09:36:53Z",
+            "pull_request": false,
+            "created_at": "31/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241231T093653",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 47,
             "title": "Falha na execução do workflow em 2024-12-30T09:37:35Z",
             "pull_request": false,
@@ -7737,6 +7771,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 61,
+            "title": "Falha na execução do workflow em 2024-12-31T10:09:25Z",
+            "pull_request": false,
+            "created_at": "31/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241231T100925",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
