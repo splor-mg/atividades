@@ -289,7 +289,7 @@
             "created_at": "01/11/2024",
             "created_at_year": 2024,
             "created_at_month": 11,
-            "updated_at": "20241228T001055",
+            "updated_at": "20250106T205749",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2325,7 +2325,7 @@
             "created_at": "04/04/2023",
             "created_at_year": 2023,
             "created_at_month": 4,
-            "updated_at": "20241220T201407",
+            "updated_at": "20250106T184218",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -2481,6 +2481,23 @@
             "closed_at_month": 3,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 48,
+            "title": "Falha na execução do workflow em 2025-01-06T08:20:02Z",
+            "pull_request": false,
+            "created_at": "06/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250106T082003",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
@@ -5460,6 +5477,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 51,
+            "title": "Falha na execução do workflow em 2025-01-06T09:38:18Z",
+            "pull_request": false,
+            "created_at": "06/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250106T093819",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 50,
             "title": "Falha na execução do workflow em 2025-01-03T09:36:56Z",
             "pull_request": false,
@@ -7856,6 +7890,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 65,
+            "title": "Falha na execução do workflow em 2025-01-06T10:10:37Z",
+            "pull_request": false,
+            "created_at": "06/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250106T101038",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13237,7 +13288,7 @@
             "created_at": "23/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20241220T141520",
+            "updated_at": "20250106T184008",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
