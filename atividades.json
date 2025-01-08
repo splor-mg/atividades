@@ -2484,6 +2484,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 49,
+            "title": "Falha na execução do workflow em 2025-01-07T08:19:31Z",
+            "pull_request": false,
+            "created_at": "07/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250107T081932",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 48,
             "title": "Falha na execução do workflow em 2025-01-06T08:20:02Z",
             "pull_request": false,
@@ -5477,6 +5494,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 52,
+            "title": "Falha na execução do workflow em 2025-01-07T09:38:09Z",
+            "pull_request": false,
+            "created_at": "07/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250107T093810",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 51,
             "title": "Falha na execução do workflow em 2025-01-06T09:38:18Z",
             "pull_request": false,
@@ -7890,6 +7924,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 66,
+            "title": "Falha na execução do workflow em 2025-01-07T10:10:32Z",
+            "pull_request": false,
+            "created_at": "07/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250107T101032",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -10827,6 +10878,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 21,
+            "title": "Error `ssh: connect to host github.com port 22: Connection timed out`",
+            "pull_request": false,
+            "created_at": "07/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250107T225711",
+            "closed_at": "07/01/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 1,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
