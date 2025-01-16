@@ -2484,6 +2484,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 55,
+            "title": "Falha na execução do workflow em 2025-01-15T08:18:47Z",
+            "pull_request": false,
+            "created_at": "15/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250115T081848",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 54,
             "title": "Falha na execução do workflow em 2025-01-14T08:18:50Z",
             "pull_request": false,
@@ -5579,6 +5596,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 57,
+            "title": "Falha na execução do workflow em 2025-01-15T09:36:49Z",
+            "pull_request": false,
+            "created_at": "15/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250115T093650",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 56,
             "title": "Falha na execução do workflow em 2025-01-14T09:36:38Z",
             "pull_request": false,
@@ -8077,6 +8111,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 72,
+            "title": "Falha na execução do workflow em 2025-01-15T10:09:51Z",
+            "pull_request": false,
+            "created_at": "15/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250115T100951",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -11125,7 +11176,7 @@
             "created_at": "07/01/2025",
             "created_at_year": 2025,
             "created_at_month": 1,
-            "updated_at": "20250107T225711",
+            "updated_at": "20250115T182534",
             "closed_at": "07/01/2025",
             "closed_at_year": 2025,
             "closed_at_month": 1,
