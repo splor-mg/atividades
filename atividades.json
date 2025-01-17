@@ -2484,6 +2484,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 56,
+            "title": "Falha na execução do workflow em 2025-01-16T08:18:28Z",
+            "pull_request": false,
+            "created_at": "16/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250116T081828",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 55,
             "title": "Falha na execução do workflow em 2025-01-15T08:18:47Z",
             "pull_request": false,
@@ -4577,7 +4594,7 @@
             "created_at": "20/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20241204T004354",
+            "updated_at": "20250116T212809",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5593,6 +5610,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 58,
+            "title": "Falha na execução do workflow em 2025-01-16T09:36:49Z",
+            "pull_request": false,
+            "created_at": "16/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250116T093650",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -8111,6 +8145,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 73,
+            "title": "Falha na execução do workflow em 2025-01-16T10:09:50Z",
+            "pull_request": false,
+            "created_at": "16/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250116T100951",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
