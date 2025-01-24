@@ -2484,6 +2484,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 61,
+            "title": "Falha na execução do workflow em 2025-01-23T08:19:10Z",
+            "pull_request": false,
+            "created_at": "23/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250123T081910",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 60,
             "title": "Falha na execução do workflow em 2025-01-22T08:19:34Z",
             "pull_request": false,
@@ -5678,6 +5695,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 63,
+            "title": "Falha na execução do workflow em 2025-01-23T09:38:17Z",
+            "pull_request": false,
+            "created_at": "23/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250123T093817",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
