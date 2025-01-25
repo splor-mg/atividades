@@ -2484,6 +2484,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 62,
+            "title": "Falha na execução do workflow em 2025-01-24T08:19:05Z",
+            "pull_request": false,
+            "created_at": "24/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250124T081905",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 61,
             "title": "Falha na execução do workflow em 2025-01-23T08:19:10Z",
             "pull_request": false,
@@ -5695,6 +5712,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 64,
+            "title": "Falha na execução do workflow em 2025-01-24T09:36:55Z",
+            "pull_request": false,
+            "created_at": "24/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250124T093655",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -9803,6 +9837,21 @@
         },
         {
             "repo": "splor-mg/dpm",
+            "issue": 88,
+            "title": "Erro ao tentar baixar datapackage.json em repositório privado",
+            "pull_request": false,
+            "created_at": "24/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250124T135156",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
             "issue": 87,
             "title": "Teste GitHub Actions local para publicar documentação não funciona",
             "pull_request": false,
@@ -11719,6 +11768,23 @@
             "closed_at_month": 2,
             "assignee": "fjuniorr",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 47,
+            "title": "Falha na execução do workflow em 2025-01-24T10:33:36Z",
+            "pull_request": false,
+            "created_at": "24/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250124T103336",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
