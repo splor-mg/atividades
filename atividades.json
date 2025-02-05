@@ -5766,6 +5766,38 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 70,
+            "title": "Elemento item com mais de uma descrição no mesmo ano",
+            "pull_request": false,
+            "created_at": "04/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250204T154050",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 69,
+            "title": "Falha na execução do workflow em 2025-02-04T09:37:07Z",
+            "pull_request": false,
+            "created_at": "04/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250204T093708",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 68,
             "title": "Falha na execução do workflow em 2025-02-03T09:37:41Z",
             "pull_request": false,
