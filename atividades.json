@@ -176,6 +176,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 162,
+            "title": "Alterar email de chegada das bases do armazém para o da AID",
+            "pull_request": false,
+            "created_at": "05/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250205T150813",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 161,
             "title": "Realizar planejamento anual equipe AID",
             "pull_request": false,
@@ -4846,6 +4861,21 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 60,
+            "title": "Melhorar processo de atualização de repositórios de anos anteriores",
+            "pull_request": false,
+            "created_at": "05/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250205T212606",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 59,
             "title": "Erro `Unable to load extension: No module named 'jinja2_git'`",
             "pull_request": false,
@@ -5763,6 +5793,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 71,
+            "title": "Falha na execução do workflow em 2025-02-05T09:37:30Z",
+            "pull_request": false,
+            "created_at": "05/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250205T093730",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -8500,6 +8547,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 78,
+            "title": "Falha na execução do workflow em 2025-02-05T10:09:59Z",
+            "pull_request": false,
+            "created_at": "05/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250205T101000",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -11655,6 +11719,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 22,
+            "title": "Criar linha do tempo para projeto Dados Abertos",
+            "pull_request": false,
+            "created_at": "05/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250205T144201",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
             "labels": null
         },
         {
