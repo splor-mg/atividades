@@ -182,7 +182,7 @@
             "created_at": "05/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250205T150813",
+            "updated_at": "20250206T151750",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -4867,12 +4867,14 @@
             "created_at": "05/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250205T212606",
+            "updated_at": "20250206T151323",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "enhancement"
+            ]
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -5793,6 +5795,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 72,
+            "title": "Falha na execução do workflow em 2025-02-06T09:36:53Z",
+            "pull_request": false,
+            "created_at": "06/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250206T093654",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -14264,7 +14283,7 @@
             "created_at": "23/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20250106T184008",
+            "updated_at": "20250206T203436",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
