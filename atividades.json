@@ -5798,6 +5798,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 73,
+            "title": "Falha na execução do workflow em 2025-02-07T09:36:46Z",
+            "pull_request": false,
+            "created_at": "07/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250207T093646",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 72,
             "title": "Falha na execução do workflow em 2025-02-06T09:36:53Z",
             "pull_request": false,
@@ -8566,6 +8583,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 79,
+            "title": "Falha na execução do workflow em 2025-02-07T10:09:52Z",
+            "pull_request": false,
+            "created_at": "07/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250207T100952",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -14283,7 +14317,7 @@
             "created_at": "23/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20250206T203436",
+            "updated_at": "20250207T151858",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
