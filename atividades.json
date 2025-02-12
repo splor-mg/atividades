@@ -5798,6 +5798,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 75,
+            "title": "Falha na execução do workflow em 2025-02-11T09:37:18Z",
+            "pull_request": false,
+            "created_at": "11/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250211T093719",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 74,
             "title": "Falha na execução do workflow em 2025-02-10T09:38:00Z",
             "pull_request": false,
@@ -8600,6 +8617,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 81,
+            "title": "Falha na execução do workflow em 2025-02-11T10:10:25Z",
+            "pull_request": false,
+            "created_at": "11/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250211T101026",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -14275,6 +14309,36 @@
             "created_at_year": 2023,
             "created_at_month": 4,
             "updated_at": "20230418T212312",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/volumes-docker",
+            "issue": 32,
+            "title": "Avaliar utilização da biblioteca do taskpy em substituição ao make para documentar comandos",
+            "pull_request": false,
+            "created_at": "11/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250211T151344",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/volumes-docker",
+            "issue": 31,
+            "title": "Erro de token ao rodar o actions",
+            "pull_request": false,
+            "created_at": "11/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250211T150319",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
