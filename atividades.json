@@ -5798,6 +5798,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 76,
+            "title": "Falha na execução do workflow em 2025-02-12T09:37:19Z",
+            "pull_request": false,
+            "created_at": "12/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250212T093719",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 75,
             "title": "Falha na execução do workflow em 2025-02-11T09:37:18Z",
             "pull_request": false,
@@ -8624,16 +8641,65 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 84,
+            "title": "Email no gmail indo parar no spam",
+            "pull_request": false,
+            "created_at": "12/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250212T144108",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 83,
+            "title": "Falha na execução do workflow em 2025-02-12T14:19:07Z",
+            "pull_request": false,
+            "created_at": "12/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250212T143812",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 82,
+            "title": "Falha na execução do workflow em 2025-02-12T10:09:54Z",
+            "pull_request": false,
+            "created_at": "12/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250212T143825",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 81,
             "title": "Falha na execução do workflow em 2025-02-11T10:10:25Z",
             "pull_request": false,
             "created_at": "11/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250211T101026",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250212T144130",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -8647,10 +8713,10 @@
             "created_at": "10/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250210T101024",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250212T144143",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -8664,10 +8730,10 @@
             "created_at": "07/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250207T100952",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250212T144314",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -8681,10 +8747,10 @@
             "created_at": "05/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250205T101000",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250212T144332",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -8698,10 +8764,10 @@
             "created_at": "22/01/2025",
             "created_at_year": 2025,
             "created_at_month": 1,
-            "updated_at": "20250122T100809",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250212T144358",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -8715,10 +8781,10 @@
             "created_at": "21/01/2025",
             "created_at_year": 2025,
             "created_at_month": 1,
-            "updated_at": "20250121T100947",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250212T144411",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -8749,10 +8815,10 @@
             "created_at": "17/01/2025",
             "created_at_year": 2025,
             "created_at_month": 1,
-            "updated_at": "20250117T100935",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250212T144523",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -8766,10 +8832,10 @@
             "created_at": "16/01/2025",
             "created_at_year": 2025,
             "created_at_month": 1,
-            "updated_at": "20250116T100951",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250212T144512",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -8970,10 +9036,10 @@
             "created_at": "31/12/2024",
             "created_at_year": 2024,
             "created_at_month": 12,
-            "updated_at": "20241231T100925",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250212T144501",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -8987,10 +9053,10 @@
             "created_at": "17/12/2024",
             "created_at_year": 2024,
             "created_at_month": 12,
-            "updated_at": "20241217T101051",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250212T144450",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -9004,10 +9070,10 @@
             "created_at": "09/12/2024",
             "created_at_year": 2024,
             "created_at_month": 12,
-            "updated_at": "20241209T101130",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250212T144437",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -9038,10 +9104,10 @@
             "created_at": "22/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241022T094856",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250212T144425",
+            "closed_at": "12/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -14318,12 +14384,12 @@
         {
             "repo": "splor-mg/volumes-docker",
             "issue": 32,
-            "title": "Avaliar utilização da biblioteca do taskpy em substituição ao make para documentar comandos",
+            "title": "Avaliar utilização da biblioteca do taskipy em substituição ao make para documentar comandos",
             "pull_request": false,
             "created_at": "11/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250211T151344",
+            "updated_at": "20250212T133059",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
