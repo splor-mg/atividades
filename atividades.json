@@ -5798,6 +5798,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 77,
+            "title": "Falha na execução do workflow em 2025-02-13T09:37:32Z",
+            "pull_request": false,
+            "created_at": "13/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250213T093732",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 76,
             "title": "Falha na execução do workflow em 2025-02-12T09:37:19Z",
             "pull_request": false,
