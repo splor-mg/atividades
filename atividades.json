@@ -5798,6 +5798,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 78,
+            "title": "Falha na execução do workflow em 2025-02-14T09:36:56Z",
+            "pull_request": false,
+            "created_at": "14/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250214T093656",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 77,
             "title": "Falha na execução do workflow em 2025-02-13T09:37:32Z",
             "pull_request": false,
@@ -13767,6 +13784,21 @@
             "created_at_year": 2023,
             "created_at_month": 4,
             "updated_at": "20230418T134430",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/projetos",
+            "issue": 18,
+            "title": "Teste paineis com ferramenta Metabase",
+            "pull_request": false,
+            "created_at": "14/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250214T210146",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
