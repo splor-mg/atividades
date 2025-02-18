@@ -5798,6 +5798,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 79,
+            "title": "Falha na execução do workflow em 2025-02-17T09:38:41Z",
+            "pull_request": false,
+            "created_at": "17/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250217T093841",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 78,
             "title": "Falha na execução do workflow em 2025-02-14T09:36:56Z",
             "pull_request": false,
@@ -14432,6 +14449,21 @@
         },
         {
             "repo": "splor-mg/volumes-docker",
+            "issue": 33,
+            "title": "Implementar instalação de dependências dos pacotes R via r-lib/actions",
+            "pull_request": false,
+            "created_at": "17/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250217T190244",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/volumes-docker",
             "issue": 32,
             "title": "Avaliar utilização da biblioteca do taskipy em substituição ao make para documentar comandos",
             "pull_request": false,
@@ -14530,7 +14562,7 @@
             "created_at": "23/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20250210T152442",
+            "updated_at": "20250217T151218",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
