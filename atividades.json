@@ -2499,6 +2499,40 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 67,
+            "title": "Falha na execução do workflow em 2025-02-19T20:28:41Z",
+            "pull_request": false,
+            "created_at": "19/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250219T202842",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 66,
+            "title": "Falha na execução do workflow em 2025-02-19T20:22:14Z",
+            "pull_request": false,
+            "created_at": "19/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250219T202215",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 65,
             "title": "Falha na execução do workflow em 2025-01-29T08:19:03Z",
             "pull_request": false,
@@ -5795,6 +5829,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 81,
+            "title": "Falha na execução do workflow em 2025-02-19T09:37:54Z",
+            "pull_request": false,
+            "created_at": "19/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250219T093755",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -14579,7 +14630,7 @@
             "created_at": "23/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20250218T152555",
+            "updated_at": "20250219T125845",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
