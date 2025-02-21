@@ -5832,6 +5832,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 82,
+            "title": "Falha na execução do workflow em 2025-02-20T09:37:45Z",
+            "pull_request": false,
+            "created_at": "20/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250220T093746",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 81,
             "title": "Falha na execução do workflow em 2025-02-19T09:37:54Z",
             "pull_request": false,
@@ -12029,6 +12046,57 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 25,
+            "title": "Criar Post sobre funcionamento Poetry",
+            "pull_request": false,
+            "created_at": "20/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250220T214357",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 24,
+            "title": "Melhorar trigger action de publicação de páginas",
+            "pull_request": false,
+            "created_at": "20/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250220T214245",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 23,
+            "title": "Utilizar Poetry no repositório",
+            "pull_request": false,
+            "created_at": "20/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250220T214104",
+            "closed_at": "20/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 22,
             "title": "Criar linha do tempo para projeto Dados Abertos",
             "pull_request": false,
@@ -14553,10 +14621,10 @@
             "created_at": "11/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250211T150319",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250220T144435",
+            "closed_at": "20/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": null
         },
