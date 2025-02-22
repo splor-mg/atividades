@@ -2499,6 +2499,38 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 69,
+            "title": "Incluir flag skip errors na validação frictionless",
+            "pull_request": false,
+            "created_at": "21/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250221T200332",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 68,
+            "title": "Falha na execução do workflow em 2025-02-21T08:25:49Z",
+            "pull_request": false,
+            "created_at": "21/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250221T082550",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 67,
             "title": "Falha na execução do workflow em 2025-02-19T20:28:41Z",
             "pull_request": false,
@@ -5829,6 +5861,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 83,
+            "title": "Falha na execução do workflow em 2025-02-21T09:37:20Z",
+            "pull_request": false,
+            "created_at": "21/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250221T093721",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -12046,6 +12095,38 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 27,
+            "title": "Dados abertos",
+            "pull_request": true,
+            "created_at": "21/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250221T215203",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 26,
+            "title": "Incluir testes neste repositório",
+            "pull_request": false,
+            "created_at": "21/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250221T170418",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 25,
             "title": "Criar Post sobre funcionamento Poetry",
             "pull_request": false,
@@ -12086,7 +12167,7 @@
             "created_at": "20/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250220T214104",
+            "updated_at": "20250221T174134",
             "closed_at": "20/02/2025",
             "closed_at_year": 2025,
             "closed_at_month": 2,
