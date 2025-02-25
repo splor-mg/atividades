@@ -2499,13 +2499,30 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 70,
+            "title": "Falha na execução do workflow em 2025-02-24T08:27:23Z",
+            "pull_request": false,
+            "created_at": "24/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250224T082724",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 69,
             "title": "Incluir flag skip errors na validação frictionless",
             "pull_request": false,
             "created_at": "21/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250221T200332",
+            "updated_at": "20250224T160145",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5861,6 +5878,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 84,
+            "title": "Falha na execução do workflow em 2025-02-24T09:38:45Z",
+            "pull_request": false,
+            "created_at": "24/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250224T093846",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -12163,7 +12197,7 @@
             "created_at": "21/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250221T215203",
+            "updated_at": "20250224T200748",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12524,10 +12558,10 @@
             "created_at": "28/01/2025",
             "created_at_year": 2025,
             "created_at_month": 1,
-            "updated_at": "20250128T103338",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250224T175650",
+            "closed_at": "24/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -12541,10 +12575,10 @@
             "created_at": "27/01/2025",
             "created_at_year": 2025,
             "created_at_month": 1,
-            "updated_at": "20250127T103406",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250224T175650",
+            "closed_at": "24/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -12558,10 +12592,10 @@
             "created_at": "24/01/2025",
             "created_at_year": 2025,
             "created_at_month": 1,
-            "updated_at": "20250124T103336",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250224T175650",
+            "closed_at": "24/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -12575,10 +12609,10 @@
             "created_at": "04/12/2024",
             "created_at_year": 2024,
             "created_at_month": 12,
-            "updated_at": "20241204T103856",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250224T175649",
+            "closed_at": "24/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -12592,10 +12626,10 @@
             "created_at": "03/12/2024",
             "created_at_year": 2024,
             "created_at_month": 12,
-            "updated_at": "20241203T103957",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250224T175649",
+            "closed_at": "24/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -12609,10 +12643,10 @@
             "created_at": "02/12/2024",
             "created_at_year": 2024,
             "created_at_month": 12,
-            "updated_at": "20241202T103947",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250224T175648",
+            "closed_at": "24/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -12626,10 +12660,10 @@
             "created_at": "29/11/2024",
             "created_at_year": 2024,
             "created_at_month": 11,
-            "updated_at": "20241129T103750",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250224T175648",
+            "closed_at": "24/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
@@ -12673,12 +12707,14 @@
             "created_at": "27/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20241014T204225",
+            "updated_at": "20250224T180110",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "carloshob",
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -14841,7 +14877,7 @@
             "created_at": "23/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20250219T125845",
+            "updated_at": "20250224T211601",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
