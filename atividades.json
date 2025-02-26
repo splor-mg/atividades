@@ -176,6 +176,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 163,
+            "title": "Realizar setup lewagon nos computadores novos",
+            "pull_request": false,
+            "created_at": "25/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250225T181314",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 162,
             "title": "Alterar email de chegada das bases do armazém para o da AID",
             "pull_request": false,
@@ -2499,6 +2514,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 71,
+            "title": "Falha na execução do workflow em 2025-02-25T08:26:48Z",
+            "pull_request": false,
+            "created_at": "25/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250225T082649",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 70,
             "title": "Falha na execução do workflow em 2025-02-24T08:27:23Z",
             "pull_request": false,
@@ -2522,7 +2554,7 @@
             "created_at": "21/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250224T160145",
+            "updated_at": "20250225T205030",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5878,6 +5910,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 85,
+            "title": "Falha na execução do workflow em 2025-02-25T09:38:21Z",
+            "pull_request": false,
+            "created_at": "25/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250225T093822",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -12129,6 +12178,23 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 32,
+            "title": "[25/02/2025] Reunião Live Code - Banco Sql",
+            "pull_request": false,
+            "created_at": "25/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250225T185154",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 31,
             "title": "Acrescentar comentários neste repositório",
             "pull_request": false,
@@ -12197,7 +12263,7 @@
             "created_at": "21/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250224T200748",
+            "updated_at": "20250226T003131",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12229,7 +12295,7 @@
             "created_at": "20/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250222T021511",
+            "updated_at": "20250225T150754",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
