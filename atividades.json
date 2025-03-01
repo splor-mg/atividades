@@ -182,7 +182,7 @@
             "created_at": "27/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250227T172217",
+            "updated_at": "20250228T134303",
             "closed_at": "27/02/2025",
             "closed_at_year": 2025,
             "closed_at_month": 2,
@@ -334,11 +334,11 @@
             "created_at": "01/11/2024",
             "created_at_year": 2024,
             "created_at_month": 11,
-            "updated_at": "20250227T202709",
+            "updated_at": "20250228T134950",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "carloshob",
+            "assignee": null,
             "labels": null
         },
         {
@@ -2529,6 +2529,38 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 75,
+            "title": "adiciona validação frictionless por script python",
+            "pull_request": true,
+            "created_at": "28/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250228T184525",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 74,
+            "title": "Falha na execução do workflow em 2025-02-28T08:26:22Z",
+            "pull_request": false,
+            "created_at": "28/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250228T082623",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 73,
             "title": "Falha na execução do workflow em 2025-02-27T08:26:43Z",
             "pull_request": false,
@@ -2603,7 +2635,7 @@
             "created_at": "21/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250226T182507",
+            "updated_at": "20250228T183301",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5959,6 +5991,38 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 89,
+            "title": "cria uo_sigla_current no transform",
+            "pull_request": true,
+            "created_at": "28/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250228T222059",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 88,
+            "title": "Falha na execução do workflow em 2025-02-28T09:37:58Z",
+            "pull_request": false,
+            "created_at": "28/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250228T093758",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -12351,6 +12415,23 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 47,
+            "title": "[28/02/2025] Live code Volumes LOA",
+            "pull_request": false,
+            "created_at": "28/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250228T195656",
+            "closed_at": "28/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "reuniao"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 46,
             "title": "45 organizacao trabalho",
             "pull_request": true,
@@ -12447,7 +12528,7 @@
             "created_at": "27/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250227T204019",
+            "updated_at": "20250228T140840",
             "closed_at": "27/02/2025",
             "closed_at_year": 2025,
             "closed_at_month": 2,
@@ -12479,7 +12560,7 @@
             "created_at": "26/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250227T220814",
+            "updated_at": "20250228T134757",
             "closed_at": "27/02/2025",
             "closed_at_year": 2025,
             "closed_at_month": 2,
@@ -15270,11 +15351,11 @@
             "created_at": "23/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20250226T144101",
+            "updated_at": "20250228T171938",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "carloshob",
             "labels": null
         },
         {
