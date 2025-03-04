@@ -2529,6 +2529,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 76,
+            "title": "Falha na execução do workflow em 2025-03-03T08:28:28Z",
+            "pull_request": false,
+            "created_at": "03/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250303T082829",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 75,
             "title": "adiciona validação frictionless por script python",
             "pull_request": true,
@@ -5991,6 +6008,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 90,
+            "title": "Falha na execução do workflow em 2025-03-03T09:39:31Z",
+            "pull_request": false,
+            "created_at": "03/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250303T093931",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
