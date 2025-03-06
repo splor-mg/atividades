@@ -2529,6 +2529,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 78,
+            "title": "Falha na execução do workflow em 2025-03-05T08:27:44Z",
+            "pull_request": false,
+            "created_at": "05/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250305T082745",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 77,
             "title": "Falha na execução do workflow em 2025-03-04T08:25:07Z",
             "pull_request": false,
@@ -6025,6 +6042,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 92,
+            "title": "Falha na execução do workflow em 2025-03-05T09:39:02Z",
+            "pull_request": false,
+            "created_at": "05/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250305T093902",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -14672,11 +14706,11 @@
             "created_at": "14/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250226T214040",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20250305T195441",
+            "closed_at": "05/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
             "labels": null
         },
         {
