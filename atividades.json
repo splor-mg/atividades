@@ -176,6 +176,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 166,
+            "title": "Criar repositório upstream dados programações anuais",
+            "pull_request": false,
+            "created_at": "07/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250307T181556",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 165,
             "title": "Atualizar painéis SUGESP no servidor",
             "pull_request": false,
@@ -2529,6 +2544,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 80,
+            "title": "Falha na execução do workflow em 2025-03-07T08:27:06Z",
+            "pull_request": false,
+            "created_at": "07/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250307T082706",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 79,
             "title": "Falha na execução do workflow em 2025-03-06T08:26:59Z",
             "pull_request": false,
@@ -2603,11 +2635,11 @@
             "created_at": "28/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250228T184525",
+            "updated_at": "20250307T180609",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "hslinhares",
+            "assignee": "gabrielbdornas",
             "labels": null
         },
         {
@@ -6062,6 +6094,38 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 95,
+            "title": "Melhorar código incluído pelo pull request #89",
+            "pull_request": false,
+            "created_at": "07/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250307T205044",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 94,
+            "title": "Falha na execução do workflow em 2025-03-07T09:38:28Z",
+            "pull_request": false,
+            "created_at": "07/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250307T093829",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 93,
             "title": "Falha na execução do workflow em 2025-03-06T09:39:13Z",
             "pull_request": false,
@@ -6136,11 +6200,11 @@
             "created_at": "28/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250306T215029",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "hslinhares",
+            "updated_at": "20250307T204732",
+            "closed_at": "07/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
             "labels": null
         },
         {
@@ -12551,6 +12615,23 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 50,
+            "title": "[07/03/2025] Live code Datamart",
+            "pull_request": false,
+            "created_at": "07/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250307T190921",
+            "closed_at": "07/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "hslinhares",
+            "labels": [
+                "reuniao"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 49,
             "title": "Add post live code metabase",
             "pull_request": true,
@@ -12760,7 +12841,7 @@
             "created_at": "25/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250306T173314",
+            "updated_at": "20250307T183956",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12871,7 +12952,7 @@
             "created_at": "20/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250225T150754",
+            "updated_at": "20250307T180754",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
