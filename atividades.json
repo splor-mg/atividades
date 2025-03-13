@@ -176,6 +176,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 169,
+            "title": "Criar script para mudar `labels` de todos os repositórios",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250312T183044",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 168,
             "title": "Melhorar notificações de falhas no GitHub actions",
             "pull_request": false,
@@ -242,7 +257,7 @@
             "created_at": "25/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250311T173408",
+            "updated_at": "20250312T183752",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -10768,6 +10783,21 @@
         },
         {
             "repo": "splor-mg/datamart",
+            "issue": 7,
+            "title": "Curso fastapi - Banco de Dados com SQLAlchemy e Gerenciando Migrações com Alembic | Aula 04",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250312T220111",
+            "closed_at": "12/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/datamart",
             "issue": 6,
             "title": "Criando rotas CRUD - aula 03",
             "pull_request": false,
@@ -12713,13 +12743,103 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 60,
+            "title": "Criar linha do tempo projeto capacitações",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250312T181645",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 59,
+            "title": "Criar linha do tempo projeto paineis",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250312T181558",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 58,
+            "title": "Criar linha do tempo projeto ETL/Bases de dados",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250312T181333",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 57,
+            "title": "Criar linha do tempo projeto volumes loa",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250312T180924",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 55,
+            "title": "Criar linha do tempo projeto feed de alterações legislativas",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250312T180248",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 54,
+            "title": "Criar Post sobre os acordos gerenciais criados na reunião gerencial do dia 12/03/2025.",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250312T172650",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 53,
             "title": "Live-code - volumes loa - 2025-03-10",
             "pull_request": true,
             "created_at": "11/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250311T212320",
+            "updated_at": "20250312T173310",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12734,14 +12854,12 @@
             "created_at": "11/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250311T183537",
+            "updated_at": "20250312T174107",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "reuniao"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -12751,14 +12869,12 @@
             "created_at": "10/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250311T213457",
+            "updated_at": "20250312T174107",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
-            "labels": [
-                "reuniao"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -12773,9 +12889,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 3,
             "assignee": "hslinhares",
-            "labels": [
-                "reuniao"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -12800,14 +12914,12 @@
             "created_at": "06/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250306T172916",
+            "updated_at": "20250312T174108",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "gabrielbdornas",
-            "labels": [
-                "reuniao"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -12817,14 +12929,12 @@
             "created_at": "28/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250306T200408",
+            "updated_at": "20250312T174109",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "gabrielbdornas",
-            "labels": [
-                "reuniao"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -12929,9 +13039,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 2,
             "assignee": "hslinhares",
-            "labels": [
-                "reuniao"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -12961,9 +13069,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 2,
             "assignee": "carloshob",
-            "labels": [
-                "reuniao"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -13050,11 +13156,11 @@
             "created_at": "22/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250227T135131",
+            "updated_at": "20250312T182226",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "hslinhares",
+            "assignee": "gabrielbdornas",
             "labels": [
                 "documentation"
             ]
@@ -13144,13 +13250,28 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 56,
+            "title": "Criar Linha do Tempo do projeto Dados Abertos na página do Handbook-AID",
+            "pull_request": false,
+            "created_at": "18/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250312T180522",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 22,
             "title": "Criar linha do tempo para projeto Dados Abertos",
             "pull_request": false,
             "created_at": "05/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250205T144201",
+            "updated_at": "20250312T181256",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
