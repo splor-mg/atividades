@@ -14,7 +14,7 @@
             "closed_at_month": 12,
             "assignee": "gabrielbdornas",
             "labels": [
-                "enhancement"
+                "scpo/dcppn"
             ]
         },
         {
@@ -31,7 +31,7 @@
             "closed_at_month": 11,
             "assignee": "gabrielbdornas",
             "labels": [
-                "enhancement"
+                "scpo/dcppn"
             ]
         },
         {
@@ -48,8 +48,7 @@
             "closed_at_month": 11,
             "assignee": "gabrielbdornas",
             "labels": [
-                "documentation",
-                "question"
+                "aid"
             ]
         },
         {
@@ -257,7 +256,7 @@
             "created_at": "25/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250312T183752",
+            "updated_at": "20250313T205630",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -354,21 +353,6 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "hslinhares",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/atividades",
-            "issue": 155,
-            "title": "Análise de bases vindas do Armazém SIAFI que são utilizadas pela DCAF",
-            "pull_request": false,
-            "created_at": "07/11/2024",
-            "created_at_year": 2024,
-            "created_at_month": 11,
-            "updated_at": "20250227T195937",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "carloshob",
             "labels": null
         },
         {
@@ -10789,7 +10773,7 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250312T220111",
+            "updated_at": "20250313T171428",
             "closed_at": "12/03/2025",
             "closed_at_year": 2025,
             "closed_at_month": 3,
@@ -12743,6 +12727,21 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 61,
+            "title": "[13/03/2025] Live code volumes loa",
+            "pull_request": false,
+            "created_at": "13/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250313T230723",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 60,
             "title": "Criar linha do tempo projeto capacitações",
             "pull_request": false,
@@ -12839,7 +12838,7 @@
             "created_at": "11/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250312T173310",
+            "updated_at": "20250313T165219",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12869,7 +12868,7 @@
             "created_at": "10/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250312T174107",
+            "updated_at": "20250313T165551",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
