@@ -53,6 +53,38 @@
         },
         {
             "repo": "splor-mg/acordo-judicial-reparacao-vale",
+            "issue": 12,
+            "title": "Implementa workflow no github actions",
+            "pull_request": true,
+            "created_at": "18/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250318T212047",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/acordo-judicial-reparacao-vale",
+            "issue": 11,
+            "title": "cria Dockerfile e workflow actions",
+            "pull_request": true,
+            "created_at": "18/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250318T180942",
+            "closed_at": "18/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/acordo-judicial-reparacao-vale",
             "issue": 10,
             "title": "Inserir a atualização no docker e github actions.",
             "pull_request": false,
@@ -12768,6 +12800,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 66,
+            "title": "[18/03/2025] Live code Datamart",
+            "pull_request": false,
+            "created_at": "18/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250318T173357",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
             "labels": null
         },
         {
