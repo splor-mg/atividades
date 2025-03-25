@@ -59,7 +59,7 @@
             "created_at": "18/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250320T152845",
+            "updated_at": "20250324T184135",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6202,6 +6202,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 100,
+            "title": "Falha na execução do workflow em 2025-03-24T09:39:42Z",
+            "pull_request": false,
+            "created_at": "24/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250324T093942",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 99,
             "title": "Falha na execução do workflow em 2025-03-21T09:38:11Z",
             "pull_request": false,
@@ -6376,7 +6393,7 @@
             "created_at": "28/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250321T151943",
+            "updated_at": "20250324T123302",
             "closed_at": "07/03/2025",
             "closed_at_year": 2025,
             "closed_at_month": 3,
@@ -10946,7 +10963,7 @@
             "created_at": "25/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250321T183211",
+            "updated_at": "20250324T125023",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12870,6 +12887,21 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 72,
+            "title": "Post sobre quando criar um Issue e quando criar uma Discussão",
+            "pull_request": false,
+            "created_at": "24/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250324T175334",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 71,
             "title": "Aprimorar categorias Posts livecode",
             "pull_request": false,
@@ -12891,11 +12923,11 @@
             "created_at": "21/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250321T145509",
+            "updated_at": "20250324T184840",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "carloshob",
             "labels": [
                 "enhancement"
             ]
@@ -13467,11 +13499,11 @@
             "created_at": "21/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250226T183735",
+            "updated_at": "20250324T174106",
             "closed_at": "26/02/2025",
             "closed_at_year": 2025,
             "closed_at_month": 2,
-            "assignee": null,
+            "assignee": "gabrielbdornas",
             "labels": null
         },
         {
@@ -13837,16 +13869,50 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 54,
+            "title": "40 - Atualização Token",
+            "pull_request": true,
+            "created_at": "24/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250324T184453",
+            "closed_at": "24/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 53,
+            "title": "Falha na execução do workflow em 2025-03-24T10:36:51Z",
+            "pull_request": false,
+            "created_at": "24/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250324T165109",
+            "closed_at": "24/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 52,
             "title": "Falha na execução do workflow em 2025-03-21T19:40:19Z",
             "pull_request": false,
             "created_at": "21/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250321T194019",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250324T165109",
+            "closed_at": "24/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13860,10 +13926,10 @@
             "created_at": "21/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250321T193816",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250324T165108",
+            "closed_at": "24/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13877,10 +13943,10 @@
             "created_at": "21/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250321T103440",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250324T165108",
+            "closed_at": "24/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -14043,10 +14109,10 @@
             "created_at": "27/08/2024",
             "created_at_year": 2024,
             "created_at_month": 8,
-            "updated_at": "20250321T215841",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250324T164731",
+            "closed_at": "24/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
             "assignee": "carloshob",
             "labels": [
                 "bug"
