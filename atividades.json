@@ -59,11 +59,11 @@
             "created_at": "18/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250324T184135",
+            "updated_at": "20250325T134734",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "gabrielbdornas",
+            "assignee": null,
             "labels": [
                 "enhancement"
             ]
@@ -91,7 +91,7 @@
             "created_at": "14/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250314T180547",
+            "updated_at": "20250325T141200",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6202,16 +6202,33 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 101,
+            "title": "Falha na execução do workflow em 2025-03-25T09:39:20Z",
+            "pull_request": false,
+            "created_at": "25/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250325T201945",
+            "closed_at": "25/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "hslinhares",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 100,
             "title": "Falha na execução do workflow em 2025-03-24T09:39:42Z",
             "pull_request": false,
             "created_at": "24/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250324T093942",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250325T201850",
+            "closed_at": "25/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -6225,10 +6242,10 @@
             "created_at": "21/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250321T093811",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250325T201823",
+            "closed_at": "25/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -12883,6 +12900,38 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 74,
+            "title": "[25/03/2025] Live code Dados Abertos",
+            "pull_request": false,
+            "created_at": "25/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250325T193226",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 73,
+            "title": "Acrescenta publicação do live code volumes loa 20-03-2025",
+            "pull_request": true,
+            "created_at": "25/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250325T175920",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
             "labels": null
         },
         {
