@@ -91,7 +91,7 @@
             "created_at": "14/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250325T141200",
+            "updated_at": "20250327T172128",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -9086,10 +9086,10 @@
             "created_at": "26/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250326T174737",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250327T135117",
+            "closed_at": "27/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -9103,10 +9103,10 @@
             "created_at": "26/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250326T140158",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250327T135118",
+            "closed_at": "27/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
             "assignee": "carloshob",
             "labels": null
         },
@@ -9540,7 +9540,7 @@
             "created_at": "03/12/2024",
             "created_at_year": 2024,
             "created_at_month": 12,
-            "updated_at": "20250326T131548",
+            "updated_at": "20250327T141436",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -13110,10 +13110,10 @@
             "created_at": "25/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250325T175920",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250327T134311",
+            "closed_at": "27/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
             "assignee": "gabrielbdornas",
             "labels": null
         },
@@ -13172,10 +13172,10 @@
             "created_at": "20/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250321T143503",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250327T134310",
+            "closed_at": "27/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
             "assignee": "carloshob",
             "labels": null
         },
@@ -15650,6 +15650,108 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 6,
+            "title": "Criar o painel a partir do resultado final do farol para alertas",
+            "pull_request": false,
+            "created_at": "27/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250327T184840",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 5,
+            "title": "Criar actions que será acionado toda vez que dados-sisor-2026 atualizar",
+            "pull_request": false,
+            "created_at": "27/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250327T184719",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 4,
+            "title": "Criar farol para alertas",
+            "pull_request": false,
+            "created_at": "27/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250327T184355",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 3,
+            "title": "Criar script para empilhar as tabelas",
+            "pull_request": false,
+            "created_at": "27/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250327T183707",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 2,
+            "title": "Criar repositório dados-sisor-2026",
+            "pull_request": false,
+            "created_at": "27/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250327T211058",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 1,
+            "title": "Painel para monitoramento das receitas - LDO",
+            "pull_request": false,
+            "created_at": "27/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250327T181300",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "Planejado"
+            ]
         },
         {
             "repo": "splor-mg/portal-planejamento-orcamento-arch",
