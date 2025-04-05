@@ -15698,17 +15698,32 @@
         },
         {
             "repo": "splor-mg/painel-ldo",
+            "issue": 13,
+            "title": "Inconsistência no Alerta da base fonte_analise Painel LDO 2026",
+            "pull_request": false,
+            "created_at": "04/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250404T204606",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
             "issue": 12,
             "title": "Base agregada ano-uo-fonte",
             "pull_request": true,
             "created_at": "03/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250403T193212",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "gabrielbdornas",
+            "updated_at": "20250404T200649",
+            "closed_at": "04/04/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 4,
+            "assignee": null,
             "labels": [
                 "Planejado"
             ]
@@ -15721,10 +15736,10 @@
             "created_at": "03/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250403T195125",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250404T175455",
+            "closed_at": "04/04/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 4,
             "assignee": "carloshob",
             "labels": [
                 "Planejado"
