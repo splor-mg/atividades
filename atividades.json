@@ -15704,11 +15704,11 @@
             "created_at": "04/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250404T204606",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20250407T181659",
+            "closed_at": "07/04/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 4,
+            "assignee": "carloshob",
             "labels": null
         },
         {
@@ -15813,10 +15813,10 @@
             "created_at": "27/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250403T192110",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250407T180908",
+            "closed_at": "07/04/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 4,
             "assignee": "vivianenascimento",
             "labels": [
                 "Planejado"
