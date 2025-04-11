@@ -9712,6 +9712,21 @@
             ]
         },
         {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 1,
+            "title": "Erro ao rodar comando pip install -r requirements devido a problemas com ferramentas de compilação",
+            "pull_request": false,
+            "created_at": "10/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250410T200509",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
             "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 84,
             "title": "Email no gmail indo parar no spam",
@@ -11593,11 +11608,11 @@
             "created_at": "08/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20250409T220737",
+            "updated_at": "20250410T195148",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "labanca",
             "labels": null
         },
         {
@@ -11608,7 +11623,7 @@
             "created_at": "02/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20250409T193533",
+            "updated_at": "20250410T142130",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
