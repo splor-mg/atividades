@@ -2,21 +2,6 @@
     "issues": [
         {
             "repo": "splor-mg/.github",
-            "issue": 12,
-            "title": "Actions para conferências Gestão a Vista",
-            "pull_request": false,
-            "created_at": "08/04/2025",
-            "created_at_year": 2025,
-            "created_at_month": 4,
-            "updated_at": "20250409T143209",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/.github",
             "issue": 11,
             "title": "Escrever Discussão questionando porque alguns de nossos repositórios são fechados",
             "pull_request": false,
@@ -16693,6 +16678,36 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/verificacoes-github-splor-mg",
+            "issue": 2,
+            "title": "Pensar nome melhor para este repositório",
+            "pull_request": false,
+            "created_at": "15/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250415T211516",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/verificacoes-github-splor-mg",
+            "issue": 1,
+            "title": "Actions para conferências Gestão a Vista",
+            "pull_request": false,
+            "created_at": "08/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250415T211247",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
             "labels": null
         },
         {
