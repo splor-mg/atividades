@@ -318,7 +318,7 @@
             "created_at": "27/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250228T134303",
+            "updated_at": "20250428T182241",
             "closed_at": "27/02/2025",
             "closed_at_year": 2025,
             "closed_at_month": 2,
@@ -8145,11 +8145,11 @@
             "created_at": "25/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250425T174136",
+            "updated_at": "20250428T184616",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "hslinhares",
             "labels": null
         },
         {
@@ -11640,7 +11640,7 @@
             "created_at": "08/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20250414T175055",
+            "updated_at": "20250428T182901",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -13129,6 +13129,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 79,
+            "title": "Estruturar Cursos",
+            "pull_request": false,
+            "created_at": "28/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250428T190208",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "enhancement"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
