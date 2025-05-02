@@ -9458,6 +9458,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 85,
+            "title": "Falha na execução do workflow em 2025-05-01T10:10:38Z",
+            "pull_request": false,
+            "created_at": "01/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250501T101038",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 84,
             "title": "Email no gmail indo parar no spam",
             "pull_request": false,
