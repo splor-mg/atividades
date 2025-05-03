@@ -1,6 +1,72 @@
 {
     "issues": [
         {
+            "repo": "splor-mg/.github",
+            "issue": 11,
+            "title": "Escrever Discussão questionando porque alguns de nossos repositórios são fechados",
+            "pull_request": false,
+            "created_at": "03/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250403T180720",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/.github",
+            "issue": 4,
+            "title": "Melhorar Issue template",
+            "pull_request": false,
+            "created_at": "20/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241220T190111",
+            "closed_at": "20/12/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 12,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "scpo/dcppn"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
+            "issue": 3,
+            "title": "Passar Issue template Ata de Reunião para padrão `yaml`",
+            "pull_request": false,
+            "created_at": "25/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241111T135922",
+            "closed_at": "11/11/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 11,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "scpo/dcppn"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
+            "issue": 2,
+            "title": "Issue template da organização não funciona em repositórios que também tenham Issues templates",
+            "pull_request": false,
+            "created_at": "25/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241111T135612",
+            "closed_at": "11/11/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 11,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "aid"
+            ]
+        },
+        {
             "repo": "splor-mg/acordo-judicial-reparacao-vale",
             "issue": 12,
             "title": "Implementa workflow no github actions",
@@ -186,6 +252,51 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 169,
+            "title": "Criar script para mudar `labels` de todos os repositórios",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250408T185804",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 168,
+            "title": "Melhorar notificações de falhas no GitHub actions",
+            "pull_request": false,
+            "created_at": "11/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250311T180502",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 167,
+            "title": "Melhorar processo dupla verificação contas AID",
+            "pull_request": false,
+            "created_at": "10/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250408T193055",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 166,
             "title": "Criar repositório upstream dados programações anuais",
             "pull_request": false,
@@ -242,6 +353,38 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 161,
+            "title": "Realizar planejamento anual equipe AID",
+            "pull_request": false,
+            "created_at": "20/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241220T190501",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 160,
+            "title": "Montar datapackage servidores SPLOR",
+            "pull_request": false,
+            "created_at": "20/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241220T183458",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
             "labels": null
         },
         {
@@ -336,6 +479,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 151,
+            "title": "Acompanhamento reuniões AID/SPLOR",
+            "pull_request": false,
+            "created_at": "29/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20250403T202857",
+            "closed_at": "03/04/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 4,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 150,
             "title": "Envio de arquivo logfile.log contendo erros de validação frictionless aos responsáveis pela correção.",
             "pull_request": false,
@@ -347,6 +505,51 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 149,
+            "title": "Acompanhamento reuniões SISOR/SIGPLAN",
+            "pull_request": false,
+            "created_at": "22/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241112T130358",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 148,
+            "title": "Estudar viabilidade de simplificar códigos repositórios ETL",
+            "pull_request": false,
+            "created_at": "22/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241025T135228",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 147,
+            "title": "Estudar a viabilidade de executar códigos R em Python",
+            "pull_request": false,
+            "created_at": "21/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20250306T184636",
+            "closed_at": "06/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "labanca",
             "labels": null
         },
         {
@@ -5094,6 +5297,41 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 59,
+            "title": "Erro `Unable to load extension: No module named 'jinja2_git'`",
+            "pull_request": false,
+            "created_at": "05/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20241105T191048",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 58,
+            "title": "Estudar se é possível atualizar repositórios criados a partir das versões atualizadas do cookiecutter-datapackage",
+            "pull_request": false,
+            "created_at": "29/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20250227T174623",
+            "closed_at": "27/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
+            "assignee": "hslinhares",
+            "labels": [
+                "documentation",
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 57,
             "title": "altera usuário dockerhub de fjunior para splormg",
             "pull_request": true,
@@ -9175,6 +9413,21 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
+            "issue": 19,
+            "title": "Atualizar env var dockerhub splor-mg",
+            "pull_request": false,
+            "created_at": "26/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250326T140248",
+            "closed_at": "26/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
             "issue": 18,
             "title": "Falha na execução do workflow em 2025-03-26T13:14:36Z",
             "pull_request": false,
@@ -9260,6 +9513,23 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
+            "issue": 13,
+            "title": "Incluir .gitignore mais completo",
+            "pull_request": false,
+            "created_at": "12/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20241212T134856",
+            "closed_at": "12/12/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 12,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
             "issue": 12,
             "title": "Falha na execução do workflow em 2024-12-11T21:45:12Z",
             "pull_request": false,
@@ -9305,6 +9575,23 @@
             "closed_at_year": 2024,
             "closed_at_month": 12,
             "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
+            "issue": 9,
+            "title": "Make extract não funcionando no GitHub Actions.",
+            "pull_request": false,
+            "created_at": "03/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20250423T203636",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
             "labels": [
                 "bug"
             ]
@@ -9440,6 +9727,21 @@
             "labels": [
                 "bug"
             ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 2,
+            "title": "Actions painel",
+            "pull_request": true,
+            "created_at": "14/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250414T152632",
+            "closed_at": "14/04/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 4,
+            "assignee": "gabrielbdornas",
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-sisor-2026",
@@ -9946,6 +10248,21 @@
             "labels": [
                 "bug"
             ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 56,
+            "title": "Atualizar cronjob para 07 da manhã",
+            "pull_request": false,
+            "created_at": "21/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241021T185243",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
@@ -11176,6 +11493,25 @@
         },
         {
             "repo": "splor-mg/dpm",
+            "issue": 87,
+            "title": "Teste GitHub Actions local para publicar documentação não funciona",
+            "pull_request": false,
+            "created_at": "06/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20241106T181128",
+            "closed_at": "06/11/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 11,
+            "assignee": "labanca",
+            "labels": [
+                "bug",
+                "documentation",
+                "wontfix"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpm",
             "issue": 86,
             "title": "feat(help): --help as default option",
             "pull_request": true,
@@ -11188,6 +11524,23 @@
             "closed_at_month": 12,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 85,
+            "title": "Publicar `dpm` no pypi.",
+            "pull_request": false,
+            "created_at": "21/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241218T170353",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "enhancement"
+            ]
         },
         {
             "repo": "splor-mg/dpm",
@@ -12598,6 +12951,39 @@
         },
         {
             "repo": "splor-mg/ementario",
+            "issue": 13,
+            "title": "Leitura livro Programming the Semantic Web",
+            "pull_request": false,
+            "created_at": "25/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20250227T201403",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation",
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/ementario",
+            "issue": 12,
+            "title": "Responder perguntas reunião individual 25/11/2024",
+            "pull_request": false,
+            "created_at": "25/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20250227T201338",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/ementario",
             "issue": 11,
             "title": "Implementar enrich usando custom frictionless step e petl",
             "pull_request": false,
@@ -12795,6 +13181,36 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 77,
+            "title": "Automatizar processo de atualização de linhas do tempo",
+            "pull_request": false,
+            "created_at": "08/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250408T194019",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 76,
+            "title": "Linha do tempo projeto Dados Abertos Mermaid não está funcionando.",
+            "pull_request": false,
+            "created_at": "02/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250408T193434",
+            "closed_at": "08/04/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 4,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 75,
             "title": "[31/03/2025] Live code Painel LDO",
             "pull_request": false,
@@ -12838,6 +13254,36 @@
             "closed_at_year": 2025,
             "closed_at_month": 3,
             "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 72,
+            "title": "Post sobre quando criar um Issue e quando criar uma Discussão",
+            "pull_request": false,
+            "created_at": "24/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250401T204211",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 71,
+            "title": "Aprimorar categorias Posts livecode",
+            "pull_request": false,
+            "created_at": "21/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250403T191007",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
             "labels": null
         },
         {
@@ -12904,6 +13350,36 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 66,
+            "title": "[18/03/2025] Live code Datamart",
+            "pull_request": false,
+            "created_at": "18/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250320T142938",
+            "closed_at": "19/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 65,
+            "title": "[17/01/2025] Live code Volumes Loa",
+            "pull_request": false,
+            "created_at": "17/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250321T143142",
+            "closed_at": "21/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 64,
             "title": "Dados Abertos - Postagem análise dos diferentes bancos da receita",
             "pull_request": true,
@@ -12944,6 +13420,111 @@
             "closed_at": "17/03/2025",
             "closed_at_year": 2025,
             "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 61,
+            "title": "[13/03/2025] Live code volumes loa",
+            "pull_request": false,
+            "created_at": "13/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250320T214318",
+            "closed_at": "20/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 60,
+            "title": "Criar linha do tempo projeto capacitações",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250403T203751",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 59,
+            "title": "Criar linha do tempo projeto paineis",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250403T203720",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 58,
+            "title": "Criar linha do tempo projeto ETL/Bases de dados",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250403T203655",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 57,
+            "title": "Criar linha do tempo projeto volumes loa",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250403T203632",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 55,
+            "title": "Criar linha do tempo projeto feed de alterações legislativas",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250403T203558",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 54,
+            "title": "Criar Post sobre os acordos gerenciais criados na reunião gerencial do dia 12/03/2025.",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250403T203048",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "gabrielbdornas",
             "labels": null
         },
@@ -12994,6 +13575,51 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 50,
+            "title": "[07/03/2025] Live code Datamart",
+            "pull_request": false,
+            "created_at": "07/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250307T190921",
+            "closed_at": "07/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 49,
+            "title": "Add post live code metabase",
+            "pull_request": true,
+            "created_at": "06/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250321T135358",
+            "closed_at": "21/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 48,
+            "title": "[06/03/2025] Live code Datamart Metabase",
+            "pull_request": false,
+            "created_at": "06/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250312T174108",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 47,
             "title": "[28/02/2025] Live code Volumes LOA",
             "pull_request": false,
@@ -13005,6 +13631,36 @@
             "closed_at_year": 2025,
             "closed_at_month": 4,
             "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 46,
+            "title": "45 organizacao trabalho",
+            "pull_request": true,
+            "created_at": "27/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250227T222649",
+            "closed_at": "27/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 45,
+            "title": "Criar post organização do trabalho em Issues e GitHub Projects",
+            "pull_request": false,
+            "created_at": "27/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250227T222647",
+            "closed_at": "27/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
+            "assignee": null,
             "labels": null
         },
         {
@@ -13039,6 +13695,175 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 42,
+            "title": "Criar Post sobre yaml",
+            "pull_request": false,
+            "created_at": "27/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250227T195121",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 41,
+            "title": "Add post sobre bloco collapsible em md",
+            "pull_request": true,
+            "created_at": "27/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250227T202435",
+            "closed_at": "27/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 40,
+            "title": "[27/02/2025] Live code datamart",
+            "pull_request": false,
+            "created_at": "27/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250228T140840",
+            "closed_at": "27/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 39,
+            "title": "Criar post sobre sessão colapsável em Markdown",
+            "pull_request": false,
+            "created_at": "27/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250227T171639",
+            "closed_at": "27/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 34,
+            "title": "[26/02/2025] Live code volumes loa",
+            "pull_request": false,
+            "created_at": "26/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250228T134757",
+            "closed_at": "27/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 33,
+            "title": "[25/02/2025] Live code datamart",
+            "pull_request": false,
+            "created_at": "26/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250403T200043",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 32,
+            "title": "[27/02/2025] Reunião Live Code - Banco Sql",
+            "pull_request": false,
+            "created_at": "25/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250403T195235",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 31,
+            "title": "Acrescentar comentários neste repositório",
+            "pull_request": false,
+            "created_at": "22/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250222T020808",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 30,
+            "title": "Escrever Post de como integrar Pyenv com Poetry.",
+            "pull_request": false,
+            "created_at": "22/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250222T020716",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 29,
+            "title": "Escrever Post sobre arquivo poetry.lock",
+            "pull_request": false,
+            "created_at": "22/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250222T020544",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 28,
+            "title": "Post Poetry",
+            "pull_request": true,
+            "created_at": "22/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250321T135357",
+            "closed_at": "21/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 27,
             "title": "Dados abertos",
             "pull_request": true,
@@ -13054,6 +13879,74 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 26,
+            "title": "Incluir testes neste repositório",
+            "pull_request": false,
+            "created_at": "21/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250403T202551",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 25,
+            "title": "Criar Post sobre funcionamento Poetry",
+            "pull_request": false,
+            "created_at": "20/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250321T135358",
+            "closed_at": "21/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 24,
+            "title": "Melhorar trigger action de publicação de páginas",
+            "pull_request": false,
+            "created_at": "20/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250220T214245",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 23,
+            "title": "Utilizar Poetry no repositório",
+            "pull_request": false,
+            "created_at": "20/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250221T174134",
+            "closed_at": "20/02/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 2,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 56,
             "title": "Criar Linha do Tempo do projeto Dados Abertos na página do Handbook-AID",
             "pull_request": false,
@@ -13066,6 +13959,38 @@
             "closed_at_month": 3,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 22,
+            "title": "Criar linha do tempo para projeto Dados Abertos",
+            "pull_request": false,
+            "created_at": "05/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250317T220619",
+            "closed_at": "17/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 21,
+            "title": "Error `ssh: connect to host github.com port 22: Connection timed out`",
+            "pull_request": false,
+            "created_at": "07/01/2025",
+            "created_at_year": 2025,
+            "created_at_month": 1,
+            "updated_at": "20250115T182534",
+            "closed_at": "07/01/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 1,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -13099,6 +14024,21 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 16,
+            "title": "Post reunião como configurar projeto python",
+            "pull_request": false,
+            "created_at": "18/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20250227T201705",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 15,
             "title": "webnar - fazer post encontro Volumes LOA-PPAG - revisão-refatoração - parte 1",
             "pull_request": false,
@@ -13114,6 +14054,23 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 14,
+            "title": "Post sobre novas regras painel Gestão a vista e acompanhamento do trabalho AID",
+            "pull_request": false,
+            "created_at": "13/12/2024",
+            "created_at_year": 2024,
+            "created_at_month": 12,
+            "updated_at": "20250403T203206",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 13,
             "title": "(feat): adiciona workflow para publicação automática no handbook",
             "pull_request": true,
@@ -13126,6 +14083,55 @@
             "closed_at_month": 12,
             "assignee": "carloshob",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 12,
+            "title": "Add video primeira parte geracao volumes loa",
+            "pull_request": true,
+            "created_at": "26/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20241126T200644",
+            "closed_at": "26/11/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 11,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 11,
+            "title": "Publicar posts sobre geração volumes loa",
+            "pull_request": false,
+            "created_at": "26/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20250403T202916",
+            "closed_at": "03/04/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 4,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 10,
+            "title": "Implementar actions para publicação automática do site",
+            "pull_request": false,
+            "created_at": "11/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20241216T131902",
+            "closed_at": "16/12/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 12,
+            "assignee": "carloshob",
+            "labels": [
+                "enhancement"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -14719,6 +15725,41 @@
         },
         {
             "repo": "splor-mg/onboarding",
+            "issue": 2,
+            "title": "Pensar estrutura para seleção de novos integrantes da equipe",
+            "pull_request": false,
+            "created_at": "04/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20241104T180625",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/onboarding",
+            "issue": 1,
+            "title": "Fundir Issue template onboarding com orientações the carpentry",
+            "pull_request": false,
+            "created_at": "04/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20250227T201045",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation",
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/onboarding",
             "issue": 3,
             "title": "Coletar leituras relevantes para inclusão no onboarding",
             "pull_request": false,
@@ -14808,6 +15849,168 @@
             "closed_at": "04/04/2025",
             "closed_at_year": 2025,
             "closed_at_month": 4,
+            "assignee": "carloshob",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 10,
+            "title": "Melhorar filtros de alertas no painel",
+            "pull_request": false,
+            "created_at": "01/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250408T192712",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 9,
+            "title": "Adicionar coluna dados reestimativa receita",
+            "pull_request": false,
+            "created_at": "01/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250403T134344",
+            "closed_at": "03/04/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 4,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 8,
+            "title": "Documentar repositório",
+            "pull_request": false,
+            "created_at": "01/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250414T175742",
+            "closed_at": "14/04/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 4,
+            "assignee": "labanca",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 7,
+            "title": "Adicionar descritores",
+            "pull_request": false,
+            "created_at": "01/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250403T135515",
+            "closed_at": "02/04/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 4,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 6,
+            "title": "Criar o painel a partir do resultado final do farol para alertas",
+            "pull_request": false,
+            "created_at": "27/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250407T180908",
+            "closed_at": "07/04/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 4,
+            "assignee": "vivianenascimento",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 5,
+            "title": "Criar actions que será acionado toda vez que dados-sisor-2026 atualizar",
+            "pull_request": false,
+            "created_at": "27/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250408T192736",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 4,
+            "title": "Criar coluna alertas",
+            "pull_request": false,
+            "created_at": "27/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250401T193553",
+            "closed_at": "01/04/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 4,
+            "assignee": "carloshob",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 3,
+            "title": "Criar script para empilhar as tabelas",
+            "pull_request": false,
+            "created_at": "27/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250401T193538",
+            "closed_at": "31/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "carloshob",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 2,
+            "title": "Criar repositório dados-sisor-2026",
+            "pull_request": false,
+            "created_at": "27/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250328T213808",
+            "closed_at": "28/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 1,
+            "title": "Painel para monitoramento das receitas - LDO",
+            "pull_request": false,
+            "created_at": "27/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250403T191752",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "carloshob",
             "labels": [
                 "Planejado"
@@ -14912,6 +16115,36 @@
             "created_at_year": 2023,
             "created_at_month": 4,
             "updated_at": "20230418T134430",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/projetos",
+            "issue": 18,
+            "title": "Teste paineis com ferramenta Metabase",
+            "pull_request": false,
+            "created_at": "14/02/2025",
+            "created_at_year": 2025,
+            "created_at_month": 2,
+            "updated_at": "20250305T195441",
+            "closed_at": "05/03/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/projetos",
+            "issue": 17,
+            "title": "Geração volumes loa e ppag em HTML",
+            "pull_request": false,
+            "created_at": "26/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20241126T220812",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -15526,6 +16759,36 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/verificacoes-github-splor-mg",
+            "issue": 2,
+            "title": "Pensar nome melhor para este repositório",
+            "pull_request": false,
+            "created_at": "15/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250423T182855",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/verificacoes-github-splor-mg",
+            "issue": 1,
+            "title": "Actions para conferências Gestão a Vista",
+            "pull_request": false,
+            "created_at": "08/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250415T211247",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
             "labels": null
         },
         {
