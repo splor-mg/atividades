@@ -8145,7 +8145,7 @@
             "created_at": "25/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250429T125129",
+            "updated_at": "20250506T135557",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -9751,7 +9751,7 @@
             "created_at": "10/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250414T181402",
+            "updated_at": "20250506T140227",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -16138,6 +16138,23 @@
         },
         {
             "repo": "splor-mg/projetos",
+            "issue": 19,
+            "title": "(DRY) Como resolver o problema de um mesmo conceito em mais de um datapackage",
+            "pull_request": false,
+            "created_at": "06/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250506T142241",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/projetos",
             "issue": 18,
             "title": "Teste paineis com ferramenta Metabase",
             "pull_request": false,
@@ -16441,21 +16458,19 @@
             ]
         },
         {
-            "repo": "splor-mg/roperacional-dados",
-            "issue": 4,
+            "repo": "splor-mg/reprex",
+            "issue": 2,
             "title": "Criar reprex para verificação do funcionamento de arquivos excel em recursos com path multipart",
             "pull_request": false,
             "created_at": "30/05/2023",
             "created_at_year": 2023,
             "created_at_month": 5,
-            "updated_at": "20240812T175502",
+            "updated_at": "20250506T194256",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:waiting"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/roperacional-dados",
@@ -16465,11 +16480,11 @@
             "created_at": "22/05/2023",
             "created_at_year": 2023,
             "created_at_month": 5,
-            "updated_at": "20230530T230941",
+            "updated_at": "20250506T195111",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "gabrielbdornas",
             "labels": null
         },
         {
@@ -16799,7 +16814,7 @@
             "created_at": "08/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250415T211247",
+            "updated_at": "20250506T200402",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
