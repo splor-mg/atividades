@@ -8145,7 +8145,7 @@
             "created_at": "25/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250506T135557",
+            "updated_at": "20250507T205035",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8919,6 +8919,23 @@
             "assignee": null,
             "labels": [
                 "status:next"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2025",
+            "issue": 12,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "07/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250507T184142",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
             ]
         },
         {
@@ -13149,6 +13166,57 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 83,
+            "title": "Altera a versão do Python do projeto para 3.12.",
+            "pull_request": true,
+            "created_at": "07/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250507T202428",
+            "closed_at": "07/05/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 82,
+            "title": "The currently activated Python version 3.12.1 is not supported by the project (>=3.13,<4.0).",
+            "pull_request": false,
+            "created_at": "07/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250507T202822",
+            "closed_at": "07/05/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 81,
+            "title": "Postar vídeo da primeira reunião de treinamento DCPPN",
+            "pull_request": false,
+            "created_at": "07/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250507T195757",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 79,
             "title": "Estruturar Cursos",
             "pull_request": false,
@@ -16480,7 +16548,7 @@
             "created_at": "22/05/2023",
             "created_at_year": 2023,
             "created_at_month": 5,
-            "updated_at": "20250506T195111",
+            "updated_at": "20250507T182056",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
