@@ -8145,7 +8145,7 @@
             "created_at": "25/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250507T205035",
+            "updated_at": "20250508T173245",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -13166,6 +13166,23 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 84,
+            "title": "81 post treinamento dcppn",
+            "pull_request": true,
+            "created_at": "08/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250508T185455",
+            "closed_at": "08/05/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 83,
             "title": "Altera a versão do Python do projeto para 3.12.",
             "pull_request": true,
@@ -13206,10 +13223,10 @@
             "created_at": "07/05/2025",
             "created_at_year": 2025,
             "created_at_month": 5,
-            "updated_at": "20250507T195757",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250508T185455",
+            "closed_at": "08/05/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 5,
             "assignee": "raianecardoso",
             "labels": [
                 "documentation"
