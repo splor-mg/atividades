@@ -13166,6 +13166,38 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 86,
+            "title": "Dever post treinamento",
+            "pull_request": true,
+            "created_at": "12/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250512T204736",
+            "closed_at": "12/05/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 5,
+            "assignee": null,
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 85,
+            "title": "Teste treinamento AID",
+            "pull_request": false,
+            "created_at": "12/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250512T144532",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 84,
             "title": "81 post treinamento dcppn",
             "pull_request": true,
@@ -13230,23 +13262,6 @@
             "assignee": "raianecardoso",
             "labels": [
                 "documentation"
-            ]
-        },
-        {
-            "repo": "splor-mg/handbook",
-            "issue": 79,
-            "title": "Estruturar Cursos",
-            "pull_request": false,
-            "created_at": "28/04/2025",
-            "created_at_year": 2025,
-            "created_at_month": 4,
-            "updated_at": "20250505T160538",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "raianecardoso",
-            "labels": [
-                "enhancement"
             ]
         },
         {
@@ -16870,6 +16885,21 @@
             "created_at_year": 2023,
             "created_at_month": 4,
             "updated_at": "20230418T212312",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 1,
+            "title": "Estruturar Cursos",
+            "pull_request": false,
+            "created_at": "28/04/2025",
+            "created_at_year": 2025,
+            "created_at_month": 4,
+            "updated_at": "20250512T202620",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
