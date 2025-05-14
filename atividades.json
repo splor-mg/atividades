@@ -11501,7 +11501,7 @@
             "created_at": "24/01/2025",
             "created_at_year": 2025,
             "created_at_month": 1,
-            "updated_at": "20250124T135156",
+            "updated_at": "20250513T203904",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -13166,13 +13166,47 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 88,
+            "title": "85 incluir post reuniao",
+            "pull_request": true,
+            "created_at": "13/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250513T202815",
+            "closed_at": "13/05/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 5,
+            "assignee": "danielmelo55",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 87,
+            "title": "Revert \"Dever post treinamento\"",
+            "pull_request": true,
+            "created_at": "13/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250513T183417",
+            "closed_at": "13/05/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 86,
             "title": "Dever post treinamento",
             "pull_request": true,
             "created_at": "12/05/2025",
             "created_at_year": 2025,
             "created_at_month": 5,
-            "updated_at": "20250512T204736",
+            "updated_at": "20250513T130647",
             "closed_at": "12/05/2025",
             "closed_at_year": 2025,
             "closed_at_month": 5,
@@ -13189,12 +13223,14 @@
             "created_at": "12/05/2025",
             "created_at_year": 2025,
             "created_at_month": 5,
-            "updated_at": "20250512T144532",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20250513T202725",
+            "closed_at": "13/05/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 5,
+            "assignee": "danielmelo55",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
