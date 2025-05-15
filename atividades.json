@@ -13166,6 +13166,73 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 92,
+            "title": "Post do vídeo de reunião",
+            "pull_request": true,
+            "created_at": "14/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250514T191441",
+            "closed_at": "14/05/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 5,
+            "assignee": "Izabellabranco",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 91,
+            "title": "Inclui post sobre transcrição de gravações.",
+            "pull_request": true,
+            "created_at": "14/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250514T184558",
+            "closed_at": "14/05/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation",
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 90,
+            "title": "Vídeo de reunião DCPPN",
+            "pull_request": false,
+            "created_at": "14/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250514T173751",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 89,
+            "title": "Criar post sobre formas de transcrever vídeo",
+            "pull_request": false,
+            "created_at": "14/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250514T184557",
+            "closed_at": "14/05/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 88,
             "title": "85 incluir post reuniao",
             "pull_request": true,
