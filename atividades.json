@@ -16341,6 +16341,23 @@
         },
         {
             "repo": "splor-mg/projetos",
+            "issue": 20,
+            "title": "Sistema para solicitação  de Liberação de Cotas Orçamentárias",
+            "pull_request": false,
+            "created_at": "15/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250515T145113",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/projetos",
             "issue": 19,
             "title": "(DRY) Como resolver o problema de um mesmo conceito em mais de um datapackage",
             "pull_request": false,
