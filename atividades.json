@@ -13166,6 +13166,53 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 95,
+            "title": "Adiciona um novo post de treinamento da DCPPN",
+            "pull_request": true,
+            "created_at": "16/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250516T172034",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 94,
+            "title": "Postar vídeo da primeira reunião de treinamento da DCPPN",
+            "pull_request": false,
+            "created_at": "16/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250516T142642",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 93,
+            "title": "[16/05/2025] Treinamento AID - DCPPN",
+            "pull_request": false,
+            "created_at": "16/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250516T172351",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 92,
             "title": "Post do vídeo de reunião",
             "pull_request": true,
