@@ -8145,7 +8145,7 @@
             "created_at": "25/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250508T173245",
+            "updated_at": "20250521T184147",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -13162,6 +13162,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 96,
+            "title": "fix typos in transcription post.",
+            "pull_request": true,
+            "created_at": "21/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250521T152124",
+            "closed_at": "21/05/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
             "labels": null
         },
         {
