@@ -68,6 +68,21 @@
         },
         {
             "repo": "splor-mg/acordo-judicial-reparacao-vale",
+            "issue": 13,
+            "title": "Atualizar dados",
+            "pull_request": false,
+            "created_at": "22/05/2025",
+            "created_at_year": 2025,
+            "created_at_month": 5,
+            "updated_at": "20250522T193002",
+            "closed_at": "22/05/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 5,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/acordo-judicial-reparacao-vale",
             "issue": 12,
             "title": "Implementa workflow no github actions",
             "pull_request": true,
