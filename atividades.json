@@ -8160,7 +8160,7 @@
             "created_at": "25/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250527T124510",
+            "updated_at": "20250528T130927",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -16445,23 +16445,6 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
-        },
-        {
-            "repo": "splor-mg/projetos",
-            "issue": 20,
-            "title": "Sistema para solicitação  de Liberação de Cotas Orçamentárias",
-            "pull_request": false,
-            "created_at": "15/05/2025",
-            "created_at_year": 2025,
-            "created_at_month": 5,
-            "updated_at": "20250527T174931",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "raianecardoso",
-            "labels": [
-                "enhancement"
-            ]
         },
         {
             "repo": "splor-mg/projetos",
