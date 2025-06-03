@@ -17103,6 +17103,91 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 6,
+            "title": "Desenvolver roteiro para cada vídeo do 2 dia de curso",
+            "pull_request": false,
+            "created_at": "02/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250602T185004",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 5,
+            "title": "Melhorar página inicial do trilha dev",
+            "pull_request": false,
+            "created_at": "02/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250602T173723",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 4,
+            "title": "Edita dia 01",
+            "pull_request": true,
+            "created_at": "02/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250602T173539",
+            "closed_at": "02/06/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 6,
+            "assignee": "raianecardoso",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 3,
+            "title": "Produzir vídeos",
+            "pull_request": false,
+            "created_at": "02/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250602T173353",
+            "closed_at": "02/06/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 6,
+            "assignee": "raianecardoso",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 2,
+            "title": "Desenvolver conteúdo programático",
+            "pull_request": false,
+            "created_at": "02/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250602T170614",
+            "closed_at": "02/06/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 6,
+            "assignee": "raianecardoso",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 1,
             "title": "Estruturar Cursos",
             "pull_request": false,
