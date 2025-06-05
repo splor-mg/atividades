@@ -17103,16 +17103,33 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 7,
+            "title": "Edita dia 02",
+            "pull_request": true,
+            "created_at": "04/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250604T200900",
+            "closed_at": "04/06/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 6,
+            "assignee": "raianecardoso",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 6,
             "title": "Desenvolver roteiro para cada vídeo do 2 dia de curso",
             "pull_request": false,
             "created_at": "02/06/2025",
             "created_at_year": 2025,
             "created_at_month": 6,
-            "updated_at": "20250602T185004",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250604T200901",
+            "closed_at": "04/06/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
                 "Planejado"
