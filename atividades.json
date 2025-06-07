@@ -13211,6 +13211,38 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 98,
+            "title": "Inclui post 20250606_reuniao_componente_abas_novo_portal.",
+            "pull_request": true,
+            "created_at": "06/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250606T191443",
+            "closed_at": "06/06/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 6,
+            "assignee": "raianecardoso",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 97,
+            "title": "Treinamento DCPPN",
+            "pull_request": false,
+            "created_at": "06/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250606T191311",
+            "closed_at": "06/06/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 6,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 96,
             "title": "fix typos in transcription post.",
             "pull_request": true,
@@ -13247,11 +13279,11 @@
             "created_at": "16/05/2025",
             "created_at_year": 2025,
             "created_at_month": 5,
-            "updated_at": "20250516T142642",
+            "updated_at": "20250606T191357",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "vanessalonguinho",
             "labels": null
         },
         {
@@ -13314,10 +13346,10 @@
             "created_at": "14/05/2025",
             "created_at_year": 2025,
             "created_at_month": 5,
-            "updated_at": "20250514T173751",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250606T140302",
+            "closed_at": "06/06/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 6,
             "assignee": null,
             "labels": null
         },
