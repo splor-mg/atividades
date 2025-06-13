@@ -267,6 +267,36 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 171,
+            "title": "Padronizar nomes dos repositórios",
+            "pull_request": false,
+            "created_at": "12/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250612T194040",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 170,
+            "title": "Usar níveis de acesso adequados: Read, Write, Maintain, Admin.",
+            "pull_request": false,
+            "created_at": "12/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250612T194152",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 169,
             "title": "Criar script para mudar `labels` de todos os repositórios",
             "pull_request": false,
@@ -13208,6 +13238,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 103,
+            "title": "Criar post no Handbook sobre permissões e role no GitHub",
+            "pull_request": false,
+            "created_at": "12/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250612T193645",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
