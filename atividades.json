@@ -320,7 +320,7 @@
             "created_at": "12/06/2025",
             "created_at_year": 2025,
             "created_at_month": 6,
-            "updated_at": "20250612T194040",
+            "updated_at": "20250625T190659",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -335,7 +335,7 @@
             "created_at": "12/06/2025",
             "created_at_year": 2025,
             "created_at_month": 6,
-            "updated_at": "20250624T182001",
+            "updated_at": "20250625T133037",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17342,17 +17342,51 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 11,
+            "title": "Publicar vídeos do dia 04",
+            "pull_request": false,
+            "created_at": "25/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250625T180541",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 10,
+            "title": "Dia 03",
+            "pull_request": true,
+            "created_at": "25/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250625T172657",
+            "closed_at": "25/06/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 6,
+            "assignee": "raianecardoso",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 9,
             "title": "Sintaxe Markdown",
             "pull_request": false,
             "created_at": "10/06/2025",
             "created_at_year": 2025,
             "created_at_month": 6,
-            "updated_at": "20250610T192937",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20250625T172822",
+            "closed_at": "25/06/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 6,
+            "assignee": "raianecardoso",
             "labels": null
         },
         {
@@ -17363,12 +17397,14 @@
             "created_at": "09/06/2025",
             "created_at_year": 2025,
             "created_at_month": 6,
-            "updated_at": "20250609T205802",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20250625T172725",
+            "closed_at": "25/06/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 6,
+            "assignee": "raianecardoso",
+            "labels": [
+                "Planejado"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
