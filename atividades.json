@@ -305,7 +305,7 @@
             "created_at": "13/06/2025",
             "created_at_year": 2025,
             "created_at_month": 6,
-            "updated_at": "20250613T142534",
+            "updated_at": "20250627T233027",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -13316,6 +13316,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 109,
+            "title": "Publicação Modelagem Dados",
+            "pull_request": true,
+            "created_at": "27/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250627T233643",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
             "labels": null
         },
         {
