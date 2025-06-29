@@ -13319,6 +13319,21 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/feed-legis-front",
+            "issue": 1,
+            "title": "Instalar node e feed-legis-front na nuvem",
+            "pull_request": false,
+            "created_at": "28/06/2025",
+            "created_at_year": 2025,
+            "created_at_month": 6,
+            "updated_at": "20250628T134107",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
             "repo": "splor-mg/handbook",
             "issue": 109,
             "title": "Publicação Modelagem Dados",
