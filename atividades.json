@@ -787,12 +787,14 @@
             "created_at": "03/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240924T175510",
+            "updated_at": "20250717T184630",
             "closed_at": "24/09/2024",
             "closed_at_year": 2024,
             "closed_at_month": 9,
             "assignee": "labanca",
-            "labels": null
+            "labels": [
+                "wontfix"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -9946,6 +9948,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 86,
+            "title": "Falha na execução do workflow em 2025-07-17T10:12:30Z",
+            "pull_request": false,
+            "created_at": "17/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250717T101230",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 85,
             "title": "Falha na execução do workflow em 2025-05-01T10:10:38Z",
             "pull_request": false,
@@ -11351,7 +11370,7 @@
             "created_at": "01/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250716T210335",
+            "updated_at": "20250717T174014",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -13395,6 +13414,55 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 129,
+            "title": "Revisar aba Gestão Splor: Ferramentas",
+            "pull_request": false,
+            "created_at": "17/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250717T180033",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 128,
+            "title": "Revisar aba Gestão Splor - Governança",
+            "pull_request": false,
+            "created_at": "17/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250717T171406",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 127,
+            "title": "Ferramentas raiane",
+            "pull_request": true,
+            "created_at": "17/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250717T175905",
+            "closed_at": "17/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 123,
             "title": "Exclui posts de exercício da equipe dcppn.",
             "pull_request": true,
@@ -13431,7 +13499,7 @@
             "created_at": "10/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250716T201150",
+            "updated_at": "20250717T151020",
             "closed_at": "16/07/2025",
             "closed_at_year": 2025,
             "closed_at_month": 7,
@@ -17323,6 +17391,23 @@
         },
         {
             "repo": "splor-mg/spreadmart",
+            "issue": 18,
+            "title": "Definir pela permanência (ou não) deste repositório",
+            "pull_request": false,
+            "created_at": "17/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250717T180603",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/spreadmart",
             "issue": 17,
             "title": "Reproduzir planilha do projeto `acordo-judicial-reparacao-vale` utilizando modelagem link table no spreadmart",
             "pull_request": false,
@@ -17559,6 +17644,21 @@
             "created_at_year": 2023,
             "created_at_month": 4,
             "updated_at": "20230418T212312",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/teste-classificacao-issues",
+            "issue": 1,
+            "title": "teste classificação issue 1",
+            "pull_request": false,
+            "created_at": "17/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250717T201559",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
