@@ -273,7 +273,7 @@
             "created_at": "15/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250721T175551",
+            "updated_at": "20250722T145201",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -395,7 +395,7 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250714T185103",
+            "updated_at": "20250722T150511",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -9948,6 +9948,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 87,
+            "title": "Falha na execução do workflow em 2025-07-22T10:12:31Z",
+            "pull_request": false,
+            "created_at": "22/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250722T101231",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 86,
             "title": "Falha na execução do workflow em 2025-07-17T10:12:30Z",
             "pull_request": false,
@@ -11364,17 +11381,17 @@
         },
         {
             "repo": "splor-mg/datamart",
-            "issue": 10,
-            "title": "Modelar Banco de Dados Servidores",
+            "issue": 11,
+            "title": "Pesquisa inicial de como estruturar o trabalho de construção do datamart",
             "pull_request": false,
-            "created_at": "01/07/2025",
+            "created_at": "22/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250718T151332",
+            "updated_at": "20250722T184234",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "carloshob",
+            "assignee": "gabrielbdornas",
             "labels": null
         },
         {
@@ -13413,14 +13430,32 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/gitinho",
+            "issue": 1,
+            "title": "build(deps): bump form-data from 4.0.2 to 4.0.4",
+            "pull_request": true,
+            "created_at": "22/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250722T150002",
+            "closed_at": "22/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
+            "assignee": null,
+            "labels": [
+                "dependencies",
+                "javascript"
+            ]
+        },
+        {
             "repo": "splor-mg/handbook",
             "issue": 130,
-            "title": "Adicona sugestões de melhoria aba ferramentas",
+            "title": "Adiciona sugestões de melhoria aba ferramentas",
             "pull_request": true,
             "created_at": "21/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250721T180051",
+            "updated_at": "20250722T145339",
             "closed_at": "21/07/2025",
             "closed_at_year": 2025,
             "closed_at_month": 7,
@@ -13435,10 +13470,10 @@
             "created_at": "17/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250717T180033",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250722T145358",
+            "closed_at": "22/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
             "assignee": "gabrielbdornas",
             "labels": [
                 "documentation"
@@ -17427,10 +17462,10 @@
             "created_at": "17/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250717T180603",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250722T153256",
+            "closed_at": "22/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
             "assignee": "gabrielbdornas",
             "labels": [
                 "question"
@@ -17688,10 +17723,10 @@
             "created_at": "21/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250721T174759",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250722T154449",
+            "closed_at": "22/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
             "assignee": "gabrielbdornas",
             "labels": [
                 "reunião"
@@ -17705,10 +17740,10 @@
             "created_at": "21/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250721T174708",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250722T154456",
+            "closed_at": "22/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
             "assignee": "gabrielbdornas",
             "labels": [
                 "type: documentação",
@@ -17731,6 +17766,23 @@
             "labels": [
                 "type: bug",
                 "planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 19,
+            "title": "16 edita dia 05",
+            "pull_request": true,
+            "created_at": "22/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250722T191517",
+            "closed_at": "22/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
+            "assignee": "raianecardoso",
+            "labels": [
+                "Planejado"
             ]
         },
         {
@@ -17775,10 +17827,10 @@
             "created_at": "14/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250715T175224",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250722T191503",
+            "closed_at": "22/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
                 "Planejado"
