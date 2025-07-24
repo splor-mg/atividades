@@ -17770,6 +17770,72 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 23,
+            "title": "Sugestões de Melhoria gerais Trilha Dev",
+            "pull_request": false,
+            "created_at": "23/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250723T205702",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 22,
+            "title": "Incluir funcionalidade de comentários e quiz",
+            "pull_request": false,
+            "created_at": "23/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250723T135019",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 21,
+            "title": "20 dia 06",
+            "pull_request": true,
+            "created_at": "23/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250723T133527",
+            "closed_at": "23/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
+            "assignee": "raianecardoso",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 20,
+            "title": "Criar conteúdo para o dia 06",
+            "pull_request": false,
+            "created_at": "23/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250723T133543",
+            "closed_at": "23/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
+            "assignee": "raianecardoso",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 19,
             "title": "16 edita dia 05",
             "pull_request": true,
@@ -18006,7 +18072,7 @@
             "created_at": "02/06/2025",
             "created_at_year": 2025,
             "created_at_month": 6,
-            "updated_at": "20250602T173723",
+            "updated_at": "20250723T134745",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
