@@ -17772,6 +17772,21 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 25,
+            "title": "Desafio final",
+            "pull_request": true,
+            "created_at": "28/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250728T183223",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 24,
             "title": "Ideias para desafio final",
             "pull_request": false,
