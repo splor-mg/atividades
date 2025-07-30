@@ -17772,13 +17772,30 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 27,
+            "title": "22 comentario quizz",
+            "pull_request": true,
+            "created_at": "29/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250729T192848",
+            "closed_at": "29/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
+            "assignee": "raianecardoso",
+            "labels": [
+                "Planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 25,
             "title": "Desafio final",
             "pull_request": true,
             "created_at": "28/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250728T183223",
+            "updated_at": "20250729T141826",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17823,10 +17840,10 @@
             "created_at": "23/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250723T135019",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250729T192903",
+            "closed_at": "29/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
                 "Planejado"
