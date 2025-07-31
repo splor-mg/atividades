@@ -267,6 +267,23 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 180,
+            "title": "Mostrando Vivi como usar o GitHub Projects",
+            "pull_request": false,
+            "created_at": "30/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250730T201246",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "vivianenascimento",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 179,
             "title": "Preparar documento mostrando inovações criadas pela AID",
             "pull_request": false,
@@ -2801,6 +2818,57 @@
             "closed_at_month": 3,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 85,
+            "title": "Falha na execução do workflow em 2025-07-30T16:09:37Z",
+            "pull_request": false,
+            "created_at": "30/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250730T160938",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 84,
+            "title": "Falha na execução do workflow em 2025-07-30T14:44:24Z",
+            "pull_request": false,
+            "created_at": "30/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250730T144424",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 83,
+            "title": "Falha na execução do workflow em 2025-07-30T14:42:33Z",
+            "pull_request": false,
+            "created_at": "30/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250730T144233",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
@@ -13551,7 +13619,7 @@
             "created_at": "10/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250717T151020",
+            "updated_at": "20250730T183704",
             "closed_at": "16/07/2025",
             "closed_at_year": 2025,
             "closed_at_month": 7,
@@ -17382,12 +17450,12 @@
         {
             "repo": "splor-mg/reprex",
             "issue": 3,
-            "title": "Criar um reprex com desenho de banco relacional de dados de servidores atuais e historico na SPLOR",
+            "title": "Criar um reprex com desenho de banco relacional de dados de servidores atuais e histórico na SPLOR",
             "pull_request": false,
             "created_at": "18/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250721T143303",
+            "updated_at": "20250730T213158",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17772,6 +17840,75 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 31,
+            "title": "17 video desafio",
+            "pull_request": true,
+            "created_at": "30/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250730T183113",
+            "closed_at": "30/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
+            "assignee": "raianecardoso",
+            "labels": [
+                "planned",
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 30,
+            "title": "5 pagina inicial",
+            "pull_request": true,
+            "created_at": "30/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250730T181005",
+            "closed_at": "30/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
+            "assignee": "raianecardoso",
+            "labels": [
+                "planned",
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 29,
+            "title": "Esturar encontros presenciais",
+            "pull_request": false,
+            "created_at": "30/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250730T152956",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "planned",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 28,
+            "title": "Insere foto raiane no hall da fama.",
+            "pull_request": true,
+            "created_at": "30/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250730T165647",
+            "closed_at": "30/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 27,
             "title": "22 comentario quizz",
             "pull_request": true,
@@ -17784,7 +17921,7 @@
             "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -17795,10 +17932,10 @@
             "created_at": "28/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250729T141826",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250730T140652",
+            "closed_at": "30/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": null
         },
@@ -17825,12 +17962,15 @@
             "created_at": "23/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250725T133008",
+            "updated_at": "20250730T152723",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "gabrielbdornas",
-            "labels": null
+            "labels": [
+                "planned",
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -17846,7 +17986,7 @@
             "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -17863,7 +18003,7 @@
             "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -17880,7 +18020,7 @@
             "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -17897,7 +18037,7 @@
             "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -17914,7 +18054,7 @@
             "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -17925,13 +18065,14 @@
             "created_at": "14/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250714T185606",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250730T183112",
+            "closed_at": "30/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned",
+                "new-feature"
             ]
         },
         {
@@ -17948,7 +18089,7 @@
             "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -17965,23 +18106,26 @@
             "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
             "repo": "splor-mg/trilha-dev",
             "issue": 14,
-            "title": "Criar vídeo extra - Voltando no tempo com GIt",
+            "title": "Criar vídeo extra - Voltando no tempo com Git",
             "pull_request": false,
             "created_at": "08/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250708T191324",
+            "updated_at": "20250730T152602",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "raianecardoso",
+            "labels": [
+                "planned",
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -17991,12 +18135,15 @@
             "created_at": "08/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250708T185941",
+            "updated_at": "20250730T152518",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "raianecardoso",
-            "labels": null
+            "labels": [
+                "planned",
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18006,12 +18153,15 @@
             "created_at": "04/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250716T210952",
+            "updated_at": "20250730T152409",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "raianecardoso",
-            "labels": null
+            "labels": [
+                "planned",
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18027,7 +18177,7 @@
             "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -18044,7 +18194,7 @@
             "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -18061,7 +18211,7 @@
             "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -18078,7 +18228,7 @@
             "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -18095,7 +18245,7 @@
             "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -18112,7 +18262,7 @@
             "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -18123,13 +18273,14 @@
             "created_at": "02/06/2025",
             "created_at_year": 2025,
             "created_at_month": 6,
-            "updated_at": "20250723T134745",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250730T181055",
+            "closed_at": "30/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
             "assignee": null,
             "labels": [
-                "Planejado"
+                "planned",
+                "new-feature"
             ]
         },
         {
@@ -18146,7 +18297,7 @@
             "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -18163,7 +18314,7 @@
             "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
@@ -18180,7 +18331,7 @@
             "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
-                "Planejado"
+                "planned"
             ]
         },
         {
