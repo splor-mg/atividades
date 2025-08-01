@@ -267,16 +267,33 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 181,
+            "title": "Definir modelo de gestão de tokens dos repositórios",
+            "pull_request": false,
+            "created_at": "31/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250731T162045",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 180,
             "title": "Mostrando Vivi como usar o GitHub Projects",
             "pull_request": false,
             "created_at": "30/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250730T201246",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250731T212653",
+            "closed_at": "31/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
             "assignee": "vivianenascimento",
             "labels": [
                 "documentation"
@@ -412,12 +429,14 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250722T150511",
+            "updated_at": "20250731T214404",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "gabrielbdornas",
-            "labels": null
+            "assignee": "carloshob",
+            "labels": [
+                "enhancement"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -13557,7 +13576,7 @@
             "created_at": "17/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250717T171406",
+            "updated_at": "20250731T211701",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -13681,10 +13700,10 @@
             "created_at": "03/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250703T172708",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250731T211544",
+            "closed_at": "31/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
             "assignee": null,
             "labels": null
         },
@@ -14243,12 +14262,14 @@
             "created_at": "08/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250721T145810",
+            "updated_at": "20250731T212106",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
-            "labels": null
+            "labels": [
+                "enhancement"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -17044,14 +17065,12 @@
             "created_at": "27/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250714T190317",
+            "updated_at": "20250731T190322",
             "closed_at": "14/07/2025",
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "carloshob",
-            "labels": [
-                "Planejado"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/portal-planejamento-orcamento-arch",
@@ -17455,12 +17474,15 @@
             "created_at": "18/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250730T213158",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250731T203354",
+            "closed_at": "31/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
             "assignee": "carloshob",
-            "labels": null
+            "labels": [
+                "bug",
+                "Planejado"
+            ]
         },
         {
             "repo": "splor-mg/reprex",
@@ -17840,6 +17862,23 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 32,
+            "title": "Melhorias gerais",
+            "pull_request": true,
+            "created_at": "31/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250731T152755",
+            "closed_at": "31/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 31,
             "title": "17 video desafio",
             "pull_request": true,
@@ -17852,7 +17891,6 @@
             "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
-                "planned",
                 "new-feature"
             ]
         },
@@ -17870,7 +17908,6 @@
             "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
-                "planned",
                 "new-feature"
             ]
         },
@@ -17882,13 +17919,12 @@
             "created_at": "30/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250730T152956",
+            "updated_at": "20250731T212908",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "raianecardoso",
             "labels": [
-                "planned",
                 "documentation"
             ]
         },
@@ -17920,9 +17956,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -17962,13 +17996,12 @@
             "created_at": "23/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250730T152723",
+            "updated_at": "20250731T212909",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "gabrielbdornas",
             "labels": [
-                "planned",
                 "documentation"
             ]
         },
@@ -17985,9 +18018,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18002,9 +18033,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18019,9 +18048,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18036,9 +18063,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18053,9 +18078,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18071,7 +18094,6 @@
             "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
-                "planned",
                 "new-feature"
             ]
         },
@@ -18088,9 +18110,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18105,9 +18125,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18117,13 +18135,12 @@
             "created_at": "08/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250730T152602",
+            "updated_at": "20250731T212910",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "raianecardoso",
             "labels": [
-                "planned",
                 "new-feature"
             ]
         },
@@ -18135,13 +18152,12 @@
             "created_at": "08/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250730T152518",
+            "updated_at": "20250731T212910",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "raianecardoso",
             "labels": [
-                "planned",
                 "new-feature"
             ]
         },
@@ -18153,13 +18169,12 @@
             "created_at": "04/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250730T152409",
+            "updated_at": "20250731T212912",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "raianecardoso",
             "labels": [
-                "planned",
                 "documentation"
             ]
         },
@@ -18176,9 +18191,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18193,9 +18206,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 6,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18210,9 +18221,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 6,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18227,9 +18236,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 6,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18244,9 +18251,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 6,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18261,9 +18266,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 6,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18279,7 +18282,6 @@
             "closed_at_month": 7,
             "assignee": null,
             "labels": [
-                "planned",
                 "new-feature"
             ]
         },
@@ -18296,9 +18298,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 6,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18313,9 +18313,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 6,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18330,9 +18328,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 6,
             "assignee": "raianecardoso",
-            "labels": [
-                "planned"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18347,6 +18343,21 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/verificacoes-github-splor-mg",
+            "issue": 3,
+            "title": "Conferir se todo Issue fechado (Done) tem campo data-fim igual à data de fechamento do Issue",
+            "pull_request": false,
+            "created_at": "31/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250731T215210",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
             "labels": null
         },
         {
@@ -18372,11 +18383,11 @@
             "created_at": "08/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250716T203631",
+            "updated_at": "20250731T214207",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "gabrielbdornas",
+            "assignee": "carloshob",
             "labels": null
         },
         {
