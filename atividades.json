@@ -273,11 +273,11 @@
             "created_at": "31/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250731T162045",
+            "updated_at": "20250804T140754",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "carloshob",
             "labels": [
                 "enhancement"
             ]
@@ -17504,13 +17504,12 @@
             "created_at": "18/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250731T203354",
+            "updated_at": "20250804T140944",
             "closed_at": "31/07/2025",
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "carloshob",
             "labels": [
-                "bug",
                 "Planejado"
             ]
         },
@@ -17949,7 +17948,7 @@
             "created_at": "30/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250731T212908",
+            "updated_at": "20250804T195527",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18026,7 +18025,7 @@
             "created_at": "23/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250731T212909",
+            "updated_at": "20250804T194217",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18199,7 +18198,7 @@
             "created_at": "04/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250731T212912",
+            "updated_at": "20250804T195257",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
