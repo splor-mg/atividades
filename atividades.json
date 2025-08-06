@@ -2840,6 +2840,23 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 86,
+            "title": "Falha na execução do workflow em 2025-08-05T18:53:23Z",
+            "pull_request": false,
+            "created_at": "05/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250805T185324",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 85,
             "title": "Falha na execução do workflow em 2025-07-30T16:09:37Z",
             "pull_request": false,
@@ -17504,7 +17521,7 @@
             "created_at": "18/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250804T140944",
+            "updated_at": "20250805T153627",
             "closed_at": "31/07/2025",
             "closed_at_year": 2025,
             "closed_at_month": 7,
@@ -17891,6 +17908,40 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 35,
+            "title": "Conflitos na avaliação de um PR",
+            "pull_request": false,
+            "created_at": "05/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250805T160903",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 34,
+            "title": "23 melhorias gerais",
+            "pull_request": true,
+            "created_at": "05/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250805T160702",
+            "closed_at": "05/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 32,
             "title": "Melhorias gerais",
             "pull_request": true,
@@ -17948,10 +17999,10 @@
             "created_at": "30/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250804T195527",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250805T182136",
+            "closed_at": "05/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
             "assignee": "raianecardoso",
             "labels": [
                 "documentation"
@@ -18025,7 +18076,7 @@
             "created_at": "23/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250804T194217",
+            "updated_at": "20250805T144610",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18198,7 +18249,7 @@
             "created_at": "04/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250804T195257",
+            "updated_at": "20250805T181331",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
