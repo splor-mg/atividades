@@ -267,6 +267,38 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 185,
+            "title": "Fazer configuração wsl no computador da CAMG",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T205733",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 184,
+            "title": "HTTPError: 429 Client Error: Too Many Requests for url",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T184144",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 183,
             "title": "Criar repositório dados-docker-image",
             "pull_request": false,
@@ -288,7 +320,7 @@
             "created_at": "06/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250806T194153",
+            "updated_at": "20250807T174844",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -303,7 +335,7 @@
             "created_at": "31/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250804T140754",
+            "updated_at": "20250807T163202",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -11849,6 +11881,21 @@
         },
         {
             "repo": "splor-mg/dpm",
+            "issue": 91,
+            "title": "Documentar uso do  `dpm install --package <nome_recurso>` ",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T155127",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
             "issue": 90,
             "title": "Teste de criação de issue do Gitinho",
             "pull_request": false,
@@ -13579,6 +13626,176 @@
             "labels": [
                 "dependencies",
                 "javascript"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 141,
+            "title": "Gestão à Vista - definir estrutura de disponibilização das informações de anos passados",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T222629",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 140,
+            "title": "Gestão à Vista - criar página para compartilhar o trabalho desenvolvido pela subsecretaria",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T222723",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 139,
+            "title": "Definir as informações padronizadas sobre cada unidade institucional",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T214453",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 138,
+            "title": "Institucional – criar seção com apresentação resumida das unidades da SPLOR",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T214501",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 137,
+            "title": "Quem é quem - criar GitHub Actions para atualização diária da página \"Quem é quem\"",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T222743",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 136,
+            "title": "Quem é quem - criar script para automatizar a atualização dos integrantes da equipe",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T213359",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 135,
+            "title": "Quem é quem - criar página com integrantes da subsecretaria para atualização manual",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T212956",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 134,
+            "title": "Criar a aba “A Splor” para apresentação institucional da subsecretaria",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T214655",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 132,
+            "title": "Criar script para automatizar a atualização da linha do tempo",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T204528",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "enhancement"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 131,
+            "title": "Pensar na estrutura de documentação dos projetos na aba Linha do Tempo",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T204532",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "enhancement"
             ]
         },
         {
@@ -17938,6 +18155,40 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 37,
+            "title": "Assistir Vídeo Python Mosh",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T204125",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 36,
+            "title": "Registar 8 encontros da primeira turnas",
+            "pull_request": false,
+            "created_at": "07/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250807T203002",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 35,
             "title": "Conflitos na avaliação de um PR",
             "pull_request": false,
@@ -18106,10 +18357,10 @@
             "created_at": "23/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250805T144610",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250807T202446",
+            "closed_at": "07/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
             "assignee": "gabrielbdornas",
             "labels": [
                 "documentation"
@@ -18279,7 +18530,7 @@
             "created_at": "04/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250806T203131",
+            "updated_at": "20250807T134517",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
