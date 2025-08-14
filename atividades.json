@@ -273,10 +273,10 @@
             "created_at": "07/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250811T194038",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250813T154552",
+            "closed_at": "13/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
             "assignee": "carloshob",
             "labels": [
                 "documentation"
@@ -525,11 +525,11 @@
             "created_at": "10/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250716T211259",
+            "updated_at": "20250813T152757",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "gabrielbdornas",
+            "assignee": "carloshob",
             "labels": null
         },
         {
@@ -9673,10 +9673,10 @@
             "created_at": "23/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250423T194149",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250813T205155",
+            "closed_at": "13/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": [
                 "bug"
@@ -10083,6 +10083,68 @@
             "labels": [
                 "bug"
             ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 6,
+            "title": "Falha na execução do workflow em 2025-08-13T20:34:37Z",
+            "pull_request": false,
+            "created_at": "13/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250813T204213",
+            "closed_at": "13/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 5,
+            "title": "Atualizar rotina actions que atualiza os dados",
+            "pull_request": false,
+            "created_at": "13/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250813T205613",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 4,
+            "title": "HTTPError: 500 Server Error: Internal Server Error for url: https://www.orcamento.mg.gov.br/aoad/AtGeraBaseExcelNova.jsp",
+            "pull_request": false,
+            "created_at": "13/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250813T204241",
+            "closed_at": "13/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 3,
+            "title": "Atualizações diárias e importação do pacote",
+            "pull_request": false,
+            "created_at": "13/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250813T152637",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-sisor-2026",
@@ -18154,6 +18216,66 @@
                 "type: bug",
                 "planejado"
             ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 47,
+            "title": "Add gabriel como vencedor",
+            "pull_request": true,
+            "created_at": "13/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250813T185511",
+            "closed_at": "13/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 46,
+            "title": "inclui vencedora",
+            "pull_request": true,
+            "created_at": "13/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250813T184759",
+            "closed_at": "13/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 45,
+            "title": "vencedor",
+            "pull_request": true,
+            "created_at": "13/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250813T182251",
+            "closed_at": "13/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 44,
+            "title": "Adiciona Gabriel como vencedor",
+            "pull_request": true,
+            "created_at": "13/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250813T182224",
+            "closed_at": "13/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
