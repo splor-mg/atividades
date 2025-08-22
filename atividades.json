@@ -10124,7 +10124,7 @@
             "created_at": "13/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250820T154207",
+            "updated_at": "20250821T134631",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -15373,7 +15373,7 @@
             "created_at": "07/01/2025",
             "created_at_year": 2025,
             "created_at_month": 1,
-            "updated_at": "20250115T182534",
+            "updated_at": "20250821T180752",
             "closed_at": "07/01/2025",
             "closed_at_year": 2025,
             "closed_at_month": 1,
@@ -18200,6 +18200,23 @@
             "labels": [
                 "type: bug",
                 "planejado"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 55,
+            "title": "Incluir novos usuários do Github a organização Splor",
+            "pull_request": false,
+            "created_at": "21/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250821T185746",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
             ]
         },
         {
