@@ -493,7 +493,7 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250820T154719",
+            "updated_at": "20250825T202623",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18204,6 +18204,40 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 60,
+            "title": "Add conteúdo do 2 encontro. See #59.",
+            "pull_request": true,
+            "created_at": "25/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250825T141916",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 59,
+            "title": "1ª Turma Trilha - dev - 2º encontro (22/08/2025)",
+            "pull_request": false,
+            "created_at": "25/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250825T141822",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 58,
             "title": "Mostrando Otto como colocar um print na tela",
             "pull_request": false,
@@ -18225,7 +18259,7 @@
             "created_at": "22/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250822T140845",
+            "updated_at": "20250825T144715",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18235,17 +18269,19 @@
         {
             "repo": "splor-mg/trilha-dev",
             "issue": 56,
-            "title": "Descobri porque o Poetry pode estar instalado em projeto que já tem um codespaces com a ferramenta instalada",
+            "title": "Descobrir porque o Poetry pode estar instalado em projeto que já tem um codespaces com a ferramenta instalada",
             "pull_request": false,
             "created_at": "22/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250822T134156",
+            "updated_at": "20250825T150305",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "raianecardoso",
+            "labels": [
+                "question"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18255,7 +18291,7 @@
             "created_at": "21/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250821T185746",
+            "updated_at": "20250825T130951",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
