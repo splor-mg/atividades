@@ -267,6 +267,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 186,
+            "title": "Aprender sobre react.js",
+            "pull_request": false,
+            "created_at": "28/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250828T191214",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 185,
             "title": "Fazer configuração wsl no computador da CAMG",
             "pull_request": false,
@@ -371,7 +386,7 @@
             "created_at": "15/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250826T134104",
+            "updated_at": "20250828T174338",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18219,13 +18234,177 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 71,
+            "title": "1ª Turma Trilha - dev - 7º encontro (26/09/2025)",
+            "pull_request": false,
+            "created_at": "28/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250828T193421",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 70,
+            "title": "1ª Turma Trilha - dev - 6º encontro (19/09/2025)",
+            "pull_request": false,
+            "created_at": "28/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250828T193330",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 69,
+            "title": "1ª Turma Trilha - dev - 5º encontro (12/09/2025)",
+            "pull_request": false,
+            "created_at": "28/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250828T193211",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 68,
+            "title": "1ª Turma Trilha - dev - 4º encontro (05/09/2025) ",
+            "pull_request": false,
+            "created_at": "28/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250828T193057",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 67,
+            "title": "1ª Turma Trilha - dev - 3º encontro (29/08/2025)",
+            "pull_request": false,
+            "created_at": "28/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250828T192955",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 66,
+            "title": "Desenvolver script para automatizar a emissão de certificados",
+            "pull_request": false,
+            "created_at": "28/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250828T191015",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 65,
+            "title": "Definir Projeto para o Trilha Dev Dev",
+            "pull_request": false,
+            "created_at": "28/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250828T192459",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 64,
+            "title": "Estruturar trilha -dev: python",
+            "pull_request": false,
+            "created_at": "28/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250828T190455",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 63,
+            "title": "@raianecardoso, queria entender o bloqueio[^1]:",
+            "pull_request": false,
+            "created_at": "28/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250828T190203",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 62,
+            "title": "Criar subdominio oficial para a página",
+            "pull_request": false,
+            "created_at": "28/08/2025",
+            "created_at_year": 2025,
+            "created_at_month": 8,
+            "updated_at": "20250828T190318",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 61,
             "title": "Criar adicionar versões no site para facilitar aprovação de PR",
             "pull_request": false,
             "created_at": "26/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250827T190228",
+            "updated_at": "20250828T125608",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18242,10 +18421,10 @@
             "created_at": "25/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250826T155222",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250828T140338",
+            "closed_at": "28/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
             "assignee": "gabrielbdornas",
             "labels": [
                 "documentation"
@@ -18291,12 +18470,14 @@
             "created_at": "22/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250825T144715",
+            "updated_at": "20250828T190055",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "brunohorosa",
-            "labels": null
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18323,10 +18504,10 @@
             "created_at": "21/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250825T130951",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250828T183922",
+            "closed_at": "28/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
             "assignee": "raianecardoso",
             "labels": [
                 "chore"
@@ -18509,11 +18690,11 @@
             "created_at": "12/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250812T134613",
+            "updated_at": "20250828T185024",
             "closed_at": "12/08/2025",
             "closed_at_year": 2025,
             "closed_at_month": 8,
-            "assignee": "raianecardoso",
+            "assignee": null,
             "labels": [
                 "new-feature"
             ]
@@ -18544,7 +18725,7 @@
             "created_at": "07/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250827T194039",
+            "updated_at": "20250828T141558",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18595,11 +18776,11 @@
             "created_at": "05/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250805T160702",
+            "updated_at": "20250828T184951",
             "closed_at": "05/08/2025",
             "closed_at_year": 2025,
             "closed_at_month": 8,
-            "assignee": "raianecardoso",
+            "assignee": null,
             "labels": [
                 "chore"
             ]
@@ -18658,12 +18839,12 @@
         {
             "repo": "splor-mg/trilha-dev",
             "issue": 29,
-            "title": "Esturar encontros presenciais",
+            "title": "Estruturar encontros presenciais",
             "pull_request": false,
             "created_at": "30/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250806T135223",
+            "updated_at": "20250828T194212",
             "closed_at": "05/08/2025",
             "closed_at_year": 2025,
             "closed_at_month": 8,
@@ -19097,7 +19278,7 @@
             "created_at": "27/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250827T175528",
+            "updated_at": "20250828T125216",
             "closed_at": "27/08/2025",
             "closed_at_year": 2025,
             "closed_at_month": 8,
