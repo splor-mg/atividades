@@ -28,9 +28,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 12,
             "assignee": "gabrielbdornas",
-            "labels": [
-                "scpo/dcppn"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/.github",
@@ -45,9 +43,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 11,
             "assignee": "gabrielbdornas",
-            "labels": [
-                "scpo/dcppn"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/.github",
@@ -62,9 +58,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 11,
             "assignee": "gabrielbdornas",
-            "labels": [
-                "aid"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/acordo-judicial-reparacao-vale",
@@ -89,14 +83,12 @@
             "created_at": "18/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250403T173031",
+            "updated_at": "20250901T160731",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/acordo-judicial-reparacao-vale",
@@ -268,12 +260,12 @@
         {
             "repo": "splor-mg/atividades",
             "issue": 187,
-            "title": "Documentar no Gestão splor.",
+            "title": "Documentar funcionamento de labels no Gestão splor.",
             "pull_request": false,
             "created_at": "31/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250831T170458",
+            "updated_at": "20250901T143046",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -367,14 +359,12 @@
             "created_at": "31/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250831T170859",
+            "updated_at": "20250901T160337",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -401,7 +391,7 @@
             "created_at": "15/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250828T174338",
+            "updated_at": "20250901T122001",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -451,9 +441,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 6,
             "assignee": "raianecardoso",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -514,23 +502,6 @@
             "closed_at_month": null,
             "assignee": "gabrielbdornas",
             "labels": null
-        },
-        {
-            "repo": "splor-mg/atividades",
-            "issue": 169,
-            "title": "Criar script para mudar `labels` de todos os repositórios",
-            "pull_request": false,
-            "created_at": "12/03/2025",
-            "created_at_year": 2025,
-            "created_at_month": 3,
-            "updated_at": "20250831T170503",
-            "closed_at": "31/08/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 8,
-            "assignee": "carloshob",
-            "labels": [
-                "enhancement"
-            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -934,14 +905,12 @@
             "created_at": "29/07/2024",
             "created_at_year": 2024,
             "created_at_month": 7,
-            "updated_at": "20240729T174506",
+            "updated_at": "20250901T160340",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1016,9 +985,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 9,
             "assignee": "hslinhares",
-            "labels": [
-                "status:waiting"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1118,14 +1085,12 @@
             "created_at": "04/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20240610T174948",
+            "updated_at": "20250901T160340",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1140,9 +1105,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1217,9 +1180,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 5,
             "assignee": "hslinhares",
-            "labels": [
-                "splor"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1234,9 +1195,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 4,
             "assignee": "fjuniorr",
-            "labels": [
-                "splor"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1282,8 +1241,7 @@
             "closed_at_month": 4,
             "assignee": null,
             "labels": [
-                "wontfix",
-                "status:later"
+                "wontfix"
             ]
         },
         {
@@ -1299,9 +1257,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 4,
             "assignee": "carloshob",
-            "labels": [
-                "meta-mar2024"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1326,14 +1282,12 @@
             "created_at": "20/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240227T172556",
+            "updated_at": "20250901T160341",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1448,15 +1402,12 @@
             "created_at": "06/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240321T125411",
+            "updated_at": "20250901T160339",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "meta-fev2024",
-                "meta-mar2024"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1471,9 +1422,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 4,
             "assignee": "carloshob",
-            "labels": [
-                "meta-fev2024"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1488,9 +1437,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 6,
             "assignee": "hslinhares",
-            "labels": [
-                "meta-mar2024"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1580,9 +1527,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1627,9 +1572,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": "hslinhares",
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1705,8 +1648,7 @@
             "closed_at_month": 11,
             "assignee": null,
             "labels": [
-                "wontfix",
-                "status:next"
+                "wontfix"
             ]
         },
         {
@@ -1754,9 +1696,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 4,
             "assignee": "fjuniorr",
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1921,9 +1861,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 3,
             "assignee": "hslinhares",
-            "labels": [
-                "meta-mar2024"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1948,14 +1886,12 @@
             "created_at": "03/08/2023",
             "created_at_year": 2023,
             "created_at_month": 8,
-            "updated_at": "20230928T142145",
+            "updated_at": "20250901T160341",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -2265,14 +2201,13 @@
             "created_at": "01/06/2023",
             "created_at_year": 2023,
             "created_at_month": 6,
-            "updated_at": "20231002T182032",
+            "updated_at": "20250901T160342",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "bug",
-                "status:later"
+                "bug"
             ]
         },
         {
@@ -2506,9 +2441,7 @@
             "closed_at_year": 2023,
             "closed_at_month": 12,
             "assignee": null,
-            "labels": [
-                "hold"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -4480,14 +4413,12 @@
             "created_at": "25/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240925T221243",
+            "updated_at": "20250901T160552",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -4527,14 +4458,12 @@
             "created_at": "25/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240925T182145",
+            "updated_at": "20250901T160553",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -4714,9 +4643,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 9,
             "assignee": "carloshob",
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -4761,9 +4688,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 9,
             "assignee": "carloshob",
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -4835,14 +4760,12 @@
             "created_at": "04/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240104T221002",
+            "updated_at": "20250901T160551",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -4912,14 +4835,12 @@
             "created_at": "03/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240103T232851",
+            "updated_at": "20250901T160552",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -4929,14 +4850,12 @@
             "created_at": "03/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240209T144133",
+            "updated_at": "20250901T160550",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carolfmoreira",
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -4946,14 +4865,12 @@
             "created_at": "02/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240209T144018",
+            "updated_at": "20250901T160551",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carolfmoreira",
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -4968,9 +4885,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": "fjuniorr",
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -4980,14 +4895,12 @@
             "created_at": "02/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240102T205718",
+            "updated_at": "20250901T160552",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5002,9 +4915,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5019,9 +4930,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5031,14 +4940,12 @@
             "created_at": "02/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240102T202830",
+            "updated_at": "20250901T160552",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5053,9 +4960,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5065,14 +4970,12 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T164911",
+            "updated_at": "20250901T160553",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5112,14 +5015,12 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T134548",
+            "updated_at": "20250901T160554",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5134,9 +5035,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5151,9 +5050,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5168,9 +5065,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5185,9 +5080,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5197,14 +5090,12 @@
             "created_at": "29/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231229T120509",
+            "updated_at": "20250901T160555",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5219,9 +5110,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 2,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5236,9 +5125,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5253,9 +5140,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 2,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5270,9 +5155,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 2,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5287,9 +5170,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": "fjuniorr",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5304,9 +5185,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 2,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5321,9 +5200,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 2,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5338,9 +5215,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5355,9 +5230,7 @@
             "closed_at_year": 2023,
             "closed_at_month": 12,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5372,9 +5245,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 2,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5389,9 +5260,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5401,14 +5270,12 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20240925T175620",
+            "updated_at": "20250901T160552",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carolfmoreira",
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5423,9 +5290,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5435,14 +5300,12 @@
             "created_at": "28/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20231128T214727",
+            "updated_at": "20250901T160550",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "discussion"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5457,9 +5320,7 @@
             "closed_at_year": 2023,
             "closed_at_month": 12,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5489,9 +5350,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5506,9 +5365,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento",
@@ -5523,9 +5380,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": null,
-            "labels": [
-                "check"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/checks-planejamento-report",
@@ -5640,14 +5495,12 @@
             "created_at": "05/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250714T183826",
+            "updated_at": "20250901T160556",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -5680,8 +5533,7 @@
             "closed_at_month": 2,
             "assignee": "hslinhares",
             "labels": [
-                "documentation",
-                "enhancement"
+                "documentation"
             ]
         },
         {
@@ -5742,9 +5594,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 9,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -5949,14 +5799,12 @@
             "created_at": "09/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20240409T204615",
+            "updated_at": "20250901T160558",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -6107,14 +5955,12 @@
             "created_at": "04/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240104T133842",
+            "updated_at": "20250901T160558",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -6124,14 +5970,12 @@
             "created_at": "04/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240301T143952",
+            "updated_at": "20250901T160558",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -6171,14 +6015,12 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231215T160609",
+            "updated_at": "20250901T160559",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -6188,14 +6030,12 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20231215T160624",
+            "updated_at": "20250901T160600",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -6235,14 +6075,12 @@
             "created_at": "29/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20240119T125127",
+            "updated_at": "20250901T160559",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -6252,14 +6090,12 @@
             "created_at": "29/11/2023",
             "created_at_year": 2023,
             "created_at_month": 11,
-            "updated_at": "20231215T155324",
+            "updated_at": "20250901T160600",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -6299,14 +6135,12 @@
             "created_at": "18/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20240819T145233",
+            "updated_at": "20250901T160600",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -6351,9 +6185,7 @@
             "closed_at_year": 2023,
             "closed_at_month": 11,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -6363,14 +6195,12 @@
             "created_at": "25/09/2023",
             "created_at_year": 2023,
             "created_at_month": 9,
-            "updated_at": "20231215T184812",
+            "updated_at": "20250901T160601",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -6385,9 +6215,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 7,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
@@ -7842,14 +7670,12 @@
             "created_at": "18/06/2024",
             "created_at_year": 2024,
             "created_at_month": 6,
-            "updated_at": "20250310T180817",
+            "updated_at": "20250901T160741",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -7983,14 +7809,12 @@
             "created_at": "11/04/2024",
             "created_at_year": 2024,
             "created_at_month": 4,
-            "updated_at": "20250310T180816",
+            "updated_at": "20250901T160742",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -8097,9 +7921,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 4,
             "assignee": null,
-            "labels": [
-                "discussion"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -8343,14 +8165,12 @@
             "created_at": "16/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240116T182455",
+            "updated_at": "20250901T160652",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-sigplan-historico",
@@ -8499,10 +8319,10 @@
             "created_at": "25/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250716T210311",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250901T151919",
+            "closed_at": "01/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
             "assignee": "labanca",
             "labels": null
         },
@@ -9266,14 +9086,12 @@
             "created_at": "19/01/2023",
             "created_at_year": 2023,
             "created_at_month": 1,
-            "updated_at": "20240913T130841",
+            "updated_at": "20250901T160400",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2025",
@@ -9601,9 +9419,7 @@
             "closed_at_year": 2023,
             "closed_at_month": 12,
             "assignee": "hslinhares",
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-sisor",
@@ -9895,9 +9711,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 12,
             "assignee": "gabrielbdornas",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
@@ -11585,14 +11399,12 @@
             "created_at": "16/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240924T174016",
+            "updated_at": "20250901T160611",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dados-volumes-loa",
@@ -12075,14 +11887,12 @@
             "created_at": "21/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241218T170353",
+            "updated_at": "20250901T160441",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -12214,14 +12024,12 @@
             "created_at": "02/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20250410T142130",
+            "updated_at": "20250901T160442",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "labanca",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -12231,14 +12039,13 @@
             "created_at": "01/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20250306T185548",
+            "updated_at": "20250901T160442",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "documentation",
-                "enhancement"
+                "documentation"
             ]
         },
         {
@@ -12269,9 +12076,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 11,
             "assignee": "labanca",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -12281,14 +12086,12 @@
             "created_at": "05/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20250422T154819",
+            "updated_at": "20250901T160443",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "labanca",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -12318,9 +12121,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 8,
             "assignee": "fjuniorr",
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -12330,14 +12131,12 @@
             "created_at": "09/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20250408T215317",
+            "updated_at": "20250901T160444",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "labanca",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -12407,14 +12206,12 @@
             "created_at": "04/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20241023T185339",
+            "updated_at": "20250901T160445",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -12454,14 +12251,12 @@
             "created_at": "18/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20241023T184728",
+            "updated_at": "20250901T160446",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -12471,14 +12266,12 @@
             "created_at": "14/12/2023",
             "created_at_year": 2023,
             "created_at_month": 12,
-            "updated_at": "20250227T175157",
+            "updated_at": "20250901T160446",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "hslinhares",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -12627,14 +12420,12 @@
             "created_at": "23/10/2023",
             "created_at_year": 2023,
             "created_at_month": 10,
-            "updated_at": "20231025T205234",
+            "updated_at": "20250901T160447",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -12999,14 +12790,12 @@
             "created_at": "11/08/2023",
             "created_at_year": 2023,
             "created_at_month": 8,
-            "updated_at": "20241101T201051",
+            "updated_at": "20250901T160448",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "labanca",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -13160,9 +12949,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 12,
             "assignee": "labanca",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -13187,14 +12974,12 @@
             "created_at": "26/05/2023",
             "created_at_year": 2023,
             "created_at_month": 5,
-            "updated_at": "20250306T183438",
+            "updated_at": "20250901T160449",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -13249,14 +13034,12 @@
             "created_at": "18/05/2023",
             "created_at_year": 2023,
             "created_at_month": 5,
-            "updated_at": "20241023T192748",
+            "updated_at": "20250901T160450",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -13437,14 +13220,12 @@
             "created_at": "07/05/2024",
             "created_at_year": 2024,
             "created_at_month": 5,
-            "updated_at": "20240509T172925",
+            "updated_at": "20250901T160802",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm-r",
@@ -13505,8 +13286,7 @@
             "closed_at_month": 7,
             "assignee": null,
             "labels": [
-                "documentation",
-                "enhancement"
+                "documentation"
             ]
         },
         {
@@ -13717,10 +13497,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": null,
-            "labels": [
-                "dependencies",
-                "javascript"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -13730,7 +13507,7 @@
             "created_at": "29/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250829T211138",
+            "updated_at": "20250901T133525",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -13762,7 +13539,7 @@
             "created_at": "07/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250807T222723",
+            "updated_at": "20250901T143812",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -13813,7 +13590,7 @@
             "created_at": "07/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250807T222743",
+            "updated_at": "20250901T194144",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -13881,14 +13658,12 @@
             "created_at": "07/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250807T204528",
+            "updated_at": "20250901T160437",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -13898,14 +13673,12 @@
             "created_at": "07/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250814T144409",
+            "updated_at": "20250901T160438",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -13920,9 +13693,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "raianecardoso",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -14440,8 +14211,7 @@
             "closed_at_month": 5,
             "assignee": "raianecardoso",
             "labels": [
-                "documentation",
-                "enhancement"
+                "documentation"
             ]
         },
         {
@@ -14574,9 +14344,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 5,
             "assignee": "raianecardoso",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -14635,14 +14403,12 @@
             "created_at": "08/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250826T144133",
+            "updated_at": "20250901T160438",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -14744,14 +14510,12 @@
             "created_at": "21/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250715T142608",
+            "updated_at": "20250901T160439",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -15335,14 +15099,12 @@
             "created_at": "21/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250714T184047",
+            "updated_at": "20250901T160440",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -15369,14 +15131,12 @@
             "created_at": "20/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250714T185138",
+            "updated_at": "20250901T160441",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -15579,9 +15339,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 12,
             "assignee": "carloshob",
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -16141,14 +15899,12 @@
             "created_at": "19/03/2024",
             "created_at_year": 2024,
             "created_at_month": 3,
-            "updated_at": "20240626T184953",
+            "updated_at": "20250901T160408",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "discussion"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -16158,14 +15914,12 @@
             "created_at": "07/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20240208T192650",
+            "updated_at": "20250901T160411",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:later"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -16282,14 +16036,12 @@
             "created_at": "12/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240112T165602",
+            "updated_at": "20250901T160412",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:waiting"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -16364,9 +16116,7 @@
             "closed_at_year": 2023,
             "closed_at_month": 9,
             "assignee": "fjuniorr",
-            "labels": [
-                "status:waiting"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -16396,9 +16146,7 @@
             "closed_at_year": 2024,
             "closed_at_month": 6,
             "assignee": "fjuniorr",
-            "labels": [
-                "meta-fev2024"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -16773,9 +16521,7 @@
             "closed_at_year": 2023,
             "closed_at_month": 10,
             "assignee": "fjuniorr",
-            "labels": [
-                "status:wontfix"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/notas",
@@ -16905,14 +16651,12 @@
             "created_at": "17/07/2023",
             "created_at_year": 2023,
             "created_at_month": 7,
-            "updated_at": "20240812T181450",
+            "updated_at": "20250901T160417",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "status:review"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/notas",
@@ -17164,14 +16908,13 @@
             "created_at": "04/11/2024",
             "created_at_year": 2024,
             "created_at_month": 11,
-            "updated_at": "20250227T201045",
+            "updated_at": "20250901T160924",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
-                "documentation",
-                "enhancement"
+                "documentation"
             ]
         },
         {
@@ -17264,9 +17007,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 4,
             "assignee": null,
-            "labels": [
-                "Planejado"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/painel-ldo",
@@ -17281,9 +17022,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 4,
             "assignee": "carloshob",
-            "labels": [
-                "Planejado"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/painel-ldo",
@@ -17358,9 +17097,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 4,
             "assignee": "vivianenascimento",
-            "labels": [
-                "Planejado"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/painel-ldo",
@@ -17370,14 +17107,12 @@
             "created_at": "27/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250714T191628",
+            "updated_at": "20250901T161014",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "Planejado"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/painel-ldo",
@@ -17392,9 +17127,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 4,
             "assignee": "carloshob",
-            "labels": [
-                "Planejado"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/painel-ldo",
@@ -17409,9 +17142,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 3,
             "assignee": "carloshob",
-            "labels": [
-                "Planejado"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/painel-ldo",
@@ -17426,9 +17157,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 3,
             "assignee": "gabrielbdornas",
-            "labels": [
-                "Planejado"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/painel-ldo",
@@ -17563,9 +17292,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 5,
             "assignee": null,
-            "labels": [
-                "enhancement"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/projetos",
@@ -17882,9 +17609,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "carloshob",
-            "labels": [
-                "Planejado"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/reprex",
@@ -18222,9 +17947,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "gabrielbdornas",
-            "labels": [
-                "reunião"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/teste-classificacao-issues",
@@ -18239,10 +17962,7 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "gabrielbdornas",
-            "labels": [
-                "type: documentação",
-                "planejado"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/teste-classificacao-issues",
@@ -18257,10 +17977,39 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 77,
+            "title": "Criar páginas Trilha-dev Python",
+            "pull_request": false,
+            "created_at": "01/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250901T181536",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
             "labels": [
-                "type: bug",
-                "planejado"
+                "documentation"
             ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 76,
+            "title": "Inclui conteúdo do terceiro encontro. ",
+            "pull_request": true,
+            "created_at": "01/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250901T145417",
+            "closed_at": "01/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
+            "assignee": "gabrielbdornas",
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18287,12 +18036,14 @@
             "created_at": "29/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250829T135859",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20250901T130429",
+            "closed_at": "01/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18302,10 +18053,10 @@
             "created_at": "29/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250829T133827",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250901T140444",
+            "closed_at": "01/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": null
         },
@@ -18381,10 +18132,10 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250828T192955",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250901T194231",
+            "closed_at": "01/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
             "assignee": "raianecardoso",
             "labels": [
                 "documentation"
@@ -18428,7 +18179,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250828T190455",
+            "updated_at": "20250901T193855",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18446,7 +18197,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250829T145503",
+            "updated_at": "20250901T183746",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18802,7 +18553,7 @@
             "created_at": "07/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250828T141558",
+            "updated_at": "20250901T153444",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -19355,10 +19106,10 @@
             "created_at": "31/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250831T165703",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250901T144857",
+            "closed_at": "01/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": null
         },
@@ -19420,6 +19171,21 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/verificacoes-github-splor-mg",
+            "issue": 6,
+            "title": "Criar script para mudar `labels` de todos os repositórios",
+            "pull_request": false,
+            "created_at": "12/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20250901T145040",
+            "closed_at": "31/08/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 8,
+            "assignee": null,
             "labels": null
         },
         {
@@ -19859,9 +19625,7 @@
             "closed_at_year": 2023,
             "closed_at_month": 9,
             "assignee": "fjuniorr",
-            "labels": [
-                "next"
-            ]
+            "labels": null
         },
         {
             "repo": "splor-mg/volumes-docker",
