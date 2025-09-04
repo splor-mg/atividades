@@ -391,7 +391,7 @@
             "created_at": "15/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250902T174116",
+            "updated_at": "20250903T141733",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18216,7 +18216,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250829T150139",
+            "updated_at": "20250903T143725",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -19102,13 +19102,64 @@
         },
         {
             "repo": "splor-mg/verificacoes-github-splor-mg",
+            "issue": 9,
+            "title": "Empacotar o código das verificações",
+            "pull_request": false,
+            "created_at": "03/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250903T191912",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/verificacoes-github-splor-mg",
+            "issue": 8,
+            "title": "Toda verificação deverá passar inicialmente pela conferência do team responsável por aquele repositório",
+            "pull_request": false,
+            "created_at": "03/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250903T175521",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/verificacoes-github-splor-mg",
+            "issue": 7,
+            "title": "Todo repositório AID (criado por um integrante do team AID) tem que, necessariamente, estar vinculado ao projeto 13 (Gestão à Vista AID)",
+            "pull_request": false,
+            "created_at": "03/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250903T175508",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/verificacoes-github-splor-mg",
             "issue": 5,
             "title": "Protocolo de sincronização de labels",
             "pull_request": true,
             "created_at": "31/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250902T194326",
+            "updated_at": "20250903T182523",
             "closed_at": "01/09/2025",
             "closed_at_year": 2025,
             "closed_at_month": 9,
