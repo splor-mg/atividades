@@ -259,6 +259,92 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 192,
+            "title": "(dockerhub) - Alinhar uso e segurança das contas dockerhub em termos da nossa gestão de acessos",
+            "pull_request": false,
+            "created_at": "04/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250904T210252",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 191,
+            "title": "Documentar/divulgar resultado 14º Prêmio SOF",
+            "pull_request": false,
+            "created_at": "04/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250904T190208",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 190,
+            "title": "Escrever documento 14° Prêmio SOF",
+            "pull_request": false,
+            "created_at": "04/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250904T185858",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 189,
+            "title": "Leitura do edital 14º Prêmio SOF",
+            "pull_request": false,
+            "created_at": "04/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250904T185530",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 188,
+            "title": "Aplicar para 14º Prêmio SOF",
+            "pull_request": false,
+            "created_at": "04/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250904T185604",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 187,
             "title": "Documentar funcionamento de labels no Gestão splor.",
             "pull_request": false,
@@ -280,7 +366,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250828T191214",
+            "updated_at": "20250904T200256",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -486,21 +572,6 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "carloshob",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/atividades",
-            "issue": 170,
-            "title": "Usar níveis de acesso adequados: Read, Write, Maintain, Admin.",
-            "pull_request": false,
-            "created_at": "12/06/2025",
-            "created_at_year": 2025,
-            "created_at_month": 6,
-            "updated_at": "20250714T153441",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "gabrielbdornas",
             "labels": null
         },
         {
@@ -9772,7 +9843,7 @@
             "created_at": "03/12/2024",
             "created_at_year": 2024,
             "created_at_month": 12,
-            "updated_at": "20250423T203636",
+            "updated_at": "20250904T203549",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -9968,10 +10039,10 @@
             "created_at": "13/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250826T140057",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250904T204748",
+            "closed_at": "04/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
             "assignee": "gabrielbdornas",
             "labels": null
         },
@@ -11459,10 +11530,10 @@
             "created_at": "22/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250722T184234",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250904T203853",
+            "closed_at": "04/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
             "assignee": "gabrielbdornas",
             "labels": null
         },
@@ -13501,6 +13572,23 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 143,
+            "title": "Criar Post no Gestão SPLOR explicando o trabalho com o Bitwarden",
+            "pull_request": false,
+            "created_at": "04/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250904T151220",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 142,
             "title": "Criar uma lista de histórico de perguntas que serão utilizadas na aba FAQ",
             "pull_request": false,
@@ -13539,7 +13627,7 @@
             "created_at": "07/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250901T143812",
+            "updated_at": "20250904T200452",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17983,6 +18071,40 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 79,
+            "title": "Inclui registro no 4 encontro. ",
+            "pull_request": true,
+            "created_at": "04/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250904T181923",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 78,
+            "title": "Como disponibilizar um documento de texto (.docx) para download no meu site mkdocs?",
+            "pull_request": false,
+            "created_at": "04/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250904T204602",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 77,
             "title": "Criar páginas Trilha-dev Python",
             "pull_request": false,
@@ -18119,12 +18241,14 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250828T193057",
+            "updated_at": "20250904T181125",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "raianecardoso",
-            "labels": null
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -19099,6 +19223,23 @@
             "closed_at_month": 7,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/verificacoes-github-splor-mg",
+            "issue": 10,
+            "title": "(sync-labels) - Acrescentar definição de repos interativa no actions",
+            "pull_request": false,
+            "created_at": "04/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250904T203350",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/verificacoes-github-splor-mg",
