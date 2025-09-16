@@ -18108,6 +18108,72 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 87,
+            "title": "Adiciona foto e frase para o desafio final do trilha-dev",
+            "pull_request": true,
+            "created_at": "15/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250915T214643",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "vivigoncalvesportonascimento",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 86,
+            "title": "Desafio final Gabriela Ribeiro",
+            "pull_request": true,
+            "created_at": "15/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250915T180149",
+            "closed_at": "15/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
+            "assignee": "gabrieladsribeiro",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 85,
+            "title": "Inclui resumo do 5 encontro.",
+            "pull_request": true,
+            "created_at": "15/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250915T153301",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 84,
+            "title": "Erro ao abrir o site do trilha_dev",
+            "pull_request": false,
+            "created_at": "15/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250915T214917",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 83,
             "title": "Inclui desafio final executado por Ívna Abreu",
             "pull_request": true,
@@ -18332,7 +18398,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250911T194333",
+            "updated_at": "20250915T153052",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
