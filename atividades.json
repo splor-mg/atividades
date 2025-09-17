@@ -714,21 +714,6 @@
         },
         {
             "repo": "splor-mg/atividades",
-            "issue": 156,
-            "title": "Criar reprex de fork em algum repositorio da organização `meadapt` ",
-            "pull_request": false,
-            "created_at": "28/11/2024",
-            "created_at_year": 2024,
-            "created_at_month": 11,
-            "updated_at": "20241128T193753",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "hslinhares",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/atividades",
             "issue": 153,
             "title": "Acompanhamento reuniões Automatiza DCAF",
             "pull_request": false,
@@ -18108,6 +18093,23 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 88,
+            "title": "Erro na configuração do domínio personalizado após novos commits no repositório",
+            "pull_request": false,
+            "created_at": "16/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250916T141008",
+            "closed_at": "16/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
+            "assignee": "raianecardoso",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 87,
             "title": "Adiciona foto e frase para o desafio final do trilha-dev",
             "pull_request": true,
@@ -18163,10 +18165,10 @@
             "created_at": "15/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250915T214917",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250916T171200",
+            "closed_at": "16/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
             "assignee": "raianecardoso",
             "labels": [
                 "bug"
