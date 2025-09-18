@@ -13558,6 +13558,23 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 146,
+            "title": "Remover arquivo `requirements.txt`",
+            "pull_request": false,
+            "created_at": "17/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250917T141616",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 145,
             "title": "144 aba perguntas frequentes",
             "pull_request": true,
@@ -18093,6 +18110,53 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 91,
+            "title": "Inclui desafio final de Gabriel Luiz",
+            "pull_request": true,
+            "created_at": "17/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250917T221215",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 90,
+            "title": "Inclui o desafio final do Vinicius Santos",
+            "pull_request": true,
+            "created_at": "17/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250917T193809",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 89,
+            "title": "Descrição do destino do push no comando git push",
+            "pull_request": false,
+            "created_at": "17/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250917T163650",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 88,
             "title": "Erro na configuração do domínio personalizado após novos commits no repositório",
             "pull_request": false,
@@ -18116,10 +18180,10 @@
             "created_at": "15/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250915T214643",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250917T194621",
+            "closed_at": "17/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
             "assignee": "vivigoncalvesportonascimento",
             "labels": [
                 "documentation"
