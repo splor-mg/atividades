@@ -6456,6 +6456,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 102,
+            "title": "Adicionar dados de outras variáveis orçamentárias ao repositório",
+            "pull_request": false,
+            "created_at": "18/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250918T194247",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "vivigoncalvesportonascimento",
+            "labels": [
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 101,
             "title": "Falha na execução do workflow em 2025-03-25T09:39:20Z",
             "pull_request": false,
@@ -18110,17 +18127,34 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 92,
+            "title": "Inclui o registro do 6 encontro da primeira turma.",
+            "pull_request": true,
+            "created_at": "18/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250918T205543",
+            "closed_at": "18/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 91,
             "title": "Inclui desafio final de Gabriel Luiz",
             "pull_request": true,
             "created_at": "17/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250917T221215",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20250918T143506",
+            "closed_at": "18/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
+            "assignee": "raianecardoso",
             "labels": null
         },
         {
@@ -18131,11 +18165,11 @@
             "created_at": "17/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250917T193809",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20250918T143431",
+            "closed_at": "18/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
+            "assignee": "raianecardoso",
             "labels": null
         },
         {
@@ -18146,7 +18180,7 @@
             "created_at": "17/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250917T163650",
+            "updated_at": "20250918T185501",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18163,7 +18197,7 @@
             "created_at": "16/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250916T141008",
+            "updated_at": "20250918T172217",
             "closed_at": "16/09/2025",
             "closed_at_year": 2025,
             "closed_at_month": 9,
@@ -18180,11 +18214,11 @@
             "created_at": "15/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250917T194621",
+            "updated_at": "20250918T143416",
             "closed_at": "17/09/2025",
             "closed_at_year": 2025,
             "closed_at_month": 9,
-            "assignee": "vivigoncalvesportonascimento",
+            "assignee": "raianecardoso",
             "labels": [
                 "documentation"
             ]
@@ -18197,11 +18231,11 @@
             "created_at": "15/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250915T180149",
+            "updated_at": "20250918T143326",
             "closed_at": "15/09/2025",
             "closed_at_year": 2025,
             "closed_at_month": 9,
-            "assignee": "gabrieladsribeiro",
+            "assignee": "raianecardoso",
             "labels": [
                 "documentation"
             ]
@@ -18214,10 +18248,10 @@
             "created_at": "15/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250915T153301",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250918T202903",
+            "closed_at": "18/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
             "assignee": "gabrielbdornas",
             "labels": null
         },
@@ -18447,10 +18481,10 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250910T134922",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250918T205609",
+            "closed_at": "18/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
             "assignee": "raianecardoso",
             "labels": [
                 "documentation"
@@ -18464,10 +18498,10 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250915T153052",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20250918T205419",
+            "closed_at": "18/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
             "assignee": "raianecardoso",
             "labels": null
         },
