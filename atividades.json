@@ -18127,6 +18127,21 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 96,
+            "title": "Criar Trilha -Dev Gestão",
+            "pull_request": false,
+            "created_at": "23/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250923T141200",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 95,
             "title": " Add comando para forçar  criação de CNAME com domínio customizado. ",
             "pull_request": true,
