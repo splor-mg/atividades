@@ -478,7 +478,7 @@
             "created_at": "15/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250925T191733",
+            "updated_at": "20250926T215857",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5436,6 +5436,21 @@
             "closed_at": "08/01/2024",
             "closed_at_year": 2024,
             "closed_at_month": 1,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento-report",
+            "issue": 10,
+            "title": "9 save reports to xlsx",
+            "pull_request": true,
+            "created_at": "26/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250926T205908",
+            "closed_at": "26/09/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": null
         },
@@ -18154,6 +18169,23 @@
             "closed_at_month": 7,
             "assignee": "gabrielbdornas",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 98,
+            "title": "Inclui conteúdo sobre certificação.",
+            "pull_request": true,
+            "created_at": "26/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250926T140250",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
