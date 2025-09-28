@@ -9214,6 +9214,21 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2025",
+            "issue": 13,
+            "title": "Adiciona description e plain language aos schemas do repositório",
+            "pull_request": true,
+            "created_at": "27/09/2025",
+            "created_at_year": 2025,
+            "created_at_month": 9,
+            "updated_at": "20250927T140850",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2025",
             "issue": 12,
             "title": "Erro na execução do workflow",
             "pull_request": false,
