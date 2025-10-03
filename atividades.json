@@ -478,7 +478,7 @@
             "created_at": "15/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20251001T171252",
+            "updated_at": "20251002T164049",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6501,13 +6501,30 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 103,
+            "title": "Cria consulta para elemento item loa",
+            "pull_request": false,
+            "created_at": "02/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251002T153839",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 102,
             "title": "Adicionar dados de outras variáveis orçamentárias ao repositório",
             "pull_request": false,
             "created_at": "18/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250918T194247",
+            "updated_at": "20251002T144400",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18202,6 +18219,23 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 99,
+            "title": "1ª Turma Trilha - dev - 8º encontro (02/10/2025)",
+            "pull_request": false,
+            "created_at": "02/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251002T135418",
+            "closed_at": "02/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 98,
             "title": "Inclui conteúdo sobre certificação.",
             "pull_request": true,
@@ -19138,10 +19172,10 @@
             "created_at": "07/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250925T183515",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251002T135453",
+            "closed_at": "02/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
             "assignee": "raianecardoso",
             "labels": [
                 "documentation"
