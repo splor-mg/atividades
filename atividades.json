@@ -10158,6 +10158,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 89,
+            "title": "Falha na execução do workflow em 2025-10-03T10:10:44Z",
+            "pull_request": false,
+            "created_at": "03/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251003T101044",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 88,
             "title": "Mostrando como funciona um Issue",
             "pull_request": false,
