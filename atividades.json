@@ -4449,6 +4449,36 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 68,
+            "title": "Erro ao instalar pacote da pasta local no windows para realizar testes de validação do pacote. (Sumarização via IA)",
+            "pull_request": false,
+            "created_at": "07/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251007T003600",
+            "closed_at": "07/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
+            "issue": 67,
+            "title": "Alterar mínimo de caracteres para considerar erro em  check_indicadores_justificativa_indice_referencia_em_apuracao",
+            "pull_request": false,
+            "created_at": "06/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251006T202123",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 66,
             "title": "Check primary key",
             "pull_request": true,
@@ -10155,6 +10185,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 90,
+            "title": "Falha na execução do workflow em 2025-10-06T10:11:22Z",
+            "pull_request": false,
+            "created_at": "06/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251006T101122",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
