@@ -5507,12 +5507,14 @@
             "created_at": "24/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250925T023202",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20251007T151549",
+            "closed_at": "07/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
+            "assignee": "labanca",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/checks-planejamento-report",
@@ -10188,16 +10190,33 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 91,
+            "title": "Falha na execução do workflow em 2025-10-07T10:10:49Z",
+            "pull_request": false,
+            "created_at": "07/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251007T214014",
+            "closed_at": "07/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 90,
             "title": "Falha na execução do workflow em 2025-10-06T10:11:22Z",
             "pull_request": false,
             "created_at": "06/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20251006T101122",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251007T214014",
+            "closed_at": "07/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
             "assignee": null,
             "labels": [
                 "bug"
@@ -10211,10 +10230,10 @@
             "created_at": "03/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20251003T101044",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251007T214014",
+            "closed_at": "07/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13722,7 +13741,7 @@
             "created_at": "01/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20251001T003328",
+            "updated_at": "20251007T153010",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18283,6 +18302,39 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 101,
+            "title": "Solicitação de certificado",
+            "pull_request": false,
+            "created_at": "07/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251007T191801",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 100,
+            "title": "Avaliar warnings",
+            "pull_request": false,
+            "created_at": "07/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251007T144550",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "bug",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 99,
             "title": "1ª Turma Trilha - dev - 8º encontro (02/10/2025)",
             "pull_request": false,
@@ -18306,10 +18358,10 @@
             "created_at": "26/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250926T140250",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251007T143403",
+            "closed_at": "07/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
             "assignee": "gabrielbdornas",
             "labels": [
                 "new-feature"
@@ -18368,10 +18420,10 @@
             "created_at": "19/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250919T144911",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251007T143402",
+            "closed_at": "07/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature",
@@ -18683,7 +18735,7 @@
             "created_at": "29/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250929T141734",
+            "updated_at": "20251007T151012",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18815,7 +18867,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250828T191015",
+            "updated_at": "20251007T144919",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18898,11 +18950,11 @@
             "created_at": "26/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250828T125608",
+            "updated_at": "20251007T143846",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
             ]
