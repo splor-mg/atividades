@@ -2,6 +2,110 @@
     "issues": [
         {
             "repo": "splor-mg/.github",
+            "issue": 26,
+            "title": "Testa inclusão de projetos via Issue template",
+            "pull_request": false,
+            "created_at": "08/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251008T145359",
+            "closed_at": "08/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
+            "issue": 25,
+            "title": "Testa inclusão de projetos via Issue template",
+            "pull_request": false,
+            "created_at": "08/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251008T145136",
+            "closed_at": "08/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
+            "issue": 24,
+            "title": "Testa inclusão de projetos via Issue template",
+            "pull_request": false,
+            "created_at": "08/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251008T144436",
+            "closed_at": "08/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
+            "issue": 23,
+            "title": "Testa inclusão de projetos via Issue template",
+            "pull_request": false,
+            "created_at": "08/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251008T144950",
+            "closed_at": "08/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug",
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
+            "issue": 22,
+            "title": "Testa inclusão de projetos via Issue template",
+            "pull_request": false,
+            "created_at": "08/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251008T143703",
+            "closed_at": "08/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
+            "issue": 21,
+            "title": "Configuração de seleção de projeto em Issue template não está funcionando",
+            "pull_request": false,
+            "created_at": "08/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251008T201921",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
             "issue": 11,
             "title": "Escrever Discussão questionando porque alguns de nossos repositórios são fechados",
             "pull_request": false,
@@ -478,7 +582,7 @@
             "created_at": "15/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20251002T164049",
+            "updated_at": "20251008T140637",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -10094,6 +10198,23 @@
             "assignee": null,
             "labels": [
                 "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 8,
+            "title": "[DD/MM/AAAA] Reunião XXXXX",
+            "pull_request": false,
+            "created_at": "08/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251008T141411",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "meeting"
             ]
         },
         {
@@ -19841,11 +19962,11 @@
             "created_at": "10/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250911T153208",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20251008T171828",
+            "closed_at": "08/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
+            "assignee": "carloshob",
             "labels": [
                 "question"
             ]
@@ -19858,7 +19979,7 @@
             "created_at": "10/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250911T152709",
+            "updated_at": "20251008T131630",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
