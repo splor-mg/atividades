@@ -363,16 +363,33 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 195,
+            "title": "Estratégia de Migração para GitHub App: Gestão de Tokens e Automações",
+            "pull_request": false,
+            "created_at": "09/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251009T231226",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 194,
             "title": "Alterar unidade de lotação no SEI",
             "pull_request": false,
             "created_at": "10/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250910T203149",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251009T224127",
+            "closed_at": "09/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
             "assignee": "carloshob",
             "labels": [
                 "chore"
@@ -548,7 +565,7 @@
             "created_at": "31/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250911T183944",
+            "updated_at": "20251009T231115",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -13856,16 +13873,33 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 148,
+            "title": "Modelo de gestão de tokens",
+            "pull_request": true,
+            "created_at": "09/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251009T220547",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 147,
             "title": "docs(governanca): adiciona página sobre Bitwarden - Cofre de Senhas",
             "pull_request": true,
             "created_at": "01/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20251007T153010",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251009T223333",
+            "closed_at": "09/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
             "assignee": null,
             "labels": null
         },
@@ -19936,6 +19970,23 @@
             "closed_at_month": 7,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/verificacoes-github-splor-mg",
+            "issue": 15,
+            "title": "Otimização de requisição API e implementação de tokens JWT",
+            "pull_request": true,
+            "created_at": "09/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251009T211433",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/verificacoes-github-splor-mg",
