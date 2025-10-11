@@ -599,7 +599,7 @@
             "created_at": "15/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20251008T140637",
+            "updated_at": "20251010T162124",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -13879,7 +13879,7 @@
             "created_at": "09/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20251009T220547",
+            "updated_at": "20251010T173533",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17757,6 +17757,23 @@
         },
         {
             "repo": "splor-mg/projetos",
+            "issue": 21,
+            "title": "[EPIC] Implantação do Datamart de Classificadores Orçamentários do Estado",
+            "pull_request": false,
+            "created_at": "10/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251010T211630",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/projetos",
             "issue": 19,
             "title": "(DRY) Como resolver o problema de um mesmo conceito em mais de um datapackage",
             "pull_request": false,
@@ -18457,17 +18474,35 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 102,
+            "title": "Criar Issue Template para solicitação de certificado",
+            "pull_request": false,
+            "created_at": "10/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251010T174406",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore",
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 101,
             "title": "Solicitação de certificado",
             "pull_request": false,
             "created_at": "07/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20251007T191801",
+            "updated_at": "20251010T174246",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "raianecardoso",
             "labels": null
         },
         {
