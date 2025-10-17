@@ -363,6 +363,23 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 197,
+            "title": "Blog Series Roadmap - From Diagnosis to Transformation (ETL process)",
+            "pull_request": false,
+            "created_at": "16/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251016T190124",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 196,
             "title": "Acessar servidor qlik via Ubuntu",
             "pull_request": false,
