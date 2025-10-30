@@ -2447,10 +2447,10 @@
             "created_at": "30/05/2023",
             "created_at_year": 2023,
             "created_at_month": 5,
-            "updated_at": "20230605T204150",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251029T175742",
+            "closed_at": "29/10/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 10,
             "assignee": null,
             "labels": [
                 "bug"
