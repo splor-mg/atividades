@@ -363,13 +363,64 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 201,
+            "title": "Assistir live(s) de Python Como organizar um projeto Python?",
+            "pull_request": false,
+            "created_at": "03/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251103T191800",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 200,
+            "title": "Ler documentação copier",
+            "pull_request": false,
+            "created_at": "03/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251103T191813",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 199,
+            "title": "Aprender sobre react.js - nov/2025",
+            "pull_request": false,
+            "created_at": "03/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251103T144830",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 198,
             "title": "Aprender sobre react.js - Out/ 2025",
             "pull_request": false,
             "created_at": "21/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20251021T121724",
+            "updated_at": "20251103T173310",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18531,12 +18582,14 @@
             "created_at": "28/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20251028T164934",
+            "updated_at": "20251103T140753",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18564,12 +18617,14 @@
             "created_at": "07/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20251010T174246",
+            "updated_at": "20251103T145027",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "raianecardoso",
-            "labels": null
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -18579,7 +18634,7 @@
             "created_at": "07/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20251007T144550",
+            "updated_at": "20251103T190106",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -19462,7 +19517,7 @@
             "created_at": "12/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250812T144641",
+            "updated_at": "20251103T173057",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
