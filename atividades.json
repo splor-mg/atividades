@@ -369,7 +369,7 @@
             "created_at": "19/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251119T190546",
+            "updated_at": "20251124T192547",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -9912,16 +9912,50 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
+            "issue": 35,
+            "title": "Publicar bases sisor 2025 em formato aberto",
+            "pull_request": false,
+            "created_at": "24/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251124T171126",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
+            "issue": 34,
+            "title": "Falha na execução do workflow em 2025-11-24T09:26:04Z",
+            "pull_request": false,
+            "created_at": "24/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251124T131610",
+            "closed_at": "24/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
             "issue": 33,
             "title": "Falha na execução do workflow em 2025-11-21T09:22:04Z",
             "pull_request": false,
             "created_at": "21/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251121T092204",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251124T131610",
+            "closed_at": "24/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -9935,10 +9969,10 @@
             "created_at": "20/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251120T092207",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251124T131609",
+            "closed_at": "24/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -9952,10 +9986,10 @@
             "created_at": "19/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251119T092320",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251124T131609",
+            "closed_at": "24/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -9969,10 +10003,10 @@
             "created_at": "18/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251118T172651",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251124T131609",
+            "closed_at": "24/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -9986,10 +10020,10 @@
             "created_at": "18/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251118T165547",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251124T131608",
+            "closed_at": "24/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -10003,10 +10037,10 @@
             "created_at": "18/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251118T164539",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251124T131608",
+            "closed_at": "24/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -10020,10 +10054,10 @@
             "created_at": "18/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251118T130919",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251124T131607",
+            "closed_at": "24/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -10037,10 +10071,10 @@
             "created_at": "18/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251118T124603",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251124T131607",
+            "closed_at": "24/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -10461,6 +10495,72 @@
             "assignee": null,
             "labels": [
                 "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 12,
+            "title": "Melhorar documentação do conjunto via `README.md`",
+            "pull_request": false,
+            "created_at": "24/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251124T180738",
+            "closed_at": "24/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 11,
+            "title": "`README.md` duplica titulo do conjunto publicado PdA",
+            "pull_request": false,
+            "created_at": "24/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251124T180700",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 10,
+            "title": "9 publica dados abertos",
+            "pull_request": true,
+            "created_at": "24/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251124T143015",
+            "closed_at": "24/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 9,
+            "title": "Publicar bases sisor 2026 em formato aberto",
+            "pull_request": false,
+            "created_at": "24/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251124T170815",
+            "closed_at": "24/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
             ]
         },
         {
@@ -18028,7 +18128,7 @@
             "created_at": "10/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20251028T195549",
+            "updated_at": "20251124T184707",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
