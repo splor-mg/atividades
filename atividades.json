@@ -363,6 +363,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 204,
+            "title": "Aprender sobre react.js - dez/2025",
+            "pull_request": false,
+            "created_at": "25/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251125T184711",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 203,
             "title": "Acessar servidor qlik via Windows",
             "pull_request": false,
@@ -401,10 +416,10 @@
             "created_at": "03/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251117T193809",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251125T134839",
+            "closed_at": "25/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": "raianecardoso",
             "labels": [
                 "chore"
@@ -418,10 +433,10 @@
             "created_at": "03/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251118T220234",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251125T184753",
+            "closed_at": "25/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": "raianecardoso",
             "labels": [
                 "chore"
@@ -9912,6 +9927,23 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
+            "issue": 36,
+            "title": "Falha na execução do workflow em 2025-11-25T09:24:50Z",
+            "pull_request": false,
+            "created_at": "25/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251125T092450",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
             "issue": 35,
             "title": "Publicar bases sisor 2025 em formato aberto",
             "pull_request": false,
@@ -18839,6 +18871,36 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 119,
+            "title": "77 section index pages",
+            "pull_request": true,
+            "created_at": "25/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251125T194826",
+            "closed_at": "25/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 118,
+            "title": "Pagina python",
+            "pull_request": true,
+            "created_at": "25/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251125T184848",
+            "closed_at": "25/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 117,
             "title": "Curadoria de exercícios python com testes automatizados",
             "pull_request": false,
@@ -19489,10 +19551,10 @@
             "created_at": "01/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20251119T201845",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251125T194917",
+            "closed_at": "25/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": "raianecardoso",
             "labels": [
                 "documentation"
