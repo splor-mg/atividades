@@ -1052,7 +1052,7 @@
             "created_at": "22/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20241025T135228",
+            "updated_at": "20251127T205703",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -9927,6 +9927,23 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
+            "issue": 38,
+            "title": "Falha na execução do workflow em 2025-11-27T09:23:51Z",
+            "pull_request": false,
+            "created_at": "27/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251127T092351",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
             "issue": 37,
             "title": "Falha na execução do workflow em 2025-11-26T09:24:28Z",
             "pull_request": false,
@@ -14253,6 +14270,41 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 152,
+            "title": "Registrar encontro Nova LOA - 001",
+            "pull_request": false,
+            "created_at": "27/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251127T221749",
+            "closed_at": "27/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 151,
+            "title": "`.venv` criado por Poetry não apresenta executável `activate` para ativação do ambiente virtual",
+            "pull_request": false,
+            "created_at": "27/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251127T194506",
+            "closed_at": "27/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug",
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 150,
             "title": "Adiciona no FAQ pergunta frequente da Assessoria SPLOR sobre assinatura do subsecretário no SEI",
             "pull_request": true,
@@ -14325,11 +14377,11 @@
             "created_at": "17/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250917T141616",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20251127T180412",
+            "closed_at": "27/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
+            "assignee": "gabrielbdornas",
             "labels": [
                 "chore"
             ]
@@ -14395,11 +14447,11 @@
             "created_at": "29/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250909T131856",
+            "updated_at": "20251127T180536",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "vivianenascimento",
+            "assignee": null,
             "labels": null
         },
         {
@@ -15927,10 +15979,10 @@
             "created_at": "22/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250222T020716",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251127T180743",
+            "closed_at": "27/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": null
         },
@@ -18888,6 +18940,53 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 124,
+            "title": "Solicitação de certificado",
+            "pull_request": false,
+            "created_at": "27/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251127T185400",
+            "closed_at": "27/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 123,
+            "title": "Adc texto a pagina do trilha-dev Python.",
+            "pull_request": true,
+            "created_at": "27/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251127T162241",
+            "closed_at": "27/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 122,
+            "title": "Altera workflow para o default aponte para main. ",
+            "pull_request": true,
+            "created_at": "27/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251127T154940",
+            "closed_at": "27/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 121,
             "title": "Vídeo que explica o uso do Python no contexto da Splor. O que o aluno poderá fazer depois do curso com esse conhecimento novo?",
             "pull_request": false,
@@ -19853,7 +19952,7 @@
             "created_at": "26/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20251112T152048",
+            "updated_at": "20251127T163816",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
