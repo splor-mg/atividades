@@ -384,7 +384,7 @@
             "created_at": "19/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251124T192547",
+            "updated_at": "20251128T180542",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5866,6 +5866,786 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 46,
+            "title": "feat(docs): adicionar documento de projeto",
+            "pull_request": true,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251129T000822",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 45,
+            "title": "Implementação de Sincronização Unidirecional Inicial (SISOR → Novo Sistema)",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T204937",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 44,
+            "title": "Implementação de Tratamento de Erros e Retry Logic",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T204002",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 43,
+            "title": "Implementação de Envio de Atualizações para SISOR",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T203856",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 42,
+            "title": "Criação de Serviço de Sincronização com Celery",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T203645",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 41,
+            "title": "Implementação de Detecção de Mudanças no Sistema",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T203527",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 40,
+            "title": "Mapeamento de Campos e Definição de Protocolo de Integração",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T203410",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 39,
+            "title": "Alinhamento Técnico com Prodemge sobre Interface SISOR",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T203249",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 38,
+            "title": "Habilitação Técnica - Estudo Integração de Sistemas e Celery",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T203121",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 37,
+            "title": "Desenvolvimento de Interface Responsiva",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T202812",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 36,
+            "title": "Otimização de Performance e Cache",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T202649",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 35,
+            "title": "Criação de Materialized Views para Consultas Frequentes",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T202541",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 34,
+            "title": "Implementação de Consultas Históricas (Point-in-Time)",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T202419",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 33,
+            "title": "Implementação de Busca e Filtros Avançados",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T202300",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 32,
+            "title": "Desenvolvimento de Visualização Hierárquica do Classificador",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T202133",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 31,
+            "title": "Criação de App Django para Dashboard Público",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T202028",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 30,
+            "title": "Definição de Requisitos do Dashboard com DCAF",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T201909",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 29,
+            "title": "Testes de Integração Django + Banco Bitemporal",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T201549",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 28,
+            "title": "Criação de Management Commands para ETL e Sincronização",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T201424",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 27,
+            "title": "Customização do Django Admin",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T201236",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 26,
+            "title": "Integração com Banco Bitemporal e Consultas SQL Raw",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T201107",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 25,
+            "title": "Implementação de Fluxo de Aprovação de Alterações",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T200944",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 24,
+            "title": "Implementação de Autenticação e Controle de Acesso",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T200748",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 23,
+            "title": "Desenvolvimento de Interface CRUD para Classificações",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T200508",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 22,
+            "title": "Criação de Models Django Mapeando Tabelas Bitemporais",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T200323",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 21,
+            "title": "Definição de Requisitos Funcionais com DCAF",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T200203",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 20,
+            "title": "Configuração do Projeto Django e Estrutura de Apps",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T200028",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 19,
+            "title": "Habilitação Técnica - Estudo Django Framework",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T195846",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 18,
+            "title": "Carregamento de Dados Históricos com Transaction Time",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T195559",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 17,
+            "title": "Validação de Integridade e Consistência Temporal",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T195411",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 16,
+            "title": "Mapeamento de Campos Excel para Modelo Relacional",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T195225",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 15,
+            "title": "Criação de Testes SQL e Validação de Consultas As-Of",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T194922",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 14,
+            "title": "Configuração de Ambiente Docker e CI/CD",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T194701",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 13,
+            "title": "Implementação de Triggers para Bitemporalidade",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T194521",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 12,
+            "title": "Tradução do DER para DDL e Criação do Esquema Físico",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T194154",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 11,
+            "title": "Habilitação Técnica - Estudo PostgreSQL",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T193912",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 10,
+            "title": "Habilitação Técnica - Estudo SQL",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T193539",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 9,
+            "title": "Incorporação de Colunas Temporais e Validação Frictionless",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T193318",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 8,
+            "title": "Estruturação de Relacionamentos e Normalização",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T193128",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 7,
+            "title": "Definição de Entidades e Atributos Principais",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T193115",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 6,
+            "title": "Adoção e Adaptação do Modelo GSIM",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T192244",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 5,
+            "title": "Definição de Padrão de Versionamento (SCD 2-6)",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T191858",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 4,
+            "title": "Estudo e Definição de Estratégia de Bitemporalidade",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T191927",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 3,
+            "title": "Construção do Cronograma e Plano de Trabalho",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T185731",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 2,
+            "title": "Elaboração do Projeto - Documentação Inicial",
+            "pull_request": false,
+            "created_at": "28/11/2025",
+            "created_at_year": 2025,
+            "created_at_month": 11,
+            "updated_at": "20251128T190013",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 1,
+            "title": "[EPIC] Implantação do Datamart de Classificadores Orçamentários do Estado",
+            "pull_request": false,
+            "created_at": "10/10/2025",
+            "created_at_year": 2025,
+            "created_at_month": 10,
+            "updated_at": "20251129T001507",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
             "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 60,
             "title": "Melhorar processo de atualização de repositórios de anos anteriores",
@@ -9781,10 +10561,10 @@
             "created_at": "02/01/2024",
             "created_at_year": 2024,
             "created_at_month": 1,
-            "updated_at": "20240102T230055",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251128T134019",
+            "closed_at": "28/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": null
         },
@@ -9903,10 +10683,10 @@
             "created_at": "31/01/2023",
             "created_at_year": 2023,
             "created_at_month": 1,
-            "updated_at": "20230131T141525",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251128T133920",
+            "closed_at": "28/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": null
         },
@@ -9933,10 +10713,10 @@
             "created_at": "27/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251127T092351",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251128T133735",
+            "closed_at": "28/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -9950,10 +10730,10 @@
             "created_at": "26/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251126T092429",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251128T133735",
+            "closed_at": "28/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -9967,10 +10747,10 @@
             "created_at": "25/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251125T092450",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251128T133734",
+            "closed_at": "28/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -10454,10 +11234,10 @@
             "created_at": "11/09/2024",
             "created_at_year": 2024,
             "created_at_month": 9,
-            "updated_at": "20240911T202112",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251128T133804",
+            "closed_at": "28/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": null
         },
@@ -18223,23 +19003,6 @@
         },
         {
             "repo": "splor-mg/projetos",
-            "issue": 21,
-            "title": "[EPIC] Implantação do Datamart de Classificadores Orçamentários do Estado",
-            "pull_request": false,
-            "created_at": "10/10/2025",
-            "created_at_year": 2025,
-            "created_at_month": 10,
-            "updated_at": "20251124T184707",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "carloshob",
-            "labels": [
-                "new-feature"
-            ]
-        },
-        {
-            "repo": "splor-mg/projetos",
             "issue": 19,
             "title": "(DRY) Como resolver o problema de um mesmo conceito em mais de um datapackage",
             "pull_request": false,
@@ -19952,10 +20715,10 @@
             "created_at": "26/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20251127T163816",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251128T204331",
+            "closed_at": "28/11/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 11,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
