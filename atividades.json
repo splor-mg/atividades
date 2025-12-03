@@ -363,6 +363,23 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 205,
+            "title": "Criar lógica para bloquear link de um painel PowerBi",
+            "pull_request": false,
+            "created_at": "02/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251202T151831",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 204,
             "title": "Aprender sobre react.js - dez/2025",
             "pull_request": false,
