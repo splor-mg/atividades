@@ -19750,6 +19750,57 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 127,
+            "title": "125 126 python",
+            "pull_request": true,
+            "created_at": "04/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251204T142556",
+            "closed_at": "04/12/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 12,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 126,
+            "title": "00:08:11 How Python Code Gets Executed",
+            "pull_request": false,
+            "created_at": "04/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251204T142556",
+            "closed_at": "04/12/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 12,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 125,
+            "title": "00:06:10 Your First Python Program",
+            "pull_request": false,
+            "created_at": "04/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251204T142556",
+            "closed_at": "04/12/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 12,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 124,
             "title": "Solicitação de certificado",
             "pull_request": false,
@@ -20711,7 +20762,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20251201T125923",
+            "updated_at": "20251204T134156",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
