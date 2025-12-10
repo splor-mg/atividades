@@ -10768,6 +10768,23 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
+            "issue": 43,
+            "title": "Falha na execução do workflow em 2025-12-09T09:24:43Z",
+            "pull_request": false,
+            "created_at": "09/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251209T092443",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
             "issue": 42,
             "title": "Falha na execução do workflow em 2025-12-08T09:28:53Z",
             "pull_request": false,
@@ -11431,6 +11448,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 14,
+            "title": "Falha na execução do workflow em 2025-12-09T10:12:35Z",
+            "pull_request": false,
+            "created_at": "09/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251209T101235",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -15122,6 +15156,21 @@
             "created_at_year": 2023,
             "created_at_month": 5,
             "updated_at": "20231215T160529",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/feed-legis-front",
+            "issue": 2,
+            "title": "Deletar este repositório",
+            "pull_request": false,
+            "created_at": "09/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251209T204034",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -19828,6 +19877,23 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 131,
+            "title": "00:13:03 Variables",
+            "pull_request": false,
+            "created_at": "09/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251209T204944",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 130,
             "title": "Solicitação de certificado",
             "pull_request": false,
@@ -20001,7 +20067,7 @@
             "created_at": "26/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251126T142342",
+            "updated_at": "20251209T145811",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -20891,7 +20957,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20251204T134156",
+            "updated_at": "20251209T205144",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
