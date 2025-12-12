@@ -10820,6 +10820,23 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
+            "issue": 45,
+            "title": "Falha na execução do workflow em 2025-12-11T09:28:18Z",
+            "pull_request": false,
+            "created_at": "11/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251211T092819",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
             "issue": 44,
             "title": "Falha na execução do workflow em 2025-12-10T09:25:42Z",
             "pull_request": false,
@@ -13388,7 +13405,7 @@
             "created_at": "10/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251210T144121",
+            "updated_at": "20251211T181438",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
