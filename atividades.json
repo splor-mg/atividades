@@ -415,6 +415,23 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 209,
+            "title": "Levantamento de demandas por capacitações/congressos/simpósios",
+            "pull_request": false,
+            "created_at": "12/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251212T143458",
+            "closed_at": "12/12/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 12,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 208,
             "title": "Publicar notícia Agência Minas sobre a abertura de dados dos conjuntos orçamentários",
             "pull_request": false,
@@ -10820,6 +10837,23 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
+            "issue": 46,
+            "title": "Falha na execução do workflow em 2025-12-12T09:25:46Z",
+            "pull_request": false,
+            "created_at": "12/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251212T092547",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
             "issue": 45,
             "title": "Falha na execução do workflow em 2025-12-11T09:28:18Z",
             "pull_request": false,
@@ -11534,6 +11568,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 17,
+            "title": "Falha na execução do workflow em 2025-12-12T10:11:51Z",
+            "pull_request": false,
+            "created_at": "12/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251212T152304",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -19997,6 +20048,39 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 134,
+            "title": "Adc conteúdo da aula 04 de python. ",
+            "pull_request": true,
+            "created_at": "12/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251212T182301",
+            "closed_at": "12/12/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 12,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 133,
+            "title": "[00:18:21]Receiving Input",
+            "pull_request": false,
+            "created_at": "12/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251212T182324",
+            "closed_at": "12/12/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 12,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 132,
             "title": "Add conteúdo da aula 03. ",
             "pull_request": true,
@@ -21094,7 +21178,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20251210T192315",
+            "updated_at": "20251212T175312",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
