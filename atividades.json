@@ -507,7 +507,7 @@
             "created_at": "25/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251203T151852",
+            "updated_at": "20251216T194209",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -5980,6 +5980,23 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 48,
+            "title": "Arquitetura dados",
+            "pull_request": true,
+            "created_at": "17/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251217T004404",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 47,
             "title": "[05/12/2025] Reunião 1 - Definições do projeto",
             "pull_request": false,
@@ -6766,7 +6783,7 @@
             "created_at": "10/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20251205T164713",
+            "updated_at": "20251217T004942",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -10837,6 +10854,23 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
+            "issue": 48,
+            "title": "Falha na execução do workflow em 2025-12-16T09:27:13Z",
+            "pull_request": false,
+            "created_at": "16/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251216T092714",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
             "issue": 47,
             "title": "Falha na execução do workflow em 2025-12-15T09:32:30Z",
             "pull_request": false,
@@ -11585,6 +11619,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 19,
+            "title": "Falha na execução do workflow em 2025-12-16T10:12:39Z",
+            "pull_request": false,
+            "created_at": "16/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251216T101240",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -20387,7 +20438,7 @@
             "created_at": "14/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251205T180058",
+            "updated_at": "20251216T203807",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
