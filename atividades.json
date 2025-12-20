@@ -496,6 +496,23 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 210,
+            "title": "Aprender sobre react.js - jan/2026",
+            "pull_request": false,
+            "created_at": "19/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251219T145942",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 209,
             "title": "Levantamento de demandas por capacitações/congressos/simpósios",
             "pull_request": false,
@@ -588,10 +605,10 @@
             "created_at": "25/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251217T192734",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251219T151008",
+            "closed_at": "19/12/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 12,
             "assignee": "raianecardoso",
             "labels": null
         },
@@ -10952,6 +10969,23 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
+            "issue": 51,
+            "title": "Falha na execução do workflow em 2025-12-19T09:25:22Z",
+            "pull_request": false,
+            "created_at": "19/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251219T092523",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
             "issue": 50,
             "title": "Falha na execução do workflow em 2025-12-18T09:28:00Z",
             "pull_request": false,
@@ -11758,16 +11792,50 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2026",
+            "issue": 23,
+            "title": "Adiciona opção no extract de não paralisar o codigo caso nao encontre recurso",
+            "pull_request": true,
+            "created_at": "19/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251219T174417",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 22,
+            "title": "Falha na execução do workflow em 2025-12-19T10:11:29Z",
+            "pull_request": false,
+            "created_at": "19/12/2025",
+            "created_at_year": 2025,
+            "created_at_month": 12,
+            "updated_at": "20251219T174651",
+            "closed_at": "19/12/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 12,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
             "issue": 21,
             "title": "Falha na execução do workflow em 2025-12-18T10:11:48Z",
             "pull_request": false,
             "created_at": "18/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251218T101149",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251219T174706",
+            "closed_at": "19/12/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 12,
             "assignee": null,
             "labels": [
                 "bug"
@@ -11781,10 +11849,10 @@
             "created_at": "17/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251217T101215",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251219T174720",
+            "closed_at": "19/12/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 12,
             "assignee": null,
             "labels": [
                 "bug"
@@ -11798,10 +11866,10 @@
             "created_at": "16/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251216T101240",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251219T174736",
+            "closed_at": "19/12/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 12,
             "assignee": null,
             "labels": [
                 "bug"
@@ -11815,10 +11883,10 @@
             "created_at": "15/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251215T101424",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251219T174754",
+            "closed_at": "19/12/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 12,
             "assignee": null,
             "labels": [
                 "bug"
@@ -11832,7 +11900,7 @@
             "created_at": "12/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251212T152304",
+            "updated_at": "20251219T175017",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -11883,10 +11951,10 @@
             "created_at": "08/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251208T133815",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20251219T174549",
+            "closed_at": "19/12/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 12,
             "assignee": null,
             "labels": [
                 "bug"
