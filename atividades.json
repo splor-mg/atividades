@@ -495,6 +495,24 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/apresentacoes",
+            "issue": 1,
+            "title": "Criar apresentação gerencial AID/SPLOR Janeiro 2026",
+            "pull_request": false,
+            "created_at": "05/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260105T222047",
+            "closed_at": "05/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
             "repo": "splor-mg/atividades",
             "issue": 210,
             "title": "Aprender sobre react.js - jan/2026",
@@ -10969,6 +10987,23 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
+            "issue": 62,
+            "title": "Falha na execução do workflow em 2026-01-05T09:32:57Z",
+            "pull_request": false,
+            "created_at": "05/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260105T093258",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
             "issue": 61,
             "title": "Falha na execução do workflow em 2026-01-02T09:25:18Z",
             "pull_request": false,
@@ -11768,6 +11803,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 26,
+            "title": "Falha na execução do workflow em 2026-01-05T10:14:20Z",
+            "pull_request": false,
+            "created_at": "05/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260105T101420",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -20435,6 +20487,23 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 135,
+            "title": "Curadoria de exercícios python com testes automatizados - jan/2026",
+            "pull_request": false,
+            "created_at": "05/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260105T131951",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 134,
             "title": "Adc conteúdo da aula 04 de python. ",
             "pull_request": true,
@@ -20723,10 +20792,10 @@
             "created_at": "14/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251223T140102",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260105T131915",
+            "closed_at": "05/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
