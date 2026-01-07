@@ -496,6 +496,25 @@
         },
         {
             "repo": "splor-mg/apresentacoes",
+            "issue": 2,
+            "title": "Criar apresentação ETL",
+            "pull_request": false,
+            "created_at": "06/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260106T215552",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore",
+                "documentation",
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/apresentacoes",
             "issue": 1,
             "title": "Criar apresentação gerencial AID/SPLOR Janeiro 2026",
             "pull_request": false,
@@ -1274,7 +1293,7 @@
             "created_at": "22/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20251205T183105",
+            "updated_at": "20260106T142336",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -10987,6 +11006,23 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
+            "issue": 63,
+            "title": "Falha na execução do workflow em 2026-01-06T09:27:25Z",
+            "pull_request": false,
+            "created_at": "06/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260106T092725",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2025",
             "issue": 62,
             "title": "Falha na execução do workflow em 2026-01-05T09:32:57Z",
             "pull_request": false,
@@ -11803,6 +11839,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 27,
+            "title": "Falha na execução do workflow em 2026-01-06T10:12:24Z",
+            "pull_request": false,
+            "created_at": "06/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260106T101224",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -20487,6 +20540,53 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 139,
+            "title": "Add conteúdo da aula 005.",
+            "pull_request": true,
+            "created_at": "06/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260106T170229",
+            "closed_at": "06/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 138,
+            "title": "00:22:46 Type Conversion",
+            "pull_request": false,
+            "created_at": "06/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260106T170229",
+            "closed_at": "06/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 137,
+            "title": "Pagina inicial python",
+            "pull_request": true,
+            "created_at": "06/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260106T150302",
+            "closed_at": "06/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 135,
             "title": "Curadoria de exercícios python com testes automatizados - jan/2026",
             "pull_request": false,
@@ -20726,10 +20826,10 @@
             "created_at": "26/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251223T182841",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260106T150302",
+            "closed_at": "06/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "gabrielbdornas",
             "labels": [
                 "chore",
@@ -20744,10 +20844,10 @@
             "created_at": "26/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251223T134452",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260106T150302",
+            "closed_at": "06/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "gabrielbdornas",
             "labels": [
                 "chore",
@@ -21634,7 +21734,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20251212T175312",
+            "updated_at": "20260106T170230",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
