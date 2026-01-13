@@ -636,23 +636,6 @@
         },
         {
             "repo": "splor-mg/atividades",
-            "issue": 206,
-            "title": "Troca de bases para GRP",
-            "pull_request": false,
-            "created_at": "05/12/2025",
-            "created_at_year": 2025,
-            "created_at_month": 12,
-            "updated_at": "20260109T174848",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "gabrielbdornas",
-            "labels": [
-                "new-feature"
-            ]
-        },
-        {
-            "repo": "splor-mg/atividades",
             "issue": 205,
             "title": "Criar lógica para bloquear link de um painel PowerBi",
             "pull_request": false,
@@ -6155,7 +6138,7 @@
             "created_at": "17/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20260109T133120",
+            "updated_at": "20260112T211800",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6172,10 +6155,10 @@
             "created_at": "17/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251223T182556",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260112T141052",
+            "closed_at": "12/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -11040,234 +11023,13 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
-            "issue": 66,
-            "title": "Falha na execução do workflow em 2026-01-09T09:28:33Z",
+            "issue": 67,
+            "title": "Falha na execução do workflow em 2026-01-12T09:32:52Z",
             "pull_request": false,
-            "created_at": "09/01/2026",
+            "created_at": "12/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260109T092833",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 65,
-            "title": "Falha na execução do workflow em 2026-01-08T09:29:06Z",
-            "pull_request": false,
-            "created_at": "08/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260108T092907",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 64,
-            "title": "Falha na execução do workflow em 2026-01-07T09:28:44Z",
-            "pull_request": false,
-            "created_at": "07/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260107T092844",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 63,
-            "title": "Falha na execução do workflow em 2026-01-06T09:27:25Z",
-            "pull_request": false,
-            "created_at": "06/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260106T092725",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 62,
-            "title": "Falha na execução do workflow em 2026-01-05T09:32:57Z",
-            "pull_request": false,
-            "created_at": "05/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260105T093258",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 61,
-            "title": "Falha na execução do workflow em 2026-01-02T09:25:18Z",
-            "pull_request": false,
-            "created_at": "02/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260102T092519",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 60,
-            "title": "Falha na execução do workflow em 2026-01-01T09:25:31Z",
-            "pull_request": false,
-            "created_at": "01/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260101T092531",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 59,
-            "title": "Falha na execução do workflow em 2025-12-31T09:25:32Z",
-            "pull_request": false,
-            "created_at": "31/12/2025",
-            "created_at_year": 2025,
-            "created_at_month": 12,
-            "updated_at": "20251231T092532",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 58,
-            "title": "Falha na execução do workflow em 2025-12-30T09:26:11Z",
-            "pull_request": false,
-            "created_at": "30/12/2025",
-            "created_at_year": 2025,
-            "created_at_month": 12,
-            "updated_at": "20251230T092612",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 57,
-            "title": "Falha na execução do workflow em 2025-12-29T09:31:02Z",
-            "pull_request": false,
-            "created_at": "29/12/2025",
-            "created_at_year": 2025,
-            "created_at_month": 12,
-            "updated_at": "20251229T093102",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 56,
-            "title": "Falha na execução do workflow em 2025-12-26T09:23:35Z",
-            "pull_request": false,
-            "created_at": "26/12/2025",
-            "created_at_year": 2025,
-            "created_at_month": 12,
-            "updated_at": "20251226T092336",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 55,
-            "title": "Falha na execução do workflow em 2025-12-25T09:23:39Z",
-            "pull_request": false,
-            "created_at": "25/12/2025",
-            "created_at_year": 2025,
-            "created_at_month": 12,
-            "updated_at": "20251225T092339",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 54,
-            "title": "Falha na execução do workflow em 2025-12-24T09:25:07Z",
-            "pull_request": false,
-            "created_at": "24/12/2025",
-            "created_at_year": 2025,
-            "created_at_month": 12,
-            "updated_at": "20251224T092507",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 53,
-            "title": "Falha na execução do workflow em 2025-12-23T09:26:23Z",
-            "pull_request": false,
-            "created_at": "23/12/2025",
-            "created_at_year": 2025,
-            "created_at_month": 12,
-            "updated_at": "20251223T190342",
+            "updated_at": "20260112T141415",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -11931,132 +11693,13 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2026",
-            "issue": 30,
-            "title": "Falha na execução do workflow em 2026-01-09T10:12:30Z",
-            "pull_request": false,
-            "created_at": "09/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260109T101230",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 29,
-            "title": "Falha na execução do workflow em 2026-01-08T10:13:45Z",
-            "pull_request": false,
-            "created_at": "08/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260108T101346",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 28,
-            "title": "Falha na execução do workflow em 2026-01-07T10:13:03Z",
-            "pull_request": false,
-            "created_at": "07/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260107T101304",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 27,
-            "title": "Falha na execução do workflow em 2026-01-06T10:12:24Z",
-            "pull_request": false,
-            "created_at": "06/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260106T101224",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 26,
-            "title": "Falha na execução do workflow em 2026-01-05T10:14:20Z",
-            "pull_request": false,
-            "created_at": "05/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260105T101420",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 25,
-            "title": "Falha na execução do workflow em 2026-01-02T10:11:36Z",
-            "pull_request": false,
-            "created_at": "02/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260102T101136",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 24,
-            "title": "Falha na execução do workflow em 2026-01-01T10:11:54Z",
-            "pull_request": false,
-            "created_at": "01/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260101T101155",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
             "issue": 23,
             "title": "Adiciona opção no extract de não paralisar o codigo caso nao encontre recurso",
             "pull_request": true,
             "created_at": "19/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251223T190143",
+            "updated_at": "20260112T183707",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12377,6 +12020,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 95,
+            "title": "Falha na execução do workflow em 2026-01-12T10:15:52Z",
+            "pull_request": false,
+            "created_at": "12/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260112T101552",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
@@ -15990,6 +15650,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/gitinho",
+            "issue": 2,
+            "title": "Arquivar repositório",
+            "pull_request": false,
+            "created_at": "12/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260112T182511",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "question"
+            ]
         },
         {
             "repo": "splor-mg/gitinho",
@@ -20693,6 +20370,38 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 142,
+            "title": "Adiciona conteúdo trilha dev python- aula 006.",
+            "pull_request": true,
+            "created_at": "12/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260112T185553",
+            "closed_at": "12/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 141,
+            "title": "00:29:31 Strings",
+            "pull_request": false,
+            "created_at": "12/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260112T185644",
+            "closed_at": "12/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 140,
             "title": "Ajustes conteudo textual",
             "pull_request": true,
@@ -20860,10 +20569,10 @@
             "created_at": "05/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20260109T132445",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260112T215804",
+            "closed_at": "12/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "gabrielbdornas",
             "labels": [
                 "chore",
@@ -21902,7 +21611,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260107T173951",
+            "updated_at": "20260112T185645",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
