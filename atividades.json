@@ -533,6 +533,23 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 213,
+            "title": "Arquivar backup servidor qlik",
+            "pull_request": false,
+            "created_at": "14/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260114T145713",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 212,
             "title": "Contratar estagiário",
             "pull_request": false,
@@ -573,7 +590,7 @@
             "created_at": "19/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20260107T173040",
+            "updated_at": "20260114T152630",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -607,7 +624,7 @@
             "created_at": "05/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251205T190529",
+            "updated_at": "20260114T201521",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6132,13 +6149,30 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 51,
+            "title": "Avaliar a discriminação de campo hierárquico nos schemas",
+            "pull_request": false,
+            "created_at": "14/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260114T201746",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 50,
             "title": "Implementar site estático Zensical para evoluir documentação do projeto",
             "pull_request": false,
             "created_at": "13/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260113T193343",
+            "updated_at": "20260114T130844",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6155,7 +6189,7 @@
             "created_at": "17/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20260113T194230",
+            "updated_at": "20260114T203711",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6206,7 +6240,7 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260113T160149",
+            "updated_at": "20260114T130723",
             "closed_at": "10/12/2025",
             "closed_at_year": 2025,
             "closed_at_month": 12,
@@ -11040,51 +11074,17 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2025",
-            "issue": 69,
-            "title": "Falha na execução do workflow em 2026-01-13T17:21:34Z",
-            "pull_request": false,
-            "created_at": "13/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260113T172135",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
-            "issue": 68,
-            "title": "Falha na execução do workflow em 2026-01-13T09:28:45Z",
-            "pull_request": false,
-            "created_at": "13/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260113T092845",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2025",
             "issue": 67,
             "title": "Falha na execução do workflow em 2026-01-12T09:32:52Z",
             "pull_request": false,
             "created_at": "12/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260112T141415",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260114T125239",
+            "closed_at": "14/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": "gabrielbdornas",
             "labels": [
                 "bug"
             ]
@@ -11744,23 +11744,6 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2026",
-            "issue": 33,
-            "title": "Falha na execução do workflow em 2026-01-13T17:20:19Z",
-            "pull_request": false,
-            "created_at": "13/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260113T172020",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
             "issue": 23,
             "title": "Adiciona opção no extract de não paralisar o codigo caso nao encontre recurso",
             "pull_request": true,
@@ -11869,11 +11852,11 @@
             "created_at": "12/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251219T175017",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260114T125403",
+            "closed_at": "14/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": "gabrielbdornas",
             "labels": [
                 "bug"
             ]
@@ -12088,6 +12071,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 97,
+            "title": "Falha na execução do workflow em 2026-01-14T10:14:43Z",
+            "pull_request": false,
+            "created_at": "14/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260114T101444",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
@@ -15744,7 +15744,7 @@
             "created_at": "12/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260112T182511",
+            "updated_at": "20260114T140642",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
