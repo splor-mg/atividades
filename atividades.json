@@ -539,7 +539,7 @@
             "created_at": "14/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260114T145713",
+            "updated_at": "20260116T172627",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6189,7 +6189,7 @@
             "created_at": "17/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20260114T203711",
+            "updated_at": "20260116T220106",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6357,7 +6357,7 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260113T141126",
+            "updated_at": "20260116T185028",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12071,6 +12071,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 99,
+            "title": "Falha na execução do workflow em 2026-01-16T10:13:19Z",
+            "pull_request": false,
+            "created_at": "16/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260116T101319",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
@@ -20472,6 +20489,23 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 143,
+            "title": "Armazenar novo vídeo extract gravado em 16/01/2026",
+            "pull_request": false,
+            "created_at": "16/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260116T181211",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 142,
             "title": "Adiciona conteúdo trilha dev python- aula 006.",
             "pull_request": true,
@@ -20654,7 +20688,7 @@
             "created_at": "05/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251215T135147",
+            "updated_at": "20260116T181034",
             "closed_at": "15/12/2025",
             "closed_at_year": 2025,
             "closed_at_month": 12,
