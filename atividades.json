@@ -5997,6 +5997,21 @@
         },
         {
             "repo": "splor-mg/checks-planejamento-report",
+            "issue": 11,
+            "title": "Erro no build do container- pacote sodium",
+            "pull_request": false,
+            "created_at": "19/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260119T224350",
+            "closed_at": "19/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": "labanca",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento-report",
             "issue": 10,
             "title": "9 save reports to xlsx",
             "pull_request": true,
@@ -6149,6 +6164,72 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 55,
+            "title": "Definir modelo de gerenciamento de versão do pacote e do classificador",
+            "pull_request": false,
+            "created_at": "19/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260119T185027",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 54,
+            "title": "Revisão e melhoria dos schemas para melhor retratação das regras de negócio",
+            "pull_request": false,
+            "created_at": "19/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260119T184152",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 53,
+            "title": "Implementação MVP de Aplicação Web Django com ORM Bitemporal",
+            "pull_request": false,
+            "created_at": "19/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260119T182832",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 52,
+            "title": "Estudo dos fundamentos Django para construção do banco ORM",
+            "pull_request": false,
+            "created_at": "19/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260119T182623",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 51,
             "title": "Avaliar a discriminação de campo hierárquico nos schemas",
             "pull_request": false,
@@ -6172,10 +6253,10 @@
             "created_at": "13/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260114T130844",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260119T192118",
+            "closed_at": "19/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -6189,10 +6270,10 @@
             "created_at": "17/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20260116T220106",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260119T192123",
+            "closed_at": "19/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "gabrielbdornas",
             "labels": [
                 "new-feature"
@@ -6357,7 +6438,7 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260116T185028",
+            "updated_at": "20260119T123759",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6692,12 +6773,12 @@
         {
             "repo": "splor-mg/classificador-receita",
             "issue": 19,
-            "title": "Habilitação Técnica - Estudo Django Framework",
+            "title": "Habilitação Técnica - Estudo Django Framework e Implementação MVP",
             "pull_request": false,
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260113T173655",
+            "updated_at": "20260119T181423",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6867,10 +6948,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251128T193318",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260119T192118",
+            "closed_at": "19/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -6884,10 +6965,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251128T193128",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260119T192117",
+            "closed_at": "19/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -6901,10 +6982,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251128T193115",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260119T192117",
+            "closed_at": "19/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -6918,10 +6999,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251128T192244",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260119T192118",
+            "closed_at": "19/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -6935,10 +7016,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251128T191858",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260119T192232",
+            "closed_at": "19/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -6952,10 +7033,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251128T191927",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260119T192119",
+            "closed_at": "19/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7003,7 +7084,7 @@
             "created_at": "10/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20260113T193352",
+            "updated_at": "20260119T192656",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12074,6 +12155,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 100,
+            "title": "Falha na execução do workflow em 2026-01-19T10:18:36Z",
+            "pull_request": false,
+            "created_at": "19/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260119T101836",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 99,
             "title": "Falha na execução do workflow em 2026-01-16T10:13:19Z",
             "pull_request": false,
@@ -15801,6 +15899,23 @@
             "closed_at_month": 7,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 153,
+            "title": "Documentar encontro 002 reunião etl",
+            "pull_request": false,
+            "created_at": "19/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260119T185228",
+            "closed_at": "19/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
