@@ -10975,10 +10975,10 @@
             "created_at": "20/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260120T152211",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260121T133222",
+            "closed_at": "21/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": null,
             "labels": [
                 "bug"
@@ -12184,6 +12184,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 102,
+            "title": "Falha na execução do workflow em 2026-01-21T10:16:21Z",
+            "pull_request": false,
+            "created_at": "21/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260121T101622",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
@@ -13791,6 +13808,55 @@
             "closed_at_month": 10,
             "assignee": "hslinhares",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-volumes-loa",
+            "issue": 7,
+            "title": "Extract para Sharepoint API",
+            "pull_request": true,
+            "created_at": "21/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260121T212825",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-volumes-loa",
+            "issue": 6,
+            "title": "Entender como arquivo `exec_desp_realizada.xlsx` é criado/atualizado",
+            "pull_request": false,
+            "created_at": "21/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260121T150400",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "danielmelo55",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-volumes-loa",
+            "issue": 5,
+            "title": "Entender como cada arquivo deste repositório é gerado",
+            "pull_request": false,
+            "created_at": "21/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260121T144910",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/dados-volumes-loa",
