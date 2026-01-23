@@ -12187,6 +12187,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 103,
+            "title": "Falha na execução do workflow em 2026-01-22T10:17:17Z",
+            "pull_request": false,
+            "created_at": "22/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260122T101717",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 102,
             "title": "Falha na execução do workflow em 2026-01-21T10:16:21Z",
             "pull_request": false,
