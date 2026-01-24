@@ -6200,7 +6200,7 @@
             "created_at": "19/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260119T184152",
+            "updated_at": "20260123T175233",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12184,6 +12184,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 104,
+            "title": "Falha na execução do workflow em 2026-01-23T10:15:08Z",
+            "pull_request": false,
+            "created_at": "23/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260123T101508",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
@@ -20736,16 +20753,48 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 146,
+            "title": "Material de cursos que podem ser aproveitados",
+            "pull_request": false,
+            "created_at": "23/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260123T165314",
+            "closed_at": "23/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "wontfix"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 145,
+            "title": "Add conteúdo da aula 007_string_formatada.",
+            "pull_request": true,
+            "created_at": "23/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260123T153045",
+            "closed_at": "23/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 144,
             "title": "00:37:36 Formatted Strings",
             "pull_request": false,
             "created_at": "20/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260120T192718",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260123T153044",
+            "closed_at": "23/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -22011,7 +22060,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260120T192628",
+            "updated_at": "20260123T153046",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
