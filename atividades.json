@@ -6200,7 +6200,7 @@
             "created_at": "19/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260124T140530",
+            "updated_at": "20260126T193952",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12184,6 +12184,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 105,
+            "title": "Falha na execução do workflow em 2026-01-26T10:17:08Z",
+            "pull_request": false,
+            "created_at": "26/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260126T101708",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
@@ -20354,6 +20371,90 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/repo-template",
+            "issue": 5,
+            "title": "Add repo documentation",
+            "pull_request": false,
+            "created_at": "16/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260126T180950",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/repo-template",
+            "issue": 4,
+            "title": "Add failed notifications",
+            "pull_request": false,
+            "created_at": "16/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260119T214832",
+            "closed_at": "19/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/repo-template",
+            "issue": 3,
+            "title": "Create an `.env.example` file",
+            "pull_request": false,
+            "created_at": "12/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260112T222927",
+            "closed_at": "12/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/repo-template",
+            "issue": 2,
+            "title": "Add actions to syncronize templates and repos created",
+            "pull_request": false,
+            "created_at": "08/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260126T180950",
+            "closed_at": "19/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/repo-template",
+            "issue": 1,
+            "title": "Improve templates by adding configuration to `.py` files and `.md` files",
+            "pull_request": false,
+            "created_at": "07/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260126T180950",
+            "closed_at": "08/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore",
+                "new-feature"
+            ]
+        },
+        {
             "repo": "splor-mg/reprex",
             "issue": 3,
             "title": "Criar um reprex com desenho de banco relacional de dados de servidores atuais e histórico na SPLOR",
@@ -20750,6 +20851,23 @@
             "closed_at_month": 7,
             "assignee": "gabrielbdornas",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 147,
+            "title": "00:40:50 String Methods",
+            "pull_request": false,
+            "created_at": "26/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260126T202016",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -22060,7 +22178,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260123T153046",
+            "updated_at": "20260126T193008",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
