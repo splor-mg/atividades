@@ -548,6 +548,23 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 214,
+            "title": "Aprender sobre react.js - fev/2026",
+            "pull_request": false,
+            "created_at": "02/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260202T144820",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 213,
             "title": "Arquivar backup servidor qlik",
             "pull_request": false,
@@ -20922,6 +20939,74 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 153,
+            "title": "Curadoria de exercícios python com testes automatizados - fev/2026",
+            "pull_request": false,
+            "created_at": "02/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260202T145915",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 152,
+            "title": "00:55:04 Math Functions",
+            "pull_request": false,
+            "created_at": "02/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260202T145503",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 151,
+            "title": "00:51:33 Operator Precedence",
+            "pull_request": false,
+            "created_at": "02/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260202T145419",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 150,
+            "title": "00:48:33 Arithmetic Operations",
+            "pull_request": false,
+            "created_at": "02/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260202T145316",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 149,
             "title": "Gravar aula de while - tema Bingo",
             "pull_request": false,
@@ -21137,10 +21222,10 @@
             "created_at": "05/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260127T120810",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260202T134419",
+            "closed_at": "02/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -22278,7 +22363,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260129T181900",
+            "updated_at": "20260202T145035",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -22652,10 +22737,10 @@
             "created_at": "07/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250901T153444",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260202T145718",
+            "closed_at": "02/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
             "assignee": "raianecardoso",
             "labels": [
                 "documentation"
