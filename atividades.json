@@ -496,18 +496,52 @@
         },
         {
             "repo": "splor-mg/apresentacoes",
+            "issue": 5,
+            "title": "Sync template updates on 2026-02-05T18:58:11",
+            "pull_request": true,
+            "created_at": "05/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260205T185817",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/apresentacoes",
+            "issue": 4,
+            "title": "Criar apresentação sobre qlik",
+            "pull_request": false,
+            "created_at": "05/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260205T211601",
+            "closed_at": "05/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/apresentacoes",
             "issue": 3,
             "title": "Publicação automática dos slides não está funcionando",
             "pull_request": false,
             "created_at": "20/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260120T133509",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20260205T195158",
+            "closed_at": "05/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/apresentacoes",
@@ -651,12 +685,12 @@
         {
             "repo": "splor-mg/atividades",
             "issue": 208,
-            "title": "Publicar notícia Agência Minas sobre a abertura de dados dos conjuntos orçamentários",
+            "title": "Publicar notícia sobre a abertura de dados dos conjuntos orçamentários",
             "pull_request": false,
             "created_at": "05/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20260114T201521",
+            "updated_at": "20260205T205330",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -16168,6 +16202,23 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 154,
+            "title": "insere tutorial qlikview menu dinamico",
+            "pull_request": true,
+            "created_at": "05/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260205T185341",
+            "closed_at": "05/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": "hslinhares",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 153,
             "title": "Documentar encontro 002 reunião etl",
             "pull_request": false,
@@ -20577,12 +20628,14 @@
             "created_at": "20/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260120T124456",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20260205T185701",
+            "closed_at": "05/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/repo-template-mkslides",
@@ -21185,6 +21238,21 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 154,
+            "title": " operacoes matemáticas",
+            "pull_request": true,
+            "created_at": "05/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260205T144052",
+            "closed_at": "05/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 153,
             "title": "Curadoria de exercícios python com testes automatizados - fev/2026",
             "pull_request": false,
@@ -21225,10 +21293,10 @@
             "created_at": "02/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260202T145419",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260205T144142",
+            "closed_at": "05/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -21242,10 +21310,10 @@
             "created_at": "02/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260202T145316",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260205T144123",
+            "closed_at": "05/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -22609,7 +22677,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260202T145035",
+            "updated_at": "20260205T144054",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
