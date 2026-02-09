@@ -16125,6 +16125,21 @@
         },
         {
             "repo": "splor-mg/etl-cli",
+            "issue": 2,
+            "title": "Sync template updates on 2026-02-09T02:35:30",
+            "pull_request": true,
+            "created_at": "09/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260209T023533",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/etl-cli",
             "issue": 1,
             "title": "Create the `etl extract` command to e-mail",
             "pull_request": false,
@@ -20604,6 +20619,21 @@
                 "chore",
                 "new-feature"
             ]
+        },
+        {
+            "repo": "splor-mg/repo-template-mkslides",
+            "issue": 7,
+            "title": "Sync template updates on 2026-02-09T01:22:46",
+            "pull_request": true,
+            "created_at": "09/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260209T012248",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
         },
         {
             "repo": "splor-mg/repo-template-mkslides",
