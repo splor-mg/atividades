@@ -6674,7 +6674,7 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260212T132926",
+            "updated_at": "20260213T132920",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -11925,6 +11925,23 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2026",
+            "issue": 35,
+            "title": "Falha na execução do workflow em 2026-02-13T10:54:57Z",
+            "pull_request": false,
+            "created_at": "13/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260213T105457",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
             "issue": 23,
             "title": "Adiciona opção no extract de não paralisar o codigo caso nao encontre recurso",
             "pull_request": true,
@@ -16193,12 +16210,14 @@
             "created_at": "24/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260213T000422",
+            "updated_at": "20260214T005921",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/feed-legis-front",
@@ -16261,6 +16280,53 @@
             "closed_at_month": 7,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 157,
+            "title": "insere tutorial grp criar minuta e registrar decreto",
+            "pull_request": true,
+            "created_at": "13/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260213T200616",
+            "closed_at": "13/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 156,
+            "title": "docs(blog): add etl 006",
+            "pull_request": true,
+            "created_at": "13/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260213T144004",
+            "closed_at": "13/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 155,
+            "title": "Criar post encontro etl dia 13/02/2026",
+            "pull_request": false,
+            "created_at": "13/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260213T144004",
+            "closed_at": "13/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -21312,6 +21378,23 @@
             "closed_at_month": 7,
             "assignee": "gabrielbdornas",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 155,
+            "title": "Fix dependbot package vulnerability",
+            "pull_request": false,
+            "created_at": "13/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260213T180323",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
