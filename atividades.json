@@ -11931,10 +11931,10 @@
             "created_at": "13/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260213T105457",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260214T163032",
+            "closed_at": "14/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "bug"
