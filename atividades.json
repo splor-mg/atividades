@@ -95,11 +95,11 @@
             "created_at": "08/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20251008T201921",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260223T191449",
+            "closed_at": "23/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": "gabrielbdornas",
             "labels": [
                 "bug"
             ]
@@ -582,6 +582,73 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 218,
+            "title": "Estudar repositório Reestimativa",
+            "pull_request": false,
+            "created_at": "23/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260223T153330",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 217,
+            "title": "Realizar TrilhaDev Python",
+            "pull_request": false,
+            "created_at": "23/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260223T153328",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 216,
+            "title": "Realizar curso TrilhaDev - Início da Jornada",
+            "pull_request": false,
+            "created_at": "23/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260223T155605",
+            "closed_at": "23/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 215,
+            "title": "Realizar setup máquina Maria",
+            "pull_request": false,
+            "created_at": "23/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260223T171537",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 214,
             "title": "Aprender sobre react.js - fev/2026",
             "pull_request": false,
@@ -605,10 +672,10 @@
             "created_at": "14/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260116T172627",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260223T203843",
+            "closed_at": "23/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
             "assignee": "gabrielbdornas",
             "labels": [
                 "chore"
@@ -708,7 +775,7 @@
             "created_at": "05/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20260109T130358",
+            "updated_at": "20260223T205254",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -1309,6 +1376,23 @@
             "closed_at_month": 11,
             "assignee": "hslinhares",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 220,
+            "title": "Pensar estrutura para seleção de novos integrantes da equipe",
+            "pull_request": false,
+            "created_at": "04/11/2024",
+            "created_at_year": 2024,
+            "created_at_month": 11,
+            "updated_at": "20260223T192228",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "question"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -16257,10 +16341,10 @@
             "created_at": "12/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260114T140642",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260223T210240",
+            "closed_at": "23/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
             "assignee": "gabrielbdornas",
             "labels": [
                 "question"
@@ -19938,19 +20022,38 @@
         },
         {
             "repo": "splor-mg/onboarding",
-            "issue": 2,
-            "title": "Pensar estrutura para seleção de novos integrantes da equipe",
+            "issue": 6,
+            "title": "Adicionar link para orientações de setup de máquina no onboarding AID",
             "pull_request": false,
-            "created_at": "04/11/2024",
-            "created_at_year": 2024,
-            "created_at_month": 11,
-            "updated_at": "20241104T180625",
+            "created_at": "23/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260223T194618",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "mariaefod",
             "labels": [
-                "question"
+                "documentation",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/onboarding",
+            "issue": 5,
+            "title": "Onboarding Maria",
+            "pull_request": false,
+            "created_at": "23/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260223T232309",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation",
+                "chore"
             ]
         },
         {
@@ -19961,10 +20064,10 @@
             "created_at": "04/11/2024",
             "created_at_year": 2024,
             "created_at_month": 11,
-            "updated_at": "20250901T160924",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260223T193502",
+            "closed_at": "23/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "documentation"
@@ -19978,10 +20081,10 @@
             "created_at": "27/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20241104T204055",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260223T193051",
+            "closed_at": "23/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": [
                 "documentation"
@@ -20415,7 +20518,7 @@
             "created_at": "02/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20250222T221521",
+            "updated_at": "20260223T150917",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21381,13 +21484,28 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 157,
+            "title": "Solicitação de certificado",
+            "pull_request": false,
+            "created_at": "23/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260223T155359",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 155,
             "title": "Fix dependbot package vulnerability",
             "pull_request": false,
             "created_at": "13/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260213T180323",
+            "updated_at": "20260223T130233",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
