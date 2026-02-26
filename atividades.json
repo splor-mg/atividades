@@ -638,7 +638,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260224T163756",
+            "updated_at": "20260225T183018",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -7241,6 +7241,24 @@
             "assignee": null,
             "labels": [
                 "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/contratacao-estagio",
+            "issue": 1,
+            "title": "Está muito difícil",
+            "pull_request": false,
+            "created_at": "25/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260225T182040",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "question",
+                "wontfix"
             ]
         },
         {
@@ -20095,7 +20113,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260224T134318",
+            "updated_at": "20260225T182952",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21533,6 +21551,23 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 158,
+            "title": "00:58:17 If Statements",
+            "pull_request": false,
+            "created_at": "25/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260225T184231",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 157,
             "title": "Solicitação de certificado",
             "pull_request": false,
@@ -21603,7 +21638,7 @@
             "created_at": "02/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260202T145503",
+            "updated_at": "20260225T184205",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -23004,7 +23039,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260205T144054",
+            "updated_at": "20260225T184126",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
