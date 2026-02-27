@@ -582,6 +582,36 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 222,
+            "title": "Abrir chamado no SEF armazém siafi",
+            "pull_request": false,
+            "created_at": "26/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260226T172816",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 221,
+            "title": "Documentar NOSSO setup no [Handbook](https://splor-mg.github.io/handbook/) (um Post).",
+            "pull_request": false,
+            "created_at": "26/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260226T134840",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 218,
             "title": "Estudar repositório Reestimativa",
             "pull_request": false,
@@ -638,7 +668,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260225T183018",
+            "updated_at": "20260226T175024",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6314,6 +6344,40 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 57,
+            "title": "[05/03/2026] Reunião 04 - Repasses",
+            "pull_request": false,
+            "created_at": "26/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260226T202828",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 56,
+            "title": "[26/02/2026] Reunião 03 - Demonstração de MVP Django",
+            "pull_request": false,
+            "created_at": "26/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260226T202847",
+            "closed_at": "26/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": "carloshob",
+            "labels": [
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 55,
             "title": "Definir modelo de gerenciamento de versão do pacote e do classificador",
             "pull_request": false,
@@ -8170,6 +8234,40 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 106,
+            "title": "Falha na execução do workflow em 2026-02-26T15:02:02Z",
+            "pull_request": false,
+            "created_at": "26/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260226T164206",
+            "closed_at": "26/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": "hslinhares",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 105,
+            "title": "Verificar a não existência dos anos 2020 e 2021 na planilha `funcional_programatica.csv`",
+            "pull_request": false,
+            "created_at": "26/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260226T134037",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -14577,16 +14675,63 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 10,
+            "title": "Missing required dptel_extract.mode custom property at the resource level.",
+            "pull_request": false,
+            "created_at": "27/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260227T000716",
+            "closed_at": "27/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 9,
+            "title": "Add imap patter configuration to main e-mail providers",
+            "pull_request": false,
+            "created_at": "26/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260226T185243",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 8,
+            "title": "7 improve dpetl extract email process",
+            "pull_request": true,
+            "created_at": "26/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260226T184430",
+            "closed_at": "26/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 7,
             "title": "`dpetl extract` improvements to `email` process",
             "pull_request": false,
             "created_at": "24/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260225T000925",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260226T184430",
+            "closed_at": "26/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
             "assignee": null,
             "labels": null
         },
@@ -16431,6 +16576,40 @@
             "closed_at_month": 7,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 159,
+            "title": "Criar novo post sobre setup inicial",
+            "pull_request": false,
+            "created_at": "26/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260226T182127",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 158,
+            "title": "Sugestão de post para orientar o setup inicial",
+            "pull_request": true,
+            "created_at": "26/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260226T174912",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -20089,6 +20268,25 @@
         },
         {
             "repo": "splor-mg/onboarding",
+            "issue": 8,
+            "title": "Sugestões de melhoria",
+            "pull_request": false,
+            "created_at": "26/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260226T204407",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation",
+                "question",
+                "wontfix"
+            ]
+        },
+        {
+            "repo": "splor-mg/onboarding",
             "issue": 6,
             "title": "Adicionar link para orientações de setup de máquina no onboarding AID",
             "pull_request": false,
@@ -21551,16 +21749,31 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 159,
+            "title": "Inclui conteúdo da aula de funções matemáticas (011) e de condicionais (012)",
+            "pull_request": true,
+            "created_at": "26/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260226T142903",
+            "closed_at": "26/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 158,
             "title": "00:58:17 If Statements",
             "pull_request": false,
             "created_at": "25/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260225T184231",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260226T142927",
+            "closed_at": "26/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
             "assignee": "raianecardoso",
             "labels": [
                 "chore"
@@ -21615,33 +21828,16 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
-            "issue": 153,
-            "title": "Curadoria de exercícios python com testes automatizados - fev/2026",
-            "pull_request": false,
-            "created_at": "02/02/2026",
-            "created_at_year": 2026,
-            "created_at_month": 2,
-            "updated_at": "20260206T145350",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "raianecardoso",
-            "labels": [
-                "new-feature"
-            ]
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
             "issue": 152,
             "title": "00:55:04 Math Functions",
             "pull_request": false,
             "created_at": "02/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260225T184205",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260226T142915",
+            "closed_at": "26/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -23039,7 +23235,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260225T184126",
+            "updated_at": "20260226T142905",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
