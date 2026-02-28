@@ -618,7 +618,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260223T153330",
+            "updated_at": "20260227T143602",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -633,7 +633,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260223T153328",
+            "updated_at": "20260227T095135",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -16579,6 +16579,40 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 161,
+            "title": "Criar Post sobre como criar conta Bitwarden",
+            "pull_request": false,
+            "created_at": "27/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260227T173623",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 160,
+            "title": "Criar novo post ETL com reunião do dia 27/02/2026",
+            "pull_request": false,
+            "created_at": "27/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260227T150101",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 159,
             "title": "Criar novo post sobre setup inicial",
             "pull_request": false,
@@ -20274,7 +20308,7 @@
             "created_at": "26/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260226T204407",
+            "updated_at": "20260227T180105",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
