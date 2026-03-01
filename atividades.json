@@ -14675,6 +14675,121 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 17,
+            "title": "`frictionless validate datapackage.yaml` fails",
+            "pull_request": false,
+            "created_at": "28/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260228T180541",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 16,
+            "title": "RequestsDependencyWarning: urllib3 (2.6.3) or chardet (6.0.0.post1)/charset_normalizer (3.4.4) doesn't match a supported version!",
+            "pull_request": false,
+            "created_at": "28/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260228T180120",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 15,
+            "title": "Add `--today-email` flag into `dpetl extract` command to search for emails sent \"toda\" or in the same date the command is running",
+            "pull_request": false,
+            "created_at": "28/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260228T180833",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 14,
+            "title": "feat(extract): add multipart file extract func",
+            "pull_request": true,
+            "created_at": "28/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260228T175428",
+            "closed_at": "28/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 13,
+            "title": "ERROR: Could not find a version that satisfies the requirement dpetl (from versions: none)",
+            "pull_request": false,
+            "created_at": "28/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260228T125427",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 12,
+            "title": "The commands must be prepared to run multipart files",
+            "pull_request": false,
+            "created_at": "28/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260228T175427",
+            "closed_at": "28/02/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 2,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 11,
+            "title": "Look datapackages.yaml recursivaly",
+            "pull_request": false,
+            "created_at": "28/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260228T124630",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 10,
             "title": "Missing required dptel_extract.mode custom property at the resource level.",
             "pull_request": false,
