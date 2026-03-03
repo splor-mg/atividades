@@ -582,6 +582,23 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 223,
+            "title": "Aprender sobre react.js - mar/2026",
+            "pull_request": false,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T135647",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 222,
             "title": "Abrir chamado no SEF armazém siafi",
             "pull_request": false,
@@ -618,7 +635,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260227T143602",
+            "updated_at": "20260302T104945",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -668,7 +685,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260226T175024",
+            "updated_at": "20260303T015221",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -7315,7 +7332,7 @@
             "created_at": "25/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260225T182040",
+            "updated_at": "20260302T103618",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -14675,13 +14692,63 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 20,
+            "title": "tast `task extract` with new BO reports",
+            "pull_request": false,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T212623",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 19,
+            "title": "15 today email flag",
+            "pull_request": true,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T200044",
+            "closed_at": "02/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 18,
+            "title": "Connection timed out error - PROXY",
+            "pull_request": false,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T205243",
+            "closed_at": "02/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 17,
             "title": "`frictionless validate datapackage.yaml` fails",
             "pull_request": false,
             "created_at": "28/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260228T180541",
+            "updated_at": "20260302T213609",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -14698,12 +14765,15 @@
             "created_at": "28/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260228T180120",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20260302T210350",
+            "closed_at": "02/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug",
+                "wontfix"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
@@ -14713,10 +14783,10 @@
             "created_at": "28/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260228T180833",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260302T200043",
+            "closed_at": "02/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "gabrielbdornas",
             "labels": [
                 "new-feature"
@@ -14745,7 +14815,7 @@
             "created_at": "28/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260228T125427",
+            "updated_at": "20260302T205517",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -14779,7 +14849,7 @@
             "created_at": "28/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260228T124630",
+            "updated_at": "20260302T212407",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -16631,6 +16701,74 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/exercicios-python",
+            "issue": 4,
+            "title": "Melhorar script de criação de pasta de exercícios",
+            "pull_request": false,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T181040",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/exercicios-python",
+            "issue": 3,
+            "title": "Curadoria de exercícios python com testes automatizados - mar/2026",
+            "pull_request": false,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T141739",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/exercicios-python",
+            "issue": 2,
+            "title": "Documentar repositório",
+            "pull_request": false,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T193509",
+            "closed_at": "02/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/exercicios-python",
+            "issue": 1,
+            "title": "Curadoria de exercícios python com testes automatizados - fev/2026",
+            "pull_request": false,
+            "created_at": "02/02/2026",
+            "created_at_year": 2026,
+            "created_at_month": 2,
+            "updated_at": "20260302T132053",
+            "closed_at": "02/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
             "repo": "splor-mg/feed-legis-front",
             "issue": 2,
             "title": "Deletar este repositório",
@@ -16694,6 +16832,23 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 162,
+            "title": "Post ETL - Reunião 007",
+            "pull_request": true,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T123656",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 161,
             "title": "Criar Post sobre como criar conta Bitwarden",
             "pull_request": false,
@@ -16717,10 +16872,10 @@
             "created_at": "27/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260227T150101",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260302T123801",
+            "closed_at": "02/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "mariaefod",
             "labels": [
                 "documentation"
@@ -16734,10 +16889,10 @@
             "created_at": "26/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260226T182127",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260302T124113",
+            "closed_at": "02/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "mariaefod",
             "labels": [
                 "documentation"
@@ -20423,7 +20578,7 @@
             "created_at": "26/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260227T180105",
+            "updated_at": "20260302T104817",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -20460,7 +20615,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260225T182952",
+            "updated_at": "20260302T170544",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21898,6 +22053,108 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 165,
+            "title": "01:55:50 Lists",
+            "pull_request": false,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T140402",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 164,
+            "title": "01:47:46 Nested Loops",
+            "pull_request": false,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T140304",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 163,
+            "title": "01:41:48 For Loops",
+            "pull_request": false,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T140226",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 162,
+            "title": "01:20:43 While Loops",
+            "pull_request": false,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T140130",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 161,
+            "title": "01:11:25 Comparison Operators",
+            "pull_request": false,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T140050",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 160,
+            "title": "01:06:32 Logical Operators",
+            "pull_request": false,
+            "created_at": "02/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260302T140005",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 159,
             "title": "Inclui conteúdo da aula de funções matemáticas (011) e de condicionais (012)",
             "pull_request": true,
@@ -22411,7 +22668,7 @@
             "created_at": "04/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251204T142556",
+            "updated_at": "20260302T140806",
             "closed_at": "04/12/2025",
             "closed_at_year": 2025,
             "closed_at_month": 12,
@@ -23384,7 +23641,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260226T142905",
+            "updated_at": "20260302T135936",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
