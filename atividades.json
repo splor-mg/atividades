@@ -6384,7 +6384,7 @@
             "created_at": "26/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260226T202828",
+            "updated_at": "20260305T192455",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8268,6 +8268,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 108,
+            "title": "Falha na execução do workflow em 2026-03-05T10:06:56Z",
+            "pull_request": false,
+            "created_at": "05/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260305T100657",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -14726,6 +14743,38 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 22,
+            "title": "feat(extract): add --add-package-name to extract command",
+            "pull_request": true,
+            "created_at": "05/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260305T202913",
+            "closed_at": "05/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 21,
+            "title": "Create flag to change subject default to `dpetl extract`",
+            "pull_request": false,
+            "created_at": "05/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260305T202912",
+            "closed_at": "05/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 20,
             "title": "test `task extract` with new BO reports",
             "pull_request": false,
@@ -20623,6 +20672,24 @@
         },
         {
             "repo": "splor-mg/onboarding",
+            "issue": 12,
+            "title": "Onboarding Matheus Pitanguy Silva",
+            "pull_request": false,
+            "created_at": "05/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260305T184118",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mathpitanguy",
+            "labels": [
+                "documentation",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/onboarding",
             "issue": 8,
             "title": "Sugestões de melhoria",
             "pull_request": false,
@@ -20666,7 +20733,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260303T175158",
+            "updated_at": "20260305T135001",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
