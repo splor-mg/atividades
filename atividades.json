@@ -667,7 +667,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260304T153550",
+            "updated_at": "20260306T160608",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -753,7 +753,7 @@
             "created_at": "09/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260109T111141",
+            "updated_at": "20260306T144337",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -770,10 +770,10 @@
             "created_at": "09/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260109T133220",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260306T163715",
+            "closed_at": "06/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "gabrielbdornas",
             "labels": [
                 "chore"
@@ -1541,7 +1541,7 @@
             "created_at": "22/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20260109T195717",
+            "updated_at": "20260306T170704",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6378,16 +6378,33 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 59,
+            "title": "[12/03/2026] Reunião 05 - Repasses",
+            "pull_request": false,
+            "created_at": "06/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260306T190406",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 57,
             "title": "[05/03/2026] Reunião 04 - Repasses",
             "pull_request": false,
             "created_at": "26/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260305T192455",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260306T190522",
+            "closed_at": "06/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "carloshob",
             "labels": [
                 "meeting"
@@ -7343,13 +7360,30 @@
         },
         {
             "repo": "splor-mg/contratacao-estagio",
+            "issue": 3,
+            "title": "Abrir um pull request incluindo sugestões de melhoria no desafio do estagiário",
+            "pull_request": false,
+            "created_at": "06/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260306T145838",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/contratacao-estagio",
             "issue": 1,
             "title": "Está muito difícil?",
             "pull_request": false,
             "created_at": "25/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260304T203206",
+            "updated_at": "20260306T143807",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8268,6 +8302,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 109,
+            "title": "Falha na execução do workflow em 2026-03-06T10:02:06Z",
+            "pull_request": false,
+            "created_at": "06/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260306T100206",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -16785,6 +16836,23 @@
         },
         {
             "repo": "splor-mg/exercicios-python",
+            "issue": 6,
+            "title": "Erro ao rodar \"task test\"",
+            "pull_request": false,
+            "created_at": "06/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260306T124935",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/exercicios-python",
             "issue": 5,
             "title": "Add conteudo de texto aos arquivos criados.",
             "pull_request": true,
@@ -16842,10 +16910,10 @@
             "created_at": "02/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260302T193509",
-            "closed_at": "02/03/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 3,
+            "updated_at": "20260306T125034",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "raianecardoso",
             "labels": [
                 "documentation"
@@ -20672,13 +20740,31 @@
         },
         {
             "repo": "splor-mg/onboarding",
+            "issue": 13,
+            "title": "Onboarding Lorena de Castro Rocha Gonçalves",
+            "pull_request": false,
+            "created_at": "06/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260306T144645",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/onboarding",
             "issue": 12,
             "title": "Onboarding Matheus Pitanguy Silva",
             "pull_request": false,
             "created_at": "05/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260305T184118",
+            "updated_at": "20260306T172823",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -20696,10 +20782,10 @@
             "created_at": "26/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260302T104817",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260306T143601",
+            "closed_at": "06/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "gabrielbdornas",
             "labels": [
                 "documentation",
@@ -22262,7 +22348,7 @@
             "created_at": "02/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260302T140005",
+            "updated_at": "20260306T133952",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -22497,23 +22583,6 @@
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
-            ]
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
-            "issue": 143,
-            "title": "Armazenar novo vídeo extract gravado em 16/01/2026",
-            "pull_request": false,
-            "created_at": "16/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260116T181211",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "gabrielbdornas",
-            "labels": [
-                "documentation"
             ]
         },
         {
