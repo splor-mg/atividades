@@ -605,7 +605,7 @@
             "created_at": "02/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260303T202625",
+            "updated_at": "20260310T174216",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -637,12 +637,14 @@
             "created_at": "26/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260309T132417",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20260310T112715",
+            "closed_at": "10/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -6367,7 +6369,7 @@
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260309T195325",
+            "updated_at": "20260310T211746",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8285,6 +8287,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 111,
+            "title": "Falha na execução do workflow em 2026-03-10T10:06:02Z",
+            "pull_request": false,
+            "created_at": "10/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260310T100602",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -11356,6 +11375,23 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 3,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "10/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260310T103348",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
             "issue": 2,
             "title": "Erro na execução do workflow",
             "pull_request": false,
@@ -12257,6 +12293,25 @@
             "assignee": null,
             "labels": [
                 "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 36,
+            "title": "Atualização das bases para novo sistema Sisor",
+            "pull_request": false,
+            "created_at": "10/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260310T154757",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature",
+                "chore",
+                "documentation"
             ]
         },
         {
@@ -14811,6 +14866,40 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 24,
+            "title": "`socks.GeneralProxyError: Socket error: 503: Service Unavailable` error",
+            "pull_request": false,
+            "created_at": "10/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260310T202659",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 23,
+            "title": "Proxy env vars are hindering enviroments where they are not needed",
+            "pull_request": false,
+            "created_at": "10/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260310T202526",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 22,
             "title": "feat(extract): add --add-package-name to extract command",
             "pull_request": true,
@@ -16944,7 +17033,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260309T185910",
+            "updated_at": "20260310T152133",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17034,6 +17123,23 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 163,
+            "title": "Sugestão de post para criação de conta no Bitwarden",
+            "pull_request": true,
+            "created_at": "10/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260310T124547",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 162,
             "title": "Post ETL - Reunião 007",
             "pull_request": true,
@@ -17057,7 +17163,7 @@
             "created_at": "27/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260227T173623",
+            "updated_at": "20260310T133854",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17091,10 +17197,10 @@
             "created_at": "26/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260303T180217",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260310T112551",
+            "closed_at": "10/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "mariaefod",
             "labels": [
                 "documentation"
@@ -17108,10 +17214,10 @@
             "created_at": "26/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260304T175002",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260310T110239",
+            "closed_at": "10/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "gabrielbdornas",
             "labels": [
                 "documentation"
@@ -20835,10 +20941,10 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260223T194618",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260310T113903",
+            "closed_at": "10/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "mariaefod",
             "labels": [
                 "documentation",
@@ -22303,6 +22409,23 @@
             "closed_at_month": 7,
             "assignee": "gabrielbdornas",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 167,
+            "title": "Inclui Desafio Final - Matheus Pitanguy",
+            "pull_request": true,
+            "created_at": "10/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260310T175311",
+            "closed_at": "10/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
