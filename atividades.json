@@ -588,10 +588,10 @@
             "created_at": "04/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260309T133259",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260312T184950",
+            "closed_at": "12/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "raianecardoso",
             "labels": [
                 "chore"
@@ -605,7 +605,7 @@
             "created_at": "02/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260310T174216",
+            "updated_at": "20260311T134905",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -654,7 +654,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260303T112126",
+            "updated_at": "20260311T125710",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -738,10 +738,10 @@
             "created_at": "09/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260306T144337",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260312T141535",
+            "closed_at": "12/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "gabrielbdornas",
             "labels": [
                 "chore"
@@ -6364,12 +6364,12 @@
         {
             "repo": "splor-mg/classificador-receita",
             "issue": 59,
-            "title": "[12/03/2026] Reunião 05 - Repasses",
+            "title": "[16/03/2026] Reunião 05 - Repasses e Alinhamentos",
             "pull_request": false,
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260310T211746",
+            "updated_at": "20260313T010205",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -7345,16 +7345,33 @@
         },
         {
             "repo": "splor-mg/contratacao-estagio",
+            "issue": 4,
+            "title": "Sugestão de melhoria para o texto sobre desafio do estagiário",
+            "pull_request": true,
+            "created_at": "12/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260312T140057",
+            "closed_at": "12/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/contratacao-estagio",
             "issue": 3,
             "title": "Abrir um pull request incluindo sugestões de melhoria no desafio do estagiário",
             "pull_request": false,
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260309T132639",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260312T140150",
+            "closed_at": "12/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "mariaefod",
             "labels": [
                 "documentation"
@@ -7368,10 +7385,10 @@
             "created_at": "25/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260306T143807",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260312T141414",
+            "closed_at": "12/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "gabrielbdornas",
             "labels": [
                 "question",
@@ -8287,6 +8304,40 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 113,
+            "title": "Falha na execução do workflow em 2026-03-12T10:06:35Z",
+            "pull_request": false,
+            "created_at": "12/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260312T100635",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 112,
+            "title": "Falha na execução do workflow em 2026-03-11T10:06:52Z",
+            "pull_request": false,
+            "created_at": "11/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260311T100652",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -10129,6 +10180,23 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 1,
+            "title": "Retirar e-mail `aid.splor@gmail.com` das programações do BO pasta `AID/SPLOR/dados-armazem-siafi/current`",
+            "pull_request": false,
+            "created_at": "12/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260312T212143",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
             "repo": "splor-mg/dados-qdd-fonte-95",
             "issue": 1,
             "title": "Adicionar restrição enum no table schema para as colunas preenchidas pelo Comitê",
@@ -11375,6 +11443,40 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 5,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "12/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260312T103437",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 4,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "11/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260311T103413",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
             "issue": 3,
             "title": "Erro na execução do workflow",
             "pull_request": false,
@@ -12303,7 +12405,7 @@
             "created_at": "10/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260310T154757",
+            "updated_at": "20260312T152023",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -14866,16 +14968,48 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 26,
+            "title": "The error `Missing one of the required e-mail environment variables:email_user, email_pwd or email_imap` must return an error",
+            "pull_request": false,
+            "created_at": "12/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260312T220309",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 25,
+            "title": "11 recursivaly",
+            "pull_request": true,
+            "created_at": "12/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260312T202751",
+            "closed_at": "12/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 24,
             "title": "`socks.GeneralProxyError: Socket error: 503: Service Unavailable` error",
             "pull_request": false,
             "created_at": "10/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260310T202659",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260312T191810",
+            "closed_at": "12/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "gabrielbdornas",
             "labels": [
                 "bug"
@@ -15089,10 +15223,10 @@
             "created_at": "28/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260309T211713",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260312T202750",
+            "closed_at": "12/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "gabrielbdornas",
             "labels": [
                 "new-feature"
@@ -17129,10 +17263,10 @@
             "created_at": "10/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260310T124547",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260311T182108",
+            "closed_at": "11/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "gabrielbdornas",
             "labels": [
                 "documentation"
@@ -17163,10 +17297,10 @@
             "created_at": "27/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260310T133854",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260311T182350",
+            "closed_at": "11/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "mariaefod",
             "labels": [
                 "documentation"
@@ -20904,7 +21038,7 @@
             "created_at": "05/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260310T025716",
+            "updated_at": "20260312T185715",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21004,19 +21138,21 @@
             ]
         },
         {
-            "repo": "splor-mg/onboarding",
-            "issue": 4,
-            "title": "Consolidar tempo total estimado para finalização dos tutoriais",
+            "repo": "splor-mg/painel-ldo",
+            "issue": 17,
+            "title": "Revisão das regras para o Painel LDO 2027",
             "pull_request": false,
-            "created_at": "25/04/2023",
-            "created_at_year": 2023,
-            "created_at_month": 4,
-            "updated_at": "20241104T181939",
+            "created_at": "12/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260312T141712",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "labanca",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/painel-ldo",
@@ -21026,12 +21162,14 @@
             "created_at": "09/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260309T133950",
+            "updated_at": "20260312T152008",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/painel-ldo",
@@ -21678,6 +21816,21 @@
             "closed_at_year": 2024,
             "closed_at_month": 7,
             "assignee": "carloshob",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/repo-template",
+            "issue": 15,
+            "title": "Improve actions when sync fails",
+            "pull_request": false,
+            "created_at": "12/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260312T221035",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
             "labels": null
         },
         {
@@ -22418,7 +22571,7 @@
             "created_at": "10/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260310T175311",
+            "updated_at": "20260311T182858",
             "closed_at": "10/03/2026",
             "closed_at_year": 2026,
             "closed_at_month": 3,
