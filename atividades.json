@@ -2,6 +2,59 @@
     "issues": [
         {
             "repo": "splor-mg/.github",
+            "issue": 31,
+            "title": "Definir padrão Licence para nosso repositórios",
+            "pull_request": false,
+            "created_at": "13/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260313T180614",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mathpitanguy",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
+            "issue": 30,
+            "title": "Definir padrão para `CODE_OF_CONDUCT.md`",
+            "pull_request": false,
+            "created_at": "13/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260313T180337",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mathpitanguy",
+            "labels": [
+                "documentation",
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
+            "issue": 29,
+            "title": "Definir padrão arquivo `CONTRIBUTING.md`",
+            "pull_request": false,
+            "created_at": "13/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260313T175651",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mathpitanguy",
+            "labels": [
+                "documentation",
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
             "issue": 26,
             "title": "Testa inclusão de projetos via Issue template",
             "pull_request": false,
@@ -654,7 +707,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260311T125710",
+            "updated_at": "20260313T215031",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6363,13 +6416,30 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 60,
+            "title": "[13/03/2026] Reunião PRODEMGE - Validação/Entrega/Sprint",
+            "pull_request": false,
+            "created_at": "13/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260313T223003",
+            "closed_at": "13/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "carloshob",
+            "labels": [
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 59,
             "title": "[16/03/2026] Reunião 05 - Repasses e Alinhamentos",
             "pull_request": false,
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260313T010205",
+            "updated_at": "20260313T215256",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8307,6 +8377,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 114,
+            "title": "Falha na execução do workflow em 2026-03-13T10:03:11Z",
+            "pull_request": false,
+            "created_at": "13/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260313T100311",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 113,
             "title": "Falha na execução do workflow em 2026-03-12T10:06:35Z",
             "pull_request": false,
@@ -10181,16 +10268,34 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 2,
+            "title": "Adicionar `dados-sisor` para testar `task extract` com `mode:api`",
+            "pull_request": false,
+            "created_at": "13/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260313T201150",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore",
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 1,
             "title": "Retirar e-mail `aid.splor@gmail.com` das programações do BO pasta `AID/SPLOR/dados-armazem-siafi/current`",
             "pull_request": false,
             "created_at": "12/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260312T212143",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260313T145717",
+            "closed_at": "13/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "hslinhares",
             "labels": [
                 "chore"
@@ -11443,6 +11548,23 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 6,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "13/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260313T103015",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
             "issue": 5,
             "title": "Erro na execução do workflow",
             "pull_request": false,
@@ -12405,7 +12527,7 @@
             "created_at": "10/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260312T152023",
+            "updated_at": "20260313T173339",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -15122,7 +15244,7 @@
             "created_at": "28/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260309T145054",
+            "updated_at": "20260313T133501",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -15189,11 +15311,11 @@
             "created_at": "28/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260302T205517",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260313T200644",
+            "closed_at": "13/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
             "labels": [
                 "bug"
             ]
@@ -17254,6 +17376,23 @@
             "closed_at_month": 7,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 164,
+            "title": "Registrar encontro dia 12/03/2026",
+            "pull_request": false,
+            "created_at": "13/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260313T182427",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mathpitanguy",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -21038,7 +21177,7 @@
             "created_at": "05/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260312T185715",
+            "updated_at": "20260313T181655",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21093,7 +21232,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260305T135001",
+            "updated_at": "20260313T160305",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21145,7 +21284,7 @@
             "created_at": "12/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260312T141712",
+            "updated_at": "20260313T173237",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
