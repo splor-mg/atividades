@@ -6416,6 +6416,40 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 62,
+            "title": "Solicitar à STN arquivos Excel do classificador da receita 2002–2014",
+            "pull_request": false,
+            "created_at": "16/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260316T203011",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 61,
+            "title": "[30/03/2026] Reunião 06 - Repasses e Alinhamentos",
+            "pull_request": false,
+            "created_at": "16/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260316T204108",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 60,
             "title": "[13/03/2026] Reunião PRODEMGE - Validação/Entrega/Sprint",
             "pull_request": false,
@@ -6439,10 +6473,10 @@
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260313T215256",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260316T171915",
+            "closed_at": "16/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "carloshob",
             "labels": [
                 "meeting"
@@ -8374,6 +8408,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 115,
+            "title": "Falha na execução do workflow em 2026-03-16T10:35:23Z",
+            "pull_request": false,
+            "created_at": "16/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260316T103523",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -11563,6 +11614,23 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 7,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "16/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260316T104950",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
             "issue": 6,
             "title": "Erro na execução do workflow",
             "pull_request": false,
@@ -12536,13 +12604,28 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2026",
+            "issue": 37,
+            "title": "Criar reprex para extração automatizadas das bases da receita do novo Sistema",
+            "pull_request": false,
+            "created_at": "17/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260317T003631",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
             "issue": 36,
             "title": "Atualização das bases para novo sistema Sisor",
             "pull_request": false,
             "created_at": "10/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260313T173339",
+            "updated_at": "20260317T003747",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17304,7 +17387,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260310T152133",
+            "updated_at": "20260316T185717",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17400,7 +17483,7 @@
             "created_at": "13/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260313T182427",
+            "updated_at": "20260316T203715",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21192,7 +21275,7 @@
             "created_at": "05/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260314T105252",
+            "updated_at": "20260316T211108",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21293,47 +21376,64 @@
         },
         {
             "repo": "splor-mg/painel-ldo",
-            "issue": 17,
+            "issue": 5,
+            "title": "Realizar setup completo do projeto usando repo-template-python",
+            "pull_request": false,
+            "created_at": "16/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260316T220454",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 4,
             "title": "Revisão das regras para o Painel LDO 2027",
             "pull_request": false,
             "created_at": "12/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260313T173237",
+            "updated_at": "20260316T213228",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "labanca",
+            "assignee": null,
             "labels": [
                 "documentation"
             ]
         },
         {
             "repo": "splor-mg/painel-ldo",
-            "issue": 16,
+            "issue": 3,
             "title": "Painel LDO 2027",
             "pull_request": false,
             "created_at": "09/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260312T152008",
+            "updated_at": "20260316T213510",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "gabrielbdornas",
+            "assignee": null,
             "labels": [
                 "new-feature"
             ]
         },
         {
             "repo": "splor-mg/painel-ldo",
-            "issue": 15,
+            "issue": 2,
             "title": "Retomar análise de série histórica para os últimos 3 anos",
             "pull_request": false,
             "created_at": "05/05/2025",
             "created_at_year": 2025,
             "created_at_month": 5,
-            "updated_at": "20250505T200317",
+            "updated_at": "20260316T212758",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21342,21 +21442,21 @@
         },
         {
             "repo": "splor-mg/painel-ldo",
-            "issue": 14,
-            "title": "Criar rotina para instalalação de pacotes R necessários para execução.",
+            "issue": 1,
+            "title": "Melhorar filtros de alertas no painel",
             "pull_request": false,
-            "created_at": "14/04/2025",
+            "created_at": "01/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20250414T230748",
+            "updated_at": "20260316T212637",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "labanca",
+            "assignee": null,
             "labels": null
         },
         {
-            "repo": "splor-mg/painel-ldo",
+            "repo": "splor-mg/painel-ldo-historico",
             "issue": 13,
             "title": "Inconsistência no Alerta da base fonte_analise Painel LDO 2026",
             "pull_request": false,
@@ -21371,7 +21471,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/painel-ldo",
+            "repo": "splor-mg/painel-ldo-historico",
             "issue": 12,
             "title": "Base agregada ano-uo-fonte",
             "pull_request": true,
@@ -21386,7 +21486,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/painel-ldo",
+            "repo": "splor-mg/painel-ldo-historico",
             "issue": 11,
             "title": "Criar base de análise agregada por ano, uo e fonte",
             "pull_request": false,
@@ -21401,22 +21501,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/painel-ldo",
-            "issue": 10,
-            "title": "Melhorar filtros de alertas no painel",
-            "pull_request": false,
-            "created_at": "01/04/2025",
-            "created_at_year": 2025,
-            "created_at_month": 4,
-            "updated_at": "20250714T191341",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/painel-ldo",
+            "repo": "splor-mg/painel-ldo-historico",
             "issue": 9,
             "title": "Adicionar coluna dados reestimativa receita",
             "pull_request": false,
@@ -21431,7 +21516,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/painel-ldo",
+            "repo": "splor-mg/painel-ldo-historico",
             "issue": 8,
             "title": "Documentar repositório",
             "pull_request": false,
@@ -21446,7 +21531,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/painel-ldo",
+            "repo": "splor-mg/painel-ldo-historico",
             "issue": 7,
             "title": "Adicionar descritores",
             "pull_request": false,
@@ -21461,7 +21546,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/painel-ldo",
+            "repo": "splor-mg/painel-ldo-historico",
             "issue": 6,
             "title": "Criar o painel a partir do resultado final do farol para alertas",
             "pull_request": false,
@@ -21476,22 +21561,22 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/painel-ldo",
+            "repo": "splor-mg/painel-ldo-historico",
             "issue": 5,
             "title": "Criar actions que será acionado toda vez que dados-sisor-2026 atualizar",
             "pull_request": false,
             "created_at": "27/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250901T161014",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260316T212553",
+            "closed_at": "16/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": null
         },
         {
-            "repo": "splor-mg/painel-ldo",
+            "repo": "splor-mg/painel-ldo-historico",
             "issue": 4,
             "title": "Criar coluna alertas",
             "pull_request": false,
@@ -21506,7 +21591,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/painel-ldo",
+            "repo": "splor-mg/painel-ldo-historico",
             "issue": 3,
             "title": "Criar script para empilhar as tabelas",
             "pull_request": false,
@@ -21521,7 +21606,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/painel-ldo",
+            "repo": "splor-mg/painel-ldo-historico",
             "issue": 2,
             "title": "Criar repositório dados-sisor-2026",
             "pull_request": false,
@@ -21536,7 +21621,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/painel-ldo",
+            "repo": "splor-mg/painel-ldo-historico",
             "issue": 1,
             "title": "Painel para monitoramento das receitas - LDO",
             "pull_request": false,
@@ -22715,6 +22800,53 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 170,
+            "title": "Altera hiperlink",
+            "pull_request": true,
+            "created_at": "16/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260316T203627",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mathpitanguy",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 169,
+            "title": "Alterar hiperlink",
+            "pull_request": false,
+            "created_at": "16/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260316T200326",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mathpitanguy",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 168,
+            "title": "Criar vídeo explicando como fazer os exercícios do Trilha dev Pyhton.",
+            "pull_request": false,
+            "created_at": "16/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260316T182458",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
             "labels": null
         },
         {
