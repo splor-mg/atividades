@@ -635,6 +635,24 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 225,
+            "title": "Estudar padrão de metadados datapackage e frictionless-py",
+            "pull_request": false,
+            "created_at": "17/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260317T180417",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 224,
             "title": "Inscrever Trilha-dev no evento Python Sudeste 2026",
             "pull_request": false,
@@ -698,21 +716,6 @@
             "labels": [
                 "documentation"
             ]
-        },
-        {
-            "repo": "splor-mg/atividades",
-            "issue": 218,
-            "title": "Estudar repositório Reestimativa",
-            "pull_request": false,
-            "created_at": "23/02/2026",
-            "created_at_year": 2026,
-            "created_at_month": 2,
-            "updated_at": "20260313T215031",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "mariaefod",
-            "labels": null
         },
         {
             "repo": "splor-mg/atividades",
@@ -1487,11 +1490,11 @@
             "created_at": "04/11/2024",
             "created_at_year": 2024,
             "created_at_month": 11,
-            "updated_at": "20260223T192228",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260317T173038",
+            "closed_at": "17/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
             "labels": [
                 "question"
             ]
@@ -8411,6 +8414,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 116,
+            "title": "Falha na execução do workflow em 2026-03-17T10:12:53Z",
+            "pull_request": false,
+            "created_at": "17/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260317T101253",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 115,
             "title": "Falha na execução do workflow em 2026-03-16T10:35:23Z",
             "pull_request": false,
@@ -11607,6 +11627,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 8,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "17/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260317T104423",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -15618,12 +15655,14 @@
             "created_at": "07/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250807T155127",
+            "updated_at": "20260317T141536",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/dpm",
@@ -17387,10 +17426,10 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260316T185717",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260317T124611",
+            "closed_at": "17/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "chore"
@@ -17477,13 +17516,28 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 165,
+            "title": "Adiciona novo post no blog",
+            "pull_request": true,
+            "created_at": "17/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260317T184733",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mathpitanguy",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 164,
             "title": "Registrar encontro dia 12/03/2026",
             "pull_request": false,
             "created_at": "13/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260316T203715",
+            "updated_at": "20260317T185058",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21257,7 +21311,7 @@
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260314T105553",
+            "updated_at": "20260317T190322",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21275,7 +21329,7 @@
             "created_at": "05/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260316T211108",
+            "updated_at": "20260317T185355",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21376,16 +21430,48 @@
         },
         {
             "repo": "splor-mg/painel-ldo",
+            "issue": 7,
+            "title": "Rodar processo usando Actions",
+            "pull_request": false,
+            "created_at": "17/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260317T205756",
+            "closed_at": "17/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 6,
+            "title": "5 repo template python",
+            "pull_request": true,
+            "created_at": "17/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260317T201331",
+            "closed_at": "17/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
             "issue": 5,
             "title": "Realizar setup completo do projeto usando repo-template-python",
             "pull_request": false,
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260316T220454",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260317T191753",
+            "closed_at": "17/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "gabrielbdornas",
             "labels": [
                 "chore"
@@ -21399,7 +21485,7 @@
             "created_at": "12/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260316T213228",
+            "updated_at": "20260317T211819",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -22804,18 +22890,52 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 172,
+            "title": "Conteudo trilha dev py",
+            "pull_request": true,
+            "created_at": "17/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260317T202603",
+            "closed_at": "17/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 171,
+            "title": "02:01:45 2D Lists",
+            "pull_request": false,
+            "created_at": "17/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260317T202710",
+            "closed_at": "17/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 170,
             "title": "Altera hiperlink",
             "pull_request": true,
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260316T203627",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "mathpitanguy",
-            "labels": null
+            "updated_at": "20260317T125135",
+            "closed_at": "17/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "raianecardoso",
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -22825,10 +22945,10 @@
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260316T200326",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260317T125135",
+            "closed_at": "17/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "mathpitanguy",
             "labels": [
                 "bug"
@@ -22889,10 +23009,10 @@
             "created_at": "02/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260302T140402",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260317T202701",
+            "closed_at": "17/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -22906,10 +23026,10 @@
             "created_at": "02/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260302T140304",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260317T202640",
+            "closed_at": "17/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -24454,7 +24574,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260309T184204",
+            "updated_at": "20260317T202712",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
