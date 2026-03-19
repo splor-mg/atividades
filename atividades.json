@@ -641,7 +641,7 @@
             "created_at": "17/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260317T180417",
+            "updated_at": "20260318T153542",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8414,6 +8414,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 117,
+            "title": "Falha na execução do workflow em 2026-03-18T10:28:48Z",
+            "pull_request": false,
+            "created_at": "18/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260318T102848",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 116,
             "title": "Falha na execução do workflow em 2026-03-17T10:12:53Z",
             "pull_request": false,
@@ -11627,6 +11644,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 9,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "18/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260318T104454",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -17522,11 +17556,11 @@
             "created_at": "17/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260317T184733",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "mathpitanguy",
+            "updated_at": "20260318T142717",
+            "closed_at": "18/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
             "labels": null
         },
         {
@@ -17537,10 +17571,10 @@
             "created_at": "13/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260317T185058",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260318T143032",
+            "closed_at": "18/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "mathpitanguy",
             "labels": [
                 "documentation"
@@ -21329,7 +21363,7 @@
             "created_at": "05/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260317T185355",
+            "updated_at": "20260318T221538",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21384,7 +21418,7 @@
             "created_at": "23/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260313T160305",
+            "updated_at": "20260318T120349",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
