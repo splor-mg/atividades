@@ -635,6 +635,24 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 226,
+            "title": "Estudar como organizar um projeto Python - Lorena",
+            "pull_request": false,
+            "created_at": "19/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260319T170345",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 225,
             "title": "Estudar padrão de metadados datapackage e frictionless-py",
             "pull_request": false,
@@ -6442,7 +6460,7 @@
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260316T204108",
+            "updated_at": "20260319T195638",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8411,6 +8429,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 118,
+            "title": "Falha na execução do workflow em 2026-03-19T10:06:39Z",
+            "pull_request": false,
+            "created_at": "19/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260319T100640",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -11644,6 +11679,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 10,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "19/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260319T103509",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -15413,10 +15465,10 @@
             "created_at": "28/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260313T133501",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260319T211912",
+            "closed_at": "19/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "gabrielbdornas",
             "labels": [
                 "bug"
@@ -21339,6 +21391,23 @@
         },
         {
             "repo": "splor-mg/onboarding",
+            "issue": 18,
+            "title": "Teletrabalho estagiários",
+            "pull_request": false,
+            "created_at": "19/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260320T031759",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mathpitanguy",
+            "labels": [
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/onboarding",
             "issue": 13,
             "title": "Onboarding Lorena de Castro Rocha Gonçalves",
             "pull_request": false,
@@ -21363,7 +21432,7 @@
             "created_at": "05/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260318T221538",
+            "updated_at": "20260319T213146",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
