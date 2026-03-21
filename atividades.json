@@ -8432,6 +8432,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 119,
+            "title": "Falha na execução do workflow em 2026-03-20T10:04:36Z",
+            "pull_request": false,
+            "created_at": "20/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260320T100436",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 118,
             "title": "Falha na execução do workflow em 2026-03-19T10:06:39Z",
             "pull_request": false,
@@ -11679,6 +11696,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 11,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "20/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260320T103307",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -21414,11 +21448,11 @@
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260317T190322",
+            "updated_at": "20260320T145953",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "LorenadeCastro",
             "labels": [
                 "documentation",
                 "chore"
@@ -21432,7 +21466,7 @@
             "created_at": "05/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260319T213146",
+            "updated_at": "20260320T170348",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -22990,6 +23024,23 @@
             "closed_at_month": 7,
             "assignee": "gabrielbdornas",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 173,
+            "title": "Desenvolver conteúdo textual do Trilha Dev Python - 04/2026",
+            "pull_request": false,
+            "created_at": "20/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260320T135936",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
