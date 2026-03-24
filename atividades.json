@@ -635,6 +635,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 227,
+            "title": "Alertas de segurança",
+            "pull_request": false,
+            "created_at": "23/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260323T143438",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 226,
             "title": "Estudar como organizar um projeto Python - Lorena",
             "pull_request": false,
@@ -646,24 +661,6 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": [
-                "documentation",
-                "chore"
-            ]
-        },
-        {
-            "repo": "splor-mg/atividades",
-            "issue": 225,
-            "title": "Estudar padrão de metadados datapackage e frictionless-py",
-            "pull_request": false,
-            "created_at": "17/03/2026",
-            "created_at_year": 2026,
-            "created_at_month": 3,
-            "updated_at": "20260318T153542",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "mariaefod",
             "labels": [
                 "documentation",
                 "chore"
@@ -6460,7 +6457,7 @@
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260319T195638",
+            "updated_at": "20260323T212114",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8429,6 +8426,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 120,
+            "title": "Falha na execução do workflow em 2026-03-23T10:32:11Z",
+            "pull_request": false,
+            "created_at": "23/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260323T103212",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -11718,6 +11732,23 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 12,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "23/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260323T104933",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
             "issue": 11,
             "title": "Erro na execução do workflow",
             "pull_request": false,
@@ -13163,10 +13194,10 @@
             "created_at": "28/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260128T213625",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143031",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13180,10 +13211,10 @@
             "created_at": "28/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260128T212934",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143030",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13197,10 +13228,10 @@
             "created_at": "28/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260128T101824",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143030",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13214,10 +13245,10 @@
             "created_at": "27/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260127T101707",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143029",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13231,10 +13262,10 @@
             "created_at": "26/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260126T101708",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143029",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13248,10 +13279,10 @@
             "created_at": "23/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260123T101508",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143028",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13265,10 +13296,10 @@
             "created_at": "22/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260122T101717",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143027",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13282,10 +13313,10 @@
             "created_at": "21/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260121T101622",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143027",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13299,10 +13330,10 @@
             "created_at": "20/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260120T101720",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143026",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13316,10 +13347,10 @@
             "created_at": "19/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260119T101836",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143025",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13333,10 +13364,10 @@
             "created_at": "16/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260116T101319",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143025",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13350,10 +13381,10 @@
             "created_at": "15/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260115T101400",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143024",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13367,10 +13398,10 @@
             "created_at": "14/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260114T101444",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143023",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13384,10 +13415,10 @@
             "created_at": "13/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260113T101646",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143023",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13401,10 +13432,10 @@
             "created_at": "12/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260112T101552",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143022",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13418,10 +13449,10 @@
             "created_at": "07/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260107T101409",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143021",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13435,10 +13466,10 @@
             "created_at": "30/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251230T123607",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143021",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13452,10 +13483,10 @@
             "created_at": "18/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251218T101233",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143020",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13535,10 +13566,10 @@
             "created_at": "22/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250722T101231",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143020",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13552,10 +13583,10 @@
             "created_at": "17/07/2025",
             "created_at_year": 2025,
             "created_at_month": 7,
-            "updated_at": "20250717T101230",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143019",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13569,10 +13600,10 @@
             "created_at": "01/05/2025",
             "created_at_year": 2025,
             "created_at_month": 5,
-            "updated_at": "20250501T101038",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260323T143018",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "bug"
@@ -21446,7 +21477,7 @@
             "created_at": "19/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260320T031759",
+            "updated_at": "20260323T140302",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21463,7 +21494,7 @@
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260320T145953",
+            "updated_at": "20260323T163616",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21582,6 +21613,24 @@
         },
         {
             "repo": "splor-mg/painel-ldo",
+            "issue": 8,
+            "title": "Montar Painel usando gerador de site estático",
+            "pull_request": false,
+            "created_at": "23/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260323T214127",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore",
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
             "issue": 7,
             "title": "Rodar processo usando Actions",
             "pull_request": false,
@@ -21637,11 +21686,11 @@
             "created_at": "12/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260317T211819",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260323T213306",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
             "labels": [
                 "documentation"
             ]
@@ -21654,7 +21703,7 @@
             "created_at": "09/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260316T213510",
+            "updated_at": "20260323T213148",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21671,7 +21720,7 @@
             "created_at": "05/05/2025",
             "created_at_year": 2025,
             "created_at_month": 5,
-            "updated_at": "20260316T212758",
+            "updated_at": "20260323T213530",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -22061,7 +22110,7 @@
             "created_at": "02/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20260223T150917",
+            "updated_at": "20260323T180453",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -23042,13 +23091,45 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 175,
+            "title": "Update dependencies. ",
+            "pull_request": true,
+            "created_at": "23/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260323T153015",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 174,
+            "title": "Dependbot",
+            "pull_request": false,
+            "created_at": "23/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260323T180644",
+            "closed_at": "23/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 173,
             "title": "Desenvolver conteúdo textual do Trilha Dev Python - 04/2026",
             "pull_request": false,
             "created_at": "20/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260320T135936",
+            "updated_at": "20260323T140818",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
