@@ -656,11 +656,11 @@
             "created_at": "19/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260319T170345",
+            "updated_at": "20260324T153040",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "LorenadeCastro",
             "labels": [
                 "documentation",
                 "chore"
@@ -8429,6 +8429,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 121,
+            "title": "Falha na execução do workflow em 2026-03-24T10:13:37Z",
+            "pull_request": false,
+            "created_at": "24/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260324T101337",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 120,
             "title": "Falha na execução do workflow em 2026-03-23T10:32:11Z",
             "pull_request": false,
@@ -11732,6 +11749,23 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 13,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "24/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260324T104341",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
             "issue": 12,
             "title": "Erro na execução do workflow",
             "pull_request": false,
@@ -12800,6 +12834,23 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
+            "issue": 39,
+            "title": "Falha na execução do workflow em 2026-03-24T14:00:58Z",
+            "pull_request": false,
+            "created_at": "24/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260324T140058",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -17558,7 +17609,7 @@
             "created_at": "02/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260302T141739",
+            "updated_at": "20260324T175458",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21494,7 +21545,7 @@
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260323T163616",
+            "updated_at": "20260324T185825",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21613,13 +21664,45 @@
         },
         {
             "repo": "splor-mg/painel-ldo",
+            "issue": 10,
+            "title": "Atualizar actions para rodar todo processo",
+            "pull_request": false,
+            "created_at": "24/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260324T185155",
+            "closed_at": "24/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 9,
+            "title": "3 painel2027",
+            "pull_request": true,
+            "created_at": "24/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260324T180245",
+            "closed_at": "24/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
             "issue": 8,
             "title": "Montar Painel usando gerador de site estático",
             "pull_request": false,
             "created_at": "23/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260323T214127",
+            "updated_at": "20260324T200916",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21703,10 +21786,10 @@
             "created_at": "09/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260323T213148",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260324T180246",
+            "closed_at": "24/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": null,
             "labels": [
                 "new-feature"
@@ -21720,7 +21803,7 @@
             "created_at": "05/05/2025",
             "created_at_year": 2025,
             "created_at_month": 5,
-            "updated_at": "20260323T213530",
+            "updated_at": "20260324T195120",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21735,7 +21818,7 @@
             "created_at": "01/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20260316T212637",
+            "updated_at": "20260324T201038",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
