@@ -654,17 +654,19 @@
         {
             "repo": "splor-mg/atividades",
             "issue": 228,
-            "title": "Definição do primeiro projeto open source: discussão de ideias e sugestões",
+            "title": "Definir primeiro projeto open source: discussão de ideias e sugestões",
             "pull_request": false,
             "created_at": "26/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260326T190821",
+            "updated_at": "20260327T203050",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "mathpitanguy",
-            "labels": null
+            "labels": [
+                "question"
+            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -8464,13 +8466,30 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 125,
+            "title": "Falha na execução do workflow em 2026-03-27T10:10:38Z",
+            "pull_request": false,
+            "created_at": "27/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260327T101038",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 124,
             "title": "Adiciona tabela natureza_despesa",
             "pull_request": true,
             "created_at": "26/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260326T181916",
+            "updated_at": "20260327T103020",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -10523,6 +10542,23 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 5,
+            "title": "Adicionar datapackage dados-aux-classificadores",
+            "pull_request": false,
+            "created_at": "27/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260327T195650",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 4,
             "title": "Sync template workflow failed on 2026-03-23T01:54:57",
             "pull_request": false,
@@ -11826,6 +11862,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 16,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "27/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260327T104259",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13369,6 +13422,40 @@
             "closed_at_month": 3,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 114,
+            "title": "Falha na execução do workflow em 2026-03-27T13:54:13Z",
+            "pull_request": false,
+            "created_at": "27/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260327T135413",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 113,
+            "title": "Falha na execução do workflow em 2026-03-27T10:37:00Z",
+            "pull_request": false,
+            "created_at": "27/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260327T103700",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
@@ -17771,7 +17858,7 @@
             "created_at": "26/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260326T192242",
+            "updated_at": "20260327T194256",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21775,7 +21862,7 @@
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260325T202625",
+            "updated_at": "20260327T193104",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -24312,7 +24399,7 @@
             "created_at": "14/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260326T180837",
+            "updated_at": "20260327T205845",
             "closed_at": "05/01/2026",
             "closed_at_year": 2026,
             "closed_at_month": 1,
