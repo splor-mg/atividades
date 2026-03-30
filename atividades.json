@@ -2,6 +2,23 @@
     "issues": [
         {
             "repo": "splor-mg/.github",
+            "issue": 32,
+            "title": "Converter LDO Ceará (linguagem simples) para `.md`",
+            "pull_request": false,
+            "created_at": "30/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260330T032149",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/.github",
             "issue": 31,
             "title": "Definir padrão Licence para nosso repositórios",
             "pull_request": false,
@@ -932,10 +949,10 @@
             "created_at": "05/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20260223T205254",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260330T033641",
+            "closed_at": "30/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "gabrielbdornas",
             "labels": [
                 "new-feature"
@@ -10537,6 +10554,21 @@
             "closed_at": "25/03/2024",
             "closed_at_year": 2024,
             "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 6,
+            "title": "Sync template workflow failed on 2026-03-30T02:04:42",
+            "pull_request": false,
+            "created_at": "30/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260330T020445",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": null
         },
@@ -21845,10 +21877,10 @@
             "created_at": "19/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260323T140302",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260330T034057",
+            "closed_at": "30/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "mathpitanguy",
             "labels": [
                 "question"
@@ -22846,12 +22878,12 @@
         {
             "repo": "splor-mg/repo-template-mkslides",
             "issue": 7,
-            "title": "Sync template updates on 2026-03-23T01:24:12",
+            "title": "Sync template updates on 2026-03-30T01:46:45",
             "pull_request": true,
             "created_at": "09/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260323T012416",
+            "updated_at": "20260330T014648",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
