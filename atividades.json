@@ -60,7 +60,7 @@
             "created_at": "13/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260313T175651",
+            "updated_at": "20260330T205518",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6506,12 +6506,12 @@
         {
             "repo": "splor-mg/classificador-receita",
             "issue": 61,
-            "title": "[30/03/2026] Reunião 06 - Repasses e Alinhamentos",
+            "title": "[13/04/2026] Reunião 06 - Repasses e Alinhamentos",
             "pull_request": false,
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260325T131058",
+            "updated_at": "20260330T190615",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8480,6 +8480,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 126,
+            "title": "Falha na execução do workflow em 2026-03-30T10:44:36Z",
+            "pull_request": false,
+            "created_at": "30/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260330T104436",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -11894,6 +11911,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 17,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "30/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260330T105932",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -16204,7 +16238,7 @@
             "created_at": "07/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260317T141536",
+            "updated_at": "20260330T121136",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -16251,12 +16285,15 @@
             "created_at": "24/01/2025",
             "created_at_year": 2025,
             "created_at_month": 1,
-            "updated_at": "20250513T203904",
+            "updated_at": "20260330T121509",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation",
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/dpm",
@@ -16300,12 +16337,14 @@
             "created_at": "21/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20250901T160441",
+            "updated_at": "20260330T122706",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/dpm",
@@ -17884,13 +17923,47 @@
         },
         {
             "repo": "splor-mg/exercicios-python",
+            "issue": 10,
+            "title": "Resolver os novos exercícios",
+            "pull_request": false,
+            "created_at": "30/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260330T200352",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/exercicios-python",
+            "issue": 9,
+            "title": "Adiciona novas pastas de exercícios",
+            "pull_request": true,
+            "created_at": "30/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260330T181925",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/exercicios-python",
             "issue": 8,
             "title": "Exercícios python",
             "pull_request": false,
             "created_at": "26/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260327T194256",
+            "updated_at": "20260330T192536",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18079,6 +18152,57 @@
             "closed_at_month": 7,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 168,
+            "title": "Post ETL - Reunião 008",
+            "pull_request": true,
+            "created_at": "30/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260330T175623",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 167,
+            "title": "Adicionar ativação do ambiente virtual no post sobre setup da máquina",
+            "pull_request": false,
+            "created_at": "30/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260330T103414",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 166,
+            "title": "Criar novo post ETL com reunião do dia 27/03/2026",
+            "pull_request": false,
+            "created_at": "30/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260330T175950",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -21894,7 +22018,7 @@
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260327T193104",
+            "updated_at": "20260330T200837",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21912,7 +22036,7 @@
             "created_at": "05/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260326T184946",
+            "updated_at": "20260330T175740",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
