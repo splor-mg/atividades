@@ -2,16 +2,31 @@
     "issues": [
         {
             "repo": "splor-mg/.github",
+            "issue": 33,
+            "title": "Adiciona arquivos de Contribuição e Código de Conduta",
+            "pull_request": true,
+            "created_at": "31/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260331T185937",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/.github",
             "issue": 32,
             "title": "Converter LDO Ceará (linguagem simples) para `.md`",
             "pull_request": false,
             "created_at": "30/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260330T032149",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260331T181915",
+            "closed_at": "31/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "LorenadeCastro",
             "labels": [
                 "chore"
@@ -42,7 +57,7 @@
             "created_at": "13/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260313T180337",
+            "updated_at": "20260331T191047",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -60,7 +75,7 @@
             "created_at": "13/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260330T205518",
+            "updated_at": "20260331T190909",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6488,6 +6503,23 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 63,
+            "title": "Implementação MVP Banco ORM Django",
+            "pull_request": true,
+            "created_at": "31/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260331T192336",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 62,
             "title": "Solicitar à STN arquivos Excel do classificador da receita 2002–2014",
             "pull_request": false,
@@ -6628,10 +6660,10 @@
             "created_at": "19/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260304T194753",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260331T192415",
+            "closed_at": "31/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -6645,10 +6677,10 @@
             "created_at": "19/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260304T194511",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260331T192433",
+            "closed_at": "31/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7238,10 +7270,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260113T173656",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260331T192719",
+            "closed_at": "31/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7306,10 +7338,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251128T194521",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260331T192900",
+            "closed_at": "31/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7510,7 +7542,7 @@
             "created_at": "10/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20260304T200059",
+            "updated_at": "20260331T192901",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8480,6 +8512,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 127,
+            "title": "Falha na execução do workflow em 2026-03-31T10:33:36Z",
+            "pull_request": false,
+            "created_at": "31/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260331T103337",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -10576,6 +10625,23 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 7,
+            "title": "Atualiza 'credito', 'execucao_alem_credito' e 'receita'",
+            "pull_request": true,
+            "created_at": "31/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260331T143314",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 6,
             "title": "Sync template workflow failed on 2026-03-30T02:04:42",
             "pull_request": false,
@@ -11911,6 +11977,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 18,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "31/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260331T104918",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -17929,7 +18012,7 @@
             "created_at": "30/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260330T200352",
+            "updated_at": "20260331T135600",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17946,7 +18029,7 @@
             "created_at": "30/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260330T181925",
+            "updated_at": "20260331T145148",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17958,15 +18041,15 @@
         {
             "repo": "splor-mg/exercicios-python",
             "issue": 8,
-            "title": "Exercícios python",
+            "title": "Exercícios python - março/2026",
             "pull_request": false,
             "created_at": "26/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260330T192536",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260331T172902",
+            "closed_at": "31/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "LorenadeCastro",
             "labels": [
                 "chore"
@@ -18031,10 +18114,10 @@
             "created_at": "02/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260324T175458",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260331T125239",
+            "closed_at": "31/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -22018,10 +22101,10 @@
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260330T200837",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260331T172757",
+            "closed_at": "31/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "LorenadeCastro",
             "labels": [
                 "documentation",
@@ -22134,6 +22217,21 @@
             "labels": [
                 "documentation"
             ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 11,
+            "title": "Ajustes no Painel",
+            "pull_request": false,
+            "created_at": "31/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260331T202458",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
         },
         {
             "repo": "splor-mg/painel-ldo",
@@ -23647,16 +23745,63 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 180,
+            "title": "179 metodos listas",
+            "pull_request": true,
+            "created_at": "31/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260331T183234",
+            "closed_at": "31/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 179,
+            "title": "02:06:00 List Methods",
+            "pull_request": false,
+            "created_at": "31/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260331T183307",
+            "closed_at": "31/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 178,
+            "title": "Adiciona conteúdo de ferramentas para Trilha dev python.",
+            "pull_request": true,
+            "created_at": "31/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260331T125908",
+            "closed_at": "31/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 177,
             "title": "Vídeo que introduz as ferramentas usadas no curso",
             "pull_request": false,
             "created_at": "25/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260325T152122",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260331T130337",
+            "closed_at": "31/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
             "assignee": "raianecardoso",
             "labels": [
                 "documentation"
@@ -25397,7 +25542,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260325T151823",
+            "updated_at": "20260331T183255",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
