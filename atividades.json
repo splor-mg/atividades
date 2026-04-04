@@ -8515,6 +8515,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 130,
+            "title": "Falha na execução do workflow em 2026-04-03T10:07:56Z",
+            "pull_request": false,
+            "created_at": "03/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260403T100756",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 129,
             "title": "Falha na execução do workflow em 2026-04-02T10:30:01Z",
             "pull_request": false,
@@ -12011,6 +12028,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 21,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "03/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260403T103758",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
