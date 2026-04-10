@@ -17,23 +17,6 @@
         },
         {
             "repo": "splor-mg/.github",
-            "issue": 32,
-            "title": "Converter LDO Ceará (linguagem simples) para `.md`",
-            "pull_request": false,
-            "created_at": "30/03/2026",
-            "created_at_year": 2026,
-            "created_at_month": 3,
-            "updated_at": "20260407T203412",
-            "closed_at": "31/03/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 3,
-            "assignee": "LorenadeCastro",
-            "labels": [
-                "chore"
-            ]
-        },
-        {
-            "repo": "splor-mg/.github",
             "issue": 31,
             "title": "Definir padrão Licence para nosso repositórios",
             "pull_request": false,
@@ -698,6 +681,23 @@
             "assignee": "raianecardoso",
             "labels": [
                 "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
+            "issue": 230,
+            "title": "Converter LDO Ceará (linguagem simples) para `.md`",
+            "pull_request": false,
+            "created_at": "30/03/2026",
+            "created_at_year": 2026,
+            "created_at_month": 3,
+            "updated_at": "20260409T150423",
+            "closed_at": "31/03/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 3,
+            "assignee": null,
+            "labels": [
+                "chore"
             ]
         },
         {
@@ -6560,7 +6560,7 @@
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260330T190615",
+            "updated_at": "20260409T202317",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8529,6 +8529,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 134,
+            "title": "Falha na execução do workflow em 2026-04-09T10:40:18Z",
+            "pull_request": false,
+            "created_at": "09/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260409T104019",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -10744,18 +10761,37 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 21,
+            "title": "Comando `frictionless validate` com erro `Type error in the cell in row and field at position: type is \"number/default\"`",
+            "pull_request": false,
+            "created_at": "09/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260409T220553",
+            "closed_at": "09/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 13,
             "title": "Adicionar task validate",
             "pull_request": false,
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260408T210543",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20260409T221221",
+            "closed_at": "09/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
@@ -12081,6 +12117,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 25,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "09/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260409T105748",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -18299,7 +18352,7 @@
             "created_at": "30/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260408T151526",
+            "updated_at": "20260409T172603",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18316,7 +18369,7 @@
             "created_at": "30/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260408T160210",
+            "updated_at": "20260409T181907",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18531,7 +18584,7 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260408T193354",
+            "updated_at": "20260409T152313",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21020,6 +21073,23 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 58,
+            "title": "Falha na execução do workflow em 2026-04-09T11:17:27Z",
+            "pull_request": false,
+            "created_at": "09/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260409T111727",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 57,
             "title": "Falha na execução do workflow em 2026-04-08T11:15:57Z",
             "pull_request": false,
@@ -22581,12 +22651,14 @@
             "created_at": "07/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260407T184847",
+            "updated_at": "20260409T153946",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/painel-ldo",
@@ -22596,10 +22668,10 @@
             "created_at": "07/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260407T113016",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260409T135526",
+            "closed_at": "09/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "gabrielbdornas",
             "labels": [
                 "chore"
@@ -22613,12 +22685,13 @@
             "created_at": "01/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260407T112246",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260409T135630",
+            "closed_at": "09/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "mariaefod",
             "labels": [
+                "bug",
                 "chore"
             ]
         },
@@ -22808,7 +22881,7 @@
             "created_at": "01/04/2025",
             "created_at_year": 2025,
             "created_at_month": 4,
-            "updated_at": "20260325T133950",
+            "updated_at": "20260409T154108",
             "closed_at": "25/03/2026",
             "closed_at_year": 2026,
             "closed_at_month": 3,
@@ -23320,7 +23393,7 @@
             "created_at": "06/06/2023",
             "created_at_year": 2023,
             "created_at_month": 6,
-            "updated_at": "20250725T140017",
+            "updated_at": "20260409T144921",
             "closed_at": "25/07/2025",
             "closed_at_year": 2025,
             "closed_at_month": 7,
@@ -24164,13 +24237,30 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 196,
+            "title": "Adiciona aulas transcritas",
+            "pull_request": true,
+            "created_at": "09/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260409T231752",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 194,
             "title": "Desenvolver metodologia pra priorização de projetos de automação em python",
             "pull_request": false,
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260408T131335",
+            "updated_at": "20260409T134813",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
