@@ -742,7 +742,7 @@
             "created_at": "19/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260324T153040",
+            "updated_at": "20260410T203534",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8532,6 +8532,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 135,
+            "title": "Falha na execução do workflow em 2026-04-10T10:32:59Z",
+            "pull_request": false,
+            "created_at": "10/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260410T103259",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 134,
             "title": "Falha na execução do workflow em 2026-04-09T10:40:18Z",
             "pull_request": false,
@@ -10761,6 +10778,75 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 27,
+            "title": "Criar Issues para revisão e aprimoramento de datapackages",
+            "pull_request": false,
+            "created_at": "10/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260410T212357",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 26,
+            "title": "Criar `.yaml` unificado com descrições e constraints de campos que são comuns em mais de um resource",
+            "pull_request": false,
+            "created_at": "10/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260410T212121",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 25,
+            "title": "Criar Issues para migração de datapackages até a fase `extract`",
+            "pull_request": false,
+            "created_at": "10/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260410T212321",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 24,
+            "title": "Migrar dados-armazem-grp até a fase `extract`",
+            "pull_request": false,
+            "created_at": "10/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260410T205702",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 21,
             "title": "Comando `frictionless validate` com erro `Type error in the cell in row and field at position: type is \"number/default\"`",
             "pull_request": false,
@@ -10828,16 +10914,16 @@
         {
             "repo": "splor-mg/dados-orcamentarios",
             "issue": 5,
-            "title": "Adicionar datapackage dados-aux-classificadores",
+            "title": "Migrar dados-aux-classificadores até a fase `extract`",
             "pull_request": false,
             "created_at": "27/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260408T212832",
+            "updated_at": "20260410T211135",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "mariaefod",
+            "assignee": null,
             "labels": [
                 "chore"
             ]
@@ -10845,19 +10931,18 @@
         {
             "repo": "splor-mg/dados-orcamentarios",
             "issue": 2,
-            "title": "Adicionar `dados-sisor` para testar `task extract` com `mode:api`",
+            "title": "Migrar dados-sisor até a fase `extract`",
             "pull_request": false,
             "created_at": "13/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260325T153544",
+            "updated_at": "20260410T211645",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "gabrielbdornas",
             "labels": [
-                "chore",
-                "new-feature"
+                "chore"
             ]
         },
         {
@@ -12117,6 +12202,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 26,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "10/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260410T104903",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13830,6 +13932,23 @@
             "closed_at_month": 3,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 116,
+            "title": "Falha na execução do workflow em 2026-04-10T10:42:49Z",
+            "pull_request": false,
+            "created_at": "10/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260410T104249",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
@@ -16122,6 +16241,24 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 31,
+            "title": "Add sharepoint mode to extract comand",
+            "pull_request": false,
+            "created_at": "10/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260410T214047",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore",
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 30,
             "title": "Validate datapackages recusivaly",
             "pull_request": false,
@@ -16612,11 +16749,11 @@
             "created_at": "07/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260330T121136",
+            "updated_at": "20260410T143239",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "mariaefod",
+            "assignee": null,
             "labels": [
                 "documentation"
             ]
@@ -16659,11 +16796,11 @@
             "created_at": "24/01/2025",
             "created_at_year": 2025,
             "created_at_month": 1,
-            "updated_at": "20260330T121509",
+            "updated_at": "20260410T143303",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "mariaefod",
+            "assignee": null,
             "labels": [
                 "documentation",
                 "chore"
@@ -16711,11 +16848,11 @@
             "created_at": "21/10/2024",
             "created_at_year": 2024,
             "created_at_month": 10,
-            "updated_at": "20260330T122706",
+            "updated_at": "20260410T142906",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "mariaefod",
+            "assignee": null,
             "labels": [
                 "chore"
             ]
@@ -21073,6 +21210,23 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 59,
+            "title": "Falha na execução do workflow em 2026-04-10T11:13:21Z",
+            "pull_request": false,
+            "created_at": "10/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260410T111322",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 58,
             "title": "Falha na execução do workflow em 2026-04-09T11:17:27Z",
             "pull_request": false,
@@ -23513,11 +23667,11 @@
             "created_at": "16/01/2026",
             "created_at_year": 2026,
             "created_at_month": 1,
-            "updated_at": "20260126T180950",
+            "updated_at": "20260410T203440",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "gabrielbdornas",
+            "assignee": "LorenadeCastro",
             "labels": [
                 "documentation"
             ]
@@ -24243,7 +24397,7 @@
             "created_at": "09/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260409T231752",
+            "updated_at": "20260410T205358",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
