@@ -8532,6 +8532,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 136,
+            "title": "Falha na execução do workflow em 2026-04-13T11:02:01Z",
+            "pull_request": false,
+            "created_at": "13/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260413T110201",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 135,
             "title": "Falha na execução do workflow em 2026-04-10T10:32:59Z",
             "pull_request": false,
@@ -10834,7 +10851,7 @@
             "created_at": "10/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260410T212321",
+            "updated_at": "20260413T205732",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12217,6 +12234,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 27,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "13/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260413T111403",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -18521,7 +18555,7 @@
             "created_at": "30/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260409T181907",
+            "updated_at": "20260413T182545",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21225,6 +21259,23 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 60,
+            "title": "Falha na execução do workflow em 2026-04-13T11:42:14Z",
+            "pull_request": false,
+            "created_at": "13/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260413T114214",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 59,
             "title": "Falha na execução do workflow em 2026-04-10T11:13:21Z",
             "pull_request": false,
@@ -22820,7 +22871,7 @@
             "created_at": "07/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260409T153946",
+            "updated_at": "20260413T120331",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -24406,16 +24457,49 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 198,
+            "title": "Material de referência PensePython (quiz)",
+            "pull_request": false,
+            "created_at": "13/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260413T210820",
+            "closed_at": "13/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": null,
+            "labels": [
+                "documentation",
+                "wontfix"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 197,
+            "title": "Conteudo extra",
+            "pull_request": true,
+            "created_at": "13/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260413T182208",
+            "closed_at": "13/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 196,
             "title": "Adiciona aulas transcritas",
             "pull_request": true,
             "created_at": "09/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260410T205358",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260413T205514",
+            "closed_at": "13/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -24631,10 +24715,10 @@
             "created_at": "06/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260406T212152",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260413T182425",
+            "closed_at": "13/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "raianecardoso",
             "labels": [
                 "question"
@@ -24744,10 +24828,10 @@
             "created_at": "20/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260408T173828",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260413T135021",
+            "closed_at": "13/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "LorenadeCastro",
             "labels": [
                 "chore"
