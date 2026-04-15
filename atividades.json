@@ -8532,6 +8532,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 137,
+            "title": "Falha na execução do workflow em 2026-04-14T10:44:35Z",
+            "pull_request": false,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T104436",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 136,
             "title": "Falha na execução do workflow em 2026-04-13T11:02:01Z",
             "pull_request": false,
@@ -10795,6 +10812,142 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 36,
+            "title": "çknlçnn",
+            "pull_request": false,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T211743",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 35,
+            "title": "Migrar matriz-fonte-stn-dadosmg até a fase `extract`",
+            "pull_request": false,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T154218",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 34,
+            "title": "Migrar dados-sigplan até a fase `extract`",
+            "pull_request": false,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T152119",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 33,
+            "title": "Migrar dados-aux-contratos até a fase `extract`",
+            "pull_request": false,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T150939",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 32,
+            "title": "Migrar dados-armazem-siad até a fase `extract`",
+            "pull_request": false,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T150313",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 31,
+            "title": "Migrar dados-programacoes-anuais até a fase `extract`",
+            "pull_request": false,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T135612",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 30,
+            "title": "Migrar dados-obz até a fase `extract`",
+            "pull_request": false,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T152220",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 29,
+            "title": "Migrar dados-reestimativa até a fase `extract`",
+            "pull_request": false,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T133335",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 28,
             "title": "Sync template workflow failed on 2026-04-13T02:12:56",
             "pull_request": false,
@@ -10851,7 +11004,7 @@
             "created_at": "10/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260413T205732",
+            "updated_at": "20260414T160547",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12234,6 +12387,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 28,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T110115",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -18538,7 +18708,7 @@
             "created_at": "30/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260409T172603",
+            "updated_at": "20260414T152741",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18555,7 +18725,7 @@
             "created_at": "30/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260413T182545",
+            "updated_at": "20260414T174256",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18761,6 +18931,23 @@
             "closed_at_month": 7,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 171,
+            "title": "Criar novo post sobre acesso ao servidor",
+            "pull_request": false,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T164031",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -21259,6 +21446,23 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 61,
+            "title": "Falha na execução do workflow em 2026-04-14T11:20:13Z",
+            "pull_request": false,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T112013",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 60,
             "title": "Falha na execução do workflow em 2026-04-13T11:42:14Z",
             "pull_request": false,
@@ -22865,16 +23069,51 @@
         },
         {
             "repo": "splor-mg/painel-ldo",
+            "issue": 17,
+            "title": "Montar Painel usando observable",
+            "pull_request": false,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T205713",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mathpitanguy",
+            "labels": [
+                "chore",
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 16,
+            "title": "altera funcao de regras painel",
+            "pull_request": true,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T192108",
+            "closed_at": "14/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
             "issue": 15,
             "title": "Revisão das Regras do Painel",
             "pull_request": false,
             "created_at": "07/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260413T120331",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260414T192041",
+            "closed_at": "14/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": null,
             "labels": [
                 "chore"
@@ -23476,7 +23715,7 @@
             "created_at": "02/02/2024",
             "created_at_year": 2024,
             "created_at_month": 2,
-            "updated_at": "20260323T180453",
+            "updated_at": "20260414T203334",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -24457,6 +24696,23 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 199,
+            "title": "Altera conteúdo aula 002",
+            "pull_request": true,
+            "created_at": "14/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260414T182243",
+            "closed_at": "14/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 198,
             "title": "Material de referência PensePython (quiz)",
             "pull_request": false,
@@ -24496,7 +24752,7 @@
             "created_at": "09/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260413T205514",
+            "updated_at": "20260414T181622",
             "closed_at": "13/04/2026",
             "closed_at_year": 2026,
             "closed_at_month": 4,
