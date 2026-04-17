@@ -8532,6 +8532,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 139,
+            "title": "Falha na execução do workflow em 2026-04-16T10:44:31Z",
+            "pull_request": false,
+            "created_at": "16/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260416T104431",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 138,
             "title": "Falha na execução do workflow em 2026-04-15T10:41:56Z",
             "pull_request": false,
@@ -12404,6 +12421,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 30,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "16/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260416T110042",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -18630,7 +18664,7 @@
             "created_at": "15/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260415T221403",
+            "updated_at": "20260416T143757",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18919,6 +18953,24 @@
             "closed_at_month": 7,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 172,
+            "title": "Criar Post para instalação Python, Git e VsCode em Computador Windows",
+            "pull_request": false,
+            "created_at": "16/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260416T135203",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation",
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -21431,6 +21483,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 63,
+            "title": "Falha na execução do workflow em 2026-04-16T11:20:57Z",
+            "pull_request": false,
+            "created_at": "16/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260416T112057",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -24701,18 +24770,55 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 203,
+            "title": "docs(partials): add admonition to explain codespaces",
+            "pull_request": true,
+            "created_at": "16/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260416T145610",
+            "closed_at": "16/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 202,
+            "title": "Adicionar informações complementares sobre utilização do Codespaces",
+            "pull_request": false,
+            "created_at": "16/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260416T145609",
+            "closed_at": "16/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 201,
             "title": "docs(docs): add reference links in python index page",
             "pull_request": true,
             "created_at": "15/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260415T222347",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20260416T133003",
+            "closed_at": "16/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -24722,10 +24828,10 @@
             "created_at": "15/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260415T214804",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260416T132941",
+            "closed_at": "16/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "gabrielbdornas",
             "labels": [
                 "documentation"
