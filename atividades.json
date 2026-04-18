@@ -8532,6 +8532,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 140,
+            "title": "Falha na execução do workflow em 2026-04-17T10:37:41Z",
+            "pull_request": false,
+            "created_at": "17/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260417T103742",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 139,
             "title": "Falha na execução do workflow em 2026-04-16T10:44:31Z",
             "pull_request": false,
@@ -12421,6 +12438,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 31,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "17/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260417T105155",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -18730,10 +18764,10 @@
             "created_at": "30/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260414T152741",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260417T202207",
+            "closed_at": "17/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "raianecardoso",
             "labels": [
                 "chore"
@@ -18747,10 +18781,10 @@
             "created_at": "30/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260415T130839",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260417T160622",
+            "closed_at": "17/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -21483,6 +21517,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 64,
+            "title": "Falha na execução do workflow em 2026-04-17T11:14:01Z",
+            "pull_request": false,
+            "created_at": "17/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260417T111401",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -24448,6 +24499,21 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/siafi-automacao",
+            "issue": 1,
+            "title": "Criar código de extração de dados",
+            "pull_request": false,
+            "created_at": "15/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260415T183911",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
             "repo": "splor-mg/spreadmart",
             "issue": 18,
             "title": "Definir pela permanência (ou não) deste repositório",
@@ -24770,6 +24836,39 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 205,
+            "title": "Incluir material escritos das aulas do Trilha dev: python",
+            "pull_request": false,
+            "created_at": "17/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260417T200106",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 204,
+            "title": "Novas aulas",
+            "pull_request": true,
+            "created_at": "17/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260417T145344",
+            "closed_at": "17/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 203,
             "title": "docs(partials): add admonition to explain codespaces",
             "pull_request": true,
@@ -24929,10 +25028,10 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260415T165711",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260417T145345",
+            "closed_at": "17/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -24946,10 +25045,10 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260415T165655",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260417T145344",
+            "closed_at": "17/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -24963,10 +25062,10 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260415T165643",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260417T145345",
+            "closed_at": "17/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -24980,10 +25079,10 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260415T165632",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260417T145344",
+            "closed_at": "17/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -24997,10 +25096,10 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260415T165618",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260417T145343",
+            "closed_at": "17/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -26905,7 +27004,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260415T165532",
+            "updated_at": "20260417T200150",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
