@@ -8532,6 +8532,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 142,
+            "title": "Falha na execução do workflow em 2026-04-21T10:50:03Z",
+            "pull_request": false,
+            "created_at": "21/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260421T105004",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 141,
             "title": "Falha na execução do workflow em 2026-04-20T11:03:10Z",
             "pull_request": false,
@@ -12470,6 +12487,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 33,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "21/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260421T110329",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -21566,6 +21600,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 66,
+            "title": "Falha na execução do workflow em 2026-04-21T11:33:34Z",
+            "pull_request": false,
+            "created_at": "21/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260421T113335",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
