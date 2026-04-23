@@ -8532,6 +8532,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 143,
+            "title": "Falha na execução do workflow em 2026-04-22T10:47:26Z",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T104727",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 142,
             "title": "Falha na execução do workflow em 2026-04-21T10:50:03Z",
             "pull_request": false,
@@ -12494,6 +12511,23 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 34,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T110301",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
             "issue": 33,
             "title": "Erro na execução do workflow",
             "pull_request": false,
@@ -16294,13 +16328,217 @@
         },
         {
             "repo": "splor-mg/datamart",
+            "issue": 17,
+            "title": "Criar tabelas do datapackage dados-armazem-siafi",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T140749",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 16,
+            "title": "Criar tabelas do datapackage matriz-fonte-stn-dadosmg",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T140054",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 15,
+            "title": "Criar tabelas do datapackage dados-sigplan-monitoramento",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T135749",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 14,
+            "title": "Criar tabelas do datapackage dados-sigplan-planejamento",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T135547",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 13,
+            "title": "Criar tabelas do datapackage dados-armazem-grp",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T135246",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 12,
+            "title": "Criar tabelas do datapackage dados-armazem-siad",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T134519",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 11,
+            "title": "Criar tabelas do datapackage dados-aux-contratos",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T134418",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 10,
+            "title": "Criar tabelas do datapackage dados-programacoes-anuais",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T134254",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 9,
+            "title": "Criar tabelas do datapackage dados-sisor.",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T134105",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 8,
+            "title": "Criar tabelas do datapackage dados-obz",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T133948",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 7,
+            "title": "Criar tabelas do datapackage dados-reestimativa",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T134537",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 6,
+            "title": "Criar tabelas do datapackage dados-siafi.",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T134545",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
             "issue": 5,
             "title": "Criar Issues para criação das tabelas por datapackages",
             "pull_request": false,
             "created_at": "15/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260415T190631",
+            "updated_at": "20260422T141033",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -16370,7 +16608,7 @@
             "created_at": "15/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260415T184951",
+            "updated_at": "20260422T220139",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21600,6 +21838,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 67,
+            "title": "Falha na execução do workflow em 2026-04-22T11:32:39Z",
+            "pull_request": false,
+            "created_at": "22/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260422T113240",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
