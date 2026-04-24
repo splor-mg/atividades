@@ -8532,6 +8532,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 144,
+            "title": "Falha na execução do workflow em 2026-04-23T10:52:25Z",
+            "pull_request": false,
+            "created_at": "23/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260423T105225",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 143,
             "title": "Falha na execução do workflow em 2026-04-22T10:47:26Z",
             "pull_request": false,
@@ -12504,6 +12521,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 35,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "23/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260423T110705",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -16817,6 +16851,42 @@
             "closed_at_month": 8,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 33,
+            "title": "Return the email msg object",
+            "pull_request": false,
+            "created_at": "23/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260423T154537",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "new-feature",
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 32,
+            "title": "Fix attachment name when extract main have more than one attachment",
+            "pull_request": false,
+            "created_at": "23/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260423T172242",
+            "closed_at": "23/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "bug",
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
@@ -21838,6 +21908,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 68,
+            "title": "Falha na execução do workflow em 2026-04-23T11:33:43Z",
+            "pull_request": false,
+            "created_at": "23/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260423T113344",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
