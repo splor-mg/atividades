@@ -8532,6 +8532,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 145,
+            "title": "Falha na execução do workflow em 2026-04-24T10:50:31Z",
+            "pull_request": false,
+            "created_at": "24/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260424T105032",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 144,
             "title": "Falha na execução do workflow em 2026-04-23T10:52:25Z",
             "pull_request": false,
@@ -12521,6 +12538,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 36,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "24/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260424T110328",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -21911,6 +21945,23 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 69,
+            "title": "Falha na execução do workflow em 2026-04-24T11:35:45Z",
+            "pull_request": false,
+            "created_at": "24/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260424T113545",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 68,
             "title": "Falha na execução do workflow em 2026-04-23T11:33:43Z",
             "pull_request": false,
@@ -25295,6 +25346,24 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 206,
+            "title": "Registrar 1º encontro Trilha -Dev python",
+            "pull_request": false,
+            "created_at": "24/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260424T184310",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 205,
             "title": "Incluir material escritos das aulas do Trilha dev: python",
             "pull_request": false,
@@ -27463,7 +27532,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260417T200150",
+            "updated_at": "20260424T181837",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
