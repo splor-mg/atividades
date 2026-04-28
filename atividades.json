@@ -519,21 +519,6 @@
         },
         {
             "repo": "splor-mg/acordo-judicial-reparacao-vale",
-            "issue": 3,
-            "title": "fix valor contrato duplicado",
-            "pull_request": true,
-            "created_at": "30/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240502T110321",
-            "closed_at": "02/05/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 5,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/acordo-judicial-reparacao-vale",
             "issue": 2,
             "title": "Corrigir valor duplicado dos contratos",
             "pull_request": false,
@@ -5194,21 +5179,6 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
-            "issue": 3,
-            "title": "Insere testes `test_that`",
-            "pull_request": true,
-            "created_at": "23/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240619T142906",
-            "closed_at": "10/05/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 5,
-            "assignee": "hslinhares",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 2,
             "title": "erro extração `make extract` no `sharepoint` `onedrive` ",
             "pull_request": false,
@@ -5271,21 +5241,6 @@
         },
         {
             "repo": "splor-mg/checks",
-            "issue": 3,
-            "title": "Reformulação do checks-py ",
-            "pull_request": true,
-            "created_at": "25/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240522T171736",
-            "closed_at": "22/05/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 5,
-            "assignee": "labanca",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/checks",
             "issue": 2,
             "title": "Erro no pip install -e: \"EntryPoint must be in 'name=module:attrs [extras]' format\", 'checks = checks-py.cli:app')",
             "pull_request": false,
@@ -5311,21 +5266,6 @@
             "closed_at": "25/04/2024",
             "closed_at_year": 2024,
             "closed_at_month": 4,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/checks-execucao",
-            "issue": 1,
-            "title": "implementa função check_vlr_cota_aprovada e corrige formatacao em che…",
-            "pull_request": true,
-            "created_at": "22/05/2024",
-            "created_at_year": 2024,
-            "created_at_month": 5,
-            "updated_at": "20240603T144211",
-            "closed_at": "03/06/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 6,
             "assignee": null,
             "labels": null
         },
@@ -5356,21 +5296,6 @@
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/checks-planejamento",
-            "issue": 66,
-            "title": "Check primary key",
-            "pull_request": true,
-            "created_at": "24/10/2024",
-            "created_at_year": 2024,
-            "created_at_month": 10,
-            "updated_at": "20241029T142925",
-            "closed_at": "29/10/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 10,
             "assignee": null,
             "labels": null
         },
@@ -5541,36 +5466,6 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
-            "issue": 54,
-            "title": "Check de valores únicos sem `NA` em chaves compostas",
-            "pull_request": true,
-            "created_at": "26/08/2024",
-            "created_at_year": 2024,
-            "created_at_month": 8,
-            "updated_at": "20240920T193133",
-            "closed_at": "20/09/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 9,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/checks-planejamento",
-            "issue": 53,
-            "title": "check_results: Adiciona output dos logs no formato JSON Lines",
-            "pull_request": true,
-            "created_at": "12/08/2024",
-            "created_at_year": 2024,
-            "created_at_month": 8,
-            "updated_at": "20240920T132259",
-            "closed_at": "20/09/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 9,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/checks-planejamento",
             "issue": 52,
             "title": "Oficinas para escrita dos templates das mensagens de erro do checks.planejamento",
             "pull_request": false,
@@ -5597,21 +5492,6 @@
             "closed_at_year": 2024,
             "closed_at_month": 9,
             "assignee": "labanca",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/checks-planejamento",
-            "issue": 50,
-            "title": "Inicia implementacao de check de objetivos estrategicos",
-            "pull_request": true,
-            "created_at": "24/05/2024",
-            "created_at_year": 2024,
-            "created_at_month": 5,
-            "updated_at": "20240920T175600",
-            "closed_at": "20/09/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 9,
-            "assignee": "carloshob",
             "labels": null
         },
         {
@@ -6415,21 +6295,6 @@
         },
         {
             "repo": "splor-mg/checks-planejamento-report",
-            "issue": 7,
-            "title": "Gera relatorio de conferencia com mensagens em excel",
-            "pull_request": true,
-            "created_at": "20/09/2024",
-            "created_at_year": 2024,
-            "created_at_month": 9,
-            "updated_at": "20250227T200957",
-            "closed_at": "27/02/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 2,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/checks-planejamento-report",
             "issue": 6,
             "title": "Homologar conferências utilizando mensagens de erro com DCPPN",
             "pull_request": false,
@@ -6526,7 +6391,7 @@
             "created_at": "31/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260408T171617",
+            "updated_at": "20260427T171456",
             "closed_at": "06/04/2026",
             "closed_at_year": 2026,
             "closed_at_month": 4,
@@ -7671,21 +7536,6 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
-            "issue": 57,
-            "title": "altera usuário dockerhub de fjunior para splormg",
-            "pull_request": true,
-            "created_at": "30/09/2024",
-            "created_at_year": 2024,
-            "created_at_month": 9,
-            "updated_at": "20241015T172115",
-            "closed_at": "15/10/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 10,
-            "assignee": "hslinhares",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 56,
             "title": "Substituir usuário dockerhub de fjunior para splormg",
             "pull_request": false,
@@ -7697,21 +7547,6 @@
             "closed_at_year": 2024,
             "closed_at_month": 10,
             "assignee": "hslinhares",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/cookiecutter-datapackage",
-            "issue": 55,
-            "title": "utc.now para registro de timestamps no datapackage.json",
-            "pull_request": true,
-            "created_at": "29/08/2024",
-            "created_at_year": 2024,
-            "created_at_month": 8,
-            "updated_at": "20240902T190525",
-            "closed_at": "02/09/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 9,
-            "assignee": "labanca",
             "labels": null
         },
         {
@@ -7821,51 +7656,6 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
-            "issue": 47,
-            "title": "Adiciona make notify e códigos relacionados",
-            "pull_request": true,
-            "created_at": "12/06/2024",
-            "created_at_year": 2024,
-            "created_at_month": 6,
-            "updated_at": "20240614T180310",
-            "closed_at": "14/06/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 6,
-            "assignee": "hslinhares",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/cookiecutter-datapackage",
-            "issue": 46,
-            "title": "utiliza uv para execucao do pip-compile",
-            "pull_request": true,
-            "created_at": "11/06/2024",
-            "created_at_year": 2024,
-            "created_at_month": 6,
-            "updated_at": "20240611T223054",
-            "closed_at": "11/06/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 6,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/cookiecutter-datapackage",
-            "issue": 45,
-            "title": "Verificação de pacotes instalados via checks-py ",
-            "pull_request": true,
-            "created_at": "11/06/2024",
-            "created_at_year": 2024,
-            "created_at_month": 6,
-            "updated_at": "20240626T150127",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 44,
             "title": "Utilizar `uv` para executar `pip compile` no lugar de `pip-tools`",
             "pull_request": false,
@@ -7892,21 +7682,6 @@
             "closed_at_year": 2024,
             "closed_at_month": 6,
             "assignee": "fjuniorr",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/cookiecutter-datapackage",
-            "issue": 42,
-            "title": "Cookbook - autenticação sharepoint com github actions",
-            "pull_request": true,
-            "created_at": "29/05/2024",
-            "created_at_year": 2024,
-            "created_at_month": 5,
-            "updated_at": "20240614T181040",
-            "closed_at": "14/06/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 6,
-            "assignee": "labanca",
             "labels": null
         },
         {
@@ -8247,21 +8022,6 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
-            "issue": 19,
-            "title": "Check requirements",
-            "pull_request": true,
-            "created_at": "25/10/2023",
-            "created_at_year": 2023,
-            "created_at_month": 10,
-            "updated_at": "20231110T121730",
-            "closed_at": "10/11/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 11,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 18,
             "title": "Inserir documentação sobre data packages que extraem arquivos do gmail",
             "pull_request": false,
@@ -8272,21 +8032,6 @@
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/cookiecutter-datapackage",
-            "issue": 17,
-            "title": "Remove transformações dpm.steps",
-            "pull_request": true,
-            "created_at": "10/10/2023",
-            "created_at_year": 2023,
-            "created_at_month": 10,
-            "updated_at": "20231010T114313",
-            "closed_at": "10/10/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 10,
             "assignee": null,
             "labels": null
         },
@@ -8397,21 +8142,6 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
-            "issue": 9,
-            "title": "Adiciona commit hash na README dos projetos gerados",
-            "pull_request": true,
-            "created_at": "11/08/2023",
-            "created_at_year": 2023,
-            "created_at_month": 8,
-            "updated_at": "20230811T173739",
-            "closed_at": "11/08/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 8,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 8,
             "title": "Inserir identificação da versão do template utilizada na geração do projeto",
             "pull_request": false,
@@ -8457,21 +8187,6 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
-            "issue": 5,
-            "title": "Remove utilização de custom steps frictionless",
-            "pull_request": true,
-            "created_at": "28/07/2023",
-            "created_at_year": 2023,
-            "created_at_month": 7,
-            "updated_at": "20231006T123040",
-            "closed_at": "02/08/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 8,
-            "assignee": "fjuniorr",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 4,
             "title": "Remover utilização de custom steps nas etapas de transformação e build",
             "pull_request": false,
@@ -8483,21 +8198,6 @@
             "closed_at_year": 2023,
             "closed_at_month": 8,
             "assignee": "fjuniorr",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/cookiecutter-datapackage",
-            "issue": 3,
-            "title": "Versão inicial do template",
-            "pull_request": true,
-            "created_at": "24/07/2023",
-            "created_at_year": 2023,
-            "created_at_month": 7,
-            "updated_at": "20230724T210523",
-            "closed_at": "24/07/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 7,
-            "assignee": null,
             "labels": null
         },
         {
@@ -8529,6 +8229,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 146,
+            "title": "Falha na execução do workflow em 2026-04-27T11:21:45Z",
+            "pull_request": false,
+            "created_at": "27/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260427T112146",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -9477,21 +9194,6 @@
             "labels": [
                 "bug"
             ]
-        },
-        {
-            "repo": "splor-mg/dados-aux-classificadores",
-            "issue": 89,
-            "title": "cria uo_sigla_current no transform",
-            "pull_request": true,
-            "created_at": "28/02/2025",
-            "created_at_year": 2025,
-            "created_at_month": 2,
-            "updated_at": "20250324T123302",
-            "closed_at": "07/03/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 3,
-            "assignee": "gabrielbdornas",
-            "labels": null
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -10528,21 +10230,6 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
-            "issue": 27,
-            "title": "Chaves link table",
-            "pull_request": true,
-            "created_at": "26/06/2024",
-            "created_at_year": 2024,
-            "created_at_month": 6,
-            "updated_at": "20240709T174420",
-            "closed_at": "09/07/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 7,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 26,
             "title": "Incluir descritivos para exercício seguinte do SISOR",
             "pull_request": false,
@@ -10587,36 +10274,6 @@
             "labels": [
                 "bug"
             ]
-        },
-        {
-            "repo": "splor-mg/dados-aux-classificadores",
-            "issue": 23,
-            "title": "Concatena tabela com elemento item desc não trazidas pelo armazém",
-            "pull_request": true,
-            "created_at": "25/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240503T142655",
-            "closed_at": "03/05/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 5,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-aux-classificadores",
-            "issue": 22,
-            "title": "corrige erro extract de arquivo zip",
-            "pull_request": true,
-            "created_at": "24/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240503T142909",
-            "closed_at": "03/05/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 5,
-            "assignee": null,
-            "labels": null
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -10948,6 +10605,21 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 39,
+            "title": "awsrfgasdfgasfdg",
+            "pull_request": false,
+            "created_at": "27/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260427T191034",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 38,
             "title": "Sync template workflow failed on 2026-04-27T02:26:22",
             "pull_request": false,
@@ -10975,23 +10647,6 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-orcamentarios",
-            "issue": 36,
-            "title": "çknlçnn",
-            "pull_request": false,
-            "created_at": "14/04/2026",
-            "created_at_year": 2026,
-            "created_at_month": 4,
-            "updated_at": "20260415T110810",
-            "closed_at": "15/04/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 4,
-            "assignee": null,
-            "labels": [
-                "meeting"
-            ]
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
@@ -11170,10 +10825,10 @@
             "created_at": "10/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260414T160547",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260427T172704",
+            "closed_at": "27/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "mariaefod",
             "labels": [
                 "chore"
@@ -11341,21 +10996,6 @@
             "closed_at_year": 2024,
             "closed_at_month": 4,
             "assignee": "fjuniorr",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-sigplan-historico",
-            "issue": 6,
-            "title": "Adicionar recursos localizadores_monitoramento_todos.",
-            "pull_request": true,
-            "created_at": "04/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240408T124115",
-            "closed_at": "08/04/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 4,
-            "assignee": null,
             "labels": null
         },
         {
@@ -11589,21 +11229,6 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento",
-            "issue": 51,
-            "title": "Cria função `validate.py` com argumento `stop_on_failure`",
-            "pull_request": true,
-            "created_at": "24/09/2024",
-            "created_at_year": 2024,
-            "created_at_month": 9,
-            "updated_at": "20241018T144851",
-            "closed_at": "18/10/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 10,
-            "assignee": "hslinhares",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-sigplan-planejamento",
             "issue": 50,
             "title": "criar a variável ano na base de dados do ppag",
             "pull_request": false,
@@ -11647,21 +11272,6 @@
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-sigplan-planejamento",
-            "issue": 47,
-            "title": "Utiliza frictionless transform custom steps na pipeline",
-            "pull_request": true,
-            "created_at": "13/07/2023",
-            "created_at_year": 2023,
-            "created_at_month": 7,
-            "updated_at": "20230714T042642",
-            "closed_at": "13/07/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 7,
-            "assignee": "labanca",
             "labels": null
         },
         {
@@ -11876,21 +11486,6 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento",
-            "issue": 31,
-            "title": "Refatora estrutura do projeto",
-            "pull_request": true,
-            "created_at": "29/06/2023",
-            "created_at_year": 2023,
-            "created_at_month": 6,
-            "updated_at": "20230629T212648",
-            "closed_at": "29/06/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 6,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-sigplan-planejamento",
             "issue": 30,
             "title": "make publish não funciona dentro do docker",
             "pull_request": false,
@@ -11917,51 +11512,6 @@
             "closed_at_year": 2023,
             "closed_at_month": 8,
             "assignee": "fjuniorr",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-sigplan-planejamento",
-            "issue": 28,
-            "title": "Documentação das bases de dados",
-            "pull_request": true,
-            "created_at": "20/06/2023",
-            "created_at_year": 2023,
-            "created_at_month": 6,
-            "updated_at": "20230620T161621",
-            "closed_at": "20/06/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 6,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-sigplan-planejamento",
-            "issue": 27,
-            "title": "Adiciona github actions workflow para execução da pipeline",
-            "pull_request": true,
-            "created_at": "20/06/2023",
-            "created_at_year": 2023,
-            "created_at_month": 6,
-            "updated_at": "20230620T135959",
-            "closed_at": "20/06/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 6,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-sigplan-planejamento",
-            "issue": 26,
-            "title": "Utiliza docker para execução da pipeline",
-            "pull_request": true,
-            "created_at": "20/06/2023",
-            "created_at_year": 2023,
-            "created_at_month": 6,
-            "updated_at": "20230620T121611",
-            "closed_at": "20/06/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 6,
-            "assignee": null,
             "labels": null
         },
         {
@@ -11996,21 +11546,6 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento",
-            "issue": 23,
-            "title": "Remove staging area",
-            "pull_request": true,
-            "created_at": "19/06/2023",
-            "created_at_year": 2023,
-            "created_at_month": 6,
-            "updated_at": "20230619T215726",
-            "closed_at": "19/06/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 6,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-sigplan-planejamento",
             "issue": 22,
             "title": "Remover staging area para simplificação do fluxo",
             "pull_request": false,
@@ -12037,21 +11572,6 @@
             "closed_at_year": 2023,
             "closed_at_month": 6,
             "assignee": "fjuniorr",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-sigplan-planejamento",
-            "issue": 20,
-            "title": "Renomeia colunas dos dados primários com base nas colunas name e title",
-            "pull_request": true,
-            "created_at": "19/06/2023",
-            "created_at_year": 2023,
-            "created_at_month": 6,
-            "updated_at": "20230619T172421",
-            "closed_at": "19/06/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 6,
-            "assignee": null,
             "labels": null
         },
         {
@@ -12553,6 +12073,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 37,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "27/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260427T113624",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -13253,36 +12790,6 @@
         },
         {
             "repo": "splor-mg/dados-sisor",
-            "issue": 7,
-            "title": "Padroniza nomes de colunas",
-            "pull_request": true,
-            "created_at": "04/12/2023",
-            "created_at_year": 2023,
-            "created_at_month": 12,
-            "updated_at": "20231226T175650",
-            "closed_at": "26/12/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 12,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-sisor",
-            "issue": 6,
-            "title": "padroniza nome das targets dos schemas",
-            "pull_request": true,
-            "created_at": "05/09/2023",
-            "created_at_year": 2023,
-            "created_at_month": 9,
-            "updated_at": "20231204T143351",
-            "closed_at": "04/12/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 12,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-sisor",
             "issue": 5,
             "title": "nomes de mesma variável diferentes entre bases.",
             "pull_request": false,
@@ -13328,21 +12835,6 @@
         },
         {
             "repo": "splor-mg/dados-sisor",
-            "issue": 2,
-            "title": "Criação inicial do data package",
-            "pull_request": true,
-            "created_at": "03/07/2023",
-            "created_at_year": 2023,
-            "created_at_month": 7,
-            "updated_at": "20230703T185358",
-            "closed_at": "03/07/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 7,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-sisor",
             "issue": 1,
             "title": "Arquivos `xls` exportados do SISOR gerados em formato de tabelas html",
             "pull_request": false,
@@ -13353,21 +12845,6 @@
             "closed_at": "28/11/2025",
             "closed_at_year": 2025,
             "closed_at_month": 11,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2024",
-            "issue": 1,
-            "title": "padroniza os nomes de colunas entre as bases",
-            "pull_request": true,
-            "created_at": "30/08/2023",
-            "created_at_year": 2023,
-            "created_at_month": 8,
-            "updated_at": "20230905T154931",
-            "closed_at": "04/09/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 9,
             "assignee": null,
             "labels": null
         },
@@ -15573,21 +15050,6 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
-            "issue": 49,
-            "title": "Adiciona informações de log sobre as bases que não chegam no gmail",
-            "pull_request": true,
-            "created_at": "23/09/2024",
-            "created_at_year": 2024,
-            "created_at_month": 9,
-            "updated_at": "20241118T133825",
-            "closed_at": "18/11/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 11,
-            "assignee": "hslinhares",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 48,
             "title": "Adicionar mensagem de log contendo o nome dos anexos que não chegarem no gmail",
             "pull_request": false,
@@ -15790,21 +15252,6 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
-            "issue": 36,
-            "title": "Acrescenta cota aprovada liquida",
-            "pull_request": true,
-            "created_at": "14/05/2024",
-            "created_at_year": 2024,
-            "created_at_month": 5,
-            "updated_at": "20240521T132801",
-            "closed_at": "21/05/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 5,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 35,
             "title": "Divergência no `vlr_pago_financeiro` de `09/2018`",
             "pull_request": false,
@@ -15815,21 +15262,6 @@
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-totais-armazem-siafi",
-            "issue": 34,
-            "title": "incorpora recurso de valor de cota aprovada líquida",
-            "pull_request": true,
-            "created_at": "30/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240514T152017",
-            "closed_at": "14/05/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 5,
             "assignee": null,
             "labels": null
         },
@@ -16719,21 +16151,6 @@
         },
         {
             "repo": "splor-mg/de-para-sigplan-grp",
-            "issue": 12,
-            "title": "Geracao dicionario de dados",
-            "pull_request": true,
-            "created_at": "04/09/2024",
-            "created_at_year": 2024,
-            "created_at_month": 9,
-            "updated_at": "20240904T094609",
-            "closed_at": "04/09/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 9,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/de-para-sigplan-grp",
             "issue": 11,
             "title": "Avaliar se grupo da fonte deve ser incluída no mapeamento da fonte de recurso",
             "pull_request": false,
@@ -17362,21 +16779,6 @@
         },
         {
             "repo": "splor-mg/dpetl",
-            "issue": 5,
-            "title": "2 extract api",
-            "pull_request": true,
-            "created_at": "24/02/2026",
-            "created_at_year": 2026,
-            "created_at_month": 2,
-            "updated_at": "20260224T174334",
-            "closed_at": "24/02/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 2,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpetl",
             "issue": 4,
             "title": "Create the `etl extract` command to API",
             "pull_request": false,
@@ -17525,21 +16927,6 @@
         },
         {
             "repo": "splor-mg/dpm",
-            "issue": 86,
-            "title": "feat(help): --help as default option",
-            "pull_request": true,
-            "created_at": "25/10/2024",
-            "created_at_year": 2024,
-            "created_at_month": 10,
-            "updated_at": "20241209T172907",
-            "closed_at": "09/12/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 12,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
             "issue": 85,
             "title": "Publicar `dpm` no pypi.",
             "pull_request": false,
@@ -17554,21 +16941,6 @@
             "labels": [
                 "chore"
             ]
-        },
-        {
-            "repo": "splor-mg/dpm",
-            "issue": 84,
-            "title": "Implementa DPM report para json lines de entrada e export em formato xlsx.",
-            "pull_request": true,
-            "created_at": "14/10/2024",
-            "created_at_year": 2024,
-            "created_at_month": 10,
-            "updated_at": "20241209T172242",
-            "closed_at": "09/12/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 12,
-            "assignee": null,
-            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -17589,21 +16961,6 @@
         },
         {
             "repo": "splor-mg/dpm",
-            "issue": 82,
-            "title": "Tratamento de erro --package",
-            "pull_request": true,
-            "created_at": "04/10/2024",
-            "created_at_year": 2024,
-            "created_at_month": 10,
-            "updated_at": "20241112T153910",
-            "closed_at": "15/10/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 10,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
             "issue": 81,
             "title": "Nomes de pacotes inválidos durante o `dpm install --package <nome_pacote>`",
             "pull_request": false,
@@ -17615,51 +16972,6 @@
             "closed_at_year": 2024,
             "closed_at_month": 10,
             "assignee": "labanca",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
-            "issue": 80,
-            "title": "Adiciona opção para download de pacotes específicos dpm install ",
-            "pull_request": true,
-            "created_at": "12/09/2024",
-            "created_at_year": 2024,
-            "created_at_month": 9,
-            "updated_at": "20240916T175233",
-            "closed_at": "16/09/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 9,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
-            "issue": 79,
-            "title": "dpm install adiciona hash do commit ao datapackage.json dos dados baixados",
-            "pull_request": true,
-            "created_at": "14/08/2024",
-            "created_at_year": 2024,
-            "created_at_month": 8,
-            "updated_at": "20240823T122420",
-            "closed_at": "23/08/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 8,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
-            "issue": 78,
-            "title": "DPM download - get commit hash",
-            "pull_request": true,
-            "created_at": "14/08/2024",
-            "created_at_year": 2024,
-            "created_at_month": 8,
-            "updated_at": "20240814T214601",
-            "closed_at": "14/08/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 8,
-            "assignee": null,
             "labels": null
         },
         {
@@ -17812,21 +17124,6 @@
             "closed_at_year": 2024,
             "closed_at_month": 8,
             "assignee": "labanca",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
-            "issue": 66,
-            "title": "Implementa dpm concat",
-            "pull_request": true,
-            "created_at": "09/01/2024",
-            "created_at_year": 2024,
-            "created_at_month": 1,
-            "updated_at": "20240109T211936",
-            "closed_at": "09/01/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 1,
-            "assignee": null,
             "labels": null
         },
         {
@@ -18013,21 +17310,6 @@
         },
         {
             "repo": "splor-mg/dpm",
-            "issue": 53,
-            "title": "add cli flag to print package version",
-            "pull_request": true,
-            "created_at": "20/11/2023",
-            "created_at_year": 2023,
-            "created_at_month": 11,
-            "updated_at": "20231120T190110",
-            "closed_at": "20/11/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 11,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
             "issue": 52,
             "title": "Acrescentar testes para dpm load",
             "pull_request": false,
@@ -18107,21 +17389,6 @@
         },
         {
             "repo": "splor-mg/dpm",
-            "issue": 47,
-            "title": "Implementa dpm load",
-            "pull_request": true,
-            "created_at": "17/10/2023",
-            "created_at_year": 2023,
-            "created_at_month": 10,
-            "updated_at": "20231110T163850",
-            "closed_at": "10/11/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 11,
-            "assignee": "fjuniorr",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
             "issue": 46,
             "title": "Configurar linters",
             "pull_request": false,
@@ -18132,21 +17399,6 @@
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
-            "issue": 45,
-            "title": "Fetch resources",
-            "pull_request": true,
-            "created_at": "11/10/2023",
-            "created_at_year": 2023,
-            "created_at_month": 10,
-            "updated_at": "20231017T170536",
-            "closed_at": "17/10/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 10,
             "assignee": null,
             "labels": null
         },
@@ -18182,21 +17434,6 @@
         },
         {
             "repo": "splor-mg/dpm",
-            "issue": 42,
-            "title": "Altera padrão dos Data Descriptors para Toml",
-            "pull_request": true,
-            "created_at": "04/10/2023",
-            "created_at_year": 2023,
-            "created_at_month": 10,
-            "updated_at": "20231006T162627",
-            "closed_at": "06/10/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 10,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
             "issue": 41,
             "title": "Migrar data.yaml para data.toml",
             "pull_request": false,
@@ -18208,21 +17445,6 @@
             "closed_at_year": 2023,
             "closed_at_month": 10,
             "assignee": "labanca",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
-            "issue": 40,
-            "title": "Implementa dpm diff para table schema fields",
-            "pull_request": true,
-            "created_at": "13/09/2023",
-            "created_at_year": 2023,
-            "created_at_month": 9,
-            "updated_at": "20240109T113302",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
             "labels": null
         },
         {
@@ -18289,21 +17511,6 @@
         },
         {
             "repo": "splor-mg/dpm",
-            "issue": 34,
-            "title": "add argument to control case in as_identifier",
-            "pull_request": true,
-            "created_at": "26/08/2023",
-            "created_at_year": 2023,
-            "created_at_month": 8,
-            "updated_at": "20230826T013857",
-            "closed_at": "26/08/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 8,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
             "issue": 33,
             "title": "adicionar flag para controlar upper or lower case na `as_identifier`",
             "pull_request": false,
@@ -18353,21 +17560,6 @@
         },
         {
             "repo": "splor-mg/dpm",
-            "issue": 30,
-            "title": "Cria função normalize_resource",
-            "pull_request": true,
-            "created_at": "18/08/2023",
-            "created_at_year": 2023,
-            "created_at_month": 8,
-            "updated_at": "20230825T165700",
-            "closed_at": "25/08/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 8,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
             "issue": 29,
             "title": "Criar fixture em conftest.py para criação dos recursos",
             "pull_request": false,
@@ -18410,36 +17602,6 @@
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
-            "issue": 26,
-            "title": "fix table write normalized",
-            "pull_request": true,
-            "created_at": "17/08/2023",
-            "created_at_year": 2023,
-            "created_at_month": 8,
-            "updated_at": "20230817T125602",
-            "closed_at": "17/08/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 8,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
-            "issue": 25,
-            "title": "Instalação de repos privados, custom steps e data.yaml",
-            "pull_request": true,
-            "created_at": "16/08/2023",
-            "created_at_year": 2023,
-            "created_at_month": 8,
-            "updated_at": "20230816T190308",
-            "closed_at": "16/08/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 8,
             "assignee": null,
             "labels": null
         },
@@ -18492,21 +17654,6 @@
         },
         {
             "repo": "splor-mg/dpm",
-            "issue": 21,
-            "title": "Armazena dependências em data package data.yaml",
-            "pull_request": true,
-            "created_at": "27/07/2023",
-            "created_at_year": 2023,
-            "created_at_month": 7,
-            "updated_at": "20230731T134136",
-            "closed_at": "31/07/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 7,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
             "issue": 20,
             "title": "`resource.path` não está sendo retornado corretamente quando `field_rename_to_target` e `table_write_normalized` são aplicados na mesma pipeline",
             "pull_request": false,
@@ -18550,21 +17697,6 @@
             "closed_at_year": 2023,
             "closed_at_month": 8,
             "assignee": "fjuniorr",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
-            "issue": 17,
-            "title": "Adiciona custom steps para transformações",
-            "pull_request": true,
-            "created_at": "11/07/2023",
-            "created_at_year": 2023,
-            "created_at_month": 7,
-            "updated_at": "20230816T185546",
-            "closed_at": "16/08/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 8,
-            "assignee": null,
             "labels": null
         },
         {
@@ -18655,21 +17787,6 @@
             "closed_at_year": 2024,
             "closed_at_month": 1,
             "assignee": "fjuniorr",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
-            "issue": 10,
-            "title": "Implementa dpm install",
-            "pull_request": true,
-            "created_at": "26/05/2023",
-            "created_at_year": 2023,
-            "created_at_month": 5,
-            "updated_at": "20230605T164150",
-            "closed_at": "05/06/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 6,
-            "assignee": null,
             "labels": null
         },
         {
@@ -18766,21 +17883,6 @@
         },
         {
             "repo": "splor-mg/dpm",
-            "issue": 3,
-            "title": "Adiciona dockerfile",
-            "pull_request": true,
-            "created_at": "12/05/2023",
-            "created_at_year": 2023,
-            "created_at_month": 5,
-            "updated_at": "20230518T201050",
-            "closed_at": "15/05/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 5,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm",
             "issue": 2,
             "title": "Erro ao executar o jupyter notebook durante docker run",
             "pull_request": false,
@@ -18812,66 +17914,6 @@
             "labels": [
                 "bug"
             ]
-        },
-        {
-            "repo": "splor-mg/dpm-r",
-            "issue": 6,
-            "title": "Adiciona função `exporta_csv`",
-            "pull_request": true,
-            "created_at": "21/11/2024",
-            "created_at_year": 2024,
-            "created_at_month": 11,
-            "updated_at": "20241209T145726",
-            "closed_at": "09/12/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 12,
-            "assignee": "hslinhares",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm-r",
-            "issue": 5,
-            "title": "Alterar `linktable.R` para forma declarativa",
-            "pull_request": true,
-            "created_at": "22/10/2024",
-            "created_at_year": 2024,
-            "created_at_month": 10,
-            "updated_at": "20241104T204902",
-            "closed_at": "04/11/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 11,
-            "assignee": "hslinhares",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm-r",
-            "issue": 4,
-            "title": "Adiciona funções de criação da modelagem linktable no dpm-r",
-            "pull_request": true,
-            "created_at": "13/06/2024",
-            "created_at_year": 2024,
-            "created_at_month": 6,
-            "updated_at": "20240627T133838",
-            "closed_at": "27/06/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 6,
-            "assignee": "hslinhares",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpm-r",
-            "issue": 3,
-            "title": "Cria estrutura básica do pacote `dpm-r`.",
-            "pull_request": true,
-            "created_at": "16/05/2024",
-            "created_at_year": 2024,
-            "created_at_month": 5,
-            "updated_at": "20240522T153435",
-            "closed_at": "22/05/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 5,
-            "assignee": "hslinhares",
-            "labels": null
         },
         {
             "repo": "splor-mg/dpm-r",
@@ -18916,21 +17958,6 @@
             "closed_at_year": 2023,
             "closed_at_month": 5,
             "assignee": "fjuniorr",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/duckdb-carga-despesa",
-            "issue": 1,
-            "title": "Revisão de código",
-            "pull_request": true,
-            "created_at": "17/04/2023",
-            "created_at_year": 2023,
-            "created_at_month": 4,
-            "updated_at": "20230418T193441",
-            "closed_at": "18/04/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 4,
-            "assignee": null,
             "labels": null
         },
         {
@@ -19132,16 +18159,50 @@
         },
         {
             "repo": "splor-mg/exercicios-python",
+            "issue": 16,
+            "title": "Adiciona novos exercícios para a próxima aula do Trilha Dev",
+            "pull_request": true,
+            "created_at": "27/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260427T215041",
+            "closed_at": "27/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/exercicios-python",
+            "issue": 15,
+            "title": "Exercícios para a próxima aula do Trilha Dev",
+            "pull_request": false,
+            "created_at": "27/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260427T172606",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/exercicios-python",
             "issue": 14,
             "title": "Criar regra de configuração no repositório autorizando apenas pessoas autorizadas a fazer commits neste repositório",
             "pull_request": false,
             "created_at": "15/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260416T143757",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260427T174419",
+            "closed_at": "27/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "raianecardoso",
             "labels": [
                 "chore"
@@ -19262,23 +18323,6 @@
             "assignee": "raianecardoso",
             "labels": [
                 "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/exercicios-python",
-            "issue": 5,
-            "title": "Add conteudo de texto aos arquivos criados.",
-            "pull_request": true,
-            "created_at": "04/03/2026",
-            "created_at_year": 2026,
-            "created_at_month": 3,
-            "updated_at": "20260304T205913",
-            "closed_at": "04/03/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 3,
-            "assignee": "gabrielbdornas",
-            "labels": [
-                "new-feature"
             ]
         },
         {
@@ -20165,21 +19209,6 @@
             "labels": [
                 "documentation"
             ]
-        },
-        {
-            "repo": "splor-mg/handbook",
-            "issue": 127,
-            "title": "Ferramentas raiane",
-            "pull_request": true,
-            "created_at": "17/07/2025",
-            "created_at_year": 2025,
-            "created_at_month": 7,
-            "updated_at": "20250717T175905",
-            "closed_at": "17/07/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 7,
-            "assignee": null,
-            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -21286,21 +20315,6 @@
         },
         {
             "repo": "splor-mg/handbook",
-            "issue": 46,
-            "title": "45 organizacao trabalho",
-            "pull_request": true,
-            "created_at": "27/02/2025",
-            "created_at_year": 2025,
-            "created_at_month": 2,
-            "updated_at": "20250227T222649",
-            "closed_at": "27/02/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 2,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/handbook",
             "issue": 45,
             "title": "Criar post organização do trabalho em Issues e GitHub Projects",
             "pull_request": false,
@@ -21327,21 +20341,6 @@
             "closed_at_year": 2025,
             "closed_at_month": 3,
             "assignee": "carloshob",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/handbook",
-            "issue": 43,
-            "title": "Live code - volumes loa - 2025-02-26",
-            "pull_request": true,
-            "created_at": "27/02/2025",
-            "created_at_year": 2025,
-            "created_at_month": 2,
-            "updated_at": "20250227T220814",
-            "closed_at": "27/02/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 2,
-            "assignee": null,
             "labels": null
         },
         {
@@ -21656,21 +20655,6 @@
         },
         {
             "repo": "splor-mg/handbook",
-            "issue": 17,
-            "title": "Insere post do Webnar #2 - Qlikview",
-            "pull_request": true,
-            "created_at": "19/12/2024",
-            "created_at_year": 2024,
-            "created_at_month": 12,
-            "updated_at": "20241220T191542",
-            "closed_at": "20/12/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 12,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/handbook",
             "issue": 16,
             "title": "Post reunião como configurar projeto python",
             "pull_request": false,
@@ -21718,36 +20702,6 @@
         },
         {
             "repo": "splor-mg/handbook",
-            "issue": 13,
-            "title": "(feat): adiciona workflow para publicação automática no handbook",
-            "pull_request": true,
-            "created_at": "13/12/2024",
-            "created_at_year": 2024,
-            "created_at_month": 12,
-            "updated_at": "20241216T131923",
-            "closed_at": "16/12/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 12,
-            "assignee": "carloshob",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/handbook",
-            "issue": 12,
-            "title": "Add video primeira parte geracao volumes loa",
-            "pull_request": true,
-            "created_at": "26/11/2024",
-            "created_at_year": 2024,
-            "created_at_month": 11,
-            "updated_at": "20241126T200644",
-            "closed_at": "26/11/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 11,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/handbook",
             "issue": 11,
             "title": "Publicar posts sobre geração volumes loa",
             "pull_request": false,
@@ -21776,21 +20730,6 @@
             "closed_at_year": 2024,
             "closed_at_month": 12,
             "assignee": "carloshob",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/handbook",
-            "issue": 9,
-            "title": "Mkdocs",
-            "pull_request": true,
-            "created_at": "11/11/2024",
-            "created_at_year": 2024,
-            "created_at_month": 11,
-            "updated_at": "20241111T195452",
-            "closed_at": "11/11/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 11,
-            "assignee": null,
             "labels": null
         },
         {
@@ -21957,6 +20896,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 70,
+            "title": "Falha na execução do workflow em 2026-04-27T12:00:17Z",
+            "pull_request": false,
+            "created_at": "27/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260427T120017",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -22419,21 +21375,6 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
-            "issue": 42,
-            "title": "Atualiza fontes de recursos STN com novas portarias",
-            "pull_request": true,
-            "created_at": "11/09/2024",
-            "created_at_year": 2024,
-            "created_at_month": 9,
-            "updated_at": "20240924T174833",
-            "closed_at": "24/09/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 9,
-            "assignee": "carloshob",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 41,
             "title": "Atualizar fontes de recurso STN com novas portarias",
             "pull_request": false,
@@ -22752,21 +21693,6 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
-            "issue": 21,
-            "title": "Alterações Portaria 688/2023",
-            "pull_request": true,
-            "created_at": "14/09/2023",
-            "created_at_year": 2023,
-            "created_at_month": 9,
-            "updated_at": "20230918T222123",
-            "closed_at": "18/09/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 9,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 20,
             "title": "Utiliza yaml para armazenamento do classificador fonte STN",
             "pull_request": false,
@@ -22812,21 +21738,6 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
-            "issue": 17,
-            "title": "Sugestões DCTA",
-            "pull_request": true,
-            "created_at": "03/04/2023",
-            "created_at_year": 2023,
-            "created_at_month": 4,
-            "updated_at": "20230516T164054",
-            "closed_at": "16/05/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 5,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 16,
             "title": "Incluir etapa de atualização diária do conjunto",
             "pull_request": false,
@@ -22852,21 +21763,6 @@
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
-            "issue": 14,
-            "title": "Adiciona make publish para catalogação do arquivo no CKAN",
-            "pull_request": true,
-            "created_at": "28/03/2023",
-            "created_at_year": 2023,
-            "created_at_month": 3,
-            "updated_at": "20230328T195344",
-            "closed_at": "28/03/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 3,
             "assignee": null,
             "labels": null
         },
@@ -22909,21 +21805,6 @@
             "created_at_year": 2023,
             "created_at_month": 3,
             "updated_at": "20230328T195341",
-            "closed_at": "28/03/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 3,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
-            "issue": 10,
-            "title": "Adiciona scripts para geração dos recursos",
-            "pull_request": true,
-            "created_at": "28/03/2023",
-            "created_at_year": 2023,
-            "created_at_month": 3,
-            "updated_at": "20230328T141337",
             "closed_at": "28/03/2023",
             "closed_at_year": 2023,
             "closed_at_month": 3,
@@ -22987,21 +21868,6 @@
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
-            "issue": 5,
-            "title": "Adiciona versão inicial dos table schemas e datapackage",
-            "pull_request": true,
-            "created_at": "24/03/2023",
-            "created_at_year": 2023,
-            "created_at_month": 3,
-            "updated_at": "20230327T113453",
-            "closed_at": "27/03/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 3,
             "assignee": null,
             "labels": null
         },
@@ -23232,21 +22098,6 @@
         },
         {
             "repo": "splor-mg/notas",
-            "issue": 25,
-            "title": "Utiliza xelatex para compilacao de Rnw em PDF",
-            "pull_request": true,
-            "created_at": "19/09/2023",
-            "created_at_year": 2023,
-            "created_at_month": 9,
-            "updated_at": "20230919T225908",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/notas",
             "issue": 24,
             "title": "Execução de scripts python via PowerBI",
             "pull_request": false,
@@ -23317,51 +22168,6 @@
             "closed_at": "14/07/2025",
             "closed_at_year": 2025,
             "closed_at_month": 7,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/notas",
-            "issue": 17,
-            "title": "Adiciona nota sobre non-equi-joins",
-            "pull_request": true,
-            "created_at": "17/07/2023",
-            "created_at_year": 2023,
-            "created_at_month": 7,
-            "updated_at": "20230717T191309",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/notas",
-            "issue": 16,
-            "title": "Generator function e generator iterator na propriedade data de recursos no frictionless",
-            "pull_request": true,
-            "created_at": "17/07/2023",
-            "created_at_year": 2023,
-            "created_at_month": 7,
-            "updated_at": "20250901T160417",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/notas",
-            "issue": 14,
-            "title": "Experimentos de utilização de custom steps do frictionless transform",
-            "pull_request": true,
-            "created_at": "11/07/2023",
-            "created_at_year": 2023,
-            "created_at_month": 7,
-            "updated_at": "20231218T152745",
-            "closed_at": "18/12/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 12,
             "assignee": null,
             "labels": null
         },
@@ -23442,66 +22248,6 @@
         },
         {
             "repo": "splor-mg/notas",
-            "issue": 9,
-            "title": "Spec etapa de extração de dados",
-            "pull_request": true,
-            "created_at": "25/04/2023",
-            "created_at_year": 2023,
-            "created_at_month": 4,
-            "updated_at": "20231218T153104",
-            "closed_at": "18/12/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 12,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/notas",
-            "issue": 8,
-            "title": "Processamento incremental com make e rsync",
-            "pull_request": true,
-            "created_at": "20/04/2023",
-            "created_at_year": 2023,
-            "created_at_month": 4,
-            "updated_at": "20250716T155549",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/notas",
-            "issue": 7,
-            "title": "Desafio no relacionamento das bases do Relatório Operacional",
-            "pull_request": true,
-            "created_at": "18/04/2023",
-            "created_at_year": 2023,
-            "created_at_month": 4,
-            "updated_at": "20231204T194112",
-            "closed_at": "04/12/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 12,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/notas",
-            "issue": 6,
-            "title": "Nota sobre bitemporal tables",
-            "pull_request": true,
-            "created_at": "18/04/2023",
-            "created_at_year": 2023,
-            "created_at_month": 4,
-            "updated_at": "20250716T155343",
-            "closed_at": "16/07/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 7,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/notas",
             "issue": 5,
             "title": "Criar nota de referência com as principais funcionalidade do quarto",
             "pull_request": false,
@@ -23527,36 +22273,6 @@
             "closed_at": "07/07/2025",
             "closed_at_year": 2025,
             "closed_at_month": 7,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/notas",
-            "issue": 3,
-            "title": "Setup inicial da base de conhecimento",
-            "pull_request": true,
-            "created_at": "17/04/2023",
-            "created_at_year": 2023,
-            "created_at_month": 4,
-            "updated_at": "20230418T115700",
-            "closed_at": "18/04/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 4,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/notas",
-            "issue": 2,
-            "title": "Documentação do non equi join",
-            "pull_request": true,
-            "created_at": "27/03/2023",
-            "created_at_year": 2023,
-            "created_at_month": 3,
-            "updated_at": "20231218T152728",
-            "closed_at": "18/12/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 12,
             "assignee": null,
             "labels": null
         },
@@ -23874,7 +22590,7 @@
             "created_at": "23/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260326T152019",
+            "updated_at": "20260427T161428",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -24239,21 +22955,6 @@
         },
         {
             "repo": "splor-mg/postgresql-carga-despesa",
-            "issue": 3,
-            "title": "Script adaptado para uso no postgres",
-            "pull_request": true,
-            "created_at": "27/04/2023",
-            "created_at_year": 2023,
-            "created_at_month": 4,
-            "updated_at": "20230522T215719",
-            "closed_at": "22/05/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 5,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/postgresql-carga-despesa",
             "issue": 2,
             "title": "Configurar autenticação automática do pgAdmin com arquivo pgpass",
             "pull_request": false,
@@ -24536,51 +23237,6 @@
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/relatoriosOBZ",
-            "issue": 4,
-            "title": "atualiza criterio camg e cet",
-            "pull_request": true,
-            "created_at": "01/08/2025",
-            "created_at_year": 2025,
-            "created_at_month": 8,
-            "updated_at": "20250801T195802",
-            "closed_at": "01/08/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 8,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/relatoriosOBZ",
-            "issue": 3,
-            "title": "adiciona a uo 2471 ARTEMIG",
-            "pull_request": true,
-            "created_at": "01/08/2025",
-            "created_at_year": 2025,
-            "created_at_month": 8,
-            "updated_at": "20250801T180330",
-            "closed_at": "01/08/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 8,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/relatoriosOBZ",
-            "issue": 2,
-            "title": "Atualiza acoes da SEPLAG que identificam despesas da CET e CAMG",
-            "pull_request": true,
-            "created_at": "30/07/2024",
-            "created_at_year": 2024,
-            "created_at_month": 7,
-            "updated_at": "20240730T173553",
-            "closed_at": "30/07/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 7,
             "assignee": null,
             "labels": null
         },
@@ -25226,21 +23882,6 @@
         },
         {
             "repo": "splor-mg/spreadmart",
-            "issue": 6,
-            "title": "Design inicial datamart",
-            "pull_request": true,
-            "created_at": "20/10/2023",
-            "created_at_year": 2023,
-            "created_at_month": 10,
-            "updated_at": "20240618T163709",
-            "closed_at": "10/11/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 11,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/spreadmart",
             "issue": 4,
             "title": "POC das alternativas para hospedagem de data packages onlines",
             "pull_request": false,
@@ -25361,13 +24002,113 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 213,
+            "title": "Inclui conteúdo de aulas",
+            "pull_request": true,
+            "created_at": "27/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260427T204754",
+            "closed_at": "27/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 212,
+            "title": "03:14:41 Inheritance",
+            "pull_request": false,
+            "created_at": "27/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260427T204820",
+            "closed_at": "27/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 211,
+            "title": "03:07:46 Constructors",
+            "pull_request": false,
+            "created_at": "27/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260427T204817",
+            "closed_at": "27/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 210,
+            "title": "03:01:46 Classes",
+            "pull_request": false,
+            "created_at": "27/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260427T204815",
+            "closed_at": "27/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 209,
+            "title": "02:59:14 Comments",
+            "pull_request": false,
+            "created_at": "27/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260427T204806",
+            "closed_at": "27/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 208,
+            "title": "02:53:42 Exceptions",
+            "pull_request": false,
+            "created_at": "27/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260427T204753",
+            "closed_at": "27/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 206,
             "title": "Registrar 1º encontro Trilha -Dev python",
             "pull_request": false,
             "created_at": "24/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260424T184310",
+            "updated_at": "20260427T165625",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -25385,7 +24126,7 @@
             "created_at": "17/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260417T200106",
+            "updated_at": "20260427T205248",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -25531,23 +24272,6 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
-            "issue": 196,
-            "title": "Adiciona aulas transcritas",
-            "pull_request": true,
-            "created_at": "09/04/2026",
-            "created_at_year": 2026,
-            "created_at_month": 4,
-            "updated_at": "20260414T181622",
-            "closed_at": "13/04/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 4,
-            "assignee": "raianecardoso",
-            "labels": [
-                "new-feature"
-            ]
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
             "issue": 194,
             "title": "Desenvolver metodologia pra priorização de projetos de automação em python",
             "pull_request": false,
@@ -25571,7 +24295,7 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260417T145345",
+            "updated_at": "20260427T131645",
             "closed_at": "17/04/2026",
             "closed_at_year": 2026,
             "closed_at_month": 4,
@@ -25895,23 +24619,6 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
-            "issue": 170,
-            "title": "Altera hiperlink",
-            "pull_request": true,
-            "created_at": "16/03/2026",
-            "created_at_year": 2026,
-            "created_at_month": 3,
-            "updated_at": "20260317T125135",
-            "closed_at": "17/03/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 3,
-            "assignee": "raianecardoso",
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
             "issue": 169,
             "title": "Alterar hiperlink",
             "pull_request": false,
@@ -25958,21 +24665,6 @@
             "labels": [
                 "documentation"
             ]
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
-            "issue": 166,
-            "title": "Inclui aulas python",
-            "pull_request": true,
-            "created_at": "09/03/2026",
-            "created_at_year": 2026,
-            "created_at_month": 3,
-            "updated_at": "20260309T184202",
-            "closed_at": "09/03/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 3,
-            "assignee": null,
-            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -26274,21 +24966,6 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
-            "issue": 145,
-            "title": "Add conteúdo da aula 007_string_formatada.",
-            "pull_request": true,
-            "created_at": "23/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260123T153045",
-            "closed_at": "23/01/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 1,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
             "issue": 144,
             "title": "00:37:36 Formatted Strings",
             "pull_request": false,
@@ -26303,21 +24980,6 @@
             "labels": [
                 "new-feature"
             ]
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
-            "issue": 142,
-            "title": "Adiciona conteúdo trilha dev python- aula 006.",
-            "pull_request": true,
-            "created_at": "12/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260112T185553",
-            "closed_at": "12/01/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 1,
-            "assignee": null,
-            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -26353,21 +25015,6 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
-            "issue": 139,
-            "title": "Add conteúdo da aula 005.",
-            "pull_request": true,
-            "created_at": "06/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260106T170229",
-            "closed_at": "06/01/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 1,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
             "issue": 138,
             "title": "00:22:46 Type Conversion",
             "pull_request": false,
@@ -26382,21 +25029,6 @@
             "labels": [
                 "new-feature"
             ]
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
-            "issue": 137,
-            "title": "Pagina inicial python",
-            "pull_request": true,
-            "created_at": "06/01/2026",
-            "created_at_year": 2026,
-            "created_at_month": 1,
-            "updated_at": "20260106T150302",
-            "closed_at": "06/01/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 1,
-            "assignee": null,
-            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -26532,21 +25164,6 @@
                 "chore",
                 "documentation"
             ]
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
-            "issue": 127,
-            "title": "125 126 python",
-            "pull_request": true,
-            "created_at": "04/12/2025",
-            "created_at_year": 2025,
-            "created_at_month": 12,
-            "updated_at": "20251204T142556",
-            "closed_at": "04/12/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 12,
-            "assignee": null,
-            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -26853,36 +25470,6 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
-            "issue": 107,
-            "title": "Altera texto de para mencionar o usuário raianecardoso.",
-            "pull_request": true,
-            "created_at": "05/11/2025",
-            "created_at_year": 2025,
-            "created_at_month": 11,
-            "updated_at": "20251105T202341",
-            "closed_at": "05/11/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 11,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
-            "issue": 106,
-            "title": "61 clean up",
-            "pull_request": true,
-            "created_at": "05/11/2025",
-            "created_at_year": 2025,
-            "created_at_month": 11,
-            "updated_at": "20251105T201702",
-            "closed_at": "05/11/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 11,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
             "issue": 105,
             "title": "Exclui subtítulo 8.",
             "pull_request": true,
@@ -27075,38 +25662,6 @@
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature",
-                "documentation"
-            ]
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
-            "issue": 93,
-            "title": " Add custom domain. ",
-            "pull_request": true,
-            "created_at": "19/09/2025",
-            "created_at_year": 2025,
-            "created_at_month": 9,
-            "updated_at": "20250919T142849",
-            "closed_at": "19/09/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 9,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
-            "issue": 92,
-            "title": "Inclui o registro do 6 encontro da primeira turma.",
-            "pull_request": true,
-            "created_at": "18/09/2025",
-            "created_at_year": 2025,
-            "created_at_month": 9,
-            "updated_at": "20250918T205543",
-            "closed_at": "18/09/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 9,
-            "assignee": "gabrielbdornas",
-            "labels": [
                 "documentation"
             ]
         },
@@ -27547,7 +26102,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260424T181837",
+            "updated_at": "20260427T204821",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -28000,40 +26555,6 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
-            "issue": 31,
-            "title": "17 video desafio",
-            "pull_request": true,
-            "created_at": "30/07/2025",
-            "created_at_year": 2025,
-            "created_at_month": 7,
-            "updated_at": "20250730T183113",
-            "closed_at": "30/07/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 7,
-            "assignee": "raianecardoso",
-            "labels": [
-                "new-feature"
-            ]
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
-            "issue": 30,
-            "title": "5 pagina inicial",
-            "pull_request": true,
-            "created_at": "30/07/2025",
-            "created_at_year": 2025,
-            "created_at_month": 7,
-            "updated_at": "20250730T181005",
-            "closed_at": "30/07/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 7,
-            "assignee": "raianecardoso",
-            "labels": [
-                "new-feature"
-            ]
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
             "issue": 29,
             "title": "Estruturar encontros presenciais",
             "pull_request": false,
@@ -28048,36 +26569,6 @@
             "labels": [
                 "documentation"
             ]
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
-            "issue": 28,
-            "title": "Insere foto raiane no hall da fama.",
-            "pull_request": true,
-            "created_at": "30/07/2025",
-            "created_at_year": 2025,
-            "created_at_month": 7,
-            "updated_at": "20250924T173747",
-            "closed_at": "30/07/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 7,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
-            "issue": 27,
-            "title": "22 comentario quizz",
-            "pull_request": true,
-            "created_at": "29/07/2025",
-            "created_at_year": 2025,
-            "created_at_month": 7,
-            "updated_at": "20250729T192848",
-            "closed_at": "29/07/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 7,
-            "assignee": "raianecardoso",
-            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -28136,21 +26627,6 @@
             "created_at_month": 7,
             "updated_at": "20250729T192903",
             "closed_at": "29/07/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 7,
-            "assignee": "raianecardoso",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/trilha-dev",
-            "issue": 21,
-            "title": "20 dia 06",
-            "pull_request": true,
-            "created_at": "23/07/2025",
-            "created_at_year": 2025,
-            "created_at_month": 7,
-            "updated_at": "20250924T173744",
-            "closed_at": "23/07/2025",
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "raianecardoso",
@@ -28818,21 +27294,6 @@
         },
         {
             "repo": "splor-mg/volumes-docker",
-            "issue": 28,
-            "title": "Publica imagem ploa2025",
-            "pull_request": true,
-            "created_at": "23/08/2024",
-            "created_at_year": 2024,
-            "created_at_month": 8,
-            "updated_at": "20240823T181932",
-            "closed_at": "23/08/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 8,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/volumes-docker",
             "issue": 27,
             "title": "Publicar imagem ploa2025 no dockerhub com novas versões pacotes DCAF e dpm",
             "pull_request": false,
@@ -28893,21 +27354,6 @@
         },
         {
             "repo": "splor-mg/volumes-docker",
-            "issue": 23,
-            "title": "Remove pacote latex ae",
-            "pull_request": true,
-            "created_at": "14/09/2023",
-            "created_at_year": 2023,
-            "created_at_month": 9,
-            "updated_at": "20230918T191644",
-            "closed_at": "18/09/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 9,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/volumes-docker",
             "issue": 22,
             "title": "make rstudio não funciona no mac m1",
             "pull_request": false,
@@ -28918,36 +27364,6 @@
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/volumes-docker",
-            "issue": 21,
-            "title": "atualiza versões dos pacotes dcaf",
-            "pull_request": true,
-            "created_at": "14/09/2023",
-            "created_at_year": 2023,
-            "created_at_month": 9,
-            "updated_at": "20230918T191630",
-            "closed_at": "18/09/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 9,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/volumes-docker",
-            "issue": 20,
-            "title": "Instala python 3.11 na imagem",
-            "pull_request": true,
-            "created_at": "13/09/2023",
-            "created_at_year": 2023,
-            "created_at_month": 9,
-            "updated_at": "20230913T234251",
-            "closed_at": "13/09/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 9,
             "assignee": null,
             "labels": null
         },
@@ -28998,36 +27414,6 @@
         },
         {
             "repo": "splor-mg/volumes-docker",
-            "issue": 16,
-            "title": "Instala diff-pdf e diff-so-fancy no container",
-            "pull_request": true,
-            "created_at": "05/09/2023",
-            "created_at_year": 2023,
-            "created_at_month": 9,
-            "updated_at": "20230905T213849",
-            "closed_at": "05/09/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 9,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/volumes-docker",
-            "issue": 15,
-            "title": "adiciona instalacao de python e dependencias",
-            "pull_request": true,
-            "created_at": "05/09/2023",
-            "created_at_year": 2023,
-            "created_at_month": 9,
-            "updated_at": "20230905T214910",
-            "closed_at": "05/09/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 9,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/volumes-docker",
             "issue": 14,
             "title": "Investigar mecanismo para dar visibilidade sobre as versões dos pacotes DCAF utilizados na imagem",
             "pull_request": false,
@@ -29058,21 +27444,6 @@
         },
         {
             "repo": "splor-mg/volumes-docker",
-            "issue": 10,
-            "title": "fix cannot execute binary file in docker run",
-            "pull_request": true,
-            "created_at": "24/07/2023",
-            "created_at_year": 2023,
-            "created_at_month": 7,
-            "updated_at": "20230724T184152",
-            "closed_at": "24/07/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 7,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/volumes-docker",
             "issue": 9,
             "title": "requested image's platform (linux/amd64) does not match the detected host platform (linux/arm64/v8)",
             "pull_request": false,
@@ -29099,21 +27470,6 @@
             "closed_at_year": 2023,
             "closed_at_month": 7,
             "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/volumes-docker",
-            "issue": 7,
-            "title": "install package from posit public package manager",
-            "pull_request": true,
-            "created_at": "24/07/2023",
-            "created_at_year": 2023,
-            "created_at_month": 7,
-            "updated_at": "20230724T175836",
-            "closed_at": "24/07/2023",
-            "closed_at_year": 2023,
-            "closed_at_month": 7,
-            "assignee": "fjuniorr",
             "labels": null
         },
         {
