@@ -5301,6 +5301,21 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 66,
+            "title": "Check primary key",
+            "pull_request": true,
+            "created_at": "24/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20241029T142925",
+            "closed_at": "29/10/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 65,
             "title": "Teste para identificar unidades com nomes e siglas inconsistentes",
             "pull_request": false,
@@ -6391,7 +6406,7 @@
             "created_at": "31/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260427T171456",
+            "updated_at": "20260428T182027",
             "closed_at": "06/04/2026",
             "closed_at_year": 2026,
             "closed_at_month": 4,
@@ -6425,7 +6440,7 @@
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260409T202317",
+            "updated_at": "20260428T203543",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -7551,6 +7566,21 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 55,
+            "title": "utc.now para registro de timestamps no datapackage.json",
+            "pull_request": true,
+            "created_at": "29/08/2024",
+            "created_at_year": 2024,
+            "created_at_month": 8,
+            "updated_at": "20240902T190525",
+            "closed_at": "02/09/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 9,
+            "assignee": "labanca",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 54,
             "title": "Utilizar datetime.utcnow() no lugar de datetime.now() para capturar timestamps de atualização das bases",
             "pull_request": false,
@@ -8022,6 +8052,21 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 19,
+            "title": "Check requirements",
+            "pull_request": true,
+            "created_at": "25/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231110T121730",
+            "closed_at": "10/11/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 11,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 18,
             "title": "Inserir documentação sobre data packages que extraem arquivos do gmail",
             "pull_request": false,
@@ -8032,6 +8077,21 @@
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 17,
+            "title": "Remove transformações dpm.steps",
+            "pull_request": true,
+            "created_at": "10/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231010T114313",
+            "closed_at": "10/10/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 10,
             "assignee": null,
             "labels": null
         },
@@ -8187,6 +8247,21 @@
         },
         {
             "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 5,
+            "title": "Remove utilização de custom steps frictionless",
+            "pull_request": true,
+            "created_at": "28/07/2023",
+            "created_at_year": 2023,
+            "created_at_month": 7,
+            "updated_at": "20231006T123040",
+            "closed_at": "02/08/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 8,
+            "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
             "issue": 4,
             "title": "Remover utilização de custom steps nas etapas de transformação e build",
             "pull_request": false,
@@ -8198,6 +8273,21 @@
             "closed_at_year": 2023,
             "closed_at_month": 8,
             "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/cookiecutter-datapackage",
+            "issue": 3,
+            "title": "Versão inicial do template",
+            "pull_request": true,
+            "created_at": "24/07/2023",
+            "created_at_year": 2023,
+            "created_at_month": 7,
+            "updated_at": "20230724T210523",
+            "closed_at": "24/07/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 7,
+            "assignee": null,
             "labels": null
         },
         {
@@ -8229,6 +8319,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 147,
+            "title": "Falha na execução do workflow em 2026-04-28T11:21:09Z",
+            "pull_request": false,
+            "created_at": "28/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260428T112110",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -10807,11 +10914,11 @@
             "created_at": "10/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260410T212121",
+            "updated_at": "20260428T124138",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "mariaefod",
             "labels": [
                 "chore",
                 "documentation"
@@ -10996,6 +11103,21 @@
             "closed_at_year": 2024,
             "closed_at_month": 4,
             "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-historico",
+            "issue": 6,
+            "title": "Adicionar recursos localizadores_monitoramento_todos.",
+            "pull_request": true,
+            "created_at": "04/04/2024",
+            "created_at_year": 2024,
+            "created_at_month": 4,
+            "updated_at": "20240408T124115",
+            "closed_at": "08/04/2024",
+            "closed_at_year": 2024,
+            "closed_at_month": 4,
+            "assignee": null,
             "labels": null
         },
         {
@@ -12080,6 +12202,23 @@
         },
         {
             "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 38,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "28/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260428T113707",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
             "issue": 37,
             "title": "Erro na execução do workflow",
             "pull_request": false,
@@ -12845,6 +12984,21 @@
             "closed_at": "28/11/2025",
             "closed_at_year": 2025,
             "closed_at_month": 11,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2024",
+            "issue": 1,
+            "title": "padroniza os nomes de colunas entre as bases",
+            "pull_request": true,
+            "created_at": "30/08/2023",
+            "created_at_year": 2023,
+            "created_at_month": 8,
+            "updated_at": "20230905T154931",
+            "closed_at": "04/09/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": null
         },
@@ -17404,6 +17558,21 @@
         },
         {
             "repo": "splor-mg/dpm",
+            "issue": 45,
+            "title": "Fetch resources",
+            "pull_request": true,
+            "created_at": "11/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231017T170536",
+            "closed_at": "17/10/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
             "issue": 44,
             "title": "DPM install: datapackage.json é criado mesmo se todas as fetch_resources forem inválidas.",
             "pull_request": false,
@@ -17430,6 +17599,21 @@
             "closed_at_year": 2023,
             "closed_at_month": 11,
             "assignee": "fjuniorr",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 42,
+            "title": "Altera padrão dos Data Descriptors para Toml",
+            "pull_request": true,
+            "created_at": "04/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231006T162627",
+            "closed_at": "06/10/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 10,
+            "assignee": null,
             "labels": null
         },
         {
@@ -17506,6 +17690,21 @@
             "closed_at": "23/10/2024",
             "closed_at_year": 2024,
             "closed_at_month": 10,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 34,
+            "title": "add argument to control case in as_identifier",
+            "pull_request": true,
+            "created_at": "26/08/2023",
+            "created_at_year": 2023,
+            "created_at_month": 8,
+            "updated_at": "20230826T013857",
+            "closed_at": "26/08/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": null
         },
@@ -17602,6 +17801,36 @@
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 26,
+            "title": "fix table write normalized",
+            "pull_request": true,
+            "created_at": "17/08/2023",
+            "created_at_year": 2023,
+            "created_at_month": 8,
+            "updated_at": "20230817T125602",
+            "closed_at": "17/08/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 25,
+            "title": "Instalação de repos privados, custom steps e data.yaml",
+            "pull_request": true,
+            "created_at": "16/08/2023",
+            "created_at_year": 2023,
+            "created_at_month": 8,
+            "updated_at": "20230816T190308",
+            "closed_at": "16/08/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": null
         },
@@ -17791,6 +18020,21 @@
         },
         {
             "repo": "splor-mg/dpm",
+            "issue": 10,
+            "title": "Implementa dpm install",
+            "pull_request": true,
+            "created_at": "26/05/2023",
+            "created_at_year": 2023,
+            "created_at_month": 5,
+            "updated_at": "20230605T164150",
+            "closed_at": "05/06/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 6,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpm",
             "issue": 9,
             "title": "Caminhos relativos errados ao salvar resources na raiz do projeto \"../../\"",
             "pull_request": false,
@@ -17880,6 +18124,21 @@
             "labels": [
                 "bug"
             ]
+        },
+        {
+            "repo": "splor-mg/dpm",
+            "issue": 3,
+            "title": "Adiciona dockerfile",
+            "pull_request": true,
+            "created_at": "12/05/2023",
+            "created_at_year": 2023,
+            "created_at_month": 5,
+            "updated_at": "20230518T201050",
+            "closed_at": "15/05/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 5,
+            "assignee": null,
+            "labels": null
         },
         {
             "repo": "splor-mg/dpm",
@@ -18182,10 +18441,10 @@
             "created_at": "27/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260427T172606",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260428T143017",
+            "closed_at": "28/04/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 4,
             "assignee": "raianecardoso",
             "labels": [
                 "chore"
@@ -20896,6 +21155,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 71,
+            "title": "Falha na execução do workflow em 2026-04-28T12:03:04Z",
+            "pull_request": false,
+            "created_at": "28/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260428T120304",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -24002,6 +24278,23 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 214,
+            "title": "Conteúdo do primeiro encontro",
+            "pull_request": true,
+            "created_at": "28/04/2026",
+            "created_at_year": 2026,
+            "created_at_month": 4,
+            "updated_at": "20260428T201349",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 213,
             "title": "Inclui conteúdo de aulas",
             "pull_request": true,
@@ -24108,7 +24401,7 @@
             "created_at": "24/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260427T165625",
+            "updated_at": "20260428T201817",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -24980,6 +25273,21 @@
             "labels": [
                 "new-feature"
             ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 142,
+            "title": "Adiciona conteúdo trilha dev python- aula 006.",
+            "pull_request": true,
+            "created_at": "12/01/2026",
+            "created_at_year": 2026,
+            "created_at_month": 1,
+            "updated_at": "20260112T185553",
+            "closed_at": "12/01/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 1,
+            "assignee": null,
+            "labels": null
         },
         {
             "repo": "splor-mg/trilha-dev",
