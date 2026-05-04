@@ -11033,6 +11033,21 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 40,
+            "title": "Sync template workflow failed on 2026-05-04T02:30:33",
+            "pull_request": false,
+            "created_at": "04/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260504T023035",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 39,
             "title": "awsrfgasdfgasfdg",
             "pull_request": false,
