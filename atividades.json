@@ -668,16 +668,33 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 231,
+            "title": "Aprender react.js - maio/2026",
+            "pull_request": false,
+            "created_at": "04/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260504T140703",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 229,
             "title": "Aprender react.js - abril/2026",
             "pull_request": false,
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260408T130847",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260504T133829",
+            "closed_at": "04/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": "raianecardoso",
             "labels": [
                 "bug"
@@ -6520,6 +6537,23 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 64,
+            "title": "[18/05/2026] Reunião 07 - Repasses e Alinhamentos",
+            "pull_request": false,
+            "created_at": "04/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260504T192706",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 63,
             "title": "Implementação MVP Banco ORM Django",
             "pull_request": true,
@@ -6543,10 +6577,10 @@
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260429T201150",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260504T195821",
+            "closed_at": "04/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": "carloshob",
             "labels": [
                 "documentation"
@@ -6560,10 +6594,10 @@
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260429T201716",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260504T192235",
+            "closed_at": "04/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": "carloshob",
             "labels": [
                 "meeting"
@@ -8529,6 +8563,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 151,
+            "title": "Falha na execução do workflow em 2026-05-04T11:20:56Z",
+            "pull_request": false,
+            "created_at": "04/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260504T112056",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -11033,6 +11084,24 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 41,
+            "title": "Criação de schema comum e recurso 'dados_aux_classificadores'",
+            "pull_request": true,
+            "created_at": "04/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260504T165831",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore",
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 40,
             "title": "Sync template workflow failed on 2026-05-04T02:30:33",
             "pull_request": false,
@@ -11368,11 +11437,11 @@
             "created_at": "27/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260410T211135",
+            "updated_at": "20260504T110844",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "mariaefod",
             "labels": [
                 "chore"
             ]
@@ -12651,6 +12720,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 42,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "04/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260504T113718",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -16804,7 +16890,7 @@
             "created_at": "15/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260430T192012",
+            "updated_at": "20260504T144839",
             "closed_at": "30/04/2026",
             "closed_at_year": 2026,
             "closed_at_month": 4,
@@ -22177,6 +22263,23 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 75,
+            "title": "Falha na execução do workflow em 2026-05-04T12:05:46Z",
+            "pull_request": false,
+            "created_at": "04/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260504T120546",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 74,
             "title": "Falha na execução do workflow em 2026-05-01T11:33:43Z",
             "pull_request": false,
@@ -24027,7 +24130,7 @@
             "created_at": "14/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260414T205713",
+            "updated_at": "20260504T194733",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -25663,6 +25766,40 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 217,
+            "title": "Registar os encontros online do Trilha dev Python - maio/2026",
+            "pull_request": false,
+            "created_at": "04/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260504T144057",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 216,
+            "title": "Organizar encontro presencial Trilha-dev: Python 22/05",
+            "pull_request": false,
+            "created_at": "04/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260504T143631",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 215,
             "title": "trilha-dev dados orçamentários",
             "pull_request": false,
@@ -26371,10 +26508,10 @@
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260316T182458",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260504T141057",
+            "closed_at": "04/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": null,
             "labels": null
         },
@@ -27983,7 +28120,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260430T191942",
+            "updated_at": "20260504T150336",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -28102,11 +28239,11 @@
             "created_at": "22/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20250828T190055",
+            "updated_at": "20260504T142106",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "brunohorosa",
+            "assignee": "LorenadeCastro",
             "labels": [
                 "documentation"
             ]
