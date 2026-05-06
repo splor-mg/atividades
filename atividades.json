@@ -8,7 +8,7 @@
             "created_at": "31/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260430T151459",
+            "updated_at": "20260505T182904",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -23,7 +23,7 @@
             "created_at": "13/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260430T153013",
+            "updated_at": "20260505T205850",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6537,6 +6537,91 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 69,
+            "title": "Ajustar validação da estrutura do código definida para União tendo em vista acréscimo de dígitos no Estado MG",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T205459",
+            "closed_at": "05/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "carloshob",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 68,
+            "title": "Implementação da lógica de validação de derivação do parent_item",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T205038",
+            "closed_at": "05/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 67,
+            "title": "Implementação de filtros usuais no gerenciamento dos itens de classificação",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T204732",
+            "closed_at": "05/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 66,
+            "title": "Ajuste nas funcionalidades da FK para valores ativos e vigentes",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T204424",
+            "closed_at": "05/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 65,
+            "title": "Ajuste de padrão de valor vazio para NULL em todas as tabelas seed e exportação",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T203929",
+            "closed_at": "05/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "carloshob",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 64,
             "title": "[18/05/2026] Reunião 07 - Repasses e Alinhamentos",
             "pull_request": false,
@@ -8563,6 +8648,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 152,
+            "title": "Falha na execução do workflow em 2026-05-05T10:59:14Z",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T105915",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -11085,12 +11187,12 @@
         {
             "repo": "splor-mg/dados-orcamentarios",
             "issue": 41,
-            "title": "Criação de schema comum e recurso 'dados_aux_classificadores'",
+            "title": "Criação de schema comum",
             "pull_request": true,
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260504T165831",
+            "updated_at": "20260505T175352",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -11437,7 +11539,7 @@
             "created_at": "27/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260504T110844",
+            "updated_at": "20260505T181626",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12720,6 +12822,23 @@
             "closed_at": "14/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-planejamento-2026",
+            "issue": 43,
+            "title": "Erro na execução do workflow",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T111514",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -19739,10 +19858,10 @@
             "created_at": "30/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260430T185103",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260505T144108",
+            "closed_at": "05/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": null,
             "labels": null
         },
@@ -19789,10 +19908,10 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260430T172122",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260505T144139",
+            "closed_at": "05/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": "LorenadeCastro",
             "labels": [
                 "documentation"
@@ -22260,6 +22379,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 76,
+            "title": "Falha na execução do workflow em 2026-05-05T11:39:27Z",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T113927",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -25766,6 +25902,123 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 224,
+            "title": "Desenvolver exercícios e teste automatizados",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T205034",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 223,
+            "title": "Aulas python",
+            "pull_request": true,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T200038",
+            "closed_at": "05/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 222,
+            "title": "03:50:47 Pypi and Pip",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T200226",
+            "closed_at": "05/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 221,
+            "title": "03:44:37 Working with Directories",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T200159",
+            "closed_at": "05/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 220,
+            "title": "03:36:22 Generating Random Values",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T200333",
+            "closed_at": "05/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 219,
+            "title": "03:30:12 Packages",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T200306",
+            "closed_at": "05/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 218,
+            "title": "03:19:33 Modules",
+            "pull_request": false,
+            "created_at": "05/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260505T200246",
+            "closed_at": "05/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 217,
             "title": "Registar os encontros online do Trilha dev Python - maio/2026",
             "pull_request": false,
@@ -25958,7 +26211,7 @@
             "created_at": "17/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260427T205248",
+            "updated_at": "20260505T195746",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -28120,7 +28373,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260504T150336",
+            "updated_at": "20260505T200334",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
