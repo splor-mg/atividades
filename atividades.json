@@ -8,7 +8,7 @@
             "created_at": "31/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260505T182904",
+            "updated_at": "20260506T114109",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6628,7 +6628,7 @@
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260504T192706",
+            "updated_at": "20260506T202602",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8648,6 +8648,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 153,
+            "title": "Falha na execução do workflow em 2026-05-06T11:24:17Z",
+            "pull_request": false,
+            "created_at": "06/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260506T112417",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -11187,12 +11204,12 @@
         {
             "repo": "splor-mg/dados-orcamentarios",
             "issue": 41,
-            "title": "Criação de schema comum",
+            "title": "Criação de schema comum e adição de 'dados_aux_classificacao'",
             "pull_request": true,
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260505T175352",
+            "updated_at": "20260506T121029",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -11539,7 +11556,7 @@
             "created_at": "27/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260505T181626",
+            "updated_at": "20260506T100128",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17291,6 +17308,40 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 35,
+            "title": "34 transform",
+            "pull_request": true,
+            "created_at": "06/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260506T142911",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 34,
+            "title": "Create the `etl transform` command",
+            "pull_request": false,
+            "created_at": "06/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260506T134131",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 33,
             "title": "Return the email msg object",
             "pull_request": false,
@@ -19852,6 +19903,24 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 174,
+            "title": "Criar post sobre acesso a vm e conexão com DB Datamart",
+            "pull_request": false,
+            "created_at": "06/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260506T140905",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 173,
             "title": "Adiciona páginas de linha do tempo (Datamart, Feed legislativo, Painéis e Volumes LOA)",
             "pull_request": true,
@@ -20842,10 +20911,10 @@
             "created_at": "13/06/2025",
             "created_at_year": 2025,
             "created_at_month": 6,
-            "updated_at": "20250616T140250",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260506T140711",
+            "closed_at": "06/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": null,
             "labels": null
         },
@@ -21000,10 +21069,10 @@
             "created_at": "16/05/2025",
             "created_at_year": 2025,
             "created_at_month": 5,
-            "updated_at": "20250613T142616",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260506T140645",
+            "closed_at": "06/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": null,
             "labels": null
         },
@@ -21519,7 +21588,7 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250403T203751",
+            "updated_at": "20260506T140455",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21534,7 +21603,7 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250716T205010",
+            "updated_at": "20260506T140444",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21549,7 +21618,7 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250716T204929",
+            "updated_at": "20260506T140429",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21564,7 +21633,7 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250714T191323",
+            "updated_at": "20260506T140417",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21579,7 +21648,7 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20250715T142443",
+            "updated_at": "20260506T140345",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -22022,7 +22091,7 @@
             "created_at": "18/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20250317T213339",
+            "updated_at": "20260506T140406",
             "closed_at": "17/03/2025",
             "closed_at_year": 2025,
             "closed_at_month": 3,
@@ -22379,6 +22448,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 77,
+            "title": "Falha na execução do workflow em 2026-05-06T12:10:03Z",
+            "pull_request": false,
+            "created_at": "06/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260506T121003",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -25899,6 +25985,23 @@
             "closed_at_month": 7,
             "assignee": "gabrielbdornas",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 225,
+            "title": "Guia de comandos",
+            "pull_request": true,
+            "created_at": "06/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260506T201157",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
