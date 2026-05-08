@@ -668,6 +668,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 232,
+            "title": "Manual de construção e manutenção de painéis Qlikview",
+            "pull_request": false,
+            "created_at": "07/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260507T203141",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 231,
             "title": "Aprender react.js - maio/2026",
             "pull_request": false,
@@ -8648,6 +8663,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 154,
+            "title": "Falha na execução do workflow em 2026-05-07T11:26:12Z",
+            "pull_request": false,
+            "created_at": "07/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260507T112612",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -19903,6 +19935,38 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 176,
+            "title": "Incluir link para Posts marcados para os projetos (Linha do tempo)",
+            "pull_request": false,
+            "created_at": "07/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260507T210848",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 175,
+            "title": "174 post banco datamart",
+            "pull_request": true,
+            "created_at": "07/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260507T210351",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 174,
             "title": "Criar post sobre acesso a vm e conexão com DB Datamart",
             "pull_request": false,
@@ -19927,7 +19991,7 @@
             "created_at": "30/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260505T144108",
+            "updated_at": "20260507T210648",
             "closed_at": "05/05/2026",
             "closed_at_year": 2026,
             "closed_at_month": 5,
@@ -21588,7 +21652,7 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20260506T140455",
+            "updated_at": "20260507T202326",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21603,12 +21667,15 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20260506T140444",
+            "updated_at": "20260507T202844",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "documentation",
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -21618,10 +21685,10 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20260506T140429",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260507T203003",
+            "closed_at": "07/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": null,
             "labels": null
         },
@@ -21633,10 +21700,10 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20260506T140417",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260507T202636",
+            "closed_at": "07/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": null,
             "labels": null
         },
@@ -21648,10 +21715,10 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20260506T140345",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260507T202558",
+            "closed_at": "07/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": null,
             "labels": null
         },
@@ -22091,7 +22158,7 @@
             "created_at": "18/02/2025",
             "created_at_year": 2025,
             "created_at_month": 2,
-            "updated_at": "20260506T140406",
+            "updated_at": "20260507T202624",
             "closed_at": "17/03/2025",
             "closed_at_year": 2025,
             "closed_at_month": 3,
@@ -22448,6 +22515,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 78,
+            "title": "Falha na execução do workflow em 2026-05-07T12:12:15Z",
+            "pull_request": false,
+            "created_at": "07/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260507T121215",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -25988,13 +26072,80 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 230,
+            "title": "Ajusta conteúdo sobre execução do Python e variáveis",
+            "pull_request": true,
+            "created_at": "07/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260507T181239",
+            "closed_at": "07/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 228,
+            "title": "Explicar melhor as regras para criação de variáveis em Python",
+            "pull_request": false,
+            "created_at": "07/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260507T181105",
+            "closed_at": "07/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 227,
+            "title": "Corrigir cachorrinho da aula 2",
+            "pull_request": false,
+            "created_at": "07/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260507T181104",
+            "closed_at": "07/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 226,
+            "title": "Fix heading formatting in Python execution lesson",
+            "pull_request": true,
+            "created_at": "07/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260507T140605",
+            "closed_at": "07/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 225,
             "title": "Guia de comandos",
             "pull_request": true,
             "created_at": "06/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260506T201157",
+            "updated_at": "20260507T210829",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
