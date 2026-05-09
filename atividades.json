@@ -774,10 +774,10 @@
             "created_at": "19/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260410T203534",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260508T174022",
+            "closed_at": "08/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": "LorenadeCastro",
             "labels": [
                 "documentation",
@@ -6643,7 +6643,7 @@
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260506T202602",
+            "updated_at": "20260508T194714",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8663,6 +8663,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 155,
+            "title": "Falha na execução do workflow em 2026-05-08T10:52:43Z",
+            "pull_request": false,
+            "created_at": "08/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260508T105244",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -11232,6 +11249,38 @@
             "closed_at_month": 3,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 43,
+            "title": "42 teste dpetl",
+            "pull_request": true,
+            "created_at": "08/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260508T175934",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 42,
+            "title": "Teste dos processos ETL com DPETL",
+            "pull_request": false,
+            "created_at": "08/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260508T175841",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
@@ -16848,6 +16897,21 @@
         },
         {
             "repo": "splor-mg/datamart",
+            "issue": 18,
+            "title": "1 inicia django",
+            "pull_request": true,
+            "created_at": "08/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260508T172710",
+            "closed_at": "08/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/datamart",
             "issue": 17,
             "title": "Criar tabelas do datapackage dados-armazem-siafi",
             "pull_request": false,
@@ -17111,7 +17175,7 @@
             "created_at": "15/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260415T184957",
+            "updated_at": "20260508T202948",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17337,6 +17401,40 @@
             "closed_at_month": 8,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 37,
+            "title": "36 load",
+            "pull_request": true,
+            "created_at": "08/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260508T180041",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 36,
+            "title": "Create the `etl load` command",
+            "pull_request": false,
+            "created_at": "08/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260508T165037",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
@@ -19677,10 +19775,10 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260430T161044",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260508T174125",
+            "closed_at": "08/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": "LorenadeCastro",
             "labels": [
                 "chore"
@@ -19941,7 +20039,7 @@
             "created_at": "07/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260507T210848",
+            "updated_at": "20260508T184348",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21667,7 +21765,7 @@
             "created_at": "12/03/2025",
             "created_at_year": 2025,
             "created_at_month": 3,
-            "updated_at": "20260507T202844",
+            "updated_at": "20260508T185144",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -22515,6 +22613,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 79,
+            "title": "Falha na execução do workflow em 2026-05-08T11:46:37Z",
+            "pull_request": false,
+            "created_at": "08/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260508T114638",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -26072,6 +26187,40 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 234,
+            "title": "Adiciona conteúdo segundo encontro",
+            "pull_request": true,
+            "created_at": "08/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260508T210453",
+            "closed_at": "08/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 233,
+            "title": "Registro do 2º encontro Trilha Dev Python",
+            "pull_request": false,
+            "created_at": "08/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260508T210452",
+            "closed_at": "08/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 230,
             "title": "Ajusta conteúdo sobre execução do Python e variáveis",
             "pull_request": true,
@@ -26162,10 +26311,10 @@
             "created_at": "05/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260505T205034",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260508T145552",
+            "closed_at": "08/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": "raianecardoso",
             "labels": [
                 "chore"
@@ -26279,7 +26428,7 @@
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260504T144057",
+            "updated_at": "20260508T173409",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -28627,7 +28776,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260505T200334",
+            "updated_at": "20260508T151909",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
