@@ -668,6 +668,24 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 233,
+            "title": "Criar processo de backup automático das máquinas Azure",
+            "pull_request": false,
+            "created_at": "09/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260509T182419",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 232,
             "title": "Manual de construção e manutenção de painéis Qlikview",
             "pull_request": false,
@@ -6643,7 +6661,7 @@
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260508T194714",
+            "updated_at": "20260509T231704",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
