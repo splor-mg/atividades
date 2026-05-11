@@ -11270,6 +11270,21 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 44,
+            "title": "Sync template workflow failed on 2026-05-11T02:44:24",
+            "pull_request": false,
+            "created_at": "11/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260511T024425",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 43,
             "title": "42 teste dpetl",
             "pull_request": true,
