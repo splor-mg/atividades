@@ -692,7 +692,7 @@
             "created_at": "07/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260511T161235",
+            "updated_at": "20260512T144117",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6661,7 +6661,7 @@
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260509T231704",
+            "updated_at": "20260513T010549",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8681,6 +8681,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 157,
+            "title": "Falha na execução do workflow em 2026-05-12T11:30:42Z",
+            "pull_request": false,
+            "created_at": "12/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260512T113042",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -11308,7 +11325,7 @@
             "created_at": "08/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260511T214822",
+            "updated_at": "20260512T131143",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -16842,6 +16859,24 @@
         },
         {
             "repo": "splor-mg/datamart",
+            "issue": 19,
+            "title": "Definir regras de segurança do Banco de dados",
+            "pull_request": false,
+            "created_at": "12/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260512T153123",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
             "issue": 18,
             "title": "1 inicia django",
             "pull_request": true,
@@ -17120,7 +17155,7 @@
             "created_at": "15/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260508T202948",
+            "updated_at": "20260512T144305",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -20051,12 +20086,14 @@
             "created_at": "11/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260511T203356",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20260512T210924",
+            "closed_at": "12/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -20066,10 +20103,10 @@
             "created_at": "07/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260511T203704",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260512T210924",
+            "closed_at": "12/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": "LorenadeCastro",
             "labels": null
         },
@@ -20081,10 +20118,10 @@
             "created_at": "07/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260511T180309",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260512T153210",
+            "closed_at": "12/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": "gabrielbdornas",
             "labels": [
                 "documentation"
@@ -22643,6 +22680,23 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 81,
+            "title": "Falha na execução do workflow em 2026-05-12T12:18:19Z",
+            "pull_request": false,
+            "created_at": "12/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260512T121819",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 80,
             "title": "Falha na execução do workflow em 2026-05-11T12:50:05Z",
             "pull_request": false,
@@ -24595,7 +24649,7 @@
             "created_at": "14/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260511T160629",
+            "updated_at": "20260512T172736",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -26338,7 +26392,7 @@
             "created_at": "06/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260511T210510",
+            "updated_at": "20260512T163926",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -26489,7 +26543,7 @@
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260504T143631",
+            "updated_at": "20260512T184446",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
