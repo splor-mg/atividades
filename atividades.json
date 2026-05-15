@@ -564,6 +564,21 @@
         },
         {
             "repo": "splor-mg/apresentacoes",
+            "issue": 8,
+            "title": "docs(slides): add apresentacao automatiza raiane",
+            "pull_request": true,
+            "created_at": "14/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260514T205315",
+            "closed_at": "14/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/apresentacoes",
             "issue": 7,
             "title": "Criar apresentação sobre metodologia AID de controle de tarefas",
             "pull_request": false,
@@ -6661,7 +6676,7 @@
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260513T010549",
+            "updated_at": "20260514T171306",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8681,6 +8696,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 159,
+            "title": "Falha na execução do workflow em 2026-05-14T11:25:33Z",
+            "pull_request": false,
+            "created_at": "14/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260514T112533",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -11327,12 +11359,14 @@
             "created_at": "08/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260511T201859",
+            "updated_at": "20260514T170543",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
@@ -16876,6 +16910,39 @@
         },
         {
             "repo": "splor-mg/datamart",
+            "issue": 24,
+            "title": "refactor: compatibiliza models do classificador com o repo dados-orcatarios",
+            "pull_request": true,
+            "created_at": "14/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260514T185315",
+            "closed_at": "14/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 23,
+            "title": "Estudo e definição da estrutura do datamart",
+            "pull_request": false,
+            "created_at": "14/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260514T185120",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
+            "labels": [
+                "new-feature",
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
             "issue": 22,
             "title": "App armazem siafi",
             "pull_request": true,
@@ -17607,7 +17674,7 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260511T172259",
+            "updated_at": "20260514T172854",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -20197,10 +20264,10 @@
             "created_at": "06/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260506T140905",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260514T150845",
+            "closed_at": "14/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": "raianecardoso",
             "labels": [
                 "documentation",
@@ -22739,6 +22806,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 83,
+            "title": "Falha na execução do workflow em 2026-05-14T12:06:10Z",
+            "pull_request": false,
+            "created_at": "14/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260514T120610",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -26364,6 +26448,24 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 235,
+            "title": "Novas transcrições das aulas",
+            "pull_request": true,
+            "created_at": "14/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260514T210148",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 234,
             "title": "Adiciona conteúdo segundo encontro",
             "pull_request": true,
@@ -26471,7 +26573,7 @@
             "created_at": "06/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260512T163926",
+            "updated_at": "20260514T145925",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -26791,7 +26893,7 @@
             "created_at": "17/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260505T195746",
+            "updated_at": "20260514T210400",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
