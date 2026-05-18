@@ -26496,6 +26496,21 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/testes-ferramentas",
+            "issue": 1,
+            "title": "Sync template workflow failed on 2026-05-18T04:23:28",
+            "pull_request": false,
+            "created_at": "18/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260518T042329",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
             "repo": "splor-mg/trilha-dev",
             "issue": 236,
             "title": "Registro do terceiro encontro",
