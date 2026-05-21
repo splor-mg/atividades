@@ -8714,6 +8714,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 163,
+            "title": "Falha na execução do workflow em 2026-05-20T12:06:33Z",
+            "pull_request": false,
+            "created_at": "20/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260520T120634",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 162,
             "title": "Falha na execução do workflow em 2026-05-19T12:24:40Z",
             "pull_request": false,
@@ -20260,6 +20277,40 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 181,
+            "title": "Definir processo de atualização da linha do tempo de projetos",
+            "pull_request": false,
+            "created_at": "20/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260520T155410",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mathpitanguy",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 180,
+            "title": "Adiciona o projeto Capacitações na Linha do Tempo, fix #176",
+            "pull_request": true,
+            "created_at": "20/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260520T132802",
+            "closed_at": "20/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 179,
             "title": "fix: padroniza nome da imagem cooperacao.png, fix #178",
             "pull_request": true,
@@ -20415,8 +20466,8 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260519T201415",
-            "closed_at": "05/05/2026",
+            "updated_at": "20260520T155415",
+            "closed_at": "20/05/2026",
             "closed_at_year": 2026,
             "closed_at_month": 5,
             "assignee": "LorenadeCastro",
@@ -22889,6 +22940,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 87,
+            "title": "Falha na execução do workflow em 2026-05-20T12:39:30Z",
+            "pull_request": false,
+            "created_at": "20/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260520T123931",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -26773,7 +26841,7 @@
             "created_at": "06/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260518T204752",
+            "updated_at": "20260520T204044",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
