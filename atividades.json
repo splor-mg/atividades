@@ -6600,6 +6600,23 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 71,
+            "title": "25/05/2026] Reunião 08 - Operacionalização do MVP - 1",
+            "pull_request": false,
+            "created_at": "22/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260522T184811",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 69,
             "title": "Ajustar validação da estrutura do código definida para União tendo em vista acréscimo de dígitos no Estado MG",
             "pull_request": false,
@@ -6691,7 +6708,7 @@
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260519T205207",
+            "updated_at": "20260522T184611",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8711,6 +8728,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 165,
+            "title": "Falha na execução do workflow em 2026-05-22T12:03:38Z",
+            "pull_request": false,
+            "created_at": "22/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260522T120338",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -17720,7 +17754,7 @@
             "created_at": "06/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260521T173712",
+            "updated_at": "20260522T102140",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -22975,6 +23009,23 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 89,
+            "title": "Falha na execução do workflow em 2026-05-22T12:35:12Z",
+            "pull_request": false,
+            "created_at": "22/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260522T123512",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 88,
             "title": "Falha na execução do workflow em 2026-05-21T13:32:30Z",
             "pull_request": false,
@@ -26711,6 +26762,24 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 240,
+            "title": "Adiciona conteúdo do quarto encontro",
+            "pull_request": true,
+            "created_at": "22/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260522T165752",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
