@@ -6600,16 +6600,33 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 72,
+            "title": "[28/05/2026] Reunião 09 - Operacionalização do MLP - 2",
+            "pull_request": false,
+            "created_at": "27/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260527T183153",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 71,
-            "title": "25/05/2026] Reunião 08 - Operacionalização do MLP - 1",
+            "title": "[25/05/2026] Reunião 08 - Operacionalização do MLP - 1",
             "pull_request": false,
             "created_at": "22/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260525T195814",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260527T182207",
+            "closed_at": "27/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": "carloshob",
             "labels": [
                 "meeting"
@@ -6708,7 +6725,7 @@
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260525T173539",
+            "updated_at": "20260527T174751",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -6759,7 +6776,7 @@
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260504T192235",
+            "updated_at": "20260527T174522",
             "closed_at": "04/05/2026",
             "closed_at_year": 2026,
             "closed_at_month": 5,
@@ -6793,7 +6810,7 @@
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260316T171915",
+            "updated_at": "20260527T174340",
             "closed_at": "16/03/2026",
             "closed_at_year": 2026,
             "closed_at_month": 3,
@@ -6810,7 +6827,7 @@
             "created_at": "26/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260306T190522",
+            "updated_at": "20260527T174136",
             "closed_at": "06/03/2026",
             "closed_at_year": 2026,
             "closed_at_month": 3,
@@ -6827,7 +6844,7 @@
             "created_at": "26/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260226T202847",
+            "updated_at": "20260527T173817",
             "closed_at": "26/02/2026",
             "closed_at_year": 2026,
             "closed_at_month": 2,
@@ -6978,7 +6995,7 @@
             "created_at": "05/12/2025",
             "created_at_year": 2025,
             "created_at_month": 12,
-            "updated_at": "20251205T164713",
+            "updated_at": "20260527T183240",
             "closed_at": "05/12/2025",
             "closed_at_year": 2025,
             "closed_at_month": 12,
@@ -8728,6 +8745,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 167,
+            "title": "Falha na execução do workflow em 2026-05-27T12:40:10Z",
+            "pull_request": false,
+            "created_at": "27/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260527T124010",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -14268,6 +14302,23 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2026",
+            "issue": 45,
+            "title": "Falha na execução do workflow em 2026-05-27T12:48:34Z",
+            "pull_request": false,
+            "created_at": "27/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260527T124835",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
             "issue": 44,
             "title": "40 erro pkg resources",
             "pull_request": true,
@@ -14680,6 +14731,23 @@
             "closed_at_month": 3,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 117,
+            "title": "Falha na execução do workflow em 2026-05-27T12:47:43Z",
+            "pull_request": false,
+            "created_at": "27/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260527T124743",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
@@ -16976,7 +17044,7 @@
             "created_at": "15/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260415T190043",
+            "updated_at": "20260527T181928",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -16994,10 +17062,10 @@
             "created_at": "15/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260415T185022",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260527T150944",
+            "closed_at": "27/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": "raianecardoso",
             "labels": [
                 "chore",
@@ -17404,7 +17472,7 @@
             "created_at": "06/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260525T204947",
+            "updated_at": "20260527T100851",
             "closed_at": "25/05/2026",
             "closed_at_year": 2026,
             "closed_at_month": 5,
@@ -20005,6 +20073,21 @@
             "closed_at": "22/07/2025",
             "closed_at_year": 2025,
             "closed_at_month": 7,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 183,
+            "title": "Detalhamento datamart",
+            "pull_request": true,
+            "created_at": "27/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260527T150316",
+            "closed_at": "27/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": null,
             "labels": null
         },
@@ -22688,6 +22771,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 91,
+            "title": "Falha na execução do workflow em 2026-05-27T13:49:07Z",
+            "pull_request": false,
+            "created_at": "27/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260527T134907",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -25378,11 +25478,11 @@
             "created_at": "25/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260526T143450",
+            "updated_at": "20260527T210458",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "labanca",
             "labels": null
         },
         {
@@ -26098,6 +26198,21 @@
         },
         {
             "repo": "splor-mg/siafi-automacao-cota",
+            "issue": 2,
+            "title": "Rodar processo no actions",
+            "pull_request": false,
+            "created_at": "27/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260527T221030",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/siafi-automacao-cota",
             "issue": 1,
             "title": "Criar código de extração de dados",
             "pull_request": false,
@@ -26464,6 +26579,41 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 243,
+            "title": "Negrita texto da guia git",
+            "pull_request": true,
+            "created_at": "27/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260527T222943",
+            "closed_at": "27/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 242,
+            "title": "Corrigir caminho dos links do Trilha Dev",
+            "pull_request": false,
+            "created_at": "27/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260527T200927",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 240,
             "title": "Adiciona conteúdo do quarto encontro",
             "pull_request": true,
@@ -26809,10 +26959,10 @@
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260526T162121",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260527T193619",
+            "closed_at": "27/05/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 5,
             "assignee": "LorenadeCastro",
             "labels": [
                 "chore"
