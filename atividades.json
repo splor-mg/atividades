@@ -8748,6 +8748,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 169,
+            "title": "Falha na execução do workflow em 2026-05-29T12:31:00Z",
+            "pull_request": false,
+            "created_at": "29/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260529T123101",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 168,
             "title": "Falha na execução do workflow em 2026-05-28T12:48:04Z",
             "pull_request": false,
@@ -22789,6 +22806,23 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 93,
+            "title": "Falha na execução do workflow em 2026-05-29T13:33:14Z",
+            "pull_request": false,
+            "created_at": "29/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260529T133314",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 92,
             "title": "Falha na execução do workflow em 2026-05-28T14:06:38Z",
             "pull_request": false,
@@ -26236,7 +26270,7 @@
             "created_at": "27/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260528T203313",
+            "updated_at": "20260529T170256",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -27365,7 +27399,7 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260528T163217",
+            "updated_at": "20260529T185249",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
