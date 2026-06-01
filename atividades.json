@@ -26615,6 +26615,21 @@
         },
         {
             "repo": "splor-mg/testes-ferramentas",
+            "issue": 3,
+            "title": "Sync template workflow failed on 2026-06-01T05:06:55",
+            "pull_request": false,
+            "created_at": "01/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260601T050657",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/testes-ferramentas",
             "issue": 2,
             "title": "Sync template workflow failed on 2026-05-25T04:44:11",
             "pull_request": false,
