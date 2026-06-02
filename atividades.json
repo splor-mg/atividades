@@ -698,6 +698,23 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 234,
+            "title": "Aprender react.js - junho/26",
+            "pull_request": false,
+            "created_at": "01/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260601T141259",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 233,
             "title": "Criar processo de backup automático das máquinas Azure",
             "pull_request": false,
@@ -737,10 +754,10 @@
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260521T203711",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260601T141327",
+            "closed_at": "01/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
                 "chore"
@@ -6606,11 +6623,11 @@
             "created_at": "27/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260528T201848",
+            "updated_at": "20260601T183350",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "carloshob",
             "labels": [
                 "meeting"
             ]
@@ -6725,10 +6742,10 @@
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260527T174751",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260601T144903",
+            "closed_at": "01/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "carloshob",
             "labels": [
                 "meeting"
@@ -7129,10 +7146,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260304T195744",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260601T144836",
+            "closed_at": "01/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7537,10 +7554,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251128T194922",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260601T192751",
+            "closed_at": "01/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7707,7 +7724,7 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260119T192232",
+            "updated_at": "20260601T191405",
             "closed_at": "19/01/2026",
             "closed_at_year": 2026,
             "closed_at_month": 1,
@@ -7775,7 +7792,7 @@
             "created_at": "10/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20260331T192901",
+            "updated_at": "20260601T192752",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8745,6 +8762,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 170,
+            "title": "Falha na execução do workflow em 2026-06-01T15:39:38Z",
+            "pull_request": false,
+            "created_at": "01/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260601T153939",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -22806,6 +22840,23 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 94,
+            "title": "Falha na execução do workflow em 2026-06-01T16:18:04Z",
+            "pull_request": false,
+            "created_at": "01/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260601T161804",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 93,
             "title": "Falha na execução do workflow em 2026-05-29T13:33:14Z",
             "pull_request": false,
@@ -24979,10 +25030,10 @@
             "created_at": "14/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260513T174211",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260601T180841",
+            "closed_at": "01/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "mathpitanguy",
             "labels": [
                 "chore",
@@ -26270,7 +26321,7 @@
             "created_at": "27/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260529T170256",
+            "updated_at": "20260601T202101",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -27414,7 +27465,7 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260529T185249",
+            "updated_at": "20260601T142637",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -29407,7 +29458,7 @@
             "created_at": "28/08/2025",
             "created_at_year": 2025,
             "created_at_month": 8,
-            "updated_at": "20260521T200219",
+            "updated_at": "20260601T135540",
             "closed_at": "21/05/2026",
             "closed_at_year": 2026,
             "closed_at_month": 5,
