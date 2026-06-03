@@ -23,10 +23,10 @@
             "created_at": "13/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260505T205850",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260602T161911",
+            "closed_at": "02/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "mathpitanguy",
             "labels": [
                 "documentation"
@@ -8762,6 +8762,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 171,
+            "title": "Falha na execução do workflow em 2026-06-02T12:55:30Z",
+            "pull_request": false,
+            "created_at": "02/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260602T125530",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -22840,6 +22857,23 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 95,
+            "title": "Falha na execução do workflow em 2026-06-02T14:31:47Z",
+            "pull_request": false,
+            "created_at": "02/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260602T143147",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 94,
             "title": "Falha na execução do workflow em 2026-06-01T16:18:04Z",
             "pull_request": false,
@@ -26321,7 +26355,7 @@
             "created_at": "27/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260601T202101",
+            "updated_at": "20260602T141709",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -26708,6 +26742,24 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 247,
+            "title": "Adiciona fluxo de trabalho completo",
+            "pull_request": true,
+            "created_at": "02/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260602T222733",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -27465,7 +27517,7 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260601T142637",
+            "updated_at": "20260602T141539",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
