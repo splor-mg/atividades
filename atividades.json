@@ -579,6 +579,23 @@
         },
         {
             "repo": "splor-mg/apresentacoes",
+            "issue": 9,
+            "title": "Criar apresentação para o Python Sudeste",
+            "pull_request": false,
+            "created_at": "03/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260603T145140",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/apresentacoes",
             "issue": 8,
             "title": "docs(slides): add apresentacao automatiza raiane",
             "pull_request": true,
@@ -8765,6 +8782,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 172,
+            "title": "Falha na execução do workflow em 2026-06-03T14:12:03Z",
+            "pull_request": false,
+            "created_at": "03/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260603T141204",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 171,
             "title": "Falha na execução do workflow em 2026-06-02T12:55:30Z",
             "pull_request": false,
@@ -14817,6 +14851,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 118,
+            "title": "Falha na execução do workflow em 2026-06-03T14:18:34Z",
+            "pull_request": false,
+            "created_at": "03/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260603T141834",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 117,
             "title": "Falha na execução do workflow em 2026-05-27T12:47:43Z",
             "pull_request": false,
@@ -16786,6 +16837,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 26,
+            "title": "Linktable",
+            "pull_request": false,
+            "created_at": "03/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260603T182354",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/datamart",
@@ -19814,18 +19882,37 @@
         },
         {
             "repo": "splor-mg/exercicios-python",
+            "issue": 18,
+            "title": "Criar novo exercícios",
+            "pull_request": false,
+            "created_at": "03/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260603T140932",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/exercicios-python",
             "issue": 17,
             "title": "Criar badge de testes",
             "pull_request": false,
             "created_at": "15/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260515T131847",
+            "updated_at": "20260603T142227",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/exercicios-python",
@@ -22854,6 +22941,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 96,
+            "title": "Falha na execução do workflow em 2026-06-03T15:04:42Z",
+            "pull_request": false,
+            "created_at": "03/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260603T150442",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -26745,13 +26849,30 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 248,
+            "title": "Registar os encontros online do Trilha dev Python - junho/2026",
+            "pull_request": false,
+            "created_at": "03/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260603T141428",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 247,
             "title": "Adiciona fluxo de trabalho completo",
             "pull_request": true,
             "created_at": "02/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260602T222733",
+            "updated_at": "20260603T190053",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -27517,7 +27638,7 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260602T141539",
+            "updated_at": "20260603T142108",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -29228,11 +29349,11 @@
             "created_at": "09/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250909T163511",
+            "updated_at": "20260603T142335",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "LorenadeCastro",
             "labels": [
                 "chore"
             ]
