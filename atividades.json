@@ -8782,6 +8782,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 173,
+            "title": "Falha na execução do workflow em 2026-06-04T12:26:27Z",
+            "pull_request": false,
+            "created_at": "04/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260604T122628",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 172,
             "title": "Falha na execução do workflow em 2026-06-03T14:12:03Z",
             "pull_request": false,
@@ -22941,6 +22958,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 97,
+            "title": "Falha na execução do workflow em 2026-06-04T13:31:33Z",
+            "pull_request": false,
+            "created_at": "04/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260604T133134",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
