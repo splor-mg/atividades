@@ -8,10 +8,10 @@
             "created_at": "31/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260506T114109",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260608T163747",
+            "closed_at": "08/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": null,
             "labels": null
         },
@@ -40,10 +40,10 @@
             "created_at": "13/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260430T151653",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260608T163739",
+            "closed_at": "08/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "mathpitanguy",
             "labels": [
                 "documentation",
@@ -58,10 +58,10 @@
             "created_at": "13/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260430T151940",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260608T163738",
+            "closed_at": "08/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "mathpitanguy",
             "labels": [
                 "documentation",
@@ -6634,16 +6634,50 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 74,
+            "title": "[15/06/2026] Reunião 11 - Operacionalização do MLP - 4",
+            "pull_request": false,
+            "created_at": "08/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260608T193439",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 73,
+            "title": "[08/06/2026] Reunião 10 - Operacionalização do MLP - 3",
+            "pull_request": false,
+            "created_at": "08/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260608T193403",
+            "closed_at": "08/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
+            "assignee": "carloshob",
+            "labels": [
+                "meeting"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 72,
             "title": "[01/06/2026] Reunião 09 - Operacionalização do MLP - 2",
             "pull_request": false,
             "created_at": "27/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260601T183350",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260608T193118",
+            "closed_at": "08/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "carloshob",
             "labels": [
                 "meeting"
@@ -6657,7 +6691,7 @@
             "created_at": "22/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260527T182207",
+            "updated_at": "20260608T191121",
             "closed_at": "27/05/2026",
             "closed_at_year": 2026,
             "closed_at_month": 5,
@@ -6759,7 +6793,7 @@
             "created_at": "04/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260601T144903",
+            "updated_at": "20260608T191158",
             "closed_at": "01/06/2026",
             "closed_at_year": 2026,
             "closed_at_month": 6,
@@ -6810,7 +6844,7 @@
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260527T174522",
+            "updated_at": "20260608T191219",
             "closed_at": "04/05/2026",
             "closed_at_year": 2026,
             "closed_at_month": 5,
@@ -6844,7 +6878,7 @@
             "created_at": "06/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260528T182831",
+            "updated_at": "20260608T191250",
             "closed_at": "16/03/2026",
             "closed_at_year": 2026,
             "closed_at_month": 3,
@@ -6878,7 +6912,7 @@
             "created_at": "26/02/2026",
             "created_at_year": 2026,
             "created_at_month": 2,
-            "updated_at": "20260527T173817",
+            "updated_at": "20260608T191337",
             "closed_at": "26/02/2026",
             "closed_at_year": 2026,
             "closed_at_month": 2,
@@ -7248,10 +7282,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260113T173703",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260608T152946",
+            "closed_at": "08/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7265,10 +7299,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20251128T202300",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260608T152837",
+            "closed_at": "08/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7316,10 +7350,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260113T173656",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260608T152540",
+            "closed_at": "08/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7384,10 +7418,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260113T173655",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260608T152718",
+            "closed_at": "08/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7401,10 +7435,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260113T173659",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260608T152408",
+            "closed_at": "08/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7435,10 +7469,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260113T173704",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260608T152305",
+            "closed_at": "08/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7452,10 +7486,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260113T173656",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260608T152153",
+            "closed_at": "08/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7809,7 +7843,7 @@
             "created_at": "10/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20260601T192752",
+            "updated_at": "20260608T152947",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -8779,6 +8813,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 175,
+            "title": "Falha na execução do workflow em 2026-06-08T13:49:54Z",
+            "pull_request": false,
+            "created_at": "08/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260608T134954",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
@@ -14448,176 +14499,6 @@
             "closed_at": "08/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 56,
-            "title": "Falha na execução do workflow em 2026-06-05T21:06:22Z",
-            "pull_request": false,
-            "created_at": "05/06/2026",
-            "created_at_year": 2026,
-            "created_at_month": 6,
-            "updated_at": "20260605T210623",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 55,
-            "title": "Falha na execução do workflow em 2026-06-05T17:41:21Z",
-            "pull_request": false,
-            "created_at": "05/06/2026",
-            "created_at_year": 2026,
-            "created_at_month": 6,
-            "updated_at": "20260605T174121",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 54,
-            "title": "Falha na execução do workflow em 2026-06-05T17:40:23Z",
-            "pull_request": false,
-            "created_at": "05/06/2026",
-            "created_at_year": 2026,
-            "created_at_month": 6,
-            "updated_at": "20260605T174023",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 53,
-            "title": "Falha na execução do workflow em 2026-06-05T17:37:42Z",
-            "pull_request": false,
-            "created_at": "05/06/2026",
-            "created_at_year": 2026,
-            "created_at_month": 6,
-            "updated_at": "20260605T173743",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 52,
-            "title": "Falha na execução do workflow em 2026-06-05T17:27:10Z",
-            "pull_request": false,
-            "created_at": "05/06/2026",
-            "created_at_year": 2026,
-            "created_at_month": 6,
-            "updated_at": "20260605T172710",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 51,
-            "title": "Falha na execução do workflow em 2026-06-05T17:16:45Z",
-            "pull_request": false,
-            "created_at": "05/06/2026",
-            "created_at_year": 2026,
-            "created_at_month": 6,
-            "updated_at": "20260605T171646",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 50,
-            "title": "Falha na execução do workflow em 2026-06-05T15:52:52Z",
-            "pull_request": false,
-            "created_at": "05/06/2026",
-            "created_at_year": 2026,
-            "created_at_month": 6,
-            "updated_at": "20260605T155253",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 49,
-            "title": "Falha na execução do workflow em 2026-06-05T15:12:49Z",
-            "pull_request": false,
-            "created_at": "05/06/2026",
-            "created_at_year": 2026,
-            "created_at_month": 6,
-            "updated_at": "20260605T151249",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 48,
-            "title": "Falha na execução do workflow em 2026-06-05T15:09:58Z",
-            "pull_request": false,
-            "created_at": "05/06/2026",
-            "created_at_year": 2026,
-            "created_at_month": 6,
-            "updated_at": "20260605T150959",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "bug"
-            ]
-        },
-        {
-            "repo": "splor-mg/dados-sisor-2026",
-            "issue": 47,
-            "title": "Falha na execução do workflow em 2026-06-05T14:58:13Z",
-            "pull_request": false,
-            "created_at": "05/06/2026",
-            "created_at_year": 2026,
-            "created_at_month": 6,
-            "updated_at": "20260605T145814",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
             "assignee": null,
             "labels": [
                 "bug"
@@ -26691,13 +26572,28 @@
         },
         {
             "repo": "splor-mg/siafi-automacao-cota",
+            "issue": 3,
+            "title": "Rodar processo no servidor",
+            "pull_request": false,
+            "created_at": "08/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260608T184351",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/siafi-automacao-cota",
             "issue": 2,
             "title": "Rodar processo no actions",
             "pull_request": false,
             "created_at": "27/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260605T214032",
+            "updated_at": "20260608T185104",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -27102,6 +26998,42 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 250,
+            "title": "Adiciona teste com novas inserções na transcrição da aula",
+            "pull_request": true,
+            "created_at": "08/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260608T210958",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 249,
+            "title": "Adiciona plugin para abertura de link externo",
+            "pull_request": true,
+            "created_at": "08/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260608T195741",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 248,
             "title": "Registar os encontros online do Trilha dev Python - junho/2026",
             "pull_request": false,
@@ -27125,10 +27057,10 @@
             "created_at": "02/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260603T190053",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260608T142039",
+            "closed_at": "08/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
                 "chore",
