@@ -27004,13 +27004,12 @@
             "created_at": "08/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260608T210958",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260609T184150",
+            "closed_at": "09/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
-                "chore",
                 "documentation"
             ]
         },
@@ -27022,14 +27021,13 @@
             "created_at": "08/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260608T195741",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260609T182336",
+            "closed_at": "09/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
-                "chore",
-                "documentation"
+                "new-feature"
             ]
         },
         {
@@ -27823,7 +27821,7 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260603T142108",
+            "updated_at": "20260609T190118",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -29534,10 +29532,10 @@
             "created_at": "09/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20260603T142335",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260609T180849",
+            "closed_at": "09/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "LorenadeCastro",
             "labels": [
                 "chore"
