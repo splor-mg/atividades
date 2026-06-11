@@ -585,7 +585,7 @@
             "created_at": "03/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260603T145140",
+            "updated_at": "20260610T180829",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -721,7 +721,7 @@
             "created_at": "01/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260601T141259",
+            "updated_at": "20260610T200554",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -19967,13 +19967,31 @@
         },
         {
             "repo": "splor-mg/exercicios-python",
+            "issue": 19,
+            "title": "Exercícios do mês de junho",
+            "pull_request": true,
+            "created_at": "10/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260610T204308",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/exercicios-python",
             "issue": 18,
             "title": "Criar novo exercícios",
             "pull_request": false,
             "created_at": "03/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260603T140932",
+            "updated_at": "20260610T204434",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -20330,6 +20348,23 @@
             "closed_at_month": 7,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 184,
+            "title": "Nova página do Handbook: nomenclatura_azure.md",
+            "pull_request": true,
+            "created_at": "11/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260611T010848",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "labanca",
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -27821,7 +27856,7 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260609T190118",
+            "updated_at": "20260610T174038",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
