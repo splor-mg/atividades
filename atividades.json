@@ -14936,6 +14936,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 119,
+            "title": "Falha na execução do workflow em 2026-06-12T12:47:55Z",
+            "pull_request": false,
+            "created_at": "12/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260612T124755",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 118,
             "title": "Falha na execução do workflow em 2026-06-03T14:18:34Z",
             "pull_request": false,
@@ -19991,7 +20008,7 @@
             "created_at": "10/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260611T154718",
+            "updated_at": "20260612T202631",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -20375,12 +20392,14 @@
             "created_at": "11/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260611T150741",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20260612T200814",
+            "closed_at": "12/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
+            "assignee": "raianecardoso",
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -20390,10 +20409,10 @@
             "created_at": "11/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260611T152103",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260612T200653",
+            "closed_at": "12/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "mathpitanguy",
             "labels": [
                 "chore"
@@ -25372,8 +25391,8 @@
             "created_at": "14/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260601T180841",
-            "closed_at": "01/06/2026",
+            "updated_at": "20260612T170543",
+            "closed_at": "12/06/2026",
             "closed_at_year": 2026,
             "closed_at_month": 6,
             "assignee": "mathpitanguy",
@@ -26657,6 +26676,21 @@
         },
         {
             "repo": "splor-mg/siafi-automacao-cota",
+            "issue": 4,
+            "title": "feat: launcher WSL para execucao do robo SIAFI com duplo-clique",
+            "pull_request": true,
+            "created_at": "13/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260613T015459",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/siafi-automacao-cota",
             "issue": 3,
             "title": "Rodar processo no servidor",
             "pull_request": false,
@@ -27080,6 +27114,24 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 251,
+            "title": "Adiciona o registro do sexto encontro",
+            "pull_request": true,
+            "created_at": "12/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260612T175922",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
