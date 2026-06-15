@@ -26682,7 +26682,7 @@
             "created_at": "13/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260613T193636",
+            "updated_at": "20260614T144358",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -27053,6 +27053,21 @@
             "closed_at_year": 2025,
             "closed_at_month": 7,
             "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/testes-ferramentas",
+            "issue": 5,
+            "title": "Sync template workflow failed on 2026-06-15T05:20:19",
+            "pull_request": false,
+            "created_at": "15/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260615T052021",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
             "labels": null
         },
         {
