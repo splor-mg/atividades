@@ -20007,14 +20007,13 @@
             "created_at": "11/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260611T213851",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260616T195426",
+            "closed_at": "16/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "raianecardoso",
             "labels": [
-                "chore",
-                "documentation"
+                "new-feature"
             ]
         },
         {
@@ -20025,7 +20024,7 @@
             "created_at": "10/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260615T184225",
+            "updated_at": "20260616T211907",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -20060,10 +20059,10 @@
             "created_at": "15/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260603T142227",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260616T205511",
+            "closed_at": "16/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
             "assignee": "LorenadeCastro",
             "labels": [
                 "chore"
