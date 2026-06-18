@@ -19984,6 +19984,21 @@
         },
         {
             "repo": "splor-mg/exercicios-python",
+            "issue": 22,
+            "title": "Ajusta implementação de badge.",
+            "pull_request": true,
+            "created_at": "17/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260617T134226",
+            "closed_at": "17/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/exercicios-python",
             "issue": 21,
             "title": "Ajustes exercicios",
             "pull_request": true,
@@ -20024,14 +20039,13 @@
             "created_at": "10/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260616T211907",
+            "updated_at": "20260617T142935",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "raianecardoso",
+            "assignee": null,
             "labels": [
-                "chore",
-                "documentation"
+                "new-feature"
             ]
         },
         {
@@ -20059,7 +20073,7 @@
             "created_at": "15/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260616T205511",
+            "updated_at": "20260617T134826",
             "closed_at": "16/06/2026",
             "closed_at_year": 2026,
             "closed_at_month": 6,
@@ -27175,6 +27189,40 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 253,
+            "title": "Apresentar proposta de banco de projetos em Python",
+            "pull_request": false,
+            "created_at": "17/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260617T155632",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mathpitanguy",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 252,
+            "title": "Propor projeto/ desafio final do Trilha -dev Python",
+            "pull_request": false,
+            "created_at": "17/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260617T140309",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mathpitanguy",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
