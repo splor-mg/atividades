@@ -3905,6 +3905,74 @@
         },
         {
             "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 90,
+            "title": "Falha na execução do workflow em 2026-06-19T20:57:20Z",
+            "pull_request": false,
+            "created_at": "19/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260619T205721",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 89,
+            "title": "Falha na execução do workflow em 2026-06-19T20:50:00Z",
+            "pull_request": false,
+            "created_at": "19/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260619T205000",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 88,
+            "title": "Falha na execução do workflow em 2026-06-19T20:47:09Z",
+            "pull_request": false,
+            "created_at": "19/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260619T204709",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
+            "issue": 87,
+            "title": "Falha na execução do workflow em 2026-06-19T20:14:21Z",
+            "pull_request": false,
+            "created_at": "19/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260619T201421",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/aux-agrupamento-dcmefo",
             "issue": 86,
             "title": "Falha na execução do workflow em 2025-08-05T18:53:23Z",
             "pull_request": false,
@@ -11323,7 +11391,7 @@
             "created_at": "08/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260615T155406",
+            "updated_at": "20260619T102054",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -20039,7 +20107,7 @@
             "created_at": "10/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260617T142935",
+            "updated_at": "20260619T205900",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -27192,6 +27260,24 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 254,
+            "title": "Renomeia aulas",
+            "pull_request": true,
+            "created_at": "19/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260619T191535",
+            "closed_at": "19/06/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 6,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 253,
             "title": "Apresentar proposta de banco de projetos em Python",
             "pull_request": false,
@@ -27215,7 +27301,7 @@
             "created_at": "17/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260618T221725",
+            "updated_at": "20260619T164703",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -27284,7 +27370,7 @@
             "created_at": "03/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260603T141428",
+            "updated_at": "20260619T161416",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
