@@ -602,7 +602,7 @@
             "created_at": "14/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260514T205315",
+            "updated_at": "20260622T140620",
             "closed_at": "14/05/2026",
             "closed_at_year": 2026,
             "closed_at_month": 5,
@@ -20107,12 +20107,14 @@
             "created_at": "10/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260619T205900",
+            "updated_at": "20260622T193905",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "raianecardoso",
             "labels": [
+                "chore",
+                "documentation",
                 "new-feature"
             ]
         },
