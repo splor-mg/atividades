@@ -27324,6 +27324,24 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 255,
+            "title": "Adiciona registro do sétimo encontro",
+            "pull_request": true,
+            "created_at": "26/06/2026",
+            "created_at_year": 2026,
+            "created_at_month": 6,
+            "updated_at": "20260626T192135",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 254,
             "title": "Renomeia aulas",
             "pull_request": true,
