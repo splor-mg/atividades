@@ -14702,6 +14702,23 @@
         },
         {
             "repo": "splor-mg/dados-sisor-2026",
+            "issue": 59,
+            "title": "Falha na execução do workflow em 2026-07-08T11:50:49Z",
+            "pull_request": false,
+            "created_at": "08/07/2026",
+            "created_at_year": 2026,
+            "created_at_month": 7,
+            "updated_at": "20260708T115051",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-sisor-2026",
             "issue": 58,
             "title": "Falha na execução do workflow em 2026-07-07T12:31:35Z",
             "pull_request": false,
@@ -17033,6 +17050,21 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 4,
+            "title": "Implementa make-transform e make-build",
+            "pull_request": true,
+            "created_at": "09/11/2023",
+            "created_at_year": 2023,
+            "created_at_month": 11,
+            "updated_at": "20231215T150440",
+            "closed_at": "15/12/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 12,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 3,
             "title": "Renomear o nome do arquivo na etapa de extração",
             "pull_request": false,
@@ -17056,6 +17088,21 @@
             "created_at_month": 10,
             "updated_at": "20231025T164551",
             "closed_at": "25/10/2023",
+            "closed_at_year": 2023,
+            "closed_at_month": 10,
+            "assignee": "hslinhares",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 1,
+            "title": "Desenvolvimento make extract",
+            "pull_request": true,
+            "created_at": "06/10/2023",
+            "created_at_year": 2023,
+            "created_at_month": 10,
+            "updated_at": "20231109T133745",
+            "closed_at": "26/10/2023",
             "closed_at_year": 2023,
             "closed_at_month": 10,
             "assignee": "hslinhares",
@@ -17178,7 +17225,7 @@
             "created_at": "03/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260707T211027",
+            "updated_at": "20260708T210437",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -20980,7 +21027,7 @@
             "created_at": "14/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260707T185706",
+            "updated_at": "20260708T101328",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21691,6 +21738,21 @@
             "labels": [
                 "documentation"
             ]
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 127,
+            "title": "Ferramentas raiane",
+            "pull_request": true,
+            "created_at": "17/07/2025",
+            "created_at_year": 2025,
+            "created_at_month": 7,
+            "updated_at": "20250717T175905",
+            "closed_at": "17/07/2025",
+            "closed_at_year": 2025,
+            "closed_at_month": 7,
+            "assignee": null,
+            "labels": null
         },
         {
             "repo": "splor-mg/handbook",
@@ -27533,6 +27595,23 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 262,
+            "title": "2º Encontro Presencial Trilha Dev Python",
+            "pull_request": false,
+            "created_at": "08/07/2026",
+            "created_at_year": 2026,
+            "created_at_month": 7,
+            "updated_at": "20260708T193935",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 261,
             "title": "Escrever página de orientações",
             "pull_request": false,
@@ -27573,7 +27652,7 @@
             "created_at": "07/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260707T180447",
+            "updated_at": "20260708T162733",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
