@@ -11483,6 +11483,38 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 55,
+            "title": "Adaptar recursos com novas funcionalidades do dpetl (em teste)",
+            "pull_request": false,
+            "created_at": "14/07/2026",
+            "created_at_year": 2026,
+            "created_at_month": 7,
+            "updated_at": "20260714T173822",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 54,
+            "title": "Anonimizar campo de  CNPJ no datapacakge `dados_siafi` quando necessário",
+            "pull_request": false,
+            "created_at": "14/07/2026",
+            "created_at_year": 2026,
+            "created_at_month": 7,
+            "updated_at": "20260714T133301",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 53,
             "title": "Simplificar o nome do conjunto `dados_siafi` para apenas `siafi`",
             "pull_request": false,
@@ -11499,12 +11531,12 @@
         {
             "repo": "splor-mg/dados-orcamentarios",
             "issue": 52,
-            "title": "Mudar nome datapackage `dados-aux-classificadores` para `classificadores`",
+            "title": "Mudar nome datapackage `dados-aux-classificadores` para `dados_auxiliares`",
             "pull_request": false,
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260713T175952",
+            "updated_at": "20260714T171051",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17338,7 +17370,7 @@
             "created_at": "03/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260713T141830",
+            "updated_at": "20260714T233547",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17988,12 +18020,14 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260710T185211",
+            "updated_at": "20260714T174629",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
@@ -18003,12 +18037,14 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260710T185033",
+            "updated_at": "20260714T174551",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
@@ -18048,12 +18084,14 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260710T184647",
+            "updated_at": "20260714T174445",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
@@ -18063,7 +18101,7 @@
             "created_at": "29/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260702T151624",
+            "updated_at": "20260714T135022",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18080,7 +18118,7 @@
             "created_at": "29/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260702T152829",
+            "updated_at": "20260714T135540",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18325,7 +18363,7 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260713T130120",
+            "updated_at": "20260714T104020",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -25887,7 +25925,7 @@
             "created_at": "09/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260713T191029",
+            "updated_at": "20260714T173844",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -27932,7 +27970,7 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260710T175925",
+            "updated_at": "20260714T120631",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -28013,7 +28051,7 @@
             "created_at": "07/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260709T192851",
+            "updated_at": "20260714T162934",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
