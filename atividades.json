@@ -768,10 +768,10 @@
             "created_at": "01/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260702T152516",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260718T120929",
+            "closed_at": "18/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
             "assignee": "raianecardoso",
             "labels": [
                 "chore"
