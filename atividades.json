@@ -11531,17 +11531,19 @@
         {
             "repo": "splor-mg/dados-orcamentarios",
             "issue": 52,
-            "title": "Mudar nome datapackage `dados-aux-classificadores` para `dados_auxiliares`",
+            "title": "Mudar nome datapackage `dados-aux-classificadores` para `dados_classificadores`",
             "pull_request": false,
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260720T144627",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20260721T143919",
+            "closed_at": "21/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
@@ -17999,18 +18001,37 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 53,
+            "title": "49 log",
+            "pull_request": true,
+            "created_at": "21/07/2026",
+            "created_at_year": 2026,
+            "created_at_month": 7,
+            "updated_at": "20260721T161802",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 52,
             "title": "Create the `publish` command",
             "pull_request": false,
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260710T185720",
+            "updated_at": "20260721T153234",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
@@ -18020,10 +18041,10 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260714T174629",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260721T150203",
+            "closed_at": "21/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
             "assignee": "mariaefod",
             "labels": [
                 "chore"
@@ -18037,10 +18058,10 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260714T174551",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260721T150203",
+            "closed_at": "21/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
             "assignee": "mariaefod",
             "labels": [
                 "chore"
@@ -18054,12 +18075,15 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260710T184946",
+            "updated_at": "20260721T161843",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "mariaefod",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
@@ -18069,12 +18093,14 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260710T214247",
+            "updated_at": "20260721T151305",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
@@ -18084,13 +18110,13 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260720T181839",
+            "updated_at": "20260721T153112",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "mariaefod",
+            "assignee": null,
             "labels": [
-                "chore"
+                "bug"
             ]
         },
         {
@@ -18101,10 +18127,10 @@
             "created_at": "29/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260714T135022",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260721T150203",
+            "closed_at": "21/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
             "assignee": "mariaefod",
             "labels": [
                 "question"
@@ -18118,12 +18144,14 @@
             "created_at": "29/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260714T135540",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260721T150202",
+            "closed_at": "21/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
             "assignee": "mariaefod",
-            "labels": null
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
@@ -18133,10 +18161,10 @@
             "created_at": "25/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260525T220619",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260721T153027",
+            "closed_at": "21/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
             "assignee": null,
             "labels": null
         },
@@ -18148,12 +18176,14 @@
             "created_at": "25/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260525T220521",
+            "updated_at": "20260721T152916",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
@@ -18208,14 +18238,13 @@
             "created_at": "11/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260511T211126",
+            "updated_at": "20260721T152605",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "gabrielbdornas",
             "labels": [
-                "chore",
-                "documentation"
+                "question"
             ]
         },
         {
@@ -18226,10 +18255,10 @@
             "created_at": "11/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260720T161124",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260721T150203",
+            "closed_at": "21/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
             "assignee": "gabrielbdornas",
             "labels": null
         },
@@ -18345,11 +18374,11 @@
             "created_at": "10/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260410T214047",
+            "updated_at": "20260721T152410",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "gabrielbdornas",
+            "assignee": null,
             "labels": [
                 "chore",
                 "new-feature"
@@ -18363,10 +18392,10 @@
             "created_at": "08/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260717T140544",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260721T150202",
+            "closed_at": "21/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
@@ -18474,11 +18503,11 @@
             "created_at": "10/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260310T202526",
+            "updated_at": "20260721T152339",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "gabrielbdornas",
+            "assignee": null,
             "labels": [
                 "new-feature"
             ]
@@ -20531,6 +20560,24 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/exercicios-python",
+            "issue": 27,
+            "title": "Adiciona badge de porcentagem dos exercícios obrigatórios",
+            "pull_request": true,
+            "created_at": "21/07/2026",
+            "created_at_year": 2026,
+            "created_at_month": 7,
+            "updated_at": "20260721T112354",
+            "closed_at": "21/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "documentation",
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/exercicios-python",
@@ -25972,7 +26019,7 @@
             "created_at": "09/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260720T202009",
+            "updated_at": "20260721T202853",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
