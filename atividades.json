@@ -11489,7 +11489,7 @@
             "created_at": "14/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260714T173822",
+            "updated_at": "20260722T145420",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -11583,7 +11583,7 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260710T141155",
+            "updated_at": "20260722T130630",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18001,6 +18001,40 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 55,
+            "title": "54 extract cli",
+            "pull_request": true,
+            "created_at": "22/07/2026",
+            "created_at_year": 2026,
+            "created_at_month": 7,
+            "updated_at": "20260722T134800",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 54,
+            "title": "Add cli mode to extract comand",
+            "pull_request": false,
+            "created_at": "22/07/2026",
+            "created_at_year": 2026,
+            "created_at_month": 7,
+            "updated_at": "20260722T135830",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 53,
             "title": "49 log",
             "pull_request": true,
@@ -21079,6 +21113,23 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 190,
+            "title": "Post - Guia de acesso ao servidor",
+            "pull_request": true,
+            "created_at": "22/07/2026",
+            "created_at_year": 2026,
+            "created_at_month": 7,
+            "updated_at": "20260722T174242",
+            "closed_at": "22/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
+            "assignee": null,
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 189,
             "title": "alteracoes setup windows",
             "pull_request": true,
@@ -21379,10 +21430,10 @@
             "created_at": "14/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260708T101328",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260722T174241",
+            "closed_at": "22/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
             "assignee": "mariaefod",
             "labels": [
                 "documentation"
@@ -26019,7 +26070,7 @@
             "created_at": "09/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260721T202853",
+            "updated_at": "20260722T194125",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
