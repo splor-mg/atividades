@@ -26102,7 +26102,7 @@
             "created_at": "09/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260723T180051",
+            "updated_at": "20260724T152711",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -28150,6 +28150,42 @@
             "closed_at_month": 6,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 268,
+            "title": "Corrige a pergunta e o link",
+            "pull_request": true,
+            "created_at": "24/07/2026",
+            "created_at_year": 2026,
+            "created_at_month": 7,
+            "updated_at": "20260724T180022",
+            "closed_at": "24/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 267,
+            "title": "Adiciona o registro do décimo encontro",
+            "pull_request": true,
+            "created_at": "24/07/2026",
+            "created_at_year": 2026,
+            "created_at_month": 7,
+            "updated_at": "20260724T175245",
+            "closed_at": "24/07/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 7,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
