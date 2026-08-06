@@ -11483,13 +11483,30 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 57,
+            "title": "Construir ano de referência no datapackage dinamicamente",
+            "pull_request": false,
+            "created_at": "05/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260805T123558",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 56,
             "title": "55 teste funcionalidades",
             "pull_request": true,
             "created_at": "23/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260803T172451",
+            "updated_at": "20260805T123631",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18013,6 +18030,24 @@
             "closed_at_month": 8,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 57,
+            "title": "48 automated bump",
+            "pull_request": true,
+            "created_at": "05/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260805T102831",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug",
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
