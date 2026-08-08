@@ -9430,11 +9430,11 @@
             "created_at": "26/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260406T140022",
+            "updated_at": "20260807T220231",
             "closed_at": "06/04/2026",
             "closed_at_year": 2026,
             "closed_at_month": 4,
-            "assignee": "hslinhares",
+            "assignee": null,
             "labels": null
         },
         {
@@ -11615,7 +11615,7 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260722T130630",
+            "updated_at": "20260807T120441",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
