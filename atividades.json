@@ -11615,7 +11615,7 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260807T120441",
+            "updated_at": "20260810T103730",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -15362,6 +15362,23 @@
         },
         {
             "repo": "splor-mg/dados-totais-armazem-siafi",
+            "issue": 120,
+            "title": "Falha na execução do workflow em 2026-08-10T10:55:52Z",
+            "pull_request": false,
+            "created_at": "10/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260810T105553",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-totais-armazem-siafi",
             "issue": 119,
             "title": "Falha na execução do workflow em 2026-06-12T12:47:55Z",
             "pull_request": false,
@@ -18211,11 +18228,11 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260721T153112",
+            "updated_at": "20260810T135131",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "mariaefod",
             "labels": [
                 "bug"
             ]
