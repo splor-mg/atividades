@@ -11615,7 +11615,7 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260810T103730",
+            "updated_at": "20260811T131512",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18047,6 +18047,40 @@
             "closed_at_month": 8,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 59,
+            "title": "58 transform delimiter",
+            "pull_request": true,
+            "created_at": "11/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260811T160302",
+            "closed_at": "11/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 58,
+            "title": "Add custom delimiter support for CSV/TXT exports",
+            "pull_request": false,
+            "created_at": "11/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260811T160302",
+            "closed_at": "11/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
