@@ -11483,16 +11483,76 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 61,
+            "title": "ETL workflow failed on 2026-08-13T13:02:27",
+            "pull_request": false,
+            "created_at": "13/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260813T130243",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 60,
+            "title": "ETL workflow failed on 2026-08-13T12:59:56",
+            "pull_request": false,
+            "created_at": "13/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260813T130021",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 59,
+            "title": "ETL workflow failed on 2026-08-13T12:43:55",
+            "pull_request": false,
+            "created_at": "13/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260813T124421",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 58,
+            "title": "ETL workflow failed on 2026-08-13T12:37:09",
+            "pull_request": false,
+            "created_at": "13/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260813T123730",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 57,
             "title": "Construir ano de referência no datapackage dinamicamente",
             "pull_request": false,
             "created_at": "05/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260805T123558",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260813T132916",
+            "closed_at": "13/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
             "assignee": "mariaefod",
             "labels": [
                 "chore"
@@ -11506,12 +11566,14 @@
             "created_at": "23/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260812T155737",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20260813T132933",
+            "closed_at": "13/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
@@ -11521,10 +11583,10 @@
             "created_at": "14/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260723T175809",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260813T132915",
+            "closed_at": "13/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
             "assignee": "mariaefod",
             "labels": [
                 "chore"
@@ -18050,6 +18112,75 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 67,
+            "title": "ci: use GitHub App token for release author",
+            "pull_request": true,
+            "created_at": "13/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260813T121702",
+            "closed_at": "13/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 66,
+            "title": "ci: improve release workflow to avoid duplicate publishes and add failure template",
+            "pull_request": true,
+            "created_at": "13/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260813T115017",
+            "closed_at": "13/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug",
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 65,
+            "title": "ci: skip test workflow for bot commits",
+            "pull_request": true,
+            "created_at": "13/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260813T101952",
+            "closed_at": "13/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 64,
+            "title": "fix: sync local version with PyPI 0.10.0",
+            "pull_request": true,
+            "created_at": "13/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260813T102025",
+            "closed_at": "13/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 63,
             "title": "bump: version 0.8.2 → 0.9.0",
             "pull_request": true,
@@ -18071,12 +18202,14 @@
             "created_at": "12/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260812T164009",
+            "updated_at": "20260813T102144",
             "closed_at": "12/08/2026",
             "closed_at_year": 2026,
             "closed_at_month": 8,
-            "assignee": null,
-            "labels": null
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
