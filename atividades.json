@@ -762,6 +762,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 236,
+            "title": "Publicação conjunto de dados abertos FEM",
+            "pull_request": false,
+            "created_at": "14/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260814T192606",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 235,
             "title": "Aprender react.js - Jul/2026",
             "pull_request": false,
@@ -28448,6 +28463,24 @@
             "closed_at_month": 6,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 272,
+            "title": "Adiciona décimo segundo encontro",
+            "pull_request": true,
+            "created_at": "14/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260814T212113",
+            "closed_at": "14/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
