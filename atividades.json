@@ -11498,6 +11498,21 @@
         },
         {
             "repo": "splor-mg/dados-fem",
+            "issue": 3,
+            "title": "Retirar token para acessar dados-siafi",
+            "pull_request": false,
+            "created_at": "19/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260819T143110",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-fem",
             "issue": 2,
             "title": "Criar Site estático para substituir relatório atual",
             "pull_request": false,
@@ -11792,7 +11807,7 @@
             "created_at": "14/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260817T163735",
+            "updated_at": "20260819T175425",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -11871,7 +11886,7 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260818T154958",
+            "updated_at": "20260819T154826",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18303,6 +18318,23 @@
             "closed_at_month": 8,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 68,
+            "title": "Add field anonymization support to transform command",
+            "pull_request": false,
+            "created_at": "19/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260819T174707",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
