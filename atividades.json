@@ -18321,16 +18321,33 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 69,
+            "title": "68 anonymize",
+            "pull_request": true,
+            "created_at": "20/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260820T165616",
+            "closed_at": "20/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 68,
             "title": "Add field anonymization support to transform command",
             "pull_request": false,
             "created_at": "19/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260819T174707",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260820T165614",
+            "closed_at": "20/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
