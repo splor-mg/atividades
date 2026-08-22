@@ -11543,21 +11543,6 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
-            "issue": 70,
-            "title": "Erros com bo-cli durante execução no Actions",
-            "pull_request": false,
-            "created_at": "18/08/2026",
-            "created_at_year": 2026,
-            "created_at_month": 8,
-            "updated_at": "20260818T190415",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dados-orcamentarios",
             "issue": 69,
             "title": "ETL workflow failed on 2026-08-18T11:12:13",
             "pull_request": false,
@@ -28691,6 +28676,24 @@
             "closed_at_month": 6,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
+            "issue": 273,
+            "title": "Adiciona décimo terceiro encontro",
+            "pull_request": true,
+            "created_at": "21/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260821T153009",
+            "closed_at": "21/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
