@@ -11886,7 +11886,7 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260819T154826",
+            "updated_at": "20260824T170041",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -24496,6 +24496,23 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/linktable",
+            "issue": 1,
+            "title": "Onde deve morar o código Linktable?",
+            "pull_request": false,
+            "created_at": "24/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260824T180816",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "question"
+            ]
+        },
+        {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 98,
             "title": "Falha na execução do workflow em 2026-06-05T13:25:41Z",
@@ -28694,13 +28711,28 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 274,
+            "title": "Badges de testes não estão funcionando no repositório pessoal da Ivna",
+            "pull_request": false,
+            "created_at": "24/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260824T184649",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 273,
             "title": "Adiciona décimo terceiro encontro",
             "pull_request": true,
             "created_at": "21/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260821T153009",
+            "updated_at": "20260824T191059",
             "closed_at": "21/08/2026",
             "closed_at_year": 2026,
             "closed_at_month": 8,
@@ -28754,7 +28786,7 @@
             "created_at": "29/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260812T152302",
+            "updated_at": "20260824T131720",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -28820,10 +28852,10 @@
             "created_at": "16/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260716T134801",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260824T191759",
+            "closed_at": "24/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
             "assignee": "LorenadeCastro",
             "labels": [
                 "chore"
@@ -28936,10 +28968,10 @@
             "created_at": "07/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260720T173435",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260824T174546",
+            "closed_at": "24/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
             "assignee": "LorenadeCastro",
             "labels": [
                 "new-feature"
@@ -29057,7 +29089,7 @@
             "created_at": "17/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260715T161318",
+            "updated_at": "20260824T174547",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -33063,6 +33095,23 @@
             "closed_at_month": 8,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/volumes-docker",
+            "issue": 36,
+            "title": "Preparar volume para geração LOA 2027",
+            "pull_request": false,
+            "created_at": "24/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260824T211918",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/volumes-docker",
