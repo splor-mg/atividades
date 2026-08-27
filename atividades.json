@@ -28734,11 +28734,11 @@
             "created_at": "25/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260825T160316",
+            "updated_at": "20260826T155820",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "raianecardoso",
+            "assignee": "LorenadeCastro",
             "labels": [
                 "chore",
                 "documentation"
@@ -28752,12 +28752,14 @@
             "created_at": "24/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260825T205544",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260826T125110",
+            "closed_at": "26/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
             "assignee": "raianecardoso",
-            "labels": null
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
