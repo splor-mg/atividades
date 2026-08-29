@@ -18321,6 +18321,142 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 77,
+            "title": "76 skip command",
+            "pull_request": true,
+            "created_at": "28/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260828T161448",
+            "closed_at": "28/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 76,
+            "title": "Add package-level `enabled` flag to skip ETL commands",
+            "pull_request": false,
+            "created_at": "28/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260828T161447",
+            "closed_at": "28/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 75,
+            "title": "74 workflow fail",
+            "pull_request": true,
+            "created_at": "28/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260828T133801",
+            "closed_at": "28/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 74,
+            "title": "Falha na execução do workflow Coverage and Release em 2026-08-28T13:29:36Z",
+            "pull_request": false,
+            "created_at": "28/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260828T133821",
+            "closed_at": "28/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 73,
+            "title": "72 workflow fail",
+            "pull_request": true,
+            "created_at": "28/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260828T132832",
+            "closed_at": "28/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 72,
+            "title": "Falha na execução do workflow Coverage and Release em 2026-08-28T12:56:28Z",
+            "pull_request": false,
+            "created_at": "28/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260828T132831",
+            "closed_at": "28/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 71,
+            "title": "70 load deletions",
+            "pull_request": true,
+            "created_at": "28/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260828T125511",
+            "closed_at": "28/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 70,
+            "title": "Clean up obsolete resources on `load`",
+            "pull_request": false,
+            "created_at": "28/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260828T161537",
+            "closed_at": "28/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 69,
             "title": "68 anonymize",
             "pull_request": true,
