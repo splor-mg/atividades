@@ -829,21 +829,6 @@
         },
         {
             "repo": "splor-mg/atividades",
-            "issue": 232,
-            "title": "Manual de construção e manutenção de painéis Qlikview",
-            "pull_request": false,
-            "created_at": "07/05/2026",
-            "created_at_year": 2026,
-            "created_at_month": 5,
-            "updated_at": "20260515T150507",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "hslinhares",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/atividades",
             "issue": 231,
             "title": "Aprender react.js - maio/2026",
             "pull_request": false,
@@ -901,11 +886,11 @@
             "created_at": "26/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260327T203050",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "mathpitanguy",
+            "updated_at": "20260831T173919",
+            "closed_at": "31/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": null,
             "labels": [
                 "question"
             ]
@@ -1639,23 +1624,6 @@
         },
         {
             "repo": "splor-mg/atividades",
-            "issue": 168,
-            "title": "Melhorar notificações de falhas no GitHub actions",
-            "pull_request": false,
-            "created_at": "11/03/2025",
-            "created_at_year": 2025,
-            "created_at_month": 3,
-            "updated_at": "20260303T212623",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "gabrielbdornas",
-            "labels": [
-                "chore"
-            ]
-        },
-        {
-            "repo": "splor-mg/atividades",
             "issue": 166,
             "title": "Criar repositório upstream dados programações anuais",
             "pull_request": false,
@@ -1867,25 +1835,6 @@
             "closed_at_month": 11,
             "assignee": null,
             "labels": null
-        },
-        {
-            "repo": "splor-mg/atividades",
-            "issue": 148,
-            "title": "Estudar viabilidade de simplificar códigos repositórios ETL",
-            "pull_request": false,
-            "created_at": "22/10/2024",
-            "created_at_year": 2024,
-            "created_at_month": 10,
-            "updated_at": "20260306T170704",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "gabrielbdornas",
-            "labels": [
-                "documentation",
-                "new-feature",
-                "chore"
-            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -2748,21 +2697,6 @@
         },
         {
             "repo": "splor-mg/atividades",
-            "issue": 178,
-            "title": "Armazenamento do código das classificações como inteiro ou string",
-            "pull_request": false,
-            "created_at": "22/11/2023",
-            "created_at_year": 2023,
-            "created_at_month": 11,
-            "updated_at": "20250707T190016",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/atividades",
             "issue": 85,
             "title": "Conferência do monitoramento do 4° bimestre SIGPLAN",
             "pull_request": false,
@@ -2869,23 +2803,6 @@
             "closed_at_month": 10,
             "assignee": "fjuniorr",
             "labels": null
-        },
-        {
-            "repo": "splor-mg/atividades",
-            "issue": 78,
-            "title": "Testar configuração adequada de line endings para o git",
-            "pull_request": false,
-            "created_at": "15/09/2023",
-            "created_at_year": 2023,
-            "created_at_month": 9,
-            "updated_at": "20251119T205752",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "gabrielbdornas",
-            "labels": [
-                "documentation"
-            ]
         },
         {
             "repo": "splor-mg/atividades",
@@ -5496,83 +5413,6 @@
             "closed_at_year": 2024,
             "closed_at_month": 4,
             "assignee": "hslinhares",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/checks",
-            "issue": 5,
-            "title": "check installed_packages: conflito entre nome do pacote no github e do pacote instalado",
-            "pull_request": false,
-            "created_at": "11/06/2024",
-            "created_at_year": 2024,
-            "created_at_month": 6,
-            "updated_at": "20240611T224936",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/checks",
-            "issue": 4,
-            "title": "Complementar test_parse_requirements.py com caso de pacote instalado via git e com versão",
-            "pull_request": false,
-            "created_at": "20/05/2024",
-            "created_at_year": 2024,
-            "created_at_month": 5,
-            "updated_at": "20240702T132453",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": [
-                "wontfix"
-            ]
-        },
-        {
-            "repo": "splor-mg/checks",
-            "issue": 3,
-            "title": "Reformulação do checks-py ",
-            "pull_request": true,
-            "created_at": "25/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240522T171736",
-            "closed_at": "22/05/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 5,
-            "assignee": "labanca",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/checks",
-            "issue": 2,
-            "title": "Erro no pip install -e: \"EntryPoint must be in 'name=module:attrs [extras]' format\", 'checks = checks-py.cli:app')",
-            "pull_request": false,
-            "created_at": "25/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240425T223000",
-            "closed_at": "25/04/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 4,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/checks",
-            "issue": 1,
-            "title": "Erro ao tentar instalar pacote:  Can not execute `setup.py` since setuptools is not available in the build environment.",
-            "pull_request": false,
-            "created_at": "24/04/2024",
-            "created_at_year": 2024,
-            "created_at_month": 4,
-            "updated_at": "20240425T195427",
-            "closed_at": "25/04/2024",
-            "closed_at_year": 2024,
-            "closed_at_month": 4,
-            "assignee": null,
             "labels": null
         },
         {
@@ -12268,6 +12108,38 @@
             ]
         },
         {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 71,
+            "title": "Estudar viabilidade de simplificar códigos repositórios ETL",
+            "pull_request": false,
+            "created_at": "22/10/2024",
+            "created_at_year": 2024,
+            "created_at_month": 10,
+            "updated_at": "20260831T174350",
+            "closed_at": "31/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 72,
+            "title": "Armazenamento do código das classificações como inteiro ou string",
+            "pull_request": false,
+            "created_at": "22/11/2023",
+            "created_at_year": 2023,
+            "created_at_month": 11,
+            "updated_at": "20260831T175418",
+            "closed_at": "31/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": null
+        },
+        {
             "repo": "splor-mg/dados-qdd-fonte-95",
             "issue": 1,
             "title": "Adicionar restrição enum no table schema para as colunas preenchidas pelo Comitê",
@@ -12276,6 +12148,21 @@
             "created_at_year": 2024,
             "created_at_month": 9,
             "updated_at": "20240919T202721",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-sigplan-historico",
+            "issue": 8,
+            "title": "Podemos utilizar este repositório no dados-orcamentarios?",
+            "pull_request": false,
+            "created_at": "31/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260831T184709",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -17707,7 +17594,7 @@
             "created_at": "03/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260827T183836",
+            "updated_at": "20260831T165405",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -21759,36 +21646,6 @@
             ]
         },
         {
-            "repo": "splor-mg/feed-legis-front",
-            "issue": 2,
-            "title": "Deletar este repositório",
-            "pull_request": false,
-            "created_at": "09/12/2025",
-            "created_at_year": 2025,
-            "created_at_month": 12,
-            "updated_at": "20251210T135525",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/feed-legis-front",
-            "issue": 1,
-            "title": "Instalar node e feed-legis-front na nuvem",
-            "pull_request": false,
-            "created_at": "28/06/2025",
-            "created_at_year": 2025,
-            "created_at_month": 6,
-            "updated_at": "20250628T134107",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
-        },
-        {
             "repo": "splor-mg/gitinho",
             "issue": 2,
             "title": "Arquivar repositório",
@@ -22062,6 +21919,23 @@
             "closed_at_month": 5,
             "assignee": "LorenadeCastro",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/handbook",
+            "issue": 191,
+            "title": "Manual de construção e manutenção de painéis Qlikview",
+            "pull_request": false,
+            "created_at": "07/05/2026",
+            "created_at_year": 2026,
+            "created_at_month": 5,
+            "updated_at": "20260831T173807",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation"
+            ]
         },
         {
             "repo": "splor-mg/handbook",
@@ -24662,6 +24536,21 @@
             "labels": [
                 "question"
             ]
+        },
+        {
+            "repo": "splor-mg/loa-mg",
+            "issue": 1,
+            "title": "Registrar benchmarking",
+            "pull_request": false,
+            "created_at": "31/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260831T205723",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": null
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -27898,12 +27787,14 @@
             "created_at": "27/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260827T172125",
+            "updated_at": "20260831T180116",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
-            "labels": null
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/repo-template",
@@ -27913,10 +27804,10 @@
             "created_at": "12/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260312T221035",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260831T180030",
+            "closed_at": "31/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
             "assignee": null,
             "labels": null
         },
@@ -28003,6 +27894,38 @@
                 "chore",
                 "new-feature"
             ]
+        },
+        {
+            "repo": "splor-mg/repo-template",
+            "issue": 18,
+            "title": "Improve actions when sync fails",
+            "pull_request": false,
+            "created_at": "11/03/2025",
+            "created_at_year": 2025,
+            "created_at_month": 3,
+            "updated_at": "20260831T180149",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/repo-template",
+            "issue": 17,
+            "title": "Testar configuração adequada de line endings para o git",
+            "pull_request": false,
+            "created_at": "15/09/2023",
+            "created_at_year": 2023,
+            "created_at_month": 9,
+            "updated_at": "20260831T175814",
+            "closed_at": "31/08/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 8,
+            "assignee": null,
+            "labels": null
         },
         {
             "repo": "splor-mg/repo-template-mkslides",
@@ -28696,66 +28619,6 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/template_raw",
-            "issue": 1,
-            "title": "Terminar template básico de repositório",
-            "pull_request": false,
-            "created_at": "03/12/2025",
-            "created_at_year": 2025,
-            "created_at_month": 12,
-            "updated_at": "20251203T142300",
-            "closed_at": "03/12/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 12,
-            "assignee": "labanca",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/teste-classificacao-issues",
-            "issue": 3,
-            "title": "Teste classifcação issue 3",
-            "pull_request": false,
-            "created_at": "21/07/2025",
-            "created_at_year": 2025,
-            "created_at_month": 7,
-            "updated_at": "20250722T154449",
-            "closed_at": "22/07/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 7,
-            "assignee": "gabrielbdornas",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/teste-classificacao-issues",
-            "issue": 2,
-            "title": "teste classificação issue 2",
-            "pull_request": false,
-            "created_at": "21/07/2025",
-            "created_at_year": 2025,
-            "created_at_month": 7,
-            "updated_at": "20250722T154456",
-            "closed_at": "22/07/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 7,
-            "assignee": "gabrielbdornas",
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/teste-classificacao-issues",
-            "issue": 1,
-            "title": "teste classificação issue 1",
-            "pull_request": false,
-            "created_at": "17/07/2025",
-            "created_at_year": 2025,
-            "created_at_month": 7,
-            "updated_at": "20250721T180028",
-            "closed_at": "21/07/2025",
-            "closed_at_year": 2025,
-            "closed_at_month": 7,
-            "assignee": "gabrielbdornas",
-            "labels": null
-        },
-        {
             "repo": "splor-mg/testes-ferramentas",
             "issue": 8,
             "title": "Adiciona dados e link table",
@@ -28883,7 +28746,7 @@
             "created_at": "25/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260825T190456",
+            "updated_at": "20260831T170928",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -33307,7 +33170,7 @@
             "created_at": "24/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260828T105722",
+            "updated_at": "20260831T211213",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
