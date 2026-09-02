@@ -11662,10 +11662,10 @@
             "created_at": "14/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260819T175425",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260901T162532",
+            "closed_at": "01/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
@@ -11741,10 +11741,10 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260825T173541",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260901T162559",
+            "closed_at": "01/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
@@ -12162,11 +12162,11 @@
             "created_at": "31/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260831T184709",
+            "updated_at": "20260901T102210",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "mariaefod",
             "labels": null
         },
         {
@@ -18220,6 +18220,40 @@
             "closed_at_month": 8,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 79,
+            "title": "78 filter anonymize",
+            "pull_request": true,
+            "created_at": "01/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260901T132757",
+            "closed_at": "01/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 78,
+            "title": "Add filter condition to anonymize on `transform`",
+            "pull_request": false,
+            "created_at": "01/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260901T132755",
+            "closed_at": "01/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
@@ -24545,7 +24579,7 @@
             "created_at": "31/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260831T205723",
+            "updated_at": "20260901T203714",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -28746,10 +28780,10 @@
             "created_at": "25/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260831T170928",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260901T130035",
+            "closed_at": "01/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "gabrielbdornas",
             "labels": [
                 "chore"
@@ -28852,12 +28886,14 @@
             "created_at": "29/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260824T131720",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
-            "labels": null
+            "updated_at": "20260901T124436",
+            "closed_at": "01/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -29000,10 +29036,10 @@
             "created_at": "07/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260707T182416",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260901T130041",
+            "closed_at": "01/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "raianecardoso",
             "labels": [
                 "documentation"
@@ -29069,7 +29105,7 @@
             "created_at": "03/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260703T165656",
+            "updated_at": "20260901T134319",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -29155,10 +29191,10 @@
             "created_at": "17/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260824T174547",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260901T141044",
+            "closed_at": "01/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "mathpitanguy",
             "labels": [
                 "chore"
@@ -33170,7 +33206,7 @@
             "created_at": "24/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260831T211213",
+            "updated_at": "20260901T205247",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
