@@ -18223,6 +18223,41 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 81,
+            "title": "80 delay extract",
+            "pull_request": true,
+            "created_at": "02/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260902T112040",
+            "closed_at": "02/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore",
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 80,
+            "title": "Create the `--delay` (`-d`) flag to `extract` command",
+            "pull_request": false,
+            "created_at": "02/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260902T112039",
+            "closed_at": "02/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 79,
             "title": "78 filter anonymize",
             "pull_request": true,
@@ -21713,6 +21748,24 @@
         },
         {
             "repo": "splor-mg/handbook",
+            "issue": 192,
+            "title": "Cria post no handbook para organizar as referências listadas sobre o Qlikview",
+            "pull_request": true,
+            "created_at": "02/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260902T180217",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "gabrielbdornas",
+            "labels": [
+                "documentation",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/handbook",
             "issue": 190,
             "title": "Post - Guia de acesso ao servidor",
             "pull_request": true,
@@ -21962,7 +22015,7 @@
             "created_at": "07/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260831T173807",
+            "updated_at": "20260902T190719",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -29105,7 +29158,7 @@
             "created_at": "03/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260901T134319",
+            "updated_at": "20260902T164721",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
