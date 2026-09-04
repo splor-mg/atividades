@@ -18223,6 +18223,23 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 82,
+            "title": "Add `cli` mode to `transform` command",
+            "pull_request": false,
+            "created_at": "03/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260903T180123",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 81,
             "title": "80 delay extract",
             "pull_request": true,
@@ -24632,7 +24649,7 @@
             "created_at": "31/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260901T203714",
+            "updated_at": "20260903T174103",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
