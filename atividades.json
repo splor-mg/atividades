@@ -18238,16 +18238,50 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 84,
+            "title": "Falha na execução do workflow Tests em 2026-09-09T20:39:53Z",
+            "pull_request": false,
+            "created_at": "09/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260909T203953",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 83,
+            "title": "82 transform cli",
+            "pull_request": true,
+            "created_at": "09/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260909T123819",
+            "closed_at": "09/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 82,
             "title": "Add `cli` mode to `transform` command",
             "pull_request": false,
             "created_at": "03/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260903T180123",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260909T123818",
+            "closed_at": "09/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
@@ -33803,17 +33837,34 @@
         },
         {
             "repo": "splor-mg/volumes-loa",
+            "issue": 209,
+            "title": "Coluna `DESCRICAO DA OBRA` com valor contendo aspas simples",
+            "pull_request": false,
+            "created_at": "09/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260909T153914",
+            "closed_at": "09/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
             "issue": 208,
             "title": "Ausência de coluna `NATUREZA` na base de investimento do PPO",
             "pull_request": false,
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260908T175252",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260909T104748",
+            "closed_at": "09/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
             "labels": [
                 "chore"
             ]
@@ -33860,7 +33911,7 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260908T171023",
+            "updated_at": "20260909T103335",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -33894,7 +33945,7 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260908T163542",
+            "updated_at": "20260909T103202",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -33911,7 +33962,7 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260908T165902",
+            "updated_at": "20260909T103031",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -33962,12 +34013,13 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260908T175036",
+            "updated_at": "20260909T102212",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": null,
             "labels": [
+                "question",
                 "chore"
             ]
         },
