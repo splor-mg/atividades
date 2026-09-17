@@ -18253,6 +18253,74 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 88,
+            "title": "Falha na execução do workflow Tests em 2026-09-16T21:01:20Z",
+            "pull_request": false,
+            "created_at": "16/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260916T210120",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 87,
+            "title": "Falha na execução do workflow Tests em 2026-09-16T20:10:24Z",
+            "pull_request": false,
+            "created_at": "16/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260916T201025",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 86,
+            "title": "Falha na execução do workflow Tests em 2026-09-16T19:37:08Z",
+            "pull_request": false,
+            "created_at": "16/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260916T193708",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 85,
+            "title": "Falha na execução do workflow Tests em 2026-09-16T18:46:41Z",
+            "pull_request": false,
+            "created_at": "16/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260916T184641",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 84,
             "title": "Falha na execução do workflow Tests em 2026-09-09T20:39:53Z",
             "pull_request": false,
@@ -21835,10 +21903,10 @@
             "created_at": "02/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260902T180217",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260916T203031",
+            "closed_at": "16/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "gabrielbdornas",
             "labels": [
                 "documentation",
@@ -22096,10 +22164,10 @@
             "created_at": "07/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260902T190719",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260916T203030",
+            "closed_at": "16/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": [
                 "documentation"
@@ -24713,12 +24781,29 @@
             "created_at": "31/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260914T190052",
+            "updated_at": "20260916T165617",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "LorenadeCastro",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 100,
+            "title": "Falha na execução do workflow em 2026-09-16T14:58:22Z",
+            "pull_request": false,
+            "created_at": "16/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260916T145823",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
@@ -27905,6 +27990,89 @@
             "labels": null
         },
         {
+            "repo": "splor-mg/regras-orcamentarias-mg",
+            "issue": 5,
+            "title": "Comando 'apply'",
+            "pull_request": false,
+            "created_at": "09/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260916T171112",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "Laura-Dilly",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/regras-orcamentarias-mg",
+            "issue": 4,
+            "title": "Testes",
+            "pull_request": false,
+            "created_at": "09/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260909T160554",
+            "closed_at": "09/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/regras-orcamentarias-mg",
+            "issue": 3,
+            "title": "CLI specs",
+            "pull_request": false,
+            "created_at": "03/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260916T125641",
+            "closed_at": "16/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "Laura-Dilly",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/regras-orcamentarias-mg",
+            "issue": 2,
+            "title": "Teste de Regra - ASPS",
+            "pull_request": false,
+            "created_at": "31/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260903T132418",
+            "closed_at": "03/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "Laura-Dilly",
+            "labels": [
+                "question"
+            ]
+        },
+        {
+            "repo": "splor-mg/regras-orcamentarias-mg",
+            "issue": 1,
+            "title": "Teste CLI vs API",
+            "pull_request": false,
+            "created_at": "28/08/2026",
+            "created_at_year": 2026,
+            "created_at_month": 8,
+            "updated_at": "20260910T135751",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "Laura-Dilly",
+            "labels": [
+                "question"
+            ]
+        },
+        {
             "repo": "splor-mg/relatoriosOBZ",
             "issue": 4,
             "title": "atualiza criterio camg e cet",
@@ -28925,18 +29093,38 @@
         },
         {
             "repo": "splor-mg/trilha-dev",
+            "issue": 278,
+            "title": "Ajusta registro dos encontros",
+            "pull_request": true,
+            "created_at": "16/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260916T214827",
+            "closed_at": "16/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore",
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/trilha-dev",
             "issue": 277,
             "title": "Solicitação de certificado - Trilha Dev Python",
             "pull_request": false,
             "created_at": "14/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260914T184309",
+            "updated_at": "20260916T201345",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
             "assignee": "raianecardoso",
-            "labels": null
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/trilha-dev",
@@ -28963,10 +29151,10 @@
             "created_at": "25/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260826T155820",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260916T214825",
+            "closed_at": "16/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "LorenadeCastro",
             "labels": [
                 "chore",
@@ -33884,6 +34072,23 @@
         },
         {
             "repo": "splor-mg/volumes-loa",
+            "issue": 211,
+            "title": "Loa 2027 ibs",
+            "pull_request": true,
+            "created_at": "16/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260916T152527",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
             "issue": 210,
             "title": "ANO-PROGRAMA_COD 2024-101 ausente no adiciona_desc",
             "pull_request": false,
@@ -33975,7 +34180,7 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260915T144743",
+            "updated_at": "20260916T143935",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -34214,7 +34419,7 @@
             "created_at": "25/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260908T175223",
+            "updated_at": "20260916T143702",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -37127,6 +37332,23 @@
             "closed_at_month": 1,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/zendb-cli",
+            "issue": 1,
+            "title": "Config Command",
+            "pull_request": false,
+            "created_at": "16/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260916T125402",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "Laura-Dilly",
+            "labels": [
+                "new-feature"
+            ]
         }
     ]
 }
