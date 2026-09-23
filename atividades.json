@@ -11503,6 +11503,23 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 78,
+            "title": "ETL workflow failed on 2026-09-22T14:16:33",
+            "pull_request": false,
+            "created_at": "22/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260922T142019",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 77,
             "title": "76 workflow package",
             "pull_request": true,
@@ -18426,16 +18443,50 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 91,
+            "title": "90 stdin cli transform",
+            "pull_request": true,
+            "created_at": "21/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260921T145001",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 90,
+            "title": "Add stdin support to cli mode on transform command",
+            "pull_request": false,
+            "created_at": "21/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260921T144837",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 89,
             "title": "Sync template workflow failed on 2026-09-21T04:02:55",
             "pull_request": false,
             "created_at": "21/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260921T040257",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260921T141002",
+            "closed_at": "21/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": null
         },
@@ -18447,10 +18498,10 @@
             "created_at": "16/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260916T210120",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260921T141001",
+            "closed_at": "21/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": [
                 "bug"
@@ -18464,10 +18515,10 @@
             "created_at": "16/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260916T201025",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260921T141001",
+            "closed_at": "21/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": [
                 "bug"
@@ -18481,10 +18532,10 @@
             "created_at": "16/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260916T193708",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260921T141000",
+            "closed_at": "21/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": [
                 "bug"
@@ -18498,10 +18549,10 @@
             "created_at": "16/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260916T184641",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260921T141000",
+            "closed_at": "21/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": [
                 "bug"
@@ -18515,10 +18566,10 @@
             "created_at": "09/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260909T203953",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260921T140959",
+            "closed_at": "21/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": null,
             "labels": [
                 "bug"
@@ -24993,6 +25044,23 @@
         },
         {
             "repo": "splor-mg/matriz-fonte-stn-dadosmg",
+            "issue": 105,
+            "title": "Falha na execução do workflow em 2026-09-21T16:29:02Z",
+            "pull_request": false,
+            "created_at": "21/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260922T104231",
+            "closed_at": "22/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/matriz-fonte-stn-dadosmg",
             "issue": 104,
             "title": "102 relatorios GitHub",
             "pull_request": true,
@@ -29418,10 +29486,10 @@
             "created_at": "14/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260917T143358",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260921T180403",
+            "closed_at": "21/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "raianecardoso",
             "labels": [
                 "chore"
@@ -33861,7 +33929,7 @@
             "created_at": "24/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260901T205247",
+            "updated_at": "20260922T151846",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -34373,16 +34441,33 @@
         },
         {
             "repo": "splor-mg/volumes-loa",
+            "issue": 212,
+            "title": "Atualizar capas da LOA 2027",
+            "pull_request": false,
+            "created_at": "21/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260922T111654",
+            "closed_at": "22/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
             "issue": 211,
             "title": "Loa 2027 ibs",
             "pull_request": true,
             "created_at": "16/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260917T141519",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260922T094741",
+            "closed_at": "22/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
@@ -34396,11 +34481,11 @@
             "created_at": "10/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260918T182629",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260922T164459",
+            "closed_at": "22/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
             "labels": [
                 "chore"
             ]
@@ -34447,11 +34532,11 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260918T183053",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260922T175832",
+            "closed_at": "22/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
             "labels": [
                 "chore"
             ]
@@ -34464,11 +34549,11 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260918T193841",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260922T180409",
+            "closed_at": "22/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
             "labels": [
                 "chore"
             ]
@@ -34481,11 +34566,11 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260918T122859",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260921T151639",
+            "closed_at": "21/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
             "labels": [
                 "chore"
             ]
@@ -34498,7 +34583,7 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260918T123451",
+            "updated_at": "20260923T003320",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -34515,11 +34600,11 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260915T145049",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260922T161524",
+            "closed_at": "22/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
             "labels": [
                 "chore"
             ]
@@ -34532,7 +34617,7 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260918T182425",
+            "updated_at": "20260922T161738",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -34549,7 +34634,7 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260918T182944",
+            "updated_at": "20260922T155527",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -34566,11 +34651,11 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260918T192744",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260922T160851",
+            "closed_at": "22/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
             "labels": [
                 "chore"
             ]
@@ -34583,11 +34668,11 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260918T123251",
+            "updated_at": "20260922T180423",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": null,
+            "assignee": "mariaefod",
             "labels": [
                 "question",
                 "chore"
@@ -34618,11 +34703,11 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260918T175549",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260922T104206",
+            "closed_at": "22/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
             "labels": [
                 "chore"
             ]
@@ -34635,11 +34720,11 @@
             "created_at": "04/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260908T145320",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260922T165545",
+            "closed_at": "22/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
             "labels": [
                 "chore"
             ]
@@ -34669,10 +34754,10 @@
             "created_at": "27/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260917T161059",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260922T095046",
+            "closed_at": "22/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "mariaefod",
             "labels": [
                 "bug",
@@ -34720,10 +34805,10 @@
             "created_at": "25/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260918T123041",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260922T114315",
+            "closed_at": "22/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
