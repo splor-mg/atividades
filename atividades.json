@@ -18443,6 +18443,38 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 93,
+            "title": "dpetl transform --linktable",
+            "pull_request": false,
+            "created_at": "24/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260924T204833",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 92,
+            "title": "Add 'dpetl linktable' comand",
+            "pull_request": false,
+            "created_at": "24/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260924T203404",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 91,
             "title": "90 stdin cli transform",
             "pull_request": true,
@@ -25035,7 +25067,7 @@
             "created_at": "31/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260923T202332",
+            "updated_at": "20260924T183227",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -34441,18 +34473,37 @@
         },
         {
             "repo": "splor-mg/volumes-loa",
+            "issue": 214,
+            "title": "loa 2027 obrigatorias",
+            "pull_request": true,
+            "created_at": "24/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260924T224635",
+            "closed_at": "24/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
             "issue": 213,
             "title": "Adicionar novo demonstrativo de despesas financeiras e primárias obrigatórias e discricionárias",
             "pull_request": false,
             "created_at": "23/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260923T232029",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260924T225008",
+            "closed_at": "24/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "mariaefod",
-            "labels": null
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/volumes-loa",
@@ -34598,11 +34649,11 @@
             "created_at": "08/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260923T174522",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20260924T230148",
+            "closed_at": "24/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
             "labels": [
                 "chore"
             ]
