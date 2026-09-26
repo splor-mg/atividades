@@ -5462,6 +5462,23 @@
         },
         {
             "repo": "splor-mg/checks-planejamento",
+            "issue": 69,
+            "title": "Remover bases plurianuais do `check_all`",
+            "pull_request": false,
+            "created_at": "25/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260925T111707",
+            "closed_at": "25/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/checks-planejamento",
             "issue": 68,
             "title": "Erro ao instalar pacote da pasta local no windows para realizar testes de validação do pacote. (Sumarização via IA)",
             "pull_request": false,
@@ -11500,6 +11517,23 @@
             "closed_at_month": null,
             "assignee": "gabrielbdornas",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 79,
+            "title": "ETL workflow failed on 2026-09-25T14:53:38",
+            "pull_request": false,
+            "created_at": "25/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260925T150028",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
@@ -25050,7 +25084,7 @@
             "created_at": "24/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260824T180816",
+            "updated_at": "20260925T170917",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -25067,7 +25101,7 @@
             "created_at": "31/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260924T183227",
+            "updated_at": "20260925T195006",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -34469,6 +34503,23 @@
             "assignee": null,
             "labels": [
                 "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
+            "issue": 215,
+            "title": "Conferir função `is_grupo_fonte_desp()` do pacote relatorios",
+            "pull_request": false,
+            "created_at": "25/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260925T123605",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
             ]
         },
         {
