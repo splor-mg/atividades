@@ -19586,21 +19586,6 @@
         },
         {
             "repo": "splor-mg/dpetl",
-            "issue": 29,
-            "title": "27 check if resource path exists api",
-            "pull_request": true,
-            "created_at": "27/03/2026",
-            "created_at_year": 2026,
-            "created_at_month": 3,
-            "updated_at": "20260327T003914",
-            "closed_at": "27/03/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 3,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpetl",
             "issue": 28,
             "title": "Download files in chuncks when using extract API mode",
             "pull_request": false,
@@ -19648,21 +19633,6 @@
         },
         {
             "repo": "splor-mg/dpetl",
-            "issue": 25,
-            "title": "11 recursivaly",
-            "pull_request": true,
-            "created_at": "12/03/2026",
-            "created_at_year": 2026,
-            "created_at_month": 3,
-            "updated_at": "20260312T202751",
-            "closed_at": "12/03/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 3,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpetl",
             "issue": 24,
             "title": "`socks.GeneralProxyError: Socket error: 503: Service Unavailable` error",
             "pull_request": false,
@@ -19694,21 +19664,6 @@
             "labels": [
                 "new-feature"
             ]
-        },
-        {
-            "repo": "splor-mg/dpetl",
-            "issue": 22,
-            "title": "feat(extract): add --add-package-name to extract command",
-            "pull_request": true,
-            "created_at": "05/03/2026",
-            "created_at_year": 2026,
-            "created_at_month": 3,
-            "updated_at": "20260305T202913",
-            "closed_at": "05/03/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 3,
-            "assignee": null,
-            "labels": null
         },
         {
             "repo": "splor-mg/dpetl",
@@ -19744,21 +19699,6 @@
                 "chore",
                 "documentation"
             ]
-        },
-        {
-            "repo": "splor-mg/dpetl",
-            "issue": 19,
-            "title": "15 today email flag",
-            "pull_request": true,
-            "created_at": "02/03/2026",
-            "created_at_year": 2026,
-            "created_at_month": 3,
-            "updated_at": "20260302T200044",
-            "closed_at": "02/03/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 3,
-            "assignee": null,
-            "labels": null
         },
         {
             "repo": "splor-mg/dpetl",
@@ -19828,21 +19768,6 @@
             "labels": [
                 "new-feature"
             ]
-        },
-        {
-            "repo": "splor-mg/dpetl",
-            "issue": 14,
-            "title": "feat(extract): add multipart file extract func",
-            "pull_request": true,
-            "created_at": "28/02/2026",
-            "created_at_year": 2026,
-            "created_at_month": 2,
-            "updated_at": "20260228T175428",
-            "closed_at": "28/02/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 2,
-            "assignee": null,
-            "labels": null
         },
         {
             "repo": "splor-mg/dpetl",
@@ -19929,21 +19854,6 @@
         },
         {
             "repo": "splor-mg/dpetl",
-            "issue": 8,
-            "title": "7 improve dpetl extract email process",
-            "pull_request": true,
-            "created_at": "26/02/2026",
-            "created_at_year": 2026,
-            "created_at_month": 2,
-            "updated_at": "20260226T184430",
-            "closed_at": "26/02/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 2,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpetl",
             "issue": 7,
             "title": "`dpetl extract` improvements to `email` process",
             "pull_request": false,
@@ -19976,21 +19886,6 @@
         },
         {
             "repo": "splor-mg/dpetl",
-            "issue": 5,
-            "title": "2 extract api",
-            "pull_request": true,
-            "created_at": "24/02/2026",
-            "created_at_year": 2026,
-            "created_at_month": 2,
-            "updated_at": "20260224T174334",
-            "closed_at": "24/02/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 2,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpetl",
             "issue": 4,
             "title": "Create the `etl extract` command to API",
             "pull_request": false,
@@ -20005,36 +19900,6 @@
             "labels": [
                 "chore"
             ]
-        },
-        {
-            "repo": "splor-mg/dpetl",
-            "issue": 3,
-            "title": "1 extract mail",
-            "pull_request": true,
-            "created_at": "12/02/2026",
-            "created_at_year": 2026,
-            "created_at_month": 2,
-            "updated_at": "20260212T134319",
-            "closed_at": "12/02/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 2,
-            "assignee": null,
-            "labels": null
-        },
-        {
-            "repo": "splor-mg/dpetl",
-            "issue": 2,
-            "title": "Sync template updates on 2026-02-09T02:35:30",
-            "pull_request": true,
-            "created_at": "09/02/2026",
-            "created_at_year": 2026,
-            "created_at_month": 2,
-            "updated_at": "20260212T134359",
-            "closed_at": "12/02/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 2,
-            "assignee": null,
-            "labels": null
         },
         {
             "repo": "splor-mg/dpetl",
@@ -25131,7 +24996,7 @@
             "created_at": "31/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260925T195006",
+            "updated_at": "20260928T185313",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -34567,16 +34432,31 @@
         },
         {
             "repo": "splor-mg/volumes-loa",
+            "issue": 216,
+            "title": "Loa 2027 v2",
+            "pull_request": true,
+            "created_at": "28/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260928T165605",
+            "closed_at": "28/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
             "issue": 215,
             "title": "Conferir função `is_grupo_fonte_desp()` do pacote relatorios",
             "pull_request": false,
             "created_at": "25/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260925T123605",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20260928T120606",
+            "closed_at": "28/09/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 9,
             "assignee": "mariaefod",
             "labels": [
                 "chore"
