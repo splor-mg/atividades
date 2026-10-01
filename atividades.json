@@ -6668,6 +6668,142 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 84,
+            "title": "[mid-07] Entregar o link do Django a um mantenedor da AID",
+            "pull_request": false,
+            "created_at": "30/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260930T215526",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 83,
+            "title": "[mid-06] Carregar os dados e criar as contas de manutenção",
+            "pull_request": false,
+            "created_at": "30/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260930T181201",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 82,
+            "title": "[mid-05] Publicar o serviço e o hostname no EasyPanel",
+            "pull_request": false,
+            "created_at": "30/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260930T181159",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 81,
+            "title": "[mid-04] Provisionar o PostgreSQL no EasyPanel",
+            "pull_request": false,
+            "created_at": "30/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260930T181119",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 80,
+            "title": "[mid-03] Adicionar a imagem de container do Django",
+            "pull_request": false,
+            "created_at": "30/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260930T171334",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 79,
+            "title": "[mid-02] Ler as configurações do Django pelo ambiente",
+            "pull_request": false,
+            "created_at": "30/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260930T181122",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 78,
+            "title": "[mid-01] Inventariar o Aid-Lab no EasyPanel",
+            "pull_request": false,
+            "created_at": "30/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260930T181130",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 77,
+            "title": "[EPIC-01] Publicar o classificador no servidor da secretaria",
+            "pull_request": false,
+            "created_at": "30/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260930T181151",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 76,
             "title": "Compilar contexto SDD indexado a partir das specs padronizadas",
             "pull_request": false,
@@ -6742,10 +6878,10 @@
             "created_at": "27/05/2026",
             "created_at_year": 2026,
             "created_at_month": 5,
-            "updated_at": "20260608T193118",
-            "closed_at": "08/06/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 6,
+            "updated_at": "20260930T171320",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "carloshob",
             "labels": [
                 "meeting"
@@ -7350,10 +7486,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260608T152946",
-            "closed_at": "08/06/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 6,
+            "updated_at": "20260930T171339",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7367,10 +7503,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260608T152837",
-            "closed_at": "08/06/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 6,
+            "updated_at": "20260930T171328",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7418,10 +7554,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260608T152540",
-            "closed_at": "08/06/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 6,
+            "updated_at": "20260930T171342",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7469,10 +7605,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260701T021938",
-            "closed_at": "01/07/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 7,
+            "updated_at": "20260930T171326",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7486,10 +7622,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260608T152718",
-            "closed_at": "08/06/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 6,
+            "updated_at": "20260930T171328",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7503,10 +7639,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260608T152408",
-            "closed_at": "08/06/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 6,
+            "updated_at": "20260930T171339",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7537,10 +7673,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260608T152305",
-            "closed_at": "08/06/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 6,
+            "updated_at": "20260930T171333",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7554,10 +7690,10 @@
             "created_at": "28/11/2025",
             "created_at_year": 2025,
             "created_at_month": 11,
-            "updated_at": "20260608T152153",
-            "closed_at": "08/06/2026",
-            "closed_at_year": 2026,
-            "closed_at_month": 6,
+            "updated_at": "20260930T171333",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -7911,7 +8047,7 @@
             "created_at": "10/10/2025",
             "created_at_year": 2025,
             "created_at_month": 10,
-            "updated_at": "20260701T021939",
+            "updated_at": "20260930T171316",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -25124,23 +25260,6 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/linktable",
-            "issue": 1,
-            "title": "Onde deve morar o código Linktable?",
-            "pull_request": false,
-            "created_at": "24/08/2026",
-            "created_at_year": 2026,
-            "created_at_month": 8,
-            "updated_at": "20260925T170917",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "raianecardoso",
-            "labels": [
-                "question"
-            ]
-        },
-        {
             "repo": "splor-mg/loa-mg",
             "issue": 1,
             "title": "Registrar benchmarking",
@@ -25148,7 +25267,7 @@
             "created_at": "31/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260929T194825",
+            "updated_at": "20260930T200236",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -28213,6 +28332,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/projetos",
+            "issue": 24,
+            "title": "Pesquisar ferramenta que permite acesso restrito à paineis",
+            "pull_request": false,
+            "created_at": "30/09/2026",
+            "created_at_year": 2026,
+            "created_at_month": 9,
+            "updated_at": "20260930T190422",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/projetos",
@@ -37948,7 +38084,7 @@
             "labels": null
         },
         {
-            "repo": "splor-mg/zendb-cli",
+            "repo": "splor-mg/zendt",
             "issue": 1,
             "title": "Config Command",
             "pull_request": false,
