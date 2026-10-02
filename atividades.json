@@ -6674,7 +6674,7 @@
             "created_at": "30/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260930T215526",
+            "updated_at": "20261001T104610",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -11671,13 +11671,47 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 82,
+            "title": "Migrar datapackages usados no operacional do servidor para  `dados-orcamentarios`",
+            "pull_request": false,
+            "created_at": "01/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261001T143721",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 81,
+            "title": "80 totais siafi",
+            "pull_request": true,
+            "created_at": "01/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261001T114024",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 80,
             "title": "Migrar dados-totais-armazem-siafi",
             "pull_request": false,
             "created_at": "29/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260929T155429",
+            "updated_at": "20261001T111648",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -12118,12 +12152,14 @@
             "created_at": "10/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260723T102451",
+            "updated_at": "20261001T144609",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
-            "assignee": "mariaefod",
-            "labels": null
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
@@ -18645,6 +18681,38 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 96,
+            "title": "Move documentation from README to a Zensical site",
+            "pull_request": false,
+            "created_at": "01/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261001T175504",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 95,
+            "title": "Add custom configuration for subprocess as env variables",
+            "pull_request": false,
+            "created_at": "01/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261001T140059",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 94,
             "title": "Sync template workflow failed on 2026-09-28T04:27:19",
             "pull_request": false,
@@ -18681,10 +18749,10 @@
             "created_at": "24/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260924T203404",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261001T141917",
+            "closed_at": "01/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
@@ -18698,7 +18766,7 @@
             "created_at": "21/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260921T145001",
+            "updated_at": "20261001T182216",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -30107,10 +30175,10 @@
             "created_at": "03/07/2026",
             "created_at_year": 2026,
             "created_at_month": 7,
-            "updated_at": "20260902T164721",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261001T142123",
+            "closed_at": "01/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "raianecardoso",
             "labels": null
         },
@@ -31426,11 +31494,11 @@
             "created_at": "16/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260504T141057",
+            "updated_at": "20261001T145032",
             "closed_at": "04/05/2026",
             "closed_at_year": 2026,
             "closed_at_month": 5,
-            "assignee": null,
+            "assignee": "raianecardoso",
             "labels": null
         },
         {
@@ -31524,11 +31592,11 @@
             "created_at": "02/03/2026",
             "created_at_year": 2026,
             "created_at_month": 3,
-            "updated_at": "20260309T184202",
+            "updated_at": "20261001T144914",
             "closed_at": "09/03/2026",
             "closed_at_year": 2026,
             "closed_at_month": 3,
-            "assignee": null,
+            "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
             ]
@@ -32639,11 +32707,11 @@
             "created_at": "17/09/2025",
             "created_at_year": 2025,
             "created_at_month": 9,
-            "updated_at": "20250922T191549",
+            "updated_at": "20261001T144855",
             "closed_at": "22/09/2025",
             "closed_at_year": 2025,
             "closed_at_month": 9,
-            "assignee": null,
+            "assignee": "raianecardoso",
             "labels": [
                 "question"
             ]
@@ -33888,11 +33956,11 @@
             "created_at": "02/06/2025",
             "created_at_year": 2025,
             "created_at_month": 6,
-            "updated_at": "20250730T181055",
+            "updated_at": "20261001T144822",
             "closed_at": "30/07/2025",
             "closed_at_year": 2025,
             "closed_at_month": 7,
-            "assignee": null,
+            "assignee": "raianecardoso",
             "labels": [
                 "new-feature"
             ]
