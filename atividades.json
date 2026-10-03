@@ -6793,10 +6793,10 @@
             "created_at": "30/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260930T181151",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261002T160623",
+            "closed_at": "02/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -11694,10 +11694,10 @@
             "created_at": "01/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261001T114024",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261002T215612",
+            "closed_at": "02/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
@@ -11711,10 +11711,10 @@
             "created_at": "29/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20261001T111648",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261002T215611",
+            "closed_at": "02/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "mariaefod",
             "labels": [
                 "chore"
