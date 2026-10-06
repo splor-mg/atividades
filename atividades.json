@@ -18067,7 +18067,7 @@
             "created_at": "03/06/2026",
             "created_at_year": 2026,
             "created_at_month": 6,
-            "updated_at": "20260923T201559",
+            "updated_at": "20261005T143022",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18696,16 +18696,233 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 110,
+            "title": "Falha na execução do workflow Tests em 2026-10-05T16:21:20Z",
+            "pull_request": false,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T162120",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 109,
+            "title": "108 fix doc workflow",
+            "pull_request": true,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T160400",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 108,
+            "title": "Fix documentation workflow",
+            "pull_request": false,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T160047",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 107,
+            "title": "96 docs zensical",
+            "pull_request": true,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T154326",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 106,
+            "title": "Falha na execução do workflow Tests em 2026-10-05T15:05:02Z",
+            "pull_request": false,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T150502",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 105,
+            "title": "ci: fix PyPI version check in release workflow",
+            "pull_request": true,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T114205",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 104,
+            "title": "Falha na execução do workflow Coverage and Release em 2026-10-05T11:35:16Z",
+            "pull_request": false,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T114204",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 103,
+            "title": "97 sync template fail",
+            "pull_request": true,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T113402",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 102,
+            "title": "Sync template workflow failed on 2026-10-05T11:22:55",
+            "pull_request": false,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T113404",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 101,
+            "title": "Sync template workflow failed on 2026-10-05T11:14:48",
+            "pull_request": false,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T113403",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 100,
+            "title": "Falha na execução do workflow Tests em 2026-10-05T11:06:13Z",
+            "pull_request": false,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T113403",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 99,
+            "title": "Falha na execução do workflow Tests em 2026-10-05T10:56:58Z",
+            "pull_request": false,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T113402",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 98,
+            "title": "Falha na execução do workflow Tests em 2026-10-05T10:54:11Z",
+            "pull_request": false,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T113402",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 97,
             "title": "Sync template workflow failed on 2026-10-05T04:46:22",
             "pull_request": false,
             "created_at": "05/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261005T044624",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261005T113401",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": null,
             "labels": null
         },
@@ -18717,10 +18934,10 @@
             "created_at": "01/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261001T175504",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261005T154325",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "mariaefod",
             "labels": [
                 "documentation"
@@ -18734,10 +18951,10 @@
             "created_at": "01/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261001T140059",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261005T130704",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": null,
             "labels": null
         },
@@ -18749,10 +18966,10 @@
             "created_at": "28/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260928T042722",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261005T113401",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": null,
             "labels": null
         },
@@ -18796,10 +19013,10 @@
             "created_at": "21/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20261001T182216",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261005T130705",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
@@ -18813,10 +19030,10 @@
             "created_at": "21/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260921T144837",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261005T130704",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
@@ -25359,16 +25576,33 @@
         },
         {
             "repo": "splor-mg/loa-mg",
+            "issue": 2,
+            "title": "O que a Loa precisa apresentar?",
+            "pull_request": false,
+            "created_at": "05/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261005T133057",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "LorenadeCastro",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/loa-mg",
             "issue": 1,
             "title": "Registrar benchmarking",
             "pull_request": false,
             "created_at": "31/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260930T200236",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261005T131636",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "LorenadeCastro",
             "labels": null
         },
@@ -28773,10 +29007,10 @@
             "created_at": "09/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260916T171112",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261005T125455",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "Laura-Dilly",
             "labels": [
                 "new-feature"
@@ -28839,10 +29073,10 @@
             "created_at": "28/08/2026",
             "created_at_year": 2026,
             "created_at_month": 8,
-            "updated_at": "20260910T135751",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261005T125529",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "Laura-Dilly",
             "labels": [
                 "question"
@@ -38219,10 +38453,10 @@
             "created_at": "16/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20260916T125402",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261005T125415",
+            "closed_at": "05/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "Laura-Dilly",
             "labels": [
                 "new-feature"
