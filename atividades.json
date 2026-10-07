@@ -579,6 +579,40 @@
         },
         {
             "repo": "splor-mg/apresentacoes",
+            "issue": 15,
+            "title": "14 dados orcamentarios",
+            "pull_request": true,
+            "created_at": "06/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261006T154236",
+            "closed_at": "06/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/apresentacoes",
+            "issue": 14,
+            "title": "Criar apresentação sobre `dados-orcamentarios`",
+            "pull_request": false,
+            "created_at": "06/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261006T154218",
+            "closed_at": "06/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/apresentacoes",
             "issue": 13,
             "title": "Sync template workflow failed on 2026-09-21T04:11:34",
             "pull_request": false,
@@ -11686,13 +11720,30 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 83,
+            "title": "Escrever documentação",
+            "pull_request": false,
+            "created_at": "06/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261006T160903",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 82,
             "title": "Migrar datapackages usados no operacional do servidor para  `dados-orcamentarios`",
             "pull_request": false,
             "created_at": "01/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261001T143721",
+            "updated_at": "20261006T192351",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18691,6 +18742,21 @@
             "closed_at": "13/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 111,
+            "title": "Linktable",
+            "pull_request": true,
+            "created_at": "06/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261006T182748",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": null
         },
