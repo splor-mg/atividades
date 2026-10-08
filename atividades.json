@@ -11720,6 +11720,57 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 86,
+            "title": "33 dados aux contratos",
+            "pull_request": true,
+            "created_at": "07/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261007T193405",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 85,
+            "title": "ETL workflow failed on 2026-10-07T17:08:03",
+            "pull_request": false,
+            "created_at": "07/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261007T185835",
+            "closed_at": "07/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 84,
+            "title": "ETL workflow failed on 2026-10-07T13:34:17",
+            "pull_request": false,
+            "created_at": "07/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261007T184950",
+            "closed_at": "07/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 83,
             "title": "Escrever documentação",
             "pull_request": false,
@@ -11743,7 +11794,7 @@
             "created_at": "01/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261006T192351",
+            "updated_at": "20261007T203403",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18747,6 +18798,40 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 113,
+            "title": "85 etl fail",
+            "pull_request": true,
+            "created_at": "07/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261007T185836",
+            "closed_at": "07/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 112,
+            "title": "Falha na execução do workflow Tests em 2026-10-07T18:54:00Z",
+            "pull_request": false,
+            "created_at": "07/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261007T185400",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 111,
             "title": "Linktable",
             "pull_request": true,
@@ -18836,10 +18921,10 @@
             "created_at": "05/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261005T150502",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261007T184027",
+            "closed_at": "07/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": null,
             "labels": [
                 "bug"
@@ -25648,7 +25733,7 @@
             "created_at": "05/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261005T133057",
+            "updated_at": "20261007T201808",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
