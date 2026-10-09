@@ -11720,16 +11720,99 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 91,
+            "title": "Atualização automática com base em versões de regras",
+            "pull_request": false,
+            "created_at": "08/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261008T192702",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "Laura-Dilly",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 90,
+            "title": "ETL workflow failed on 2026-10-08T17:06:00",
+            "pull_request": false,
+            "created_at": "08/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261008T173648",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 89,
+            "title": "teste zendt",
+            "pull_request": true,
+            "created_at": "08/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261008T174749",
+            "closed_at": "08/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 88,
+            "title": "Adicionar transformação dos dados_siafi com zendt + regras-orcamentarias-mg",
+            "pull_request": false,
+            "created_at": "08/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261008T174746",
+            "closed_at": "08/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 87,
+            "title": "Adc o datapackage  dados_siad",
+            "pull_request": true,
+            "created_at": "08/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261008T170231",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 86,
             "title": "33 dados aux contratos",
             "pull_request": true,
             "created_at": "07/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261007T193405",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261008T100252",
+            "closed_at": "08/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
@@ -11743,11 +11826,11 @@
             "created_at": "07/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261007T185835",
+            "updated_at": "20261008T094808",
             "closed_at": "07/10/2026",
             "closed_at_year": 2026,
             "closed_at_month": 10,
-            "assignee": null,
+            "assignee": "mariaefod",
             "labels": [
                 "bug"
             ]
@@ -12399,16 +12482,16 @@
         {
             "repo": "splor-mg/dados-orcamentarios",
             "issue": 33,
-            "title": "Migrar dados-aux-contratos até a fase `extract`",
+            "title": "Migrar dados-aux-contratos",
             "pull_request": false,
             "created_at": "14/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260414T150939",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20261008T100347",
+            "closed_at": "08/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
             "labels": [
                 "chore"
             ]
@@ -12416,12 +12499,12 @@
         {
             "repo": "splor-mg/dados-orcamentarios",
             "issue": 32,
-            "title": "Migrar dados-armazem-siad até a fase `extract`",
+            "title": "Migrar dados-armazem-siad ",
             "pull_request": false,
             "created_at": "14/04/2026",
             "created_at_year": 2026,
             "created_at_month": 4,
-            "updated_at": "20260414T150313",
+            "updated_at": "20261008T122027",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18798,6 +18881,57 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 116,
+            "title": "Falha na execução do workflow Tests em 2026-10-08T18:12:02Z",
+            "pull_request": false,
+            "created_at": "08/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261008T181202",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 115,
+            "title": "114 fix cli output",
+            "pull_request": true,
+            "created_at": "08/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261008T131742",
+            "closed_at": "08/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 114,
+            "title": "Fix CLI output lookup for multi-extension files",
+            "pull_request": false,
+            "created_at": "08/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261008T131842",
+            "closed_at": "08/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 113,
             "title": "85 etl fail",
             "pull_request": true,
@@ -18821,10 +18955,10 @@
             "created_at": "07/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261007T185400",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261008T131023",
+            "closed_at": "08/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": null,
             "labels": [
                 "bug"
@@ -18838,7 +18972,7 @@
             "created_at": "06/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261006T182748",
+            "updated_at": "20261008T184645",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -27985,6 +28119,24 @@
             "closed_at_month": 7,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/onboarding",
+            "issue": 21,
+            "title": "Onboarding Rafael Maia Nogueira",
+            "pull_request": false,
+            "created_at": "08/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261008T165305",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "documentation",
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/onboarding",
