@@ -11570,6 +11570,21 @@
         },
         {
             "repo": "splor-mg/dados-fem",
+            "issue": 11,
+            "title": "Sync template workflow failed on 2026-10-12T04:00:27",
+            "pull_request": false,
+            "created_at": "12/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261012T040029",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-fem",
             "issue": 10,
             "title": "Sync template workflow failed on 2026-10-05T03:43:52",
             "pull_request": false,
@@ -18891,6 +18906,21 @@
             "closed_at": "13/08/2024",
             "closed_at_year": 2024,
             "closed_at_month": 8,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 117,
+            "title": "Sync template workflow failed on 2026-10-12T05:04:48",
+            "pull_request": false,
+            "created_at": "12/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261012T050453",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
             "assignee": null,
             "labels": null
         },
@@ -28327,6 +28357,21 @@
             "labels": [
                 "documentation"
             ]
+        },
+        {
+            "repo": "splor-mg/painel-ldo",
+            "issue": 21,
+            "title": "Sync template workflow failed on 2026-10-12T05:39:16",
+            "pull_request": false,
+            "created_at": "12/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261012T053919",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
         },
         {
             "repo": "splor-mg/painel-ldo",
