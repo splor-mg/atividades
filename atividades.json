@@ -29170,7 +29170,7 @@
             "created_at": "30/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20261009T181338",
+            "updated_at": "20261014T185722",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -35560,6 +35560,40 @@
             "assignee": null,
             "labels": [
                 "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
+            "issue": 219,
+            "title": "Loa 2027 clean",
+            "pull_request": true,
+            "created_at": "14/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261014T123807",
+            "closed_at": "14/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
+            "issue": 218,
+            "title": "Limpar arquivos que não são mais utilizados",
+            "pull_request": false,
+            "created_at": "14/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261014T125348",
+            "closed_at": "14/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
             ]
         },
         {
