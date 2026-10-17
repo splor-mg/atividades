@@ -11784,6 +11784,23 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 93,
+            "title": "ETL workflow failed on 2026-10-16T14:26:14",
+            "pull_request": false,
+            "created_at": "16/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261016T143431",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 92,
             "title": "Testar `dpetl linktable`",
             "pull_request": false,
@@ -29170,7 +29187,7 @@
             "created_at": "30/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20261015T181644",
+            "updated_at": "20261016T190955",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
