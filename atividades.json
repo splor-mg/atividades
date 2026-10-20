@@ -11784,6 +11784,23 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 94,
+            "title": "ETL workflow failed on 2026-10-19T16:43:35",
+            "pull_request": false,
+            "created_at": "19/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261019T165400",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 93,
             "title": "ETL workflow failed on 2026-10-16T14:26:14",
             "pull_request": false,
@@ -18974,6 +18991,23 @@
             "closed_at_month": 8,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 121,
+            "title": "Use Git LSF to upload linktable files to Github",
+            "pull_request": false,
+            "created_at": "19/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261019T135710",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
