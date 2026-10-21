@@ -11784,6 +11784,40 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 96,
+            "title": "95 historico siafi",
+            "pull_request": true,
+            "created_at": "20/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261020T152945",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 95,
+            "title": "Publicar dados históricos do SIAFI no GitHub",
+            "pull_request": false,
+            "created_at": "20/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261020T153948",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 94,
             "title": "ETL workflow failed on 2026-10-19T16:43:35",
             "pull_request": false,
@@ -18994,6 +19028,40 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 123,
+            "title": "122 join transform",
+            "pull_request": true,
+            "created_at": "20/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261020T160324",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 122,
+            "title": "Add field `join` support to transform command",
+            "pull_request": false,
+            "created_at": "20/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261020T132610",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 121,
             "title": "Use Git LSF to upload linktable files to Github",
             "pull_request": false,
@@ -26065,7 +26133,7 @@
             "created_at": "05/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261013T145233",
+            "updated_at": "20261020T190825",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
