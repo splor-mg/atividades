@@ -26133,10 +26133,10 @@
             "created_at": "05/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261020T190825",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261021T140233",
+            "closed_at": "21/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "LorenadeCastro",
             "labels": [
                 "documentation"
@@ -29289,7 +29289,7 @@
             "created_at": "30/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20261016T190955",
+            "updated_at": "20261021T154806",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
