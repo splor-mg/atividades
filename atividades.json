@@ -11790,7 +11790,7 @@
             "created_at": "20/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261020T152945",
+            "updated_at": "20261026T174114",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -19034,7 +19034,7 @@
             "created_at": "20/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261020T160324",
+            "updated_at": "20261026T185559",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -35679,6 +35679,24 @@
             "assignee": null,
             "labels": [
                 "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
+            "issue": 220,
+            "title": "Migrar volume 7 de R/Sweave para Python/Jinja2",
+            "pull_request": false,
+            "created_at": "26/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261026T200103",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature",
+                "chore"
             ]
         },
         {
