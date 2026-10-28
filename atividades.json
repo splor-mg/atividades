@@ -579,6 +579,23 @@
         },
         {
             "repo": "splor-mg/apresentacoes",
+            "issue": 18,
+            "title": "Criar apresentação sobre Semantic Versioning - SDD assistido por IA",
+            "pull_request": false,
+            "created_at": "27/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261027T191446",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/apresentacoes",
             "issue": 17,
             "title": "Apresentacao linktable",
             "pull_request": true,
@@ -29289,7 +29306,7 @@
             "created_at": "30/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20261021T154806",
+            "updated_at": "20261027T200409",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -35683,16 +35700,105 @@
         },
         {
             "repo": "splor-mg/volumes-loa",
+            "issue": 225,
+            "title": "Migrar volume 4 de R/Sweave para Python/Jinja2",
+            "pull_request": false,
+            "created_at": "27/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261027T170511",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
+            "issue": 224,
+            "title": "loa 2027 jinja v5",
+            "pull_request": true,
+            "created_at": "27/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261027T154304",
+            "closed_at": "27/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
+            "issue": 223,
+            "title": "Migrar volume 5 de R/Sweave para Python/Jinja2",
+            "pull_request": false,
+            "created_at": "27/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261027T154554",
+            "closed_at": "27/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
+            "issue": 222,
+            "title": "Migrar volume 6 de R/Sweave para Python/Jinja2",
+            "pull_request": false,
+            "created_at": "27/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261027T153049",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
+            "issue": 221,
+            "title": "loa 2027 jinja v7",
+            "pull_request": true,
+            "created_at": "27/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261027T121558",
+            "closed_at": "27/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
             "issue": 220,
             "title": "Migrar volume 7 de R/Sweave para Python/Jinja2",
             "pull_request": false,
             "created_at": "26/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261026T200103",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261027T154652",
+            "closed_at": "27/10/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 10,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature",
