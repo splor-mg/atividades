@@ -9137,6 +9137,40 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 178,
+            "title": "Falha na execução do workflow em 2026-11-03T19:44:04Z",
+            "pull_request": false,
+            "created_at": "03/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261103T194404",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 177,
+            "title": "Falha na execução do workflow em 2026-11-03T19:32:53Z",
+            "pull_request": false,
+            "created_at": "03/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261103T193253",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 176,
             "title": "Potentially breaking changes with frictionless 2.0.0",
             "pull_request": false,
@@ -11832,6 +11866,23 @@
             "closed_at_month": null,
             "assignee": "gabrielbdornas",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 97,
+            "title": "ETL workflow failed on 2026-11-03T16:38:15",
+            "pull_request": false,
+            "created_at": "03/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261103T164413",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
@@ -18444,6 +18495,72 @@
         },
         {
             "repo": "splor-mg/datamart",
+            "issue": 30,
+            "title": "Padronizar comportamento de criação de linktables",
+            "pull_request": false,
+            "created_at": "03/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261103T140404",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 29,
+            "title": "Criar versão do código da linktable na qual o usuário indica quais campos são fatos e quais são dimensão",
+            "pull_request": false,
+            "created_at": "03/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261103T140414",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 28,
+            "title": "Desenvolver primeira versão do modulo linktable no dpetl",
+            "pull_request": false,
+            "created_at": "03/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261103T135104",
+            "closed_at": "03/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "raianecardoso",
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/datamart",
+            "issue": 27,
+            "title": "Use Git LSF to upload linktable files to Github",
+            "pull_request": false,
+            "created_at": "19/10/2026",
+            "created_at_year": 2026,
+            "created_at_month": 10,
+            "updated_at": "20261103T154942",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
             "issue": 26,
             "title": "Linktable",
             "pull_request": false,
@@ -19113,23 +19230,6 @@
         },
         {
             "repo": "splor-mg/dpetl",
-            "issue": 121,
-            "title": "Use Git LSF to upload linktable files to Github",
-            "pull_request": false,
-            "created_at": "19/10/2026",
-            "created_at_year": 2026,
-            "created_at_month": 10,
-            "updated_at": "20261019T135710",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": "raianecardoso",
-            "labels": [
-                "new-feature"
-            ]
-        },
-        {
-            "repo": "splor-mg/dpetl",
             "issue": 120,
             "title": "Sync template",
             "pull_request": true,
@@ -19289,7 +19389,7 @@
             "created_at": "06/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261028T190100",
+            "updated_at": "20261103T173106",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -30275,10 +30375,10 @@
             "created_at": "29/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261029T114734",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261103T170129",
+            "closed_at": "03/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": null
         },
@@ -35745,6 +35845,42 @@
             "assignee": null,
             "labels": [
                 "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
+            "issue": 230,
+            "title": "loa 2027 jinja v2",
+            "pull_request": true,
+            "created_at": "03/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261103T161710",
+            "closed_at": "03/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
+            "issue": 229,
+            "title": "Migrar volume 2 de R/Sweave para Python/Jinja2",
+            "pull_request": false,
+            "created_at": "03/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261103T162018",
+            "closed_at": "03/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature",
+                "chore"
             ]
         },
         {
