@@ -9137,6 +9137,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 179,
+            "title": "Falha na execução do workflow em 2026-11-04T17:24:10Z",
+            "pull_request": false,
+            "created_at": "04/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261104T172411",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 178,
             "title": "Falha na execução do workflow em 2026-11-03T19:44:04Z",
             "pull_request": false,
@@ -11892,7 +11909,7 @@
             "created_at": "20/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261026T174114",
+            "updated_at": "20261104T173833",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -18495,6 +18512,23 @@
         },
         {
             "repo": "splor-mg/datamart",
+            "issue": 31,
+            "title": "bug: números nas chaves estão aparecendo com uma casa decimal > 2.0",
+            "pull_request": false,
+            "created_at": "04/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261104T183701",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "raianecardoso",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/datamart",
             "issue": 30,
             "title": "Padronizar comportamento de criação de linktables",
             "pull_request": false,
@@ -18550,7 +18584,7 @@
             "created_at": "19/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261103T154942",
+            "updated_at": "20261104T135229",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -19196,13 +19230,30 @@
         },
         {
             "repo": "splor-mg/dpetl",
+            "issue": 124,
+            "title": "Add `replace` and `compute` support to transform",
+            "pull_request": false,
+            "created_at": "04/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261104T175808",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
             "issue": 123,
             "title": "122 join transform",
             "pull_request": true,
             "created_at": "20/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261026T185559",
+            "updated_at": "20261104T175942",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -19389,7 +19440,7 @@
             "created_at": "06/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261103T173106",
+            "updated_at": "20261104T184338",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -29440,7 +29491,7 @@
             "created_at": "30/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20261027T200409",
+            "updated_at": "20261104T151109",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -35845,6 +35896,24 @@
             "assignee": null,
             "labels": [
                 "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
+            "issue": 231,
+            "title": "Migrar volume 1 de R/Sweave para Python/Jinja2",
+            "pull_request": false,
+            "created_at": "04/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261104T171157",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature",
+                "chore"
             ]
         },
         {
