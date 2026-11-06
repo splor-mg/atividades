@@ -883,10 +883,10 @@
             "created_at": "29/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261029T203858",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261105T135344",
+            "closed_at": "05/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
             "assignee": "carloshob",
             "labels": [
                 "new-feature"
@@ -9134,6 +9134,23 @@
             "closed_at_month": null,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 180,
+            "title": "Falha na execução do workflow em 2026-11-05T17:32:06Z",
+            "pull_request": false,
+            "created_at": "05/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261105T173206",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
