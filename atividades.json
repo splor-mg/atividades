@@ -9137,6 +9137,23 @@
         },
         {
             "repo": "splor-mg/dados-aux-classificadores",
+            "issue": 183,
+            "title": "Falha na execução do workflow em 2026-11-10T17:11:56Z",
+            "pull_request": false,
+            "created_at": "10/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261110T171156",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-aux-classificadores",
             "issue": 182,
             "title": "Falha na execução do workflow em 2026-11-09T19:57:31Z",
             "pull_request": false,
@@ -11943,11 +11960,11 @@
             "created_at": "06/11/2026",
             "created_at_year": 2026,
             "created_at_month": 11,
-            "updated_at": "20261106T175033",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20261110T095344",
+            "closed_at": "10/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "mariaefod",
             "labels": [
                 "bug"
             ]
@@ -11960,10 +11977,10 @@
             "created_at": "03/11/2026",
             "created_at_year": 2026,
             "created_at_month": 11,
-            "updated_at": "20261103T164413",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261110T095120",
+            "closed_at": "10/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -11977,10 +11994,10 @@
             "created_at": "20/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261104T173833",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261110T132907",
+            "closed_at": "10/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
             "assignee": "mariaefod",
             "labels": [
                 "chore"
@@ -12011,10 +12028,10 @@
             "created_at": "19/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261019T165400",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261110T095118",
+            "closed_at": "10/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -12028,10 +12045,10 @@
             "created_at": "16/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261016T143431",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261110T095116",
+            "closed_at": "10/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -19304,10 +19321,10 @@
             "created_at": "04/11/2026",
             "created_at_year": 2026,
             "created_at_month": 11,
-            "updated_at": "20261104T175808",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261110T121137",
+            "closed_at": "10/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
@@ -19321,10 +19338,10 @@
             "created_at": "20/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261104T175942",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261110T121137",
+            "closed_at": "10/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
@@ -19338,10 +19355,10 @@
             "created_at": "20/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261020T132610",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261110T121137",
+            "closed_at": "10/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
             "assignee": "mariaefod",
             "labels": [
                 "new-feature"
@@ -35968,13 +35985,49 @@
         },
         {
             "repo": "splor-mg/volumes-loa",
+            "issue": 233,
+            "title": "loa 2027 jinja v6",
+            "pull_request": true,
+            "created_at": "10/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261110T115347",
+            "closed_at": "10/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
+            "issue": 232,
+            "title": "loa 2027 jinja v1",
+            "pull_request": true,
+            "created_at": "10/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261110T110739",
+            "closed_at": "10/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature",
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
             "issue": 231,
             "title": "Migrar volume 1 de R/Sweave para Python/Jinja2",
             "pull_request": false,
             "created_at": "04/11/2026",
             "created_at_year": 2026,
             "created_at_month": 11,
-            "updated_at": "20261104T171157",
+            "updated_at": "20261110T104937",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -36136,7 +36189,7 @@
             "created_at": "27/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261027T153049",
+            "updated_at": "20261110T115440",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
