@@ -877,6 +877,21 @@
         },
         {
             "repo": "splor-mg/atividades",
+            "issue": 238,
+            "title": "Semana de Inovação Enap: Análise de Dados e IA No-Code na Gestão Pública  (knime)",
+            "pull_request": false,
+            "created_at": "11/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261111T134700",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/atividades",
             "issue": 237,
             "title": "Criar splor-kit como pacote de orquestração de protocolos e ferramentas e skills para atuação na SPLOR",
             "pull_request": false,
