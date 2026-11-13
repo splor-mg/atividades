@@ -36000,6 +36000,23 @@
         },
         {
             "repo": "splor-mg/volumes-loa",
+            "issue": 234,
+            "title": "Atualizar bases da LOA com dados do PPO extraídos do Data Lake da Prodemge",
+            "pull_request": false,
+            "created_at": "12/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261112T175713",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
             "issue": 233,
             "title": "loa 2027 jinja v6",
             "pull_request": true,
@@ -39650,16 +39667,33 @@
         },
         {
             "repo": "splor-mg/zendt",
+            "issue": 4,
+            "title": "Include \"_meta.json\" as config file to be ignored",
+            "pull_request": false,
+            "created_at": "12/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261112T140950",
+            "closed_at": "12/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "Laura-Dilly",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/zendt",
             "issue": 2,
             "title": "Change 'Config' command format",
             "pull_request": false,
             "created_at": "06/11/2026",
             "created_at_year": 2026,
             "created_at_month": 11,
-            "updated_at": "20261106T151156",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261112T170130",
+            "closed_at": "12/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
             "assignee": "Laura-Dilly",
             "labels": [
                 "chore"
