@@ -11969,6 +11969,23 @@
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
+            "issue": 99,
+            "title": "ETL workflow failed on 2026-11-13T12:41:17",
+            "pull_request": false,
+            "created_at": "13/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261113T125355",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
             "issue": 98,
             "title": "ETL workflow failed on 2026-11-06T17:03:41",
             "pull_request": false,
@@ -29591,7 +29608,7 @@
             "created_at": "30/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20261104T151109",
+            "updated_at": "20261113T165433",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -36006,7 +36023,7 @@
             "created_at": "12/11/2026",
             "created_at_year": 2026,
             "created_at_month": 11,
-            "updated_at": "20261112T175713",
+            "updated_at": "20261113T123355",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
