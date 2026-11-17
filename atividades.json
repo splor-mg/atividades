@@ -579,6 +579,36 @@
         },
         {
             "repo": "splor-mg/apresentacoes",
+            "issue": 21,
+            "title": "Corrige site commit zendt",
+            "pull_request": true,
+            "created_at": "16/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261116T183828",
+            "closed_at": "16/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/apresentacoes",
+            "issue": 20,
+            "title": "Modernizacao dados aid",
+            "pull_request": true,
+            "created_at": "16/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261116T180654",
+            "closed_at": "16/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": null,
+            "labels": null
+        },
+        {
+            "repo": "splor-mg/apresentacoes",
             "issue": 19,
             "title": "docs(slides): adiciona apresentação sobre SDD assistido por IA e SemVer",
             "pull_request": true,
@@ -6800,6 +6830,40 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 86,
+            "title": "(item) - Recusar no Salvar uma matriz incompatível com a Agregação do nível",
+            "pull_request": false,
+            "created_at": "16/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261116T192625",
+            "closed_at": "16/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "carloshob",
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 85,
+            "title": "(nivel) - Registrar Agregação no nível hierárquico",
+            "pull_request": false,
+            "created_at": "16/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261116T192605",
+            "closed_at": "16/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 84,
             "title": "[mid-07] Entregar o link do Django a um mantenedor da AID",
             "pull_request": false,
@@ -11966,6 +12030,57 @@
             "closed_at_month": null,
             "assignee": "gabrielbdornas",
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 102,
+            "title": "ETL workflow failed on 2026-11-16T17:59:13",
+            "pull_request": false,
+            "created_at": "16/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261116T180020",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 101,
+            "title": "ETL workflow failed on 2026-11-16T17:57:36",
+            "pull_request": false,
+            "created_at": "16/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261116T175836",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": null,
+            "labels": [
+                "bug"
+            ]
+        },
+        {
+            "repo": "splor-mg/dados-orcamentarios",
+            "issue": 100,
+            "title": "Atualizar dados_ppo com extração automática do Data Lake da Prodemge",
+            "pull_request": false,
+            "created_at": "16/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261116T135035",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
+            ]
         },
         {
             "repo": "splor-mg/dados-orcamentarios",
@@ -19344,6 +19459,40 @@
             "closed_at_month": 8,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 126,
+            "title": "125 sql extract",
+            "pull_request": true,
+            "created_at": "16/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261116T133712",
+            "closed_at": "16/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/dpetl",
+            "issue": 125,
+            "title": "Add `sql` mode to extract command",
+            "pull_request": false,
+            "created_at": "16/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261116T133712",
+            "closed_at": "16/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "mariaefod",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/dpetl",
@@ -36013,6 +36162,23 @@
             "assignee": null,
             "labels": [
                 "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/volumes-loa",
+            "issue": 235,
+            "title": "loa 2027 jinja dlmg",
+            "pull_request": true,
+            "created_at": "16/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261116T105019",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "mariaefod",
+            "labels": [
+                "chore"
             ]
         },
         {
