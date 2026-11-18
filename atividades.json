@@ -6830,6 +6830,57 @@
         },
         {
             "repo": "splor-mg/classificador-receita",
+            "issue": 89,
+            "title": "(vigencia) - Refinar a apresentação da faixa de filtros de vigência",
+            "pull_request": false,
+            "created_at": "17/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261117T200806",
+            "closed_at": "17/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": null,
+            "labels": [
+                "chore"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 88,
+            "title": "(changelog) - Introduzir o CHANGELOG do classificador",
+            "pull_request": false,
+            "created_at": "17/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261117T151935",
+            "closed_at": "17/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "carloshob",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
+            "issue": 87,
+            "title": "(vigencia) - Implementar o assistente de vigência",
+            "pull_request": false,
+            "created_at": "17/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261117T151949",
+            "closed_at": "17/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "carloshob",
+            "labels": [
+                "new-feature"
+            ]
+        },
+        {
+            "repo": "splor-mg/classificador-receita",
             "issue": 86,
             "title": "(item) - Recusar no Salvar uma matriz incompatível com a Agregação do nível",
             "pull_request": false,
@@ -12039,10 +12090,10 @@
             "created_at": "16/11/2026",
             "created_at_year": 2026,
             "created_at_month": 11,
-            "updated_at": "20261116T180020",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261117T135936",
+            "closed_at": "17/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -12056,10 +12107,10 @@
             "created_at": "16/11/2026",
             "created_at_year": 2026,
             "created_at_month": 11,
-            "updated_at": "20261116T175836",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
+            "updated_at": "20261117T135934",
+            "closed_at": "17/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
             "assignee": null,
             "labels": [
                 "bug"
@@ -12090,13 +12141,14 @@
             "created_at": "13/11/2026",
             "created_at_year": 2026,
             "created_at_month": 11,
-            "updated_at": "20261113T125355",
-            "closed_at": null,
-            "closed_at_year": null,
-            "closed_at_month": null,
-            "assignee": null,
+            "updated_at": "20261117T140056",
+            "closed_at": "17/11/2026",
+            "closed_at_year": 2026,
+            "closed_at_month": 11,
+            "assignee": "mariaefod",
             "labels": [
-                "bug"
+                "bug",
+                "wontfix"
             ]
         },
         {
@@ -36242,7 +36294,7 @@
             "created_at": "04/11/2026",
             "created_at_year": 2026,
             "created_at_month": 11,
-            "updated_at": "20261110T104937",
+            "updated_at": "20261117T132955",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -36404,7 +36456,7 @@
             "created_at": "27/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261110T115440",
+            "updated_at": "20261117T132946",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -39847,6 +39899,23 @@
             "closed_at_month": 1,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/zendt",
+            "issue": 5,
+            "title": "Include Validations for Rule Applications",
+            "pull_request": false,
+            "created_at": "17/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261117T145656",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "Laura-Dilly",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/zendt",
