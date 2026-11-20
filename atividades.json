@@ -19758,7 +19758,7 @@
             "created_at": "06/10/2026",
             "created_at_year": 2026,
             "created_at_month": 10,
-            "updated_at": "20261104T184338",
+            "updated_at": "20261119T144544",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -29809,7 +29809,7 @@
             "created_at": "30/09/2026",
             "created_at_year": 2026,
             "created_at_month": 9,
-            "updated_at": "20261113T165433",
+            "updated_at": "20261119T185248",
             "closed_at": null,
             "closed_at_year": null,
             "closed_at_month": null,
@@ -39899,6 +39899,23 @@
             "closed_at_month": 1,
             "assignee": null,
             "labels": null
+        },
+        {
+            "repo": "splor-mg/zendt",
+            "issue": 6,
+            "title": "Include Input Schema Validation",
+            "pull_request": false,
+            "created_at": "19/11/2026",
+            "created_at_year": 2026,
+            "created_at_month": 11,
+            "updated_at": "20261119T155746",
+            "closed_at": null,
+            "closed_at_year": null,
+            "closed_at_month": null,
+            "assignee": "Laura-Dilly",
+            "labels": [
+                "new-feature"
+            ]
         },
         {
             "repo": "splor-mg/zendt",
